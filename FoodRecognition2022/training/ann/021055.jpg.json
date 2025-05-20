@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1728445,
+            "classId": 4219,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:38.463Z",
+            "updatedAt": "2023-06-07T14:04:38.463Z",
+            "tags": [],
+            "classTitle": "beef",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        875
+                    ],
+                    [
+                        615,
+                        870
+                    ],
+                    [
+                        778,
+                        617
+                    ],
+                    [
+                        710,
+                        364
+                    ],
+                    [
+                        681,
+                        269
+                    ],
+                    [
+                        564,
+                        374
+                    ],
+                    [
+                        447,
+                        561
+                    ],
+                    [
+                        299,
+                        661
+                    ],
+                    [
+                        289,
+                        760
+                    ],
+                    [
+                        347,
+                        867
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728443,
+            "classId": 3979,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:38.462Z",
+            "updatedAt": "2023-06-07T14:04:38.462Z",
+            "tags": [],
+            "classTitle": "sauce-mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        549,
+                        884
+                    ],
+                    [
+                        739,
+                        692
+                    ],
+                    [
+                        771,
+                        483
+                    ],
+                    [
+                        676,
+                        323
+                    ],
+                    [
+                        569,
+                        500
+                    ],
+                    [
+                        462,
+                        700
+                    ],
+                    [
+                        192,
+                        794
+                    ],
+                    [
+                        321,
+                        865
+                    ],
+                    [
+                        452,
+                        921
+                    ],
+                    [
+                        569,
+                        911
+                    ],
+                    [
+                        564,
+                        906
+                    ],
+                    [
+                        540,
+                        843
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728441,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:38.461Z",
+            "updatedAt": "2023-06-07T14:04:38.461Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        637,
+                        247
+                    ],
+                    [
+                        406,
+                        605
+                    ],
+                    [
+                        248,
+                        731
+                    ],
+                    [
+                        194,
+                        529
+                    ],
+                    [
+                        209,
+                        337
+                    ],
+                    [
+                        318,
+                        215
+                    ],
+                    [
+                        508,
+                        157
+                    ],
+                    [
+                        571,
+                        177
+                    ],
+                    [
+                        637,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

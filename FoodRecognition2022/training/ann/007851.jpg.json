@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1683456,
+            "classId": 4043,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:11.338Z",
+            "updatedAt": "2023-06-07T13:32:11.338Z",
+            "tags": [],
+            "classTitle": "tete-de-moine",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        186
+                    ],
+                    [
+                        388,
+                        270
+                    ],
+                    [
+                        435,
+                        200
+                    ],
+                    [
+                        448,
+                        157
+                    ],
+                    [
+                        400,
+                        145
+                    ],
+                    [
+                        365,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683454,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:11.337Z",
+            "updatedAt": "2023-06-07T13:32:11.337Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        180
+                    ],
+                    [
+                        269,
+                        129
+                    ],
+                    [
+                        312,
+                        261
+                    ],
+                    [
+                        264,
+                        259
+                    ],
+                    [
+                        253,
+                        212
+                    ],
+                    [
+                        215,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683453,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:11.337Z",
+            "updatedAt": "2023-06-07T13:32:11.337Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        259
+                    ],
+                    [
+                        161,
+                        307
+                    ],
+                    [
+                        192,
+                        349
+                    ],
+                    [
+                        252,
+                        349
+                    ],
+                    [
+                        252,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683451,
+            "classId": 4277,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:11.336Z",
+            "updatedAt": "2023-06-07T13:32:11.336Z",
+            "tags": [],
+            "classTitle": "bread-5-grain",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        207
+                    ],
+                    [
+                        133,
+                        330
+                    ],
+                    [
+                        17,
+                        304
+                    ],
+                    [
+                        0,
+                        247
+                    ],
+                    [
+                        45,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

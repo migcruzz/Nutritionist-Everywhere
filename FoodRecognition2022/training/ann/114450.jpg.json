@@ -1,0 +1,262 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1670587,
+            "classId": 4099,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:37.939Z",
+            "updatedAt": "2023-06-07T13:23:37.939Z",
+            "tags": [],
+            "classTitle": "beef-minced-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        240
+                    ],
+                    [
+                        121,
+                        262
+                    ],
+                    [
+                        121,
+                        340
+                    ],
+                    [
+                        208,
+                        374
+                    ],
+                    [
+                        271,
+                        358
+                    ],
+                    [
+                        320,
+                        277
+                    ],
+                    [
+                        299,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670585,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:37.938Z",
+            "updatedAt": "2023-06-07T13:23:37.938Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        48
+                    ],
+                    [
+                        204,
+                        39
+                    ],
+                    [
+                        162,
+                        104
+                    ],
+                    [
+                        174,
+                        113
+                    ],
+                    [
+                        174,
+                        171
+                    ],
+                    [
+                        129,
+                        232
+                    ],
+                    [
+                        154,
+                        255
+                    ],
+                    [
+                        274,
+                        240
+                    ],
+                    [
+                        317,
+                        245
+                    ],
+                    [
+                        316,
+                        315
+                    ],
+                    [
+                        253,
+                        360
+                    ],
+                    [
+                        143,
+                        340
+                    ],
+                    [
+                        113,
+                        316
+                    ],
+                    [
+                        97,
+                        315
+                    ],
+                    [
+                        7,
+                        375
+                    ],
+                    [
+                        23,
+                        429
+                    ],
+                    [
+                        149,
+                        426
+                    ],
+                    [
+                        358,
+                        373
+                    ],
+                    [
+                        428,
+                        236
+                    ],
+                    [
+                        444,
+                        183
+                    ],
+                    [
+                        371,
+                        109
+                    ],
+                    [
+                        312,
+                        85
+                    ],
+                    [
+                        251,
+                        47
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670583,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:37.937Z",
+            "updatedAt": "2023-06-07T13:23:37.937Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        98
+                    ],
+                    [
+                        6,
+                        54
+                    ],
+                    [
+                        0,
+                        178
+                    ],
+                    [
+                        10,
+                        255
+                    ],
+                    [
+                        68,
+                        308
+                    ],
+                    [
+                        114,
+                        302
+                    ],
+                    [
+                        168,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670581,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:37.937Z",
+            "updatedAt": "2023-06-07T13:23:37.937Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        450,
+                        196
+                    ],
+                    [
+                        401,
+                        172
+                    ],
+                    [
+                        407,
+                        134
+                    ],
+                    [
+                        383,
+                        104
+                    ],
+                    [
+                        342,
+                        88
+                    ],
+                    [
+                        318,
+                        85
+                    ],
+                    [
+                        255,
+                        46
+                    ],
+                    [
+                        338,
+                        32
+                    ],
+                    [
+                        445,
+                        92
+                    ],
+                    [
+                        453,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

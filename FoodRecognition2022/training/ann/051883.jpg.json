@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1779073,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:36.445Z",
+            "updatedAt": "2023-06-07T14:38:36.445Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        196
+                    ],
+                    [
+                        421,
+                        245
+                    ],
+                    [
+                        255,
+                        423
+                    ],
+                    [
+                        331,
+                        313
+                    ],
+                    [
+                        340,
+                        272
+                    ],
+                    [
+                        378,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779071,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:36.444Z",
+            "updatedAt": "2023-06-07T14:38:36.444Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        286
+                    ],
+                    [
+                        331,
+                        320
+                    ],
+                    [
+                        281,
+                        368
+                    ],
+                    [
+                        319,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

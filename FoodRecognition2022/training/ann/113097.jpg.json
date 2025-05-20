@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 936,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1793279,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:24.173Z",
+            "updatedAt": "2023-06-07T14:48:24.173Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        758,
+                        680
+                    ],
+                    [
+                        730,
+                        545
+                    ],
+                    [
+                        634,
+                        503
+                    ],
+                    [
+                        534,
+                        514
+                    ],
+                    [
+                        499,
+                        549
+                    ],
+                    [
+                        452,
+                        552
+                    ],
+                    [
+                        361,
+                        552
+                    ],
+                    [
+                        314,
+                        603
+                    ],
+                    [
+                        279,
+                        645
+                    ],
+                    [
+                        318,
+                        720
+                    ],
+                    [
+                        391,
+                        765
+                    ],
+                    [
+                        468,
+                        800
+                    ],
+                    [
+                        503,
+                        783
+                    ],
+                    [
+                        499,
+                        662
+                    ],
+                    [
+                        515,
+                        582
+                    ],
+                    [
+                        597,
+                        570
+                    ],
+                    [
+                        665,
+                        563
+                    ],
+                    [
+                        695,
+                        589
+                    ],
+                    [
+                        697,
+                        594
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793277,
+            "classId": 3613,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:24.173Z",
+            "updatedAt": "2023-06-07T14:48:24.173Z",
+            "tags": [],
+            "classTitle": "cheese-for-raclette",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        573
+                    ],
+                    [
+                        262,
+                        547
+                    ],
+                    [
+                        253,
+                        460
+                    ],
+                    [
+                        26,
+                        472
+                    ],
+                    [
+                        45,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

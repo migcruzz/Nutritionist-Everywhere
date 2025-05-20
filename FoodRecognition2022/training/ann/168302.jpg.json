@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1718505,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:33.307Z",
+            "updatedAt": "2023-06-07T13:57:33.307Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        299
+                    ],
+                    [
+                        312,
+                        250
+                    ],
+                    [
+                        292,
+                        202
+                    ],
+                    [
+                        237,
+                        181
+                    ],
+                    [
+                        127,
+                        200
+                    ],
+                    [
+                        58,
+                        233
+                    ],
+                    [
+                        62,
+                        307
+                    ],
+                    [
+                        117,
+                        334
+                    ],
+                    [
+                        300,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1718503,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:33.306Z",
+            "updatedAt": "2023-06-07T13:57:33.306Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        62,
+                        234
+                    ],
+                    [
+                        40,
+                        252
+                    ],
+                    [
+                        61,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1718502,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:33.306Z",
+            "updatedAt": "2023-06-07T13:57:33.306Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        255
+                    ],
+                    [
+                        294,
+                        241
+                    ],
+                    [
+                        279,
+                        259
+                    ],
+                    [
+                        300,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1718500,
+            "classId": 3803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:33.305Z",
+            "updatedAt": "2023-06-07T13:57:33.305Z",
+            "tags": [],
+            "classTitle": "hazelnut-chocolate-spread-nutella-ovomaltine-caotina",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        237
+                    ],
+                    [
+                        292,
+                        200
+                    ],
+                    [
+                        229,
+                        182
+                    ],
+                    [
+                        148,
+                        195
+                    ],
+                    [
+                        84,
+                        220
+                    ],
+                    [
+                        53,
+                        276
+                    ],
+                    [
+                        116,
+                        295
+                    ],
+                    [
+                        218,
+                        279
+                    ],
+                    [
+                        276,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

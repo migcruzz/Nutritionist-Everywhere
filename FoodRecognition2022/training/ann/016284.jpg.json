@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1670192,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:22.009Z",
+            "updatedAt": "2023-06-07T13:23:22.009Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        344
+                    ],
+                    [
+                        204,
+                        279
+                    ],
+                    [
+                        111,
+                        374
+                    ],
+                    [
+                        223,
+                        573
+                    ],
+                    [
+                        296,
+                        687
+                    ],
+                    [
+                        435,
+                        624
+                    ],
+                    [
+                        401,
+                        393
+                    ],
+                    [
+                        381,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670191,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:22.008Z",
+            "updatedAt": "2023-06-07T13:23:22.008Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        841,
+                        381
+                    ],
+                    [
+                        722,
+                        220
+                    ],
+                    [
+                        622,
+                        332
+                    ],
+                    [
+                        578,
+                        459
+                    ],
+                    [
+                        588,
+                        610
+                    ],
+                    [
+                        693,
+                        675
+                    ],
+                    [
+                        792,
+                        583
+                    ],
+                    [
+                        831,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

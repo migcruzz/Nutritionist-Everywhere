@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 952
+    },
+    "objects": [
+        {
+            "id": 1779528,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.040Z",
+            "updatedAt": "2023-06-07T14:38:58.040Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        233
+                    ],
+                    [
+                        212,
+                        257
+                    ],
+                    [
+                        286,
+                        521
+                    ],
+                    [
+                        431,
+                        495
+                    ],
+                    [
+                        389,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779527,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.040Z",
+            "updatedAt": "2023-06-07T14:38:58.040Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        582,
+                        495
+                    ],
+                    [
+                        296,
+                        631
+                    ],
+                    [
+                        341,
+                        762
+                    ],
+                    [
+                        636,
+                        617
+                    ],
+                    [
+                        598,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

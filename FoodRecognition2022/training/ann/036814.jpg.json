@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1663230,
+            "classId": 3929,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:26.854Z",
+            "updatedAt": "2023-06-07T13:18:26.854Z",
+            "tags": [],
+            "classTitle": "fish",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        151
+                    ],
+                    [
+                        444,
+                        391
+                    ],
+                    [
+                        148,
+                        235
+                    ],
+                    [
+                        106,
+                        162
+                    ],
+                    [
+                        163,
+                        142
+                    ],
+                    [
+                        294,
+                        134
+                    ],
+                    [
+                        365,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1663228,
+            "classId": 3747,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:26.852Z",
+            "updatedAt": "2023-06-07T13:18:26.852Z",
+            "tags": [],
+            "classTitle": "ratatouille",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        288
+                    ],
+                    [
+                        261,
+                        351
+                    ],
+                    [
+                        149,
+                        372
+                    ],
+                    [
+                        100,
+                        321
+                    ],
+                    [
+                        82,
+                        256
+                    ],
+                    [
+                        93,
+                        213
+                    ],
+                    [
+                        144,
+                        212
+                    ],
+                    [
+                        163,
+                        224
+                    ],
+                    [
+                        219,
+                        268
+                    ],
+                    [
+                        220,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1663226,
+            "classId": 3479,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:26.851Z",
+            "updatedAt": "2023-06-07T13:18:26.851Z",
+            "tags": [],
+            "classTitle": "sauce-cream",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        312
+                    ],
+                    [
+                        225,
+                        428
+                    ],
+                    [
+                        382,
+                        428
+                    ],
+                    [
+                        399,
+                        396
+                    ],
+                    [
+                        375,
+                        352
+                    ],
+                    [
+                        294,
+                        309
+                    ],
+                    [
+                        286,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

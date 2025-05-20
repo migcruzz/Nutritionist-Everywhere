@@ -1,0 +1,370 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1650867,
+            "classId": 3929,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.836Z",
+            "updatedAt": "2023-06-07T13:09:50.836Z",
+            "tags": [],
+            "classTitle": "fish",
+            "points": {
+                "exterior": [
+                    [
+                        661,
+                        143
+                    ],
+                    [
+                        390,
+                        107
+                    ],
+                    [
+                        316,
+                        240
+                    ],
+                    [
+                        492,
+                        343
+                    ],
+                    [
+                        605,
+                        340
+                    ],
+                    [
+                        674,
+                        230
+                    ],
+                    [
+                        674,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650866,
+            "classId": 3929,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.836Z",
+            "updatedAt": "2023-06-07T13:09:50.836Z",
+            "tags": [],
+            "classTitle": "fish",
+            "points": {
+                "exterior": [
+                    [
+                        561,
+                        673
+                    ],
+                    [
+                        252,
+                        750
+                    ],
+                    [
+                        208,
+                        921
+                    ],
+                    [
+                        423,
+                        970
+                    ],
+                    [
+                        695,
+                        952
+                    ],
+                    [
+                        648,
+                        742
+                    ],
+                    [
+                        572,
+                        680
+                    ],
+                    [
+                        567,
+                        665
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650864,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.835Z",
+            "updatedAt": "2023-06-07T13:09:50.835Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        733,
+                        222
+                    ],
+                    [
+                        546,
+                        343
+                    ],
+                    [
+                        490,
+                        386
+                    ],
+                    [
+                        526,
+                        532
+                    ],
+                    [
+                        669,
+                        542
+                    ],
+                    [
+                        751,
+                        622
+                    ],
+                    [
+                        766,
+                        657
+                    ],
+                    [
+                        866,
+                        565
+                    ],
+                    [
+                        835,
+                        458
+                    ],
+                    [
+                        769,
+                        317
+                    ],
+                    [
+                        728,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650862,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.835Z",
+            "updatedAt": "2023-06-07T13:09:50.835Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        602,
+                        506
+                    ],
+                    [
+                        490,
+                        570
+                    ],
+                    [
+                        549,
+                        655
+                    ],
+                    [
+                        695,
+                        770
+                    ],
+                    [
+                        759,
+                        734
+                    ],
+                    [
+                        723,
+                        609
+                    ],
+                    [
+                        666,
+                        532
+                    ],
+                    [
+                        633,
+                        506
+                    ],
+                    [
+                        631,
+                        499
+                    ],
+                    [
+                        620,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650860,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.834Z",
+            "updatedAt": "2023-06-07T13:09:50.834Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        805,
+                        645
+                    ],
+                    [
+                        776,
+                        716
+                    ],
+                    [
+                        879,
+                        750
+                    ],
+                    [
+                        928,
+                        688
+                    ],
+                    [
+                        956,
+                        634
+                    ],
+                    [
+                        833,
+                        624
+                    ],
+                    [
+                        800,
+                        634
+                    ],
+                    [
+                        797,
+                        627
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650858,
+            "classId": 3919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.834Z",
+            "updatedAt": "2023-06-07T13:09:50.834Z",
+            "tags": [],
+            "classTitle": "rosti",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        314
+                    ],
+                    [
+                        249,
+                        258
+                    ],
+                    [
+                        80,
+                        435
+                    ],
+                    [
+                        57,
+                        680
+                    ],
+                    [
+                        234,
+                        824
+                    ],
+                    [
+                        408,
+                        747
+                    ],
+                    [
+                        416,
+                        673
+                    ],
+                    [
+                        423,
+                        583
+                    ],
+                    [
+                        464,
+                        522
+                    ],
+                    [
+                        364,
+                        450
+                    ],
+                    [
+                        339,
+                        355
+                    ],
+                    [
+                        359,
+                        337
+                    ],
+                    [
+                        369,
+                        327
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650856,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.833Z",
+            "updatedAt": "2023-06-07T13:09:50.833Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        495,
+                        560
+                    ],
+                    [
+                        375,
+                        586
+                    ],
+                    [
+                        480,
+                        665
+                    ],
+                    [
+                        492,
+                        573
+                    ],
+                    [
+                        490,
+                        560
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1693881,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:39:20.845Z",
+            "updatedAt": "2023-06-07T13:39:20.845Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        220
+                    ],
+                    [
+                        278,
+                        279
+                    ],
+                    [
+                        113,
+                        286
+                    ],
+                    [
+                        61,
+                        233
+                    ],
+                    [
+                        52,
+                        173
+                    ],
+                    [
+                        8,
+                        322
+                    ],
+                    [
+                        22,
+                        368
+                    ],
+                    [
+                        401,
+                        372
+                    ],
+                    [
+                        437,
+                        370
+                    ],
+                    [
+                        438,
+                        308
+                    ],
+                    [
+                        382,
+                        257
+                    ],
+                    [
+                        331,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1693879,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:39:20.844Z",
+            "updatedAt": "2023-06-07T13:39:20.844Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        82
+                    ],
+                    [
+                        359,
+                        222
+                    ],
+                    [
+                        285,
+                        293
+                    ],
+                    [
+                        97,
+                        280
+                    ],
+                    [
+                        49,
+                        215
+                    ],
+                    [
+                        60,
+                        122
+                    ],
+                    [
+                        176,
+                        104
+                    ],
+                    [
+                        358,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

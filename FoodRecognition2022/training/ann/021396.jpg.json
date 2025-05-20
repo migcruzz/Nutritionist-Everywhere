@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1775625,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:25.794Z",
+            "updatedAt": "2023-06-07T14:36:25.794Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        105
+                    ],
+                    [
+                        340,
+                        103
+                    ],
+                    [
+                        351,
+                        123
+                    ],
+                    [
+                        235,
+                        470
+                    ],
+                    [
+                        136,
+                        430
+                    ],
+                    [
+                        222,
+                        177
+                    ],
+                    [
+                        260,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

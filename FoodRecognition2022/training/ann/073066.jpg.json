@@ -1,0 +1,250 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1750307,
+            "classId": 4251,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:19:50.586Z",
+            "updatedAt": "2023-06-07T14:19:50.586Z",
+            "tags": [],
+            "classTitle": "grits-polenta-maize-flour",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        199
+                    ],
+                    [
+                        4,
+                        196
+                    ],
+                    [
+                        25,
+                        250
+                    ],
+                    [
+                        105,
+                        328
+                    ],
+                    [
+                        136,
+                        341
+                    ],
+                    [
+                        281,
+                        328
+                    ],
+                    [
+                        218,
+                        282
+                    ],
+                    [
+                        132,
+                        216
+                    ],
+                    [
+                        112,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750305,
+            "classId": 3629,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:19:50.583Z",
+            "updatedAt": "2023-06-07T14:19:50.583Z",
+            "tags": [],
+            "classTitle": "beef-sirloin-steak",
+            "points": {
+                "exterior": [
+                    [
+                        143,
+                        183
+                    ],
+                    [
+                        211,
+                        157
+                    ],
+                    [
+                        239,
+                        101
+                    ],
+                    [
+                        229,
+                        54
+                    ],
+                    [
+                        176,
+                        39
+                    ],
+                    [
+                        107,
+                        42
+                    ],
+                    [
+                        52,
+                        68
+                    ],
+                    [
+                        21,
+                        106
+                    ],
+                    [
+                        24,
+                        187
+                    ],
+                    [
+                        66,
+                        194
+                    ],
+                    [
+                        104,
+                        195
+                    ],
+                    [
+                        117,
+                        188
+                    ],
+                    [
+                        122,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750303,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:19:50.582Z",
+            "updatedAt": "2023-06-07T14:19:50.582Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        128
+                    ],
+                    [
+                        205,
+                        164
+                    ],
+                    [
+                        222,
+                        249
+                    ],
+                    [
+                        261,
+                        303
+                    ],
+                    [
+                        327,
+                        299
+                    ],
+                    [
+                        362,
+                        259
+                    ],
+                    [
+                        375,
+                        194
+                    ],
+                    [
+                        368,
+                        166
+                    ],
+                    [
+                        332,
+                        153
+                    ],
+                    [
+                        284,
+                        137
+                    ],
+                    [
+                        276,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750301,
+            "classId": 4133,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:19:50.581Z",
+            "updatedAt": "2023-06-07T14:19:50.581Z",
+            "tags": [],
+            "classTitle": "sour-cream",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        286
+                    ],
+                    [
+                        301,
+                        244
+                    ],
+                    [
+                        351,
+                        233
+                    ],
+                    [
+                        337,
+                        166
+                    ],
+                    [
+                        302,
+                        131
+                    ],
+                    [
+                        261,
+                        133
+                    ],
+                    [
+                        243,
+                        166
+                    ],
+                    [
+                        201,
+                        203
+                    ],
+                    [
+                        185,
+                        247
+                    ],
+                    [
+                        208,
+                        277
+                    ],
+                    [
+                        226,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

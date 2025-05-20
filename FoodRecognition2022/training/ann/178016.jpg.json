@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 747,
+        "width": 747
+    },
+    "objects": [
+        {
+            "id": 1640666,
+            "classId": 4229,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:11.981Z",
+            "updatedAt": "2023-06-07T13:03:11.981Z",
+            "tags": [],
+            "classTitle": "birchermuesli-prepared-no-sugar-added",
+            "points": {
+                "exterior": [
+                    [
+                        437,
+                        97
+                    ],
+                    [
+                        262,
+                        99
+                    ],
+                    [
+                        92,
+                        246
+                    ],
+                    [
+                        42,
+                        401
+                    ],
+                    [
+                        142,
+                        653
+                    ],
+                    [
+                        324,
+                        737
+                    ],
+                    [
+                        557,
+                        700
+                    ],
+                    [
+                        684,
+                        513
+                    ],
+                    [
+                        691,
+                        386
+                    ],
+                    [
+                        421,
+                        444
+                    ],
+                    [
+                        424,
+                        392
+                    ],
+                    [
+                        538,
+                        375
+                    ],
+                    [
+                        673,
+                        304
+                    ],
+                    [
+                        529,
+                        129
+                    ],
+                    [
+                        529,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640664,
+            "classId": 3675,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:11.981Z",
+            "updatedAt": "2023-06-07T13:03:11.981Z",
+            "tags": [],
+            "classTitle": "dried-raisins",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        399
+                    ],
+                    [
+                        211,
+                        433
+                    ],
+                    [
+                        213,
+                        485
+                    ],
+                    [
+                        271,
+                        472
+                    ],
+                    [
+                        271,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640662,
+            "classId": 3973,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:11.980Z",
+            "updatedAt": "2023-06-07T13:03:11.980Z",
+            "tags": [],
+            "classTitle": "mixed-nuts",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        349
+                    ],
+                    [
+                        151,
+                        358
+                    ],
+                    [
+                        177,
+                        435
+                    ],
+                    [
+                        231,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

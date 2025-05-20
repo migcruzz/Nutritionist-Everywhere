@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1801999,
+            "classId": 3635,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:35.918Z",
+            "updatedAt": "2023-06-07T14:54:35.918Z",
+            "tags": [],
+            "classTitle": "bread",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        143
+                    ],
+                    [
+                        269,
+                        211
+                    ],
+                    [
+                        201,
+                        449
+                    ],
+                    [
+                        116,
+                        434
+                    ],
+                    [
+                        47,
+                        360
+                    ],
+                    [
+                        65,
+                        229
+                    ],
+                    [
+                        128,
+                        156
+                    ],
+                    [
+                        238,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801997,
+            "classId": 3567,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:35.917Z",
+            "updatedAt": "2023-06-07T14:54:35.917Z",
+            "tags": [],
+            "classTitle": "yaourt-yahourt-yogourt-ou-yoghourt-natural",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        195
+                    ],
+                    [
+                        255,
+                        425
+                    ],
+                    [
+                        381,
+                        397
+                    ],
+                    [
+                        421,
+                        327
+                    ],
+                    [
+                        414,
+                        229
+                    ],
+                    [
+                        339,
+                        170
+                    ],
+                    [
+                        299,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

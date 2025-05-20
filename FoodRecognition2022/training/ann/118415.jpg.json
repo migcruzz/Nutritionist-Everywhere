@@ -1,0 +1,414 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1726708,
+            "classId": 4115,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:19.863Z",
+            "updatedAt": "2023-06-07T14:03:19.863Z",
+            "tags": [],
+            "classTitle": "focaccia",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        295
+                    ],
+                    [
+                        74,
+                        293
+                    ],
+                    [
+                        58,
+                        283
+                    ],
+                    [
+                        32,
+                        254
+                    ],
+                    [
+                        28,
+                        243
+                    ],
+                    [
+                        27,
+                        227
+                    ],
+                    [
+                        31,
+                        200
+                    ],
+                    [
+                        26,
+                        187
+                    ],
+                    [
+                        19,
+                        179
+                    ],
+                    [
+                        19,
+                        153
+                    ],
+                    [
+                        47,
+                        135
+                    ],
+                    [
+                        50,
+                        128
+                    ],
+                    [
+                        51,
+                        99
+                    ],
+                    [
+                        59,
+                        85
+                    ],
+                    [
+                        74,
+                        75
+                    ],
+                    [
+                        116,
+                        65
+                    ],
+                    [
+                        164,
+                        48
+                    ],
+                    [
+                        241,
+                        48
+                    ],
+                    [
+                        313,
+                        58
+                    ],
+                    [
+                        346,
+                        68
+                    ],
+                    [
+                        365,
+                        84
+                    ],
+                    [
+                        380,
+                        112
+                    ],
+                    [
+                        381,
+                        181
+                    ],
+                    [
+                        378,
+                        194
+                    ],
+                    [
+                        370,
+                        204
+                    ],
+                    [
+                        361,
+                        227
+                    ],
+                    [
+                        359,
+                        250
+                    ],
+                    [
+                        364,
+                        269
+                    ],
+                    [
+                        363,
+                        274
+                    ],
+                    [
+                        355,
+                        282
+                    ],
+                    [
+                        349,
+                        285
+                    ],
+                    [
+                        328,
+                        286
+                    ],
+                    [
+                        188,
+                        280
+                    ],
+                    [
+                        138,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726706,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:19.862Z",
+            "updatedAt": "2023-06-07T14:03:19.862Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        222
+                    ],
+                    [
+                        263,
+                        197
+                    ],
+                    [
+                        236,
+                        194
+                    ],
+                    [
+                        184,
+                        197
+                    ],
+                    [
+                        155,
+                        213
+                    ],
+                    [
+                        91,
+                        227
+                    ],
+                    [
+                        57,
+                        241
+                    ],
+                    [
+                        55,
+                        282
+                    ],
+                    [
+                        77,
+                        288
+                    ],
+                    [
+                        131,
+                        246
+                    ],
+                    [
+                        165,
+                        240
+                    ],
+                    [
+                        222,
+                        256
+                    ],
+                    [
+                        275,
+                        249
+                    ],
+                    [
+                        321,
+                        256
+                    ],
+                    [
+                        350,
+                        253
+                    ],
+                    [
+                        355,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726704,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:19.862Z",
+            "updatedAt": "2023-06-07T14:03:19.862Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        191
+                    ],
+                    [
+                        276,
+                        187
+                    ],
+                    [
+                        256,
+                        207
+                    ],
+                    [
+                        257,
+                        236
+                    ],
+                    [
+                        276,
+                        232
+                    ],
+                    [
+                        282,
+                        218
+                    ],
+                    [
+                        311,
+                        216
+                    ],
+                    [
+                        345,
+                        222
+                    ],
+                    [
+                        350,
+                        206
+                    ],
+                    [
+                        346,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726703,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:19.861Z",
+            "updatedAt": "2023-06-07T14:03:19.861Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        197
+                    ],
+                    [
+                        51,
+                        221
+                    ],
+                    [
+                        50,
+                        233
+                    ],
+                    [
+                        132,
+                        228
+                    ],
+                    [
+                        162,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726701,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:19.861Z",
+            "updatedAt": "2023-06-07T14:03:19.861Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        263
+                    ],
+                    [
+                        133,
+                        262
+                    ],
+                    [
+                        82,
+                        300
+                    ],
+                    [
+                        104,
+                        304
+                    ],
+                    [
+                        156,
+                        283
+                    ],
+                    [
+                        153,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726700,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:19.860Z",
+            "updatedAt": "2023-06-07T14:03:19.860Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        269
+                    ],
+                    [
+                        284,
+                        251
+                    ],
+                    [
+                        257,
+                        248
+                    ],
+                    [
+                        216,
+                        258
+                    ],
+                    [
+                        282,
+                        269
+                    ],
+                    [
+                        317,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

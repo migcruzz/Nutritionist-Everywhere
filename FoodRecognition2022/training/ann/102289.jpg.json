@@ -1,0 +1,566 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1732343,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.193Z",
+            "updatedAt": "2023-06-07T14:07:15.193Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        273
+                    ],
+                    [
+                        148,
+                        210
+                    ],
+                    [
+                        112,
+                        195
+                    ],
+                    [
+                        83,
+                        195
+                    ],
+                    [
+                        71,
+                        213
+                    ],
+                    [
+                        43,
+                        238
+                    ],
+                    [
+                        59,
+                        265
+                    ],
+                    [
+                        87,
+                        274
+                    ],
+                    [
+                        109,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732341,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.193Z",
+            "updatedAt": "2023-06-07T14:07:15.193Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        273
+                    ],
+                    [
+                        146,
+                        205
+                    ],
+                    [
+                        104,
+                        190
+                    ],
+                    [
+                        81,
+                        199
+                    ],
+                    [
+                        46,
+                        230
+                    ],
+                    [
+                        51,
+                        255
+                    ],
+                    [
+                        79,
+                        272
+                    ],
+                    [
+                        112,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732339,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.191Z",
+            "updatedAt": "2023-06-07T14:07:15.191Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        188
+                    ],
+                    [
+                        122,
+                        200
+                    ],
+                    [
+                        146,
+                        191
+                    ],
+                    [
+                        149,
+                        167
+                    ],
+                    [
+                        146,
+                        153
+                    ],
+                    [
+                        91,
+                        143
+                    ],
+                    [
+                        66,
+                        148
+                    ],
+                    [
+                        48,
+                        163
+                    ],
+                    [
+                        49,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732337,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.191Z",
+            "updatedAt": "2023-06-07T14:07:15.191Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        143,
+                        153
+                    ],
+                    [
+                        155,
+                        123
+                    ],
+                    [
+                        144,
+                        107
+                    ],
+                    [
+                        95,
+                        101
+                    ],
+                    [
+                        59,
+                        120
+                    ],
+                    [
+                        54,
+                        145
+                    ],
+                    [
+                        84,
+                        149
+                    ],
+                    [
+                        119,
+                        148
+                    ],
+                    [
+                        119,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732335,
+            "classId": 3495,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.190Z",
+            "updatedAt": "2023-06-07T14:07:15.190Z",
+            "tags": [],
+            "classTitle": "lentils",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        188
+                    ],
+                    [
+                        138,
+                        207
+                    ],
+                    [
+                        136,
+                        260
+                    ],
+                    [
+                        149,
+                        277
+                    ],
+                    [
+                        194,
+                        267
+                    ],
+                    [
+                        202,
+                        262
+                    ],
+                    [
+                        211,
+                        227
+                    ],
+                    [
+                        213,
+                        203
+                    ],
+                    [
+                        166,
+                        195
+                    ],
+                    [
+                        158,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732333,
+            "classId": 3631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.189Z",
+            "updatedAt": "2023-06-07T14:07:15.189Z",
+            "tags": [],
+            "classTitle": "taboule-prepared-with-couscous",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        192
+                    ],
+                    [
+                        218,
+                        202
+                    ],
+                    [
+                        238,
+                        184
+                    ],
+                    [
+                        234,
+                        160
+                    ],
+                    [
+                        195,
+                        142
+                    ],
+                    [
+                        161,
+                        138
+                    ],
+                    [
+                        143,
+                        158
+                    ],
+                    [
+                        153,
+                        183
+                    ],
+                    [
+                        154,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732331,
+            "classId": 4295,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.189Z",
+            "updatedAt": "2023-06-07T14:07:15.189Z",
+            "tags": [],
+            "classTitle": "rice-whole-grain",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        161
+                    ],
+                    [
+                        247,
+                        131
+                    ],
+                    [
+                        230,
+                        112
+                    ],
+                    [
+                        188,
+                        100
+                    ],
+                    [
+                        153,
+                        109
+                    ],
+                    [
+                        156,
+                        131
+                    ],
+                    [
+                        181,
+                        140
+                    ],
+                    [
+                        208,
+                        156
+                    ],
+                    [
+                        210,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732329,
+            "classId": 3719,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.188Z",
+            "updatedAt": "2023-06-07T14:07:15.188Z",
+            "tags": [],
+            "classTitle": "fajita-bread-only",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        273
+                    ],
+                    [
+                        235,
+                        288
+                    ],
+                    [
+                        316,
+                        340
+                    ],
+                    [
+                        375,
+                        364
+                    ],
+                    [
+                        378,
+                        283
+                    ],
+                    [
+                        375,
+                        256
+                    ],
+                    [
+                        378,
+                        203
+                    ],
+                    [
+                        348,
+                        166
+                    ],
+                    [
+                        320,
+                        165
+                    ],
+                    [
+                        323,
+                        195
+                    ],
+                    [
+                        268,
+                        246
+                    ],
+                    [
+                        254,
+                        256
+                    ],
+                    [
+                        218,
+                        272
+                    ],
+                    [
+                        196,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732327,
+            "classId": 4181,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.188Z",
+            "updatedAt": "2023-06-07T14:07:15.188Z",
+            "tags": [],
+            "classTitle": "falafel-balls",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        221
+                    ],
+                    [
+                        299,
+                        203
+                    ],
+                    [
+                        299,
+                        162
+                    ],
+                    [
+                        259,
+                        161
+                    ],
+                    [
+                        240,
+                        184
+                    ],
+                    [
+                        233,
+                        197
+                    ],
+                    [
+                        209,
+                        222
+                    ],
+                    [
+                        218,
+                        257
+                    ],
+                    [
+                        239,
+                        268
+                    ],
+                    [
+                        263,
+                        268
+                    ],
+                    [
+                        274,
+                        242
+                    ],
+                    [
+                        264,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732325,
+            "classId": 3737,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:15.186Z",
+            "updatedAt": "2023-06-07T14:07:15.186Z",
+            "tags": [],
+            "classTitle": "hummus",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        186
+                    ],
+                    [
+                        317,
+                        128
+                    ],
+                    [
+                        288,
+                        106
+                    ],
+                    [
+                        235,
+                        98
+                    ],
+                    [
+                        250,
+                        134
+                    ],
+                    [
+                        237,
+                        161
+                    ],
+                    [
+                        255,
+                        161
+                    ],
+                    [
+                        273,
+                        161
+                    ],
+                    [
+                        287,
+                        168
+                    ],
+                    [
+                        291,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

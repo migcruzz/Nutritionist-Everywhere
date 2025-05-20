@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1733114,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:49.798Z",
+            "updatedAt": "2023-06-07T14:07:49.798Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        378
+                    ],
+                    [
+                        446,
+                        305
+                    ],
+                    [
+                        342,
+                        203
+                    ],
+                    [
+                        289,
+                        164
+                    ],
+                    [
+                        215,
+                        185
+                    ],
+                    [
+                        201,
+                        263
+                    ],
+                    [
+                        154,
+                        312
+                    ],
+                    [
+                        180,
+                        378
+                    ],
+                    [
+                        249,
+                        396
+                    ],
+                    [
+                        277,
+                        362
+                    ],
+                    [
+                        305,
+                        370
+                    ],
+                    [
+                        337,
+                        382
+                    ],
+                    [
+                        350,
+                        382
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733112,
+            "classId": 3503,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:49.797Z",
+            "updatedAt": "2023-06-07T14:07:49.797Z",
+            "tags": [],
+            "classTitle": "blueberries",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        204
+                    ],
+                    [
+                        239,
+                        180
+                    ],
+                    [
+                        143,
+                        198
+                    ],
+                    [
+                        79,
+                        326
+                    ],
+                    [
+                        156,
+                        402
+                    ],
+                    [
+                        166,
+                        368
+                    ],
+                    [
+                        165,
+                        306
+                    ],
+                    [
+                        209,
+                        273
+                    ],
+                    [
+                        247,
+                        244
+                    ],
+                    [
+                        255,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733110,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:49.797Z",
+            "updatedAt": "2023-06-07T14:07:49.797Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        88
+                    ],
+                    [
+                        232,
+                        177
+                    ],
+                    [
+                        323,
+                        189
+                    ],
+                    [
+                        373,
+                        244
+                    ],
+                    [
+                        438,
+                        238
+                    ],
+                    [
+                        459,
+                        191
+                    ],
+                    [
+                        370,
+                        135
+                    ],
+                    [
+                        297,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

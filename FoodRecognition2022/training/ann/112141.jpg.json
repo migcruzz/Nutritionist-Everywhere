@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1669652,
+            "classId": 3663,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:58.811Z",
+            "updatedAt": "2023-06-07T13:22:58.811Z",
+            "tags": [],
+            "classTitle": "roll-of-half-white-or-white-flour-with-large-void",
+            "points": {
+                "exterior": [
+                    [
+                        422,
+                        212
+                    ],
+                    [
+                        307,
+                        236
+                    ],
+                    [
+                        282,
+                        316
+                    ],
+                    [
+                        282,
+                        369
+                    ],
+                    [
+                        378,
+                        371
+                    ],
+                    [
+                        449,
+                        298
+                    ],
+                    [
+                        449,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669651,
+            "classId": 3663,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:58.811Z",
+            "updatedAt": "2023-06-07T13:22:58.811Z",
+            "tags": [],
+            "classTitle": "roll-of-half-white-or-white-flour-with-large-void",
+            "points": {
+                "exterior": [
+                    [
+                        185,
+                        165
+                    ],
+                    [
+                        104,
+                        157
+                    ],
+                    [
+                        11,
+                        221
+                    ],
+                    [
+                        3,
+                        329
+                    ],
+                    [
+                        37,
+                        378
+                    ],
+                    [
+                        150,
+                        392
+                    ],
+                    [
+                        222,
+                        330
+                    ],
+                    [
+                        224,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

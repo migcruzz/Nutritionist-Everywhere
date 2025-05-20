@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1087,
+        "width": 1087
+    },
+    "objects": [
+        {
+            "id": 1651198,
+            "classId": 4261,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:06.021Z",
+            "updatedAt": "2023-06-07T13:10:06.021Z",
+            "tags": [],
+            "classTitle": "roll-with-pieces-of-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        654
+                    ],
+                    [
+                        529,
+                        584
+                    ],
+                    [
+                        497,
+                        407
+                    ],
+                    [
+                        445,
+                        361
+                    ],
+                    [
+                        236,
+                        366
+                    ],
+                    [
+                        70,
+                        418
+                    ],
+                    [
+                        70,
+                        649
+                    ],
+                    [
+                        89,
+                        687
+                    ],
+                    [
+                        203,
+                        682
+                    ],
+                    [
+                        372,
+                        657
+                    ],
+                    [
+                        451,
+                        646
+                    ],
+                    [
+                        491,
+                        646
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1651196,
+            "classId": 4131,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:06.020Z",
+            "updatedAt": "2023-06-07T13:10:06.020Z",
+            "tags": [],
+            "classTitle": "croissant",
+            "points": {
+                "exterior": [
+                    [
+                        722,
+                        290
+                    ],
+                    [
+                        559,
+                        567
+                    ],
+                    [
+                        567,
+                        644
+                    ],
+                    [
+                        1029,
+                        641
+                    ],
+                    [
+                        1021,
+                        524
+                    ],
+                    [
+                        945,
+                        418
+                    ],
+                    [
+                        888,
+                        339
+                    ],
+                    [
+                        793,
+                        285
+                    ],
+                    [
+                        739,
+                        285
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1784926,
+            "classId": 4141,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:53.547Z",
+            "updatedAt": "2023-06-07T14:42:53.547Z",
+            "tags": [],
+            "classTitle": "cheesecake",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        324
+                    ],
+                    [
+                        396,
+                        111
+                    ],
+                    [
+                        335,
+                        22
+                    ],
+                    [
+                        249,
+                        11
+                    ],
+                    [
+                        138,
+                        50
+                    ],
+                    [
+                        139,
+                        334
+                    ],
+                    [
+                        217,
+                        357
+                    ],
+                    [
+                        365,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

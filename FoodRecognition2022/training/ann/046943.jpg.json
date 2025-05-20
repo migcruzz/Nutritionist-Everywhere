@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1707736,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:33.615Z",
+            "updatedAt": "2023-06-07T13:49:33.615Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        440
+                    ],
+                    [
+                        391,
+                        328
+                    ],
+                    [
+                        373,
+                        231
+                    ],
+                    [
+                        334,
+                        201
+                    ],
+                    [
+                        275,
+                        213
+                    ],
+                    [
+                        238,
+                        195
+                    ],
+                    [
+                        199,
+                        156
+                    ],
+                    [
+                        100,
+                        156
+                    ],
+                    [
+                        87,
+                        212
+                    ],
+                    [
+                        36,
+                        345
+                    ],
+                    [
+                        72,
+                        405
+                    ],
+                    [
+                        169,
+                        445
+                    ],
+                    [
+                        253,
+                        444
+                    ],
+                    [
+                        271,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707734,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:33.615Z",
+            "updatedAt": "2023-06-07T13:49:33.615Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        393
+                    ],
+                    [
+                        330,
+                        360
+                    ],
+                    [
+                        360,
+                        279
+                    ],
+                    [
+                        315,
+                        252
+                    ],
+                    [
+                        258,
+                        250
+                    ],
+                    [
+                        198,
+                        208
+                    ],
+                    [
+                        151,
+                        231
+                    ],
+                    [
+                        124,
+                        297
+                    ],
+                    [
+                        129,
+                        366
+                    ],
+                    [
+                        155,
+                        386
+                    ],
+                    [
+                        156,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

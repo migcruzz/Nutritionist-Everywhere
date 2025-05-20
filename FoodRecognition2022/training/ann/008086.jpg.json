@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1669899,
+            "classId": 3651,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:08.154Z",
+            "updatedAt": "2023-06-07T13:23:08.154Z",
+            "tags": [],
+            "classTitle": "french-beans",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        162
+                    ],
+                    [
+                        172,
+                        182
+                    ],
+                    [
+                        201,
+                        212
+                    ],
+                    [
+                        216,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669898,
+            "classId": 3651,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:08.154Z",
+            "updatedAt": "2023-06-07T13:23:08.154Z",
+            "tags": [],
+            "classTitle": "french-beans",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        250
+                    ],
+                    [
+                        112,
+                        289
+                    ],
+                    [
+                        52,
+                        309
+                    ],
+                    [
+                        25,
+                        309
+                    ],
+                    [
+                        25,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669896,
+            "classId": 3579,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:08.153Z",
+            "updatedAt": "2023-06-07T13:23:08.153Z",
+            "tags": [],
+            "classTitle": "bacon",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        235
+                    ],
+                    [
+                        135,
+                        302
+                    ],
+                    [
+                        145,
+                        296
+                    ],
+                    [
+                        112,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669895,
+            "classId": 3579,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:08.152Z",
+            "updatedAt": "2023-06-07T13:23:08.152Z",
+            "tags": [],
+            "classTitle": "bacon",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        153
+                    ],
+                    [
+                        105,
+                        193
+                    ],
+                    [
+                        147,
+                        234
+                    ],
+                    [
+                        246,
+                        245
+                    ],
+                    [
+                        303,
+                        232
+                    ],
+                    [
+                        281,
+                        112
+                    ],
+                    [
+                        253,
+                        91
+                    ],
+                    [
+                        203,
+                        120
+                    ],
+                    [
+                        178,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

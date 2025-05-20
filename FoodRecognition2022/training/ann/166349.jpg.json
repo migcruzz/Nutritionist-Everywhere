@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1645740,
+            "classId": 3747,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:48.698Z",
+            "updatedAt": "2023-06-07T13:06:48.698Z",
+            "tags": [],
+            "classTitle": "ratatouille",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        110
+                    ],
+                    [
+                        238,
+                        141
+                    ],
+                    [
+                        213,
+                        194
+                    ],
+                    [
+                        226,
+                        275
+                    ],
+                    [
+                        309,
+                        288
+                    ],
+                    [
+                        334,
+                        262
+                    ],
+                    [
+                        336,
+                        197
+                    ],
+                    [
+                        321,
+                        141
+                    ],
+                    [
+                        307,
+                        115
+                    ],
+                    [
+                        286,
+                        109
+                    ],
+                    [
+                        283,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645738,
+            "classId": 3421,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:48.697Z",
+            "updatedAt": "2023-06-07T13:06:48.697Z",
+            "tags": [],
+            "classTitle": "bread-sourdough",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        63
+                    ],
+                    [
+                        134,
+                        65
+                    ],
+                    [
+                        97,
+                        87
+                    ],
+                    [
+                        60,
+                        110
+                    ],
+                    [
+                        92,
+                        237
+                    ],
+                    [
+                        145,
+                        235
+                    ],
+                    [
+                        202,
+                        181
+                    ],
+                    [
+                        217,
+                        138
+                    ],
+                    [
+                        216,
+                        82
+                    ],
+                    [
+                        190,
+                        64
+                    ],
+                    [
+                        189,
+                        63
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

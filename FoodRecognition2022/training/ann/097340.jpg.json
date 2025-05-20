@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 866
+    },
+    "objects": [
+        {
+            "id": 1793862,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.018Z",
+            "updatedAt": "2023-06-07T14:48:46.018Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        68
+                    ],
+                    [
+                        375,
+                        289
+                    ],
+                    [
+                        520,
+                        263
+                    ],
+                    [
+                        481,
+                        34
+                    ],
+                    [
+                        409,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793860,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.018Z",
+            "updatedAt": "2023-06-07T14:48:46.018Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        179
+                    ],
+                    [
+                        167,
+                        276
+                    ],
+                    [
+                        301,
+                        334
+                    ],
+                    [
+                        377,
+                        263
+                    ],
+                    [
+                        201,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793858,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.017Z",
+            "updatedAt": "2023-06-07T14:48:46.017Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        352
+                    ],
+                    [
+                        54,
+                        395
+                    ],
+                    [
+                        74,
+                        501
+                    ],
+                    [
+                        292,
+                        438
+                    ],
+                    [
+                        305,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793856,
+            "classId": 3431,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.016Z",
+            "updatedAt": "2023-06-07T14:48:46.016Z",
+            "tags": [],
+            "classTitle": "cottage-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        528,
+                        319
+                    ],
+                    [
+                        370,
+                        339
+                    ],
+                    [
+                        316,
+                        469
+                    ],
+                    [
+                        357,
+                        594
+                    ],
+                    [
+                        481,
+                        631
+                    ],
+                    [
+                        595,
+                        588
+                    ],
+                    [
+                        628,
+                        501
+                    ],
+                    [
+                        621,
+                        415
+                    ],
+                    [
+                        604,
+                        358
+                    ],
+                    [
+                        546,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

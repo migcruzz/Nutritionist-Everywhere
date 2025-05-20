@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 977,
+        "width": 977
+    },
+    "objects": [
+        {
+            "id": 1768237,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:32.681Z",
+            "updatedAt": "2023-06-07T14:31:32.681Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        197
+                    ],
+                    [
+                        26,
+                        272
+                    ],
+                    [
+                        7,
+                        375
+                    ],
+                    [
+                        449,
+                        751
+                    ],
+                    [
+                        495,
+                        746
+                    ],
+                    [
+                        598,
+                        644
+                    ],
+                    [
+                        642,
+                        539
+                    ],
+                    [
+                        236,
+                        233
+                    ],
+                    [
+                        153,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768236,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:32.681Z",
+            "updatedAt": "2023-06-07T14:31:32.681Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        715,
+                        504
+                    ],
+                    [
+                        625,
+                        609
+                    ],
+                    [
+                        661,
+                        802
+                    ],
+                    [
+                        749,
+                        820
+                    ],
+                    [
+                        808,
+                        758
+                    ],
+                    [
+                        859,
+                        680
+                    ],
+                    [
+                        810,
+                        551
+                    ],
+                    [
+                        740,
+                        512
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

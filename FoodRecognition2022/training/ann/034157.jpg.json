@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 837,
+        "width": 837
+    },
+    "objects": [
+        {
+            "id": 1646634,
+            "classId": 4333,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:07:23.824Z",
+            "updatedAt": "2023-06-07T13:07:23.824Z",
+            "tags": [],
+            "classTitle": "vegetable-au-gratin-baked",
+            "points": {
+                "exterior": [
+                    [
+                        622,
+                        313
+                    ],
+                    [
+                        559,
+                        282
+                    ],
+                    [
+                        513,
+                        389
+                    ],
+                    [
+                        377,
+                        495
+                    ],
+                    [
+                        258,
+                        556
+                    ],
+                    [
+                        289,
+                        673
+                    ],
+                    [
+                        463,
+                        692
+                    ],
+                    [
+                        626,
+                        629
+                    ],
+                    [
+                        708,
+                        521
+                    ],
+                    [
+                        735,
+                        414
+                    ],
+                    [
+                        731,
+                        376
+                    ],
+                    [
+                        626,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1646632,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:07:23.823Z",
+            "updatedAt": "2023-06-07T13:07:23.823Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        146
+                    ],
+                    [
+                        561,
+                        263
+                    ],
+                    [
+                        507,
+                        412
+                    ],
+                    [
+                        354,
+                        539
+                    ],
+                    [
+                        222,
+                        590
+                    ],
+                    [
+                        130,
+                        495
+                    ],
+                    [
+                        178,
+                        309
+                    ],
+                    [
+                        256,
+                        156
+                    ],
+                    [
+                        365,
+                        150
+                    ],
+                    [
+                        430,
+                        161
+                    ],
+                    [
+                        459,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

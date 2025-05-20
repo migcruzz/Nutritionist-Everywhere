@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1697701,
+            "classId": 3847,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:13.353Z",
+            "updatedAt": "2023-06-07T13:42:13.353Z",
+            "tags": [],
+            "classTitle": "biscuits",
+            "points": {
+                "exterior": [
+                    [
+                        435,
+                        214
+                    ],
+                    [
+                        311,
+                        225
+                    ],
+                    [
+                        198,
+                        166
+                    ],
+                    [
+                        220,
+                        230
+                    ],
+                    [
+                        261,
+                        286
+                    ],
+                    [
+                        376,
+                        284
+                    ],
+                    [
+                        409,
+                        265
+                    ],
+                    [
+                        430,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1697699,
+            "classId": 4055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:13.352Z",
+            "updatedAt": "2023-06-07T13:42:13.352Z",
+            "tags": [],
+            "classTitle": "cream-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        312,
+                        84
+                    ],
+                    [
+                        203,
+                        154
+                    ],
+                    [
+                        258,
+                        240
+                    ],
+                    [
+                        415,
+                        232
+                    ],
+                    [
+                        384,
+                        134
+                    ],
+                    [
+                        335,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1697697,
+            "classId": 4095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:13.351Z",
+            "updatedAt": "2023-06-07T13:42:13.351Z",
+            "tags": [],
+            "classTitle": "fruit-coulis",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        345
+                    ],
+                    [
+                        160,
+                        248
+                    ],
+                    [
+                        60,
+                        241
+                    ],
+                    [
+                        29,
+                        290
+                    ],
+                    [
+                        55,
+                        350
+                    ],
+                    [
+                        120,
+                        357
+                    ],
+                    [
+                        136,
+                        350
+                    ],
+                    [
+                        130,
+                        348
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

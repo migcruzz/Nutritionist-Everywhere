@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1310,
+        "width": 1309
+    },
+    "objects": [
+        {
+            "id": 1734632,
+            "classId": 4045,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:56.270Z",
+            "updatedAt": "2023-06-07T14:08:56.270Z",
+            "tags": [],
+            "classTitle": "dates",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        369
+                    ],
+                    [
+                        358,
+                        411
+                    ],
+                    [
+                        263,
+                        801
+                    ],
+                    [
+                        335,
+                        896
+                    ],
+                    [
+                        472,
+                        890
+                    ],
+                    [
+                        518,
+                        778
+                    ],
+                    [
+                        531,
+                        585
+                    ],
+                    [
+                        551,
+                        487
+                    ],
+                    [
+                        525,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734631,
+            "classId": 4045,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:56.269Z",
+            "updatedAt": "2023-06-07T14:08:56.269Z",
+            "tags": [],
+            "classTitle": "dates",
+            "points": {
+                "exterior": [
+                    [
+                        852,
+                        349
+                    ],
+                    [
+                        751,
+                        402
+                    ],
+                    [
+                        685,
+                        716
+                    ],
+                    [
+                        738,
+                        854
+                    ],
+                    [
+                        911,
+                        873
+                    ],
+                    [
+                        973,
+                        742
+                    ],
+                    [
+                        983,
+                        497
+                    ],
+                    [
+                        931,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

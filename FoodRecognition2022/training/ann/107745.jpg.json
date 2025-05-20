@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1803229,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:25.742Z",
+            "updatedAt": "2023-06-07T14:55:25.742Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        71
+                    ],
+                    [
+                        147,
+                        51
+                    ],
+                    [
+                        68,
+                        96
+                    ],
+                    [
+                        54,
+                        151
+                    ],
+                    [
+                        4,
+                        187
+                    ],
+                    [
+                        4,
+                        245
+                    ],
+                    [
+                        35,
+                        270
+                    ],
+                    [
+                        86,
+                        238
+                    ],
+                    [
+                        119,
+                        181
+                    ],
+                    [
+                        137,
+                        137
+                    ],
+                    [
+                        191,
+                        96
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1803227,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:25.740Z",
+            "updatedAt": "2023-06-07T14:55:25.740Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        100
+                    ],
+                    [
+                        194,
+                        103
+                    ],
+                    [
+                        142,
+                        145
+                    ],
+                    [
+                        93,
+                        220
+                    ],
+                    [
+                        72,
+                        279
+                    ],
+                    [
+                        166,
+                        284
+                    ],
+                    [
+                        167,
+                        347
+                    ],
+                    [
+                        266,
+                        341
+                    ],
+                    [
+                        288,
+                        332
+                    ],
+                    [
+                        336,
+                        259
+                    ],
+                    [
+                        294,
+                        194
+                    ],
+                    [
+                        327,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1803225,
+            "classId": 4273,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:25.740Z",
+            "updatedAt": "2023-06-07T14:55:25.740Z",
+            "tags": [],
+            "classTitle": "pearl-onions",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        137
+                    ],
+                    [
+                        303,
+                        155
+                    ],
+                    [
+                        293,
+                        189
+                    ],
+                    [
+                        294,
+                        206
+                    ],
+                    [
+                        356,
+                        230
+                    ],
+                    [
+                        372,
+                        196
+                    ],
+                    [
+                        375,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

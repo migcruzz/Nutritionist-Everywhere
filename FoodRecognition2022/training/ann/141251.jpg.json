@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 770,
+        "width": 770
+    },
+    "objects": [
+        {
+            "id": 1647730,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:01.619Z",
+            "updatedAt": "2023-06-07T13:08:01.619Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        596,
+                        274
+                    ],
+                    [
+                        524,
+                        268
+                    ],
+                    [
+                        496,
+                        368
+                    ],
+                    [
+                        534,
+                        445
+                    ],
+                    [
+                        596,
+                        474
+                    ],
+                    [
+                        657,
+                        453
+                    ],
+                    [
+                        661,
+                        409
+                    ],
+                    [
+                        648,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1647729,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:01.619Z",
+            "updatedAt": "2023-06-07T13:08:01.619Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        174
+                    ],
+                    [
+                        365,
+                        166
+                    ],
+                    [
+                        297,
+                        208
+                    ],
+                    [
+                        261,
+                        324
+                    ],
+                    [
+                        305,
+                        386
+                    ],
+                    [
+                        370,
+                        395
+                    ],
+                    [
+                        444,
+                        359
+                    ],
+                    [
+                        453,
+                        318
+                    ],
+                    [
+                        465,
+                        257
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

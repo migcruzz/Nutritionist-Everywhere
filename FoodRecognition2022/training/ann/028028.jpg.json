@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1792714,
+            "classId": 3523,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:58.453Z",
+            "updatedAt": "2023-06-07T14:47:58.453Z",
+            "tags": [],
+            "classTitle": "wine-red",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        283
+                    ],
+                    [
+                        254,
+                        594
+                    ],
+                    [
+                        504,
+                        654
+                    ],
+                    [
+                        691,
+                        396
+                    ],
+                    [
+                        557,
+                        249
+                    ],
+                    [
+                        235,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1792712,
+            "classId": 3523,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:58.452Z",
+            "updatedAt": "2023-06-07T14:47:58.452Z",
+            "tags": [],
+            "classTitle": "wine-red",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        328
+                    ],
+                    [
+                        254,
+                        582
+                    ],
+                    [
+                        446,
+                        671
+                    ],
+                    [
+                        681,
+                        409
+                    ],
+                    [
+                        653,
+                        281
+                    ],
+                    [
+                        344,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

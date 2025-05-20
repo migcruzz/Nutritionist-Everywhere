@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1751045,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:24.104Z",
+            "updatedAt": "2023-06-07T14:20:24.104Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        85
+                    ],
+                    [
+                        165,
+                        27
+                    ],
+                    [
+                        59,
+                        86
+                    ],
+                    [
+                        27,
+                        285
+                    ],
+                    [
+                        268,
+                        340
+                    ],
+                    [
+                        364,
+                        301
+                    ],
+                    [
+                        330,
+                        206
+                    ],
+                    [
+                        280,
+                        169
+                    ],
+                    [
+                        263,
+                        108
+                    ],
+                    [
+                        273,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1751043,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:24.104Z",
+            "updatedAt": "2023-06-07T14:20:24.104Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        108
+                    ],
+                    [
+                        294,
+                        94
+                    ],
+                    [
+                        276,
+                        141
+                    ],
+                    [
+                        286,
+                        184
+                    ],
+                    [
+                        383,
+                        208
+                    ],
+                    [
+                        430,
+                        200
+                    ],
+                    [
+                        455,
+                        171
+                    ],
+                    [
+                        443,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

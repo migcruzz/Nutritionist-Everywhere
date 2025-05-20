@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1789166,
+            "classId": 3623,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:47.779Z",
+            "updatedAt": "2023-06-07T14:45:47.779Z",
+            "tags": [],
+            "classTitle": "quiche-with-cheese-baked-with-puff-pastry",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        365
+                    ],
+                    [
+                        402,
+                        282
+                    ],
+                    [
+                        438,
+                        297
+                    ],
+                    [
+                        471,
+                        312
+                    ],
+                    [
+                        471,
+                        342
+                    ],
+                    [
+                        359,
+                        435
+                    ],
+                    [
+                        265,
+                        382
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789164,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:47.778Z",
+            "updatedAt": "2023-06-07T14:45:47.778Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        383
+                    ],
+                    [
+                        3,
+                        332
+                    ],
+                    [
+                        201,
+                        266
+                    ],
+                    [
+                        217,
+                        275
+                    ],
+                    [
+                        246,
+                        246
+                    ],
+                    [
+                        321,
+                        309
+                    ],
+                    [
+                        273,
+                        345
+                    ],
+                    [
+                        222,
+                        302
+                    ],
+                    [
+                        216,
+                        315
+                    ],
+                    [
+                        233,
+                        359
+                    ],
+                    [
+                        125,
+                        404
+                    ],
+                    [
+                        108,
+                        352
+                    ],
+                    [
+                        33,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789162,
+            "classId": 3709,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:47.777Z",
+            "updatedAt": "2023-06-07T14:45:47.777Z",
+            "tags": [],
+            "classTitle": "sauce-soya",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        311
+                    ],
+                    [
+                        309,
+                        286
+                    ],
+                    [
+                        372,
+                        262
+                    ],
+                    [
+                        391,
+                        278
+                    ],
+                    [
+                        337,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

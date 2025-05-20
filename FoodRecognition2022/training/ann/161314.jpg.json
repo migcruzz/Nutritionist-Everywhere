@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1738719,
+            "classId": 3643,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:45.464Z",
+            "updatedAt": "2023-06-07T14:11:45.464Z",
+            "tags": [],
+            "classTitle": "pasta-penne",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        53
+                    ],
+                    [
+                        144,
+                        62
+                    ],
+                    [
+                        96,
+                        61
+                    ],
+                    [
+                        78,
+                        68
+                    ],
+                    [
+                        45,
+                        108
+                    ],
+                    [
+                        13,
+                        149
+                    ],
+                    [
+                        4,
+                        216
+                    ],
+                    [
+                        21,
+                        310
+                    ],
+                    [
+                        43,
+                        333
+                    ],
+                    [
+                        117,
+                        333
+                    ],
+                    [
+                        161,
+                        300
+                    ],
+                    [
+                        213,
+                        210
+                    ],
+                    [
+                        230,
+                        198
+                    ],
+                    [
+                        238,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738717,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:45.463Z",
+            "updatedAt": "2023-06-07T14:11:45.463Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        83
+                    ],
+                    [
+                        76,
+                        112
+                    ],
+                    [
+                        41,
+                        141
+                    ],
+                    [
+                        33,
+                        181
+                    ],
+                    [
+                        47,
+                        212
+                    ],
+                    [
+                        68,
+                        250
+                    ],
+                    [
+                        107,
+                        270
+                    ],
+                    [
+                        143,
+                        283
+                    ],
+                    [
+                        159,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738715,
+            "classId": 3451,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:45.461Z",
+            "updatedAt": "2023-06-07T14:11:45.461Z",
+            "tags": [],
+            "classTitle": "ham",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        183
+                    ],
+                    [
+                        337,
+                        157
+                    ],
+                    [
+                        291,
+                        158
+                    ],
+                    [
+                        255,
+                        189
+                    ],
+                    [
+                        214,
+                        216
+                    ],
+                    [
+                        223,
+                        312
+                    ],
+                    [
+                        297,
+                        362
+                    ],
+                    [
+                        380,
+                        326
+                    ],
+                    [
+                        386,
+                        273
+                    ],
+                    [
+                        384,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

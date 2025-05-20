@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1093,
+        "width": 1093
+    },
+    "objects": [
+        {
+            "id": 1672028,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:32.606Z",
+            "updatedAt": "2023-06-07T13:24:32.606Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        570,
+                        444
+                    ],
+                    [
+                        368,
+                        534
+                    ],
+                    [
+                        294,
+                        624
+                    ],
+                    [
+                        332,
+                        706
+                    ],
+                    [
+                        554,
+                        851
+                    ],
+                    [
+                        638,
+                        851
+                    ],
+                    [
+                        614,
+                        744
+                    ],
+                    [
+                        750,
+                        829
+                    ],
+                    [
+                        808,
+                        771
+                    ],
+                    [
+                        717,
+                        646
+                    ],
+                    [
+                        742,
+                        547
+                    ],
+                    [
+                        726,
+                        465
+                    ],
+                    [
+                        644,
+                        465
+                    ],
+                    [
+                        573,
+                        449
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1672026,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:32.605Z",
+            "updatedAt": "2023-06-07T13:24:32.605Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        857,
+                        526
+                    ],
+                    [
+                        742,
+                        624
+                    ],
+                    [
+                        816,
+                        804
+                    ],
+                    [
+                        906,
+                        804
+                    ],
+                    [
+                        972,
+                        747
+                    ],
+                    [
+                        972,
+                        616
+                    ],
+                    [
+                        884,
+                        547
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1672024,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:32.605Z",
+            "updatedAt": "2023-06-07T13:24:32.605Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        769,
+                        64
+                    ],
+                    [
+                        619,
+                        236
+                    ],
+                    [
+                        655,
+                        392
+                    ],
+                    [
+                        750,
+                        400
+                    ],
+                    [
+                        898,
+                        312
+                    ],
+                    [
+                        906,
+                        195
+                    ],
+                    [
+                        881,
+                        124
+                    ],
+                    [
+                        816,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

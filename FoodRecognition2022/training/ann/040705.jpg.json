@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1704144,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:45.110Z",
+            "updatedAt": "2023-06-07T13:46:45.110Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        91,
+                        62
+                    ],
+                    [
+                        138,
+                        64
+                    ],
+                    [
+                        174,
+                        0
+                    ],
+                    [
+                        246,
+                        7
+                    ],
+                    [
+                        347,
+                        71
+                    ],
+                    [
+                        389,
+                        208
+                    ],
+                    [
+                        383,
+                        349
+                    ],
+                    [
+                        310,
+                        434
+                    ],
+                    [
+                        210,
+                        469
+                    ],
+                    [
+                        150,
+                        478
+                    ],
+                    [
+                        141,
+                        478
+                    ],
+                    [
+                        88,
+                        445
+                    ],
+                    [
+                        93,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704142,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:45.110Z",
+            "updatedAt": "2023-06-07T13:46:45.110Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        58
+                    ],
+                    [
+                        93,
+                        301
+                    ],
+                    [
+                        167,
+                        460
+                    ],
+                    [
+                        327,
+                        401
+                    ],
+                    [
+                        373,
+                        295
+                    ],
+                    [
+                        354,
+                        73
+                    ],
+                    [
+                        198,
+                        52
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

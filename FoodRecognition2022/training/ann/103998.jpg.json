@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1752187,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:06.301Z",
+            "updatedAt": "2023-06-07T14:21:06.301Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        156
+                    ],
+                    [
+                        66,
+                        155
+                    ],
+                    [
+                        74,
+                        181
+                    ],
+                    [
+                        92,
+                        212
+                    ],
+                    [
+                        103,
+                        246
+                    ],
+                    [
+                        151,
+                        243
+                    ],
+                    [
+                        185,
+                        250
+                    ],
+                    [
+                        217,
+                        248
+                    ],
+                    [
+                        265,
+                        226
+                    ],
+                    [
+                        323,
+                        198
+                    ],
+                    [
+                        329,
+                        168
+                    ],
+                    [
+                        299,
+                        200
+                    ],
+                    [
+                        265,
+                        203
+                    ],
+                    [
+                        229,
+                        202
+                    ],
+                    [
+                        193,
+                        212
+                    ],
+                    [
+                        137,
+                        212
+                    ],
+                    [
+                        110,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752185,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:06.301Z",
+            "updatedAt": "2023-06-07T14:21:06.301Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        124
+                    ],
+                    [
+                        122,
+                        155
+                    ],
+                    [
+                        161,
+                        174
+                    ],
+                    [
+                        168,
+                        141
+                    ],
+                    [
+                        151,
+                        121
+                    ],
+                    [
+                        132,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

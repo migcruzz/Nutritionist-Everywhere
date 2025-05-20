@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 973,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1753019,
+            "classId": 4243,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:39.432Z",
+            "updatedAt": "2023-06-07T14:21:39.432Z",
+            "tags": [],
+            "classTitle": "frying-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        661
+                    ],
+                    [
+                        370,
+                        603
+                    ],
+                    [
+                        383,
+                        561
+                    ],
+                    [
+                        329,
+                        547
+                    ],
+                    [
+                        232,
+                        581
+                    ],
+                    [
+                        205,
+                        649
+                    ],
+                    [
+                        222,
+                        758
+                    ],
+                    [
+                        307,
+                        802
+                    ],
+                    [
+                        390,
+                        810
+                    ],
+                    [
+                        470,
+                        802
+                    ],
+                    [
+                        519,
+                        754
+                    ],
+                    [
+                        446,
+                        702
+                    ],
+                    [
+                        341,
+                        700
+                    ],
+                    [
+                        319,
+                        693
+                    ],
+                    [
+                        300,
+                        661
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753017,
+            "classId": 3957,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:39.431Z",
+            "updatedAt": "2023-06-07T14:21:39.431Z",
+            "tags": [],
+            "classTitle": "fennel",
+            "points": {
+                "exterior": [
+                    [
+                        533,
+                        672
+                    ],
+                    [
+                        640,
+                        648
+                    ],
+                    [
+                        628,
+                        560
+                    ],
+                    [
+                        574,
+                        504
+                    ],
+                    [
+                        482,
+                        485
+                    ],
+                    [
+                        421,
+                        504
+                    ],
+                    [
+                        396,
+                        555
+                    ],
+                    [
+                        428,
+                        606
+                    ],
+                    [
+                        435,
+                        611
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753015,
+            "classId": 3523,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:39.431Z",
+            "updatedAt": "2023-06-07T14:21:39.431Z",
+            "tags": [],
+            "classTitle": "wine-red",
+            "points": {
+                "exterior": [
+                    [
+                        581,
+                        269
+                    ],
+                    [
+                        589,
+                        381
+                    ],
+                    [
+                        679,
+                        398
+                    ],
+                    [
+                        735,
+                        344
+                    ],
+                    [
+                        732,
+                        276
+                    ],
+                    [
+                        676,
+                        271
+                    ],
+                    [
+                        674,
+                        271
+                    ],
+                    [
+                        674,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1639908,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:43.429Z",
+            "updatedAt": "2023-06-07T13:02:43.429Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        237
+                    ],
+                    [
+                        377,
+                        171
+                    ],
+                    [
+                        331,
+                        197
+                    ],
+                    [
+                        293,
+                        256
+                    ],
+                    [
+                        324,
+                        337
+                    ],
+                    [
+                        399,
+                        349
+                    ],
+                    [
+                        453,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639907,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:43.429Z",
+            "updatedAt": "2023-06-07T13:02:43.429Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        193
+                    ],
+                    [
+                        150,
+                        143
+                    ],
+                    [
+                        78,
+                        175
+                    ],
+                    [
+                        45,
+                        243
+                    ],
+                    [
+                        75,
+                        338
+                    ],
+                    [
+                        150,
+                        351
+                    ],
+                    [
+                        197,
+                        336
+                    ],
+                    [
+                        248,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

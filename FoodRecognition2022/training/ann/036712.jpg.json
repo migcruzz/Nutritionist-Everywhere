@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1758717,
+            "classId": 3717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:33.889Z",
+            "updatedAt": "2023-06-07T14:25:33.889Z",
+            "tags": [],
+            "classTitle": "leek",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        85
+                    ],
+                    [
+                        220,
+                        70
+                    ],
+                    [
+                        150,
+                        108
+                    ],
+                    [
+                        208,
+                        187
+                    ],
+                    [
+                        287,
+                        215
+                    ],
+                    [
+                        384,
+                        247
+                    ],
+                    [
+                        437,
+                        241
+                    ],
+                    [
+                        444,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1758715,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:33.889Z",
+            "updatedAt": "2023-06-07T14:25:33.889Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        85
+                    ],
+                    [
+                        265,
+                        41
+                    ],
+                    [
+                        226,
+                        10
+                    ],
+                    [
+                        207,
+                        46
+                    ],
+                    [
+                        191,
+                        72
+                    ],
+                    [
+                        216,
+                        87
+                    ],
+                    [
+                        216,
+                        87
+                    ],
+                    [
+                        216,
+                        87
+                    ],
+                    [
+                        216,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

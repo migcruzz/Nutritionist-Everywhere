@@ -1,0 +1,234 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1720520,
+            "classId": 3483,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:04.163Z",
+            "updatedAt": "2023-06-07T13:59:04.163Z",
+            "tags": [],
+            "classTitle": "pasta",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        108
+                    ],
+                    [
+                        264,
+                        106
+                    ],
+                    [
+                        138,
+                        171
+                    ],
+                    [
+                        223,
+                        167
+                    ],
+                    [
+                        253,
+                        185
+                    ],
+                    [
+                        212,
+                        297
+                    ],
+                    [
+                        212,
+                        342
+                    ],
+                    [
+                        254,
+                        342
+                    ],
+                    [
+                        169,
+                        398
+                    ],
+                    [
+                        171,
+                        419
+                    ],
+                    [
+                        269,
+                        424
+                    ],
+                    [
+                        332,
+                        338
+                    ],
+                    [
+                        369,
+                        338
+                    ],
+                    [
+                        365,
+                        267
+                    ],
+                    [
+                        410,
+                        296
+                    ],
+                    [
+                        437,
+                        262
+                    ],
+                    [
+                        473,
+                        243
+                    ],
+                    [
+                        462,
+                        183
+                    ],
+                    [
+                        407,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1720518,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:04.162Z",
+            "updatedAt": "2023-06-07T13:59:04.162Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        225
+                    ],
+                    [
+                        29,
+                        290
+                    ],
+                    [
+                        39,
+                        323
+                    ],
+                    [
+                        49,
+                        353
+                    ],
+                    [
+                        175,
+                        411
+                    ],
+                    [
+                        224,
+                        351
+                    ],
+                    [
+                        181,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1720516,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:04.161Z",
+            "updatedAt": "2023-06-07T13:59:04.161Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        213
+                    ],
+                    [
+                        37,
+                        269
+                    ],
+                    [
+                        11,
+                        303
+                    ],
+                    [
+                        11,
+                        252
+                    ],
+                    [
+                        72,
+                        203
+                    ],
+                    [
+                        161,
+                        196
+                    ],
+                    [
+                        161,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1720514,
+            "classId": 4367,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:04.161Z",
+            "updatedAt": "2023-06-07T13:59:04.161Z",
+            "tags": [],
+            "classTitle": "carrot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        178
+                    ],
+                    [
+                        199,
+                        191
+                    ],
+                    [
+                        199,
+                        210
+                    ],
+                    [
+                        216,
+                        232
+                    ],
+                    [
+                        237,
+                        221
+                    ],
+                    [
+                        248,
+                        194
+                    ],
+                    [
+                        242,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

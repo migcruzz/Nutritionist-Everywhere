@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1734913,
+            "classId": 4403,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:09:04.802Z",
+            "updatedAt": "2023-06-07T14:09:04.802Z",
+            "tags": [],
+            "classTitle": "pie-rhubarb-baked-with-cake-dough",
+            "points": {
+                "exterior": [
+                    [
+                        620,
+                        348
+                    ],
+                    [
+                        609,
+                        918
+                    ],
+                    [
+                        668,
+                        923
+                    ],
+                    [
+                        929,
+                        421
+                    ],
+                    [
+                        920,
+                        336
+                    ],
+                    [
+                        661,
+                        228
+                    ],
+                    [
+                        597,
+                        230
+                    ],
+                    [
+                        616,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734911,
+            "classId": 4183,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:09:04.801Z",
+            "updatedAt": "2023-06-07T14:09:04.801Z",
+            "tags": [],
+            "classTitle": "berries",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        666
+                    ],
+                    [
+                        22,
+                        534
+                    ],
+                    [
+                        17,
+                        454
+                    ],
+                    [
+                        0,
+                        308
+                    ],
+                    [
+                        206,
+                        58
+                    ],
+                    [
+                        493,
+                        145
+                    ],
+                    [
+                        592,
+                        327
+                    ],
+                    [
+                        460,
+                        525
+                    ],
+                    [
+                        399,
+                        647
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

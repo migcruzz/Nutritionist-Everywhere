@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1777693,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:44.028Z",
+            "updatedAt": "2023-06-07T14:37:44.028Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        96
+                    ],
+                    [
+                        42,
+                        298
+                    ],
+                    [
+                        71,
+                        291
+                    ],
+                    [
+                        86,
+                        265
+                    ],
+                    [
+                        107,
+                        268
+                    ],
+                    [
+                        118,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1777691,
+            "classId": 3995,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:44.028Z",
+            "updatedAt": "2023-06-07T14:37:44.028Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal-toast",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        65
+                    ],
+                    [
+                        174,
+                        68
+                    ],
+                    [
+                        329,
+                        234
+                    ],
+                    [
+                        120,
+                        395
+                    ],
+                    [
+                        92,
+                        399
+                    ],
+                    [
+                        92,
+                        399
+                    ],
+                    [
+                        129,
+                        77
+                    ],
+                    [
+                        138,
+                        65
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

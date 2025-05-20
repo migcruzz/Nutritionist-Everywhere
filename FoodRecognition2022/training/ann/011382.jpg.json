@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1741246,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:26.402Z",
+            "updatedAt": "2023-06-07T14:13:26.402Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        520
+                    ],
+                    [
+                        79,
+                        511
+                    ],
+                    [
+                        26,
+                        605
+                    ],
+                    [
+                        22,
+                        676
+                    ],
+                    [
+                        65,
+                        754
+                    ],
+                    [
+                        374,
+                        744
+                    ],
+                    [
+                        540,
+                        718
+                    ],
+                    [
+                        596,
+                        688
+                    ],
+                    [
+                        596,
+                        584
+                    ],
+                    [
+                        551,
+                        528
+                    ],
+                    [
+                        489,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741244,
+            "classId": 3559,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:26.401Z",
+            "updatedAt": "2023-06-07T14:13:26.401Z",
+            "tags": [],
+            "classTitle": "tartar-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        704,
+                        368
+                    ],
+                    [
+                        672,
+                        332
+                    ],
+                    [
+                        585,
+                        345
+                    ],
+                    [
+                        546,
+                        390
+                    ],
+                    [
+                        578,
+                        413
+                    ],
+                    [
+                        608,
+                        413
+                    ],
+                    [
+                        672,
+                        409
+                    ],
+                    [
+                        694,
+                        392
+                    ],
+                    [
+                        696,
+                        375
+                    ],
+                    [
+                        698,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741242,
+            "classId": 4385,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:26.401Z",
+            "updatedAt": "2023-06-07T14:13:26.401Z",
+            "tags": [],
+            "classTitle": "sauce-curry",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        477
+                    ],
+                    [
+                        664,
+                        511
+                    ],
+                    [
+                        713,
+                        513
+                    ],
+                    [
+                        734,
+                        462
+                    ],
+                    [
+                        679,
+                        435
+                    ],
+                    [
+                        640,
+                        430
+                    ],
+                    [
+                        617,
+                        437
+                    ],
+                    [
+                        602,
+                        467
+                    ],
+                    [
+                        600,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741240,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:26.400Z",
+            "updatedAt": "2023-06-07T14:13:26.400Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        636,
+                        584
+                    ],
+                    [
+                        598,
+                        644
+                    ],
+                    [
+                        653,
+                        682
+                    ],
+                    [
+                        711,
+                        688
+                    ],
+                    [
+                        749,
+                        650
+                    ],
+                    [
+                        741,
+                        601
+                    ],
+                    [
+                        704,
+                        582
+                    ],
+                    [
+                        653,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

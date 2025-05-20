@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1707642,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:33.605Z",
+            "updatedAt": "2023-06-07T13:49:33.605Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        259
+                    ],
+                    [
+                        60,
+                        296
+                    ],
+                    [
+                        46,
+                        325
+                    ],
+                    [
+                        74,
+                        346
+                    ],
+                    [
+                        127,
+                        340
+                    ],
+                    [
+                        154,
+                        313
+                    ],
+                    [
+                        134,
+                        269
+                    ],
+                    [
+                        116,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707640,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:33.605Z",
+            "updatedAt": "2023-06-07T13:49:33.605Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        224
+                    ],
+                    [
+                        303,
+                        217
+                    ],
+                    [
+                        305,
+                        233
+                    ],
+                    [
+                        336,
+                        234
+                    ],
+                    [
+                        350,
+                        230
+                    ],
+                    [
+                        354,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707638,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:33.604Z",
+            "updatedAt": "2023-06-07T13:49:33.604Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        183
+                    ],
+                    [
+                        145,
+                        277
+                    ],
+                    [
+                        198,
+                        276
+                    ],
+                    [
+                        203,
+                        180
+                    ],
+                    [
+                        148,
+                        185
+                    ],
+                    [
+                        151,
+                        186
+                    ],
+                    [
+                        145,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

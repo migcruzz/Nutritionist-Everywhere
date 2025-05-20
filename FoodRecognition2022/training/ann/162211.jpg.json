@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1700933,
+            "classId": 3923,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:27.982Z",
+            "updatedAt": "2023-06-07T13:44:27.982Z",
+            "tags": [],
+            "classTitle": "sandwich-ham-cheese-and-butter",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        200
+                    ],
+                    [
+                        215,
+                        172
+                    ],
+                    [
+                        122,
+                        220
+                    ],
+                    [
+                        91,
+                        307
+                    ],
+                    [
+                        227,
+                        402
+                    ],
+                    [
+                        309,
+                        368
+                    ],
+                    [
+                        344,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

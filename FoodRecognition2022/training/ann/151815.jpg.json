@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1684625,
+            "classId": 3567,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:59.708Z",
+            "updatedAt": "2023-06-07T13:32:59.708Z",
+            "tags": [],
+            "classTitle": "yaourt-yahourt-yogourt-ou-yoghourt-natural",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        206
+                    ],
+                    [
+                        73,
+                        264
+                    ],
+                    [
+                        59,
+                        144
+                    ],
+                    [
+                        175,
+                        86
+                    ],
+                    [
+                        263,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1684623,
+            "classId": 4123,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:59.706Z",
+            "updatedAt": "2023-06-07T13:32:59.706Z",
+            "tags": [],
+            "classTitle": "curd",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        212
+                    ],
+                    [
+                        75,
+                        277
+                    ],
+                    [
+                        222,
+                        339
+                    ],
+                    [
+                        305,
+                        285
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

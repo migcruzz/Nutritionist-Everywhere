@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 425,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1787586,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:36.195Z",
+            "updatedAt": "2023-06-07T14:44:36.195Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        208
+                    ],
+                    [
+                        181,
+                        166
+                    ],
+                    [
+                        219,
+                        140
+                    ],
+                    [
+                        309,
+                        92
+                    ],
+                    [
+                        349,
+                        114
+                    ],
+                    [
+                        312,
+                        173
+                    ],
+                    [
+                        200,
+                        228
+                    ],
+                    [
+                        202,
+                        266
+                    ],
+                    [
+                        144,
+                        292
+                    ],
+                    [
+                        64,
+                        288
+                    ],
+                    [
+                        131,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787584,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:36.194Z",
+            "updatedAt": "2023-06-07T14:44:36.194Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        167
+                    ],
+                    [
+                        269,
+                        91
+                    ],
+                    [
+                        362,
+                        92
+                    ],
+                    [
+                        364,
+                        124
+                    ],
+                    [
+                        272,
+                        256
+                    ],
+                    [
+                        168,
+                        280
+                    ],
+                    [
+                        76,
+                        278
+                    ],
+                    [
+                        120,
+                        224
+                    ],
+                    [
+                        227,
+                        169
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1783096,
+            "classId": 3683,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:38.889Z",
+            "updatedAt": "2023-06-07T14:41:38.889Z",
+            "tags": [],
+            "classTitle": "smoothie",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        201
+                    ],
+                    [
+                        274,
+                        175
+                    ],
+                    [
+                        130,
+                        183
+                    ],
+                    [
+                        101,
+                        226
+                    ],
+                    [
+                        116,
+                        370
+                    ],
+                    [
+                        200,
+                        399
+                    ],
+                    [
+                        292,
+                        377
+                    ],
+                    [
+                        316,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

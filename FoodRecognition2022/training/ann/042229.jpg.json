@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1643989,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:31.592Z",
+            "updatedAt": "2023-06-07T13:05:31.592Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        335
+                    ],
+                    [
+                        410,
+                        259
+                    ],
+                    [
+                        316,
+                        222
+                    ],
+                    [
+                        236,
+                        237
+                    ],
+                    [
+                        163,
+                        241
+                    ],
+                    [
+                        63,
+                        246
+                    ],
+                    [
+                        67,
+                        344
+                    ],
+                    [
+                        152,
+                        376
+                    ],
+                    [
+                        267,
+                        384
+                    ],
+                    [
+                        374,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1643987,
+            "classId": 3565,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:31.590Z",
+            "updatedAt": "2023-06-07T13:05:31.590Z",
+            "tags": [],
+            "classTitle": "curry-vegetarian",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        52
+                    ],
+                    [
+                        35,
+                        80
+                    ],
+                    [
+                        41,
+                        228
+                    ],
+                    [
+                        172,
+                        249
+                    ],
+                    [
+                        348,
+                        254
+                    ],
+                    [
+                        440,
+                        262
+                    ],
+                    [
+                        447,
+                        81
+                    ],
+                    [
+                        360,
+                        44
+                    ],
+                    [
+                        268,
+                        44
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

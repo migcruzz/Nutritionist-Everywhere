@@ -1,0 +1,494 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 607,
+        "width": 607
+    },
+    "objects": [
+        {
+            "id": 1793924,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.024Z",
+            "updatedAt": "2023-06-07T14:48:46.024Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        345
+                    ],
+                    [
+                        208,
+                        391
+                    ],
+                    [
+                        191,
+                        553
+                    ],
+                    [
+                        531,
+                        572
+                    ],
+                    [
+                        542,
+                        462
+                    ],
+                    [
+                        457,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793922,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.023Z",
+            "updatedAt": "2023-06-07T14:48:46.023Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        291
+                    ],
+                    [
+                        354,
+                        358
+                    ],
+                    [
+                        566,
+                        424
+                    ],
+                    [
+                        600,
+                        385
+                    ],
+                    [
+                        598,
+                        335
+                    ],
+                    [
+                        481,
+                        327
+                    ],
+                    [
+                        430,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793920,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.023Z",
+            "updatedAt": "2023-06-07T14:48:46.023Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        183
+                    ],
+                    [
+                        503,
+                        165
+                    ],
+                    [
+                        387,
+                        204
+                    ],
+                    [
+                        389,
+                        268
+                    ],
+                    [
+                        433,
+                        320
+                    ],
+                    [
+                        574,
+                        288
+                    ],
+                    [
+                        594,
+                        207
+                    ],
+                    [
+                        575,
+                        132
+                    ],
+                    [
+                        542,
+                        112
+                    ],
+                    [
+                        512,
+                        135
+                    ],
+                    [
+                        448,
+                        135
+                    ],
+                    [
+                        454,
+                        104
+                    ],
+                    [
+                        436,
+                        115
+                    ],
+                    [
+                        434,
+                        150
+                    ],
+                    [
+                        437,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793918,
+            "classId": 3443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.023Z",
+            "updatedAt": "2023-06-07T14:48:46.023Z",
+            "tags": [],
+            "classTitle": "salmon-smoked",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        176
+                    ],
+                    [
+                        78,
+                        221
+                    ],
+                    [
+                        138,
+                        204
+                    ],
+                    [
+                        147,
+                        241
+                    ],
+                    [
+                        119,
+                        279
+                    ],
+                    [
+                        3,
+                        306
+                    ],
+                    [
+                        94,
+                        389
+                    ],
+                    [
+                        179,
+                        311
+                    ],
+                    [
+                        208,
+                        235
+                    ],
+                    [
+                        152,
+                        198
+                    ],
+                    [
+                        108,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793916,
+            "classId": 3607,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.023Z",
+            "updatedAt": "2023-06-07T14:48:46.023Z",
+            "tags": [],
+            "classTitle": "beetroot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        320
+                    ],
+                    [
+                        349,
+                        327
+                    ],
+                    [
+                        386,
+                        224
+                    ],
+                    [
+                        339,
+                        197
+                    ],
+                    [
+                        270,
+                        176
+                    ],
+                    [
+                        207,
+                        198
+                    ],
+                    [
+                        196,
+                        233
+                    ],
+                    [
+                        201,
+                        280
+                    ],
+                    [
+                        231,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793914,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.023Z",
+            "updatedAt": "2023-06-07T14:48:46.023Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        101
+                    ],
+                    [
+                        166,
+                        236
+                    ],
+                    [
+                        257,
+                        163
+                    ],
+                    [
+                        255,
+                        56
+                    ],
+                    [
+                        188,
+                        42
+                    ],
+                    [
+                        99,
+                        66
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793912,
+            "classId": 3957,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.023Z",
+            "updatedAt": "2023-06-07T14:48:46.023Z",
+            "tags": [],
+            "classTitle": "fennel",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        34
+                    ],
+                    [
+                        263,
+                        186
+                    ],
+                    [
+                        355,
+                        215
+                    ],
+                    [
+                        407,
+                        192
+                    ],
+                    [
+                        412,
+                        110
+                    ],
+                    [
+                        412,
+                        60
+                    ],
+                    [
+                        363,
+                        42
+                    ],
+                    [
+                        251,
+                        34
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793910,
+            "classId": 4217,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.021Z",
+            "updatedAt": "2023-06-07T14:48:46.021Z",
+            "tags": [],
+            "classTitle": "shrimp-prawn-large",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        355
+                    ],
+                    [
+                        125,
+                        341
+                    ],
+                    [
+                        50,
+                        434
+                    ],
+                    [
+                        150,
+                        452
+                    ],
+                    [
+                        207,
+                        414
+                    ],
+                    [
+                        232,
+                        405
+                    ],
+                    [
+                        246,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793908,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.020Z",
+            "updatedAt": "2023-06-07T14:48:46.020Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        496,
+                        89
+                    ],
+                    [
+                        398,
+                        132
+                    ],
+                    [
+                        428,
+                        180
+                    ],
+                    [
+                        439,
+                        145
+                    ],
+                    [
+                        500,
+                        138
+                    ],
+                    [
+                        509,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793906,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:46.019Z",
+            "updatedAt": "2023-06-07T14:48:46.019Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        198
+                    ],
+                    [
+                        14,
+                        238
+                    ],
+                    [
+                        9,
+                        271
+                    ],
+                    [
+                        88,
+                        301
+                    ],
+                    [
+                        150,
+                        276
+                    ],
+                    [
+                        147,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

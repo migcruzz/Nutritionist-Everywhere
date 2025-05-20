@@ -1,0 +1,290 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 875,
+        "width": 876
+    },
+    "objects": [
+        {
+            "id": 1675711,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:02.657Z",
+            "updatedAt": "2023-06-07T13:27:02.657Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        94
+                    ],
+                    [
+                        209,
+                        99
+                    ],
+                    [
+                        150,
+                        287
+                    ],
+                    [
+                        170,
+                        357
+                    ],
+                    [
+                        275,
+                        351
+                    ],
+                    [
+                        347,
+                        375
+                    ],
+                    [
+                        374,
+                        274
+                    ],
+                    [
+                        457,
+                        226
+                    ],
+                    [
+                        503,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675709,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:02.656Z",
+            "updatedAt": "2023-06-07T13:27:02.656Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        702,
+                        123
+                    ],
+                    [
+                        588,
+                        33
+                    ],
+                    [
+                        498,
+                        123
+                    ],
+                    [
+                        514,
+                        186
+                    ],
+                    [
+                        490,
+                        215
+                    ],
+                    [
+                        619,
+                        250
+                    ],
+                    [
+                        671,
+                        248
+                    ],
+                    [
+                        702,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675708,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:02.656Z",
+            "updatedAt": "2023-06-07T13:27:02.656Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        285
+                    ],
+                    [
+                        371,
+                        285
+                    ],
+                    [
+                        369,
+                        355
+                    ],
+                    [
+                        424,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675706,
+            "classId": 4127,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:02.655Z",
+            "updatedAt": "2023-06-07T13:27:02.655Z",
+            "tags": [],
+            "classTitle": "sweet-potato",
+            "points": {
+                "exterior": [
+                    [
+                        687,
+                        322
+                    ],
+                    [
+                        641,
+                        235
+                    ],
+                    [
+                        479,
+                        221
+                    ],
+                    [
+                        402,
+                        313
+                    ],
+                    [
+                        450,
+                        368
+                    ],
+                    [
+                        586,
+                        427
+                    ],
+                    [
+                        678,
+                        416
+                    ],
+                    [
+                        689,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675704,
+            "classId": 3469,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:02.654Z",
+            "updatedAt": "2023-06-07T13:27:02.654Z",
+            "tags": [],
+            "classTitle": "beetroot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        500
+                    ],
+                    [
+                        350,
+                        445
+                    ],
+                    [
+                        286,
+                        440
+                    ],
+                    [
+                        286,
+                        521
+                    ],
+                    [
+                        288,
+                        578
+                    ],
+                    [
+                        431,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675702,
+            "classId": 4129,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:02.654Z",
+            "updatedAt": "2023-06-07T13:27:02.654Z",
+            "tags": [],
+            "classTitle": "chicken-leg",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        333
+                    ],
+                    [
+                        111,
+                        789
+                    ],
+                    [
+                        166,
+                        865
+                    ],
+                    [
+                        628,
+                        870
+                    ],
+                    [
+                        700,
+                        740
+                    ],
+                    [
+                        512,
+                        668
+                    ],
+                    [
+                        301,
+                        670
+                    ],
+                    [
+                        271,
+                        620
+                    ],
+                    [
+                        290,
+                        416
+                    ],
+                    [
+                        275,
+                        362
+                    ],
+                    [
+                        236,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

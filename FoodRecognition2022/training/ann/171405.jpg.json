@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 463
+    },
+    "objects": [
+        {
+            "id": 1791533,
+            "classId": 3577,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:17.919Z",
+            "updatedAt": "2023-06-07T14:47:17.919Z",
+            "tags": [],
+            "classTitle": "salt-cake-vegetables-filled",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        110
+                    ],
+                    [
+                        128,
+                        189
+                    ],
+                    [
+                        153,
+                        222
+                    ],
+                    [
+                        324,
+                        219
+                    ],
+                    [
+                        348,
+                        167
+                    ],
+                    [
+                        371,
+                        77
+                    ],
+                    [
+                        292,
+                        107
+                    ],
+                    [
+                        249,
+                        105
+                    ],
+                    [
+                        221,
+                        104
+                    ],
+                    [
+                        196,
+                        106
+                    ],
+                    [
+                        161,
+                        99
+                    ],
+                    [
+                        146,
+                        111
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1791531,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:17.919Z",
+            "updatedAt": "2023-06-07T14:47:17.919Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        266
+                    ],
+                    [
+                        140,
+                        407
+                    ],
+                    [
+                        200,
+                        417
+                    ],
+                    [
+                        252,
+                        267
+                    ],
+                    [
+                        182,
+                        237
+                    ],
+                    [
+                        179,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1791530,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:17.918Z",
+            "updatedAt": "2023-06-07T14:47:17.918Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        257
+                    ],
+                    [
+                        252,
+                        349
+                    ],
+                    [
+                        425,
+                        388
+                    ],
+                    [
+                        446,
+                        300
+                    ],
+                    [
+                        284,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

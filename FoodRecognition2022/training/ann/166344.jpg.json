@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1803655,
+            "classId": 4279,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:40.445Z",
+            "updatedAt": "2023-06-07T14:55:40.445Z",
+            "tags": [],
+            "classTitle": "light-beer",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        3
+                    ],
+                    [
+                        171,
+                        7
+                    ],
+                    [
+                        134,
+                        119
+                    ],
+                    [
+                        152,
+                        345
+                    ],
+                    [
+                        203,
+                        384
+                    ],
+                    [
+                        262,
+                        370
+                    ],
+                    [
+                        286,
+                        317
+                    ],
+                    [
+                        299,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

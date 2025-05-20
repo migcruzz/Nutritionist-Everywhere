@@ -1,0 +1,234 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 821,
+        "width": 822
+    },
+    "objects": [
+        {
+            "id": 1669224,
+            "classId": 3583,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.820Z",
+            "updatedAt": "2023-06-07T13:22:42.820Z",
+            "tags": [],
+            "classTitle": "pasta-noodles",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        126
+                    ],
+                    [
+                        543,
+                        294
+                    ],
+                    [
+                        640,
+                        545
+                    ],
+                    [
+                        771,
+                        621
+                    ],
+                    [
+                        720,
+                        763
+                    ],
+                    [
+                        508,
+                        798
+                    ],
+                    [
+                        192,
+                        790
+                    ],
+                    [
+                        29,
+                        611
+                    ],
+                    [
+                        15,
+                        327
+                    ],
+                    [
+                        146,
+                        206
+                    ],
+                    [
+                        177,
+                        142
+                    ],
+                    [
+                        292,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669222,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.820Z",
+            "updatedAt": "2023-06-07T13:22:42.820Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        157
+                    ],
+                    [
+                        539,
+                        274
+                    ],
+                    [
+                        607,
+                        457
+                    ],
+                    [
+                        722,
+                        432
+                    ],
+                    [
+                        746,
+                        266
+                    ],
+                    [
+                        650,
+                        220
+                    ],
+                    [
+                        648,
+                        75
+                    ],
+                    [
+                        420,
+                        11
+                    ],
+                    [
+                        329,
+                        159
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669220,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.819Z",
+            "updatedAt": "2023-06-07T13:22:42.819Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        87
+                    ],
+                    [
+                        449,
+                        132
+                    ],
+                    [
+                        446,
+                        222
+                    ],
+                    [
+                        611,
+                        440
+                    ],
+                    [
+                        722,
+                        412
+                    ],
+                    [
+                        722,
+                        323
+                    ],
+                    [
+                        537,
+                        264
+                    ],
+                    [
+                        621,
+                        239
+                    ],
+                    [
+                        633,
+                        52
+                    ],
+                    [
+                        446,
+                        13
+                    ],
+                    [
+                        405,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669218,
+            "classId": 3979,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.818Z",
+            "updatedAt": "2023-06-07T13:22:42.818Z",
+            "tags": [],
+            "classTitle": "sauce-mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        358
+                    ],
+                    [
+                        190,
+                        518
+                    ],
+                    [
+                        701,
+                        796
+                    ],
+                    [
+                        802,
+                        648
+                    ],
+                    [
+                        792,
+                        348
+                    ],
+                    [
+                        664,
+                        459
+                    ],
+                    [
+                        562,
+                        364
+                    ],
+                    [
+                        165,
+                        358
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

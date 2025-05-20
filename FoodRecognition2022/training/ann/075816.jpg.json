@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1700304,
+            "classId": 3565,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:02.217Z",
+            "updatedAt": "2023-06-07T13:44:02.217Z",
+            "tags": [],
+            "classTitle": "curry-vegetarian",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        356
+                    ],
+                    [
+                        197,
+                        297
+                    ],
+                    [
+                        324,
+                        326
+                    ],
+                    [
+                        353,
+                        321
+                    ],
+                    [
+                        327,
+                        290
+                    ],
+                    [
+                        339,
+                        234
+                    ],
+                    [
+                        344,
+                        189
+                    ],
+                    [
+                        320,
+                        110
+                    ],
+                    [
+                        284,
+                        94
+                    ],
+                    [
+                        168,
+                        93
+                    ],
+                    [
+                        53,
+                        95
+                    ],
+                    [
+                        23,
+                        116
+                    ],
+                    [
+                        14,
+                        163
+                    ],
+                    [
+                        10,
+                        280
+                    ],
+                    [
+                        43,
+                        310
+                    ],
+                    [
+                        89,
+                        339
+                    ],
+                    [
+                        111,
+                        346
+                    ],
+                    [
+                        111,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1700302,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:02.216Z",
+            "updatedAt": "2023-06-07T13:44:02.216Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        336
+                    ],
+                    [
+                        212,
+                        292
+                    ],
+                    [
+                        173,
+                        319
+                    ],
+                    [
+                        153,
+                        343
+                    ],
+                    [
+                        188,
+                        359
+                    ],
+                    [
+                        240,
+                        351
+                    ],
+                    [
+                        259,
+                        343
+                    ],
+                    [
+                        262,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1700301,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:02.216Z",
+            "updatedAt": "2023-06-07T13:44:02.216Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        208
+                    ],
+                    [
+                        363,
+                        170
+                    ],
+                    [
+                        348,
+                        134
+                    ],
+                    [
+                        322,
+                        113
+                    ],
+                    [
+                        318,
+                        150
+                    ],
+                    [
+                        328,
+                        171
+                    ],
+                    [
+                        334,
+                        189
+                    ],
+                    [
+                        341,
+                        197
+                    ],
+                    [
+                        342,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

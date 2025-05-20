@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1296,
+        "width": 1297
+    },
+    "objects": [
+        {
+            "id": 1706209,
+            "classId": 4005,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:21.513Z",
+            "updatedAt": "2023-06-07T13:48:21.513Z",
+            "tags": [],
+            "classTitle": "mustard",
+            "points": {
+                "exterior": [
+                    [
+                        783,
+                        513
+                    ],
+                    [
+                        475,
+                        412
+                    ],
+                    [
+                        413,
+                        435
+                    ],
+                    [
+                        406,
+                        234
+                    ],
+                    [
+                        235,
+                        409
+                    ],
+                    [
+                        248,
+                        523
+                    ],
+                    [
+                        290,
+                        853
+                    ],
+                    [
+                        384,
+                        1045
+                    ],
+                    [
+                        539,
+                        1067
+                    ],
+                    [
+                        727,
+                        934
+                    ],
+                    [
+                        847,
+                        698
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1706207,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:21.513Z",
+            "updatedAt": "2023-06-07T13:48:21.513Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        915
+                    ],
+                    [
+                        43,
+                        1071
+                    ],
+                    [
+                        17,
+                        1281
+                    ],
+                    [
+                        494,
+                        1294
+                    ],
+                    [
+                        526,
+                        1236
+                    ],
+                    [
+                        627,
+                        1285
+                    ],
+                    [
+                        721,
+                        1171
+                    ],
+                    [
+                        695,
+                        1064
+                    ],
+                    [
+                        549,
+                        1074
+                    ],
+                    [
+                        468,
+                        1113
+                    ],
+                    [
+                        442,
+                        1058
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

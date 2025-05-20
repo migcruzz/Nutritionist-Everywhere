@@ -1,0 +1,342 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1805905,
+            "classId": 4197,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:16.346Z",
+            "updatedAt": "2023-06-07T14:57:16.346Z",
+            "tags": [],
+            "classTitle": "hamburger-bun",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        28
+                    ],
+                    [
+                        165,
+                        75
+                    ],
+                    [
+                        91,
+                        146
+                    ],
+                    [
+                        46,
+                        228
+                    ],
+                    [
+                        18,
+                        300
+                    ],
+                    [
+                        50,
+                        340
+                    ],
+                    [
+                        237,
+                        379
+                    ],
+                    [
+                        288,
+                        378
+                    ],
+                    [
+                        321,
+                        294
+                    ],
+                    [
+                        322,
+                        200
+                    ],
+                    [
+                        320,
+                        120
+                    ],
+                    [
+                        314,
+                        56
+                    ],
+                    [
+                        290,
+                        29
+                    ],
+                    [
+                        275,
+                        22
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805903,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:16.346Z",
+            "updatedAt": "2023-06-07T14:57:16.346Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        312,
+                        189
+                    ],
+                    [
+                        197,
+                        178
+                    ],
+                    [
+                        138,
+                        197
+                    ],
+                    [
+                        170,
+                        217
+                    ],
+                    [
+                        285,
+                        210
+                    ],
+                    [
+                        296,
+                        229
+                    ],
+                    [
+                        317,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805901,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:16.345Z",
+            "updatedAt": "2023-06-07T14:57:16.345Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        264
+                    ],
+                    [
+                        102,
+                        279
+                    ],
+                    [
+                        105,
+                        312
+                    ],
+                    [
+                        179,
+                        320
+                    ],
+                    [
+                        201,
+                        320
+                    ],
+                    [
+                        196,
+                        286
+                    ],
+                    [
+                        175,
+                        266
+                    ],
+                    [
+                        174,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805899,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:16.345Z",
+            "updatedAt": "2023-06-07T14:57:16.345Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        197
+                    ],
+                    [
+                        0,
+                        205
+                    ],
+                    [
+                        0,
+                        261
+                    ],
+                    [
+                        6,
+                        314
+                    ],
+                    [
+                        37,
+                        297
+                    ],
+                    [
+                        63,
+                        329
+                    ],
+                    [
+                        106,
+                        332
+                    ],
+                    [
+                        82,
+                        290
+                    ],
+                    [
+                        40,
+                        255
+                    ],
+                    [
+                        42,
+                        223
+                    ],
+                    [
+                        56,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805897,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:16.345Z",
+            "updatedAt": "2023-06-07T14:57:16.345Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        231
+                    ],
+                    [
+                        128,
+                        234
+                    ],
+                    [
+                        95,
+                        247
+                    ],
+                    [
+                        312,
+                        330
+                    ],
+                    [
+                        339,
+                        315
+                    ],
+                    [
+                        299,
+                        275
+                    ],
+                    [
+                        235,
+                        259
+                    ],
+                    [
+                        221,
+                        243
+                    ],
+                    [
+                        222,
+                        235
+                    ],
+                    [
+                        219,
+                        235
+                    ],
+                    [
+                        217,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805895,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:16.343Z",
+            "updatedAt": "2023-06-07T14:57:16.343Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        210
+                    ],
+                    [
+                        179,
+                        209
+                    ],
+                    [
+                        193,
+                        229
+                    ],
+                    [
+                        250,
+                        248
+                    ],
+                    [
+                        303,
+                        245
+                    ],
+                    [
+                        325,
+                        220
+                    ],
+                    [
+                        294,
+                        210
+                    ],
+                    [
+                        290,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

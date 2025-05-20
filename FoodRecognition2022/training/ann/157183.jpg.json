@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1656494,
+            "classId": 3797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:43.986Z",
+            "updatedAt": "2023-06-07T13:13:43.986Z",
+            "tags": [],
+            "classTitle": "braided-white-loaf",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        131
+                    ],
+                    [
+                        224,
+                        67
+                    ],
+                    [
+                        61,
+                        86
+                    ],
+                    [
+                        76,
+                        160
+                    ],
+                    [
+                        221,
+                        167
+                    ],
+                    [
+                        217,
+                        234
+                    ],
+                    [
+                        390,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656492,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:43.985Z",
+            "updatedAt": "2023-06-07T13:13:43.985Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        178
+                    ],
+                    [
+                        38,
+                        158
+                    ],
+                    [
+                        8,
+                        194
+                    ],
+                    [
+                        14,
+                        260
+                    ],
+                    [
+                        134,
+                        303
+                    ],
+                    [
+                        192,
+                        282
+                    ],
+                    [
+                        207,
+                        249
+                    ],
+                    [
+                        380,
+                        271
+                    ],
+                    [
+                        373,
+                        253
+                    ],
+                    [
+                        206,
+                        235
+                    ],
+                    [
+                        210,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

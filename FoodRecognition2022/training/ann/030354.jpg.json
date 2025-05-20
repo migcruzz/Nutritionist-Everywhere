@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1709748,
+            "classId": 4289,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:08.520Z",
+            "updatedAt": "2023-06-07T13:51:08.520Z",
+            "tags": [],
+            "classTitle": "corn-crisps",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        172
+                    ],
+                    [
+                        320,
+                        235
+                    ],
+                    [
+                        289,
+                        283
+                    ],
+                    [
+                        218,
+                        295
+                    ],
+                    [
+                        212,
+                        395
+                    ],
+                    [
+                        208,
+                        462
+                    ],
+                    [
+                        319,
+                        474
+                    ],
+                    [
+                        462,
+                        473
+                    ],
+                    [
+                        466,
+                        380
+                    ],
+                    [
+                        468,
+                        245
+                    ],
+                    [
+                        466,
+                        216
+                    ],
+                    [
+                        432,
+                        180
+                    ],
+                    [
+                        419,
+                        161
+                    ],
+                    [
+                        390,
+                        185
+                    ],
+                    [
+                        362,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709746,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:08.518Z",
+            "updatedAt": "2023-06-07T13:51:08.518Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        173
+                    ],
+                    [
+                        222,
+                        161
+                    ],
+                    [
+                        199,
+                        199
+                    ],
+                    [
+                        235,
+                        259
+                    ],
+                    [
+                        242,
+                        294
+                    ],
+                    [
+                        325,
+                        292
+                    ],
+                    [
+                        340,
+                        203
+                    ],
+                    [
+                        304,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

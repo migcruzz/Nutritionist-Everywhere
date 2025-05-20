@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1763671,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:25.549Z",
+            "updatedAt": "2023-06-07T14:28:25.549Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        227
+                    ],
+                    [
+                        190,
+                        494
+                    ],
+                    [
+                        581,
+                        703
+                    ],
+                    [
+                        642,
+                        551
+                    ],
+                    [
+                        493,
+                        494
+                    ],
+                    [
+                        493,
+                        447
+                    ],
+                    [
+                        698,
+                        428
+                    ],
+                    [
+                        683,
+                        300
+                    ],
+                    [
+                        487,
+                        227
+                    ],
+                    [
+                        369,
+                        406
+                    ],
+                    [
+                        323,
+                        379
+                    ],
+                    [
+                        284,
+                        212
+                    ],
+                    [
+                        186,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763669,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:25.549Z",
+            "updatedAt": "2023-06-07T14:28:25.549Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        212
+                    ],
+                    [
+                        325,
+                        411
+                    ],
+                    [
+                        399,
+                        402
+                    ],
+                    [
+                        487,
+                        216
+                    ],
+                    [
+                        689,
+                        263
+                    ],
+                    [
+                        726,
+                        334
+                    ],
+                    [
+                        730,
+                        170
+                    ],
+                    [
+                        591,
+                        129
+                    ],
+                    [
+                        399,
+                        129
+                    ],
+                    [
+                        312,
+                        174
+                    ],
+                    [
+                        308,
+                        174
+                    ],
+                    [
+                        288,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1679160,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:27.656Z",
+            "updatedAt": "2023-06-07T13:29:27.656Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        149,
+                        87
+                    ],
+                    [
+                        70,
+                        140
+                    ],
+                    [
+                        9,
+                        206
+                    ],
+                    [
+                        11,
+                        327
+                    ],
+                    [
+                        50,
+                        361
+                    ],
+                    [
+                        152,
+                        351
+                    ],
+                    [
+                        373,
+                        324
+                    ],
+                    [
+                        390,
+                        289
+                    ],
+                    [
+                        393,
+                        172
+                    ],
+                    [
+                        325,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

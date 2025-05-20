@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1753625,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:01.452Z",
+            "updatedAt": "2023-06-07T14:22:01.452Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        289
+                    ],
+                    [
+                        254,
+                        648
+                    ],
+                    [
+                        662,
+                        648
+                    ],
+                    [
+                        551,
+                        546
+                    ],
+                    [
+                        603,
+                        360
+                    ],
+                    [
+                        714,
+                        259
+                    ],
+                    [
+                        499,
+                        209
+                    ],
+                    [
+                        264,
+                        207
+                    ],
+                    [
+                        190,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753623,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:01.451Z",
+            "updatedAt": "2023-06-07T14:22:01.451Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        289
+                    ],
+                    [
+                        261,
+                        695
+                    ],
+                    [
+                        662,
+                        648
+                    ],
+                    [
+                        532,
+                        525
+                    ],
+                    [
+                        686,
+                        301
+                    ],
+                    [
+                        711,
+                        275
+                    ],
+                    [
+                        506,
+                        223
+                    ],
+                    [
+                        261,
+                        223
+                    ],
+                    [
+                        221,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1752731,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:28.089Z",
+            "updatedAt": "2023-06-07T14:21:28.089Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        343
+                    ],
+                    [
+                        114,
+                        318
+                    ],
+                    [
+                        124,
+                        282
+                    ],
+                    [
+                        90,
+                        272
+                    ],
+                    [
+                        60,
+                        290
+                    ],
+                    [
+                        49,
+                        321
+                    ],
+                    [
+                        65,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

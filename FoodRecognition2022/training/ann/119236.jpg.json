@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 802,
+        "width": 801
+    },
+    "objects": [
+        {
+            "id": 1791755,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:27.241Z",
+            "updatedAt": "2023-06-07T14:47:27.241Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        336
+                    ],
+                    [
+                        186,
+                        328
+                    ],
+                    [
+                        129,
+                        384
+                    ],
+                    [
+                        69,
+                        464
+                    ],
+                    [
+                        101,
+                        554
+                    ],
+                    [
+                        150,
+                        560
+                    ],
+                    [
+                        328,
+                        645
+                    ],
+                    [
+                        430,
+                        631
+                    ],
+                    [
+                        480,
+                        566
+                    ],
+                    [
+                        474,
+                        510
+                    ],
+                    [
+                        414,
+                        430
+                    ],
+                    [
+                        384,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1791753,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:27.241Z",
+            "updatedAt": "2023-06-07T14:47:27.241Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        428,
+                        191
+                    ],
+                    [
+                        370,
+                        161
+                    ],
+                    [
+                        424,
+                        99
+                    ],
+                    [
+                        390,
+                        99
+                    ],
+                    [
+                        328,
+                        139
+                    ],
+                    [
+                        180,
+                        115
+                    ],
+                    [
+                        166,
+                        173
+                    ],
+                    [
+                        117,
+                        218
+                    ],
+                    [
+                        81,
+                        284
+                    ],
+                    [
+                        125,
+                        324
+                    ],
+                    [
+                        390,
+                        334
+                    ],
+                    [
+                        406,
+                        250
+                    ],
+                    [
+                        430,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1791751,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:27.240Z",
+            "updatedAt": "2023-06-07T14:47:27.240Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        725,
+                        310
+                    ],
+                    [
+                        671,
+                        248
+                    ],
+                    [
+                        629,
+                        218
+                    ],
+                    [
+                        510,
+                        238
+                    ],
+                    [
+                        484,
+                        290
+                    ],
+                    [
+                        490,
+                        342
+                    ],
+                    [
+                        545,
+                        394
+                    ],
+                    [
+                        629,
+                        424
+                    ],
+                    [
+                        693,
+                        410
+                    ],
+                    [
+                        729,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

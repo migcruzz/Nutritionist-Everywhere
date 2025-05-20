@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1768385,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:37.527Z",
+            "updatedAt": "2023-06-07T14:31:37.527Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        38
+                    ],
+                    [
+                        143,
+                        478
+                    ],
+                    [
+                        246,
+                        476
+                    ],
+                    [
+                        213,
+                        27
+                    ],
+                    [
+                        113,
+                        37
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

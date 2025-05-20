@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 749,
+        "width": 751
+    },
+    "objects": [
+        {
+            "id": 1640446,
+            "classId": 3961,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:07.498Z",
+            "updatedAt": "2023-06-07T13:03:07.498Z",
+            "tags": [],
+            "classTitle": "bread-olive",
+            "points": {
+                "exterior": [
+                    [
+                        586,
+                        420
+                    ],
+                    [
+                        165,
+                        392
+                    ],
+                    [
+                        24,
+                        366
+                    ],
+                    [
+                        77,
+                        424
+                    ],
+                    [
+                        234,
+                        437
+                    ],
+                    [
+                        554,
+                        428
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640444,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:07.498Z",
+            "updatedAt": "2023-06-07T13:03:07.498Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        124
+                    ],
+                    [
+                        37,
+                        347
+                    ],
+                    [
+                        704,
+                        439
+                    ],
+                    [
+                        679,
+                        90
+                    ],
+                    [
+                        195,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1698269,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:28.782Z",
+            "updatedAt": "2023-06-07T13:42:28.782Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        166
+                    ],
+                    [
+                        364,
+                        122
+                    ],
+                    [
+                        271,
+                        122
+                    ],
+                    [
+                        181,
+                        184
+                    ],
+                    [
+                        160,
+                        166
+                    ],
+                    [
+                        129,
+                        222
+                    ],
+                    [
+                        60,
+                        219
+                    ],
+                    [
+                        9,
+                        256
+                    ],
+                    [
+                        31,
+                        459
+                    ],
+                    [
+                        195,
+                        464
+                    ],
+                    [
+                        445,
+                        474
+                    ],
+                    [
+                        467,
+                        463
+                    ],
+                    [
+                        468,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1698267,
+            "classId": 3529,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:28.781Z",
+            "updatedAt": "2023-06-07T13:42:28.781Z",
+            "tags": [],
+            "classTitle": "sausage",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        158
+                    ],
+                    [
+                        336,
+                        63
+                    ],
+                    [
+                        190,
+                        63
+                    ],
+                    [
+                        95,
+                        116
+                    ],
+                    [
+                        39,
+                        166
+                    ],
+                    [
+                        37,
+                        260
+                    ],
+                    [
+                        115,
+                        274
+                    ],
+                    [
+                        177,
+                        154
+                    ],
+                    [
+                        186,
+                        220
+                    ],
+                    [
+                        168,
+                        260
+                    ],
+                    [
+                        255,
+                        212
+                    ],
+                    [
+                        209,
+                        194
+                    ],
+                    [
+                        235,
+                        164
+                    ],
+                    [
+                        263,
+                        158
+                    ],
+                    [
+                        276,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1698265,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:28.781Z",
+            "updatedAt": "2023-06-07T13:42:28.781Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        57
+                    ],
+                    [
+                        295,
+                        133
+                    ],
+                    [
+                        475,
+                        145
+                    ],
+                    [
+                        441,
+                        67
+                    ],
+                    [
+                        366,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,542 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 815,
+        "width": 814
+    },
+    "objects": [
+        {
+            "id": 1705327,
+            "classId": 3529,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.163Z",
+            "updatedAt": "2023-06-07T13:47:40.163Z",
+            "tags": [],
+            "classTitle": "sausage",
+            "points": {
+                "exterior": [
+                    [
+                        538,
+                        191
+                    ],
+                    [
+                        393,
+                        224
+                    ],
+                    [
+                        371,
+                        242
+                    ],
+                    [
+                        479,
+                        277
+                    ],
+                    [
+                        554,
+                        246
+                    ],
+                    [
+                        585,
+                        230
+                    ],
+                    [
+                        575,
+                        193
+                    ],
+                    [
+                        542,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705325,
+            "classId": 3579,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.162Z",
+            "updatedAt": "2023-06-07T13:47:40.162Z",
+            "tags": [],
+            "classTitle": "bacon",
+            "points": {
+                "exterior": [
+                    [
+                        503,
+                        187
+                    ],
+                    [
+                        432,
+                        220
+                    ],
+                    [
+                        469,
+                        266
+                    ],
+                    [
+                        505,
+                        285
+                    ],
+                    [
+                        540,
+                        305
+                    ],
+                    [
+                        540,
+                        246
+                    ],
+                    [
+                        538,
+                        211
+                    ],
+                    [
+                        518,
+                        189
+                    ],
+                    [
+                        511,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705323,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.162Z",
+            "updatedAt": "2023-06-07T13:47:40.162Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        378
+                    ],
+                    [
+                        460,
+                        344
+                    ],
+                    [
+                        393,
+                        352
+                    ],
+                    [
+                        346,
+                        317
+                    ],
+                    [
+                        308,
+                        340
+                    ],
+                    [
+                        297,
+                        421
+                    ],
+                    [
+                        255,
+                        497
+                    ],
+                    [
+                        279,
+                        529
+                    ],
+                    [
+                        361,
+                        568
+                    ],
+                    [
+                        420,
+                        607
+                    ],
+                    [
+                        540,
+                        619
+                    ],
+                    [
+                        603,
+                        558
+                    ],
+                    [
+                        628,
+                        515
+                    ],
+                    [
+                        607,
+                        464
+                    ],
+                    [
+                        579,
+                        423
+                    ],
+                    [
+                        540,
+                        407
+                    ],
+                    [
+                        509,
+                        376
+                    ],
+                    [
+                        497,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705321,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.162Z",
+            "updatedAt": "2023-06-07T13:47:40.162Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        378
+                    ],
+                    [
+                        355,
+                        344
+                    ],
+                    [
+                        342,
+                        438
+                    ],
+                    [
+                        367,
+                        468
+                    ],
+                    [
+                        377,
+                        397
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705320,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.161Z",
+            "updatedAt": "2023-06-07T13:47:40.161Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        646,
+                        462
+                    ],
+                    [
+                        611,
+                        480
+                    ],
+                    [
+                        638,
+                        513
+                    ],
+                    [
+                        672,
+                        503
+                    ],
+                    [
+                        648,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705319,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.161Z",
+            "updatedAt": "2023-06-07T13:47:40.161Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        544,
+                        548
+                    ],
+                    [
+                        485,
+                        525
+                    ],
+                    [
+                        505,
+                        609
+                    ],
+                    [
+                        495,
+                        647
+                    ],
+                    [
+                        560,
+                        670
+                    ],
+                    [
+                        558,
+                        625
+                    ],
+                    [
+                        585,
+                        619
+                    ],
+                    [
+                        621,
+                        607
+                    ],
+                    [
+                        638,
+                        568
+                    ],
+                    [
+                        558,
+                        566
+                    ],
+                    [
+                        548,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705317,
+            "classId": 3943,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.160Z",
+            "updatedAt": "2023-06-07T13:47:40.160Z",
+            "tags": [],
+            "classTitle": "sweet-corn-canned",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        352
+                    ],
+                    [
+                        393,
+                        358
+                    ],
+                    [
+                        377,
+                        393
+                    ],
+                    [
+                        377,
+                        413
+                    ],
+                    [
+                        395,
+                        419
+                    ],
+                    [
+                        418,
+                        385
+                    ],
+                    [
+                        438,
+                        393
+                    ],
+                    [
+                        456,
+                        358
+                    ],
+                    [
+                        454,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705316,
+            "classId": 3943,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.160Z",
+            "updatedAt": "2023-06-07T13:47:40.160Z",
+            "tags": [],
+            "classTitle": "sweet-corn-canned",
+            "points": {
+                "exterior": [
+                    [
+                        481,
+                        476
+                    ],
+                    [
+                        440,
+                        497
+                    ],
+                    [
+                        473,
+                        515
+                    ],
+                    [
+                        501,
+                        511
+                    ],
+                    [
+                        530,
+                        521
+                    ],
+                    [
+                        546,
+                        505
+                    ],
+                    [
+                        534,
+                        476
+                    ],
+                    [
+                        489,
+                        476
+                    ],
+                    [
+                        479,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705315,
+            "classId": 3943,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.160Z",
+            "updatedAt": "2023-06-07T13:47:40.160Z",
+            "tags": [],
+            "classTitle": "sweet-corn-canned",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        472
+                    ],
+                    [
+                        355,
+                        450
+                    ],
+                    [
+                        346,
+                        495
+                    ],
+                    [
+                        381,
+                        497
+                    ],
+                    [
+                        387,
+                        480
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705313,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:40.159Z",
+            "updatedAt": "2023-06-07T13:47:40.159Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        222
+                    ],
+                    [
+                        116,
+                        191
+                    ],
+                    [
+                        84,
+                        291
+                    ],
+                    [
+                        16,
+                        275
+                    ],
+                    [
+                        16,
+                        348
+                    ],
+                    [
+                        124,
+                        450
+                    ],
+                    [
+                        210,
+                        552
+                    ],
+                    [
+                        238,
+                        639
+                    ],
+                    [
+                        300,
+                        656
+                    ],
+                    [
+                        324,
+                        625
+                    ],
+                    [
+                        371,
+                        631
+                    ],
+                    [
+                        322,
+                        478
+                    ],
+                    [
+                        218,
+                        350
+                    ],
+                    [
+                        159,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1738554,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:34.356Z",
+            "updatedAt": "2023-06-07T14:11:34.356Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        301
+                    ],
+                    [
+                        225,
+                        297
+                    ],
+                    [
+                        256,
+                        316
+                    ],
+                    [
+                        261,
+                        362
+                    ],
+                    [
+                        240,
+                        397
+                    ],
+                    [
+                        202,
+                        410
+                    ],
+                    [
+                        163,
+                        399
+                    ],
+                    [
+                        128,
+                        376
+                    ],
+                    [
+                        110,
+                        346
+                    ],
+                    [
+                        92,
+                        327
+                    ],
+                    [
+                        80,
+                        288
+                    ],
+                    [
+                        88,
+                        261
+                    ],
+                    [
+                        116,
+                        260
+                    ],
+                    [
+                        140,
+                        272
+                    ],
+                    [
+                        153,
+                        283
+                    ],
+                    [
+                        178,
+                        283
+                    ],
+                    [
+                        182,
+                        288
+                    ],
+                    [
+                        180,
+                        295
+                    ],
+                    [
+                        180,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738552,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:34.356Z",
+            "updatedAt": "2023-06-07T14:11:34.356Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        21
+                    ],
+                    [
+                        297,
+                        21
+                    ],
+                    [
+                        296,
+                        56
+                    ],
+                    [
+                        277,
+                        25
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738550,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:34.356Z",
+            "updatedAt": "2023-06-07T14:11:34.356Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        22
+                    ],
+                    [
+                        169,
+                        192
+                    ],
+                    [
+                        183,
+                        254
+                    ],
+                    [
+                        236,
+                        301
+                    ],
+                    [
+                        264,
+                        306
+                    ],
+                    [
+                        295,
+                        258
+                    ],
+                    [
+                        333,
+                        213
+                    ],
+                    [
+                        322,
+                        102
+                    ],
+                    [
+                        282,
+                        48
+                    ],
+                    [
+                        241,
+                        19
+                    ],
+                    [
+                        217,
+                        9
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738548,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:34.356Z",
+            "updatedAt": "2023-06-07T14:11:34.356Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        20
+                    ],
+                    [
+                        292,
+                        27
+                    ],
+                    [
+                        295,
+                        58
+                    ],
+                    [
+                        271,
+                        33
+                    ],
+                    [
+                        268,
+                        31
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

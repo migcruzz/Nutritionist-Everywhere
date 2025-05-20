@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1100,
+        "width": 1101
+    },
+    "objects": [
+        {
+            "id": 1639655,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:35.256Z",
+            "updatedAt": "2023-06-07T13:02:35.256Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        391
+                    ],
+                    [
+                        183,
+                        419
+                    ],
+                    [
+                        183,
+                        570
+                    ],
+                    [
+                        221,
+                        664
+                    ],
+                    [
+                        375,
+                        689
+                    ],
+                    [
+                        414,
+                        631
+                    ],
+                    [
+                        425,
+                        562
+                    ],
+                    [
+                        353,
+                        419
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639653,
+            "classId": 3997,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:35.256Z",
+            "updatedAt": "2023-06-07T13:02:35.256Z",
+            "tags": [],
+            "classTitle": "red-radish",
+            "points": {
+                "exterior": [
+                    [
+                        571,
+                        416
+                    ],
+                    [
+                        408,
+                        402
+                    ],
+                    [
+                        370,
+                        463
+                    ],
+                    [
+                        428,
+                        570
+                    ],
+                    [
+                        513,
+                        622
+                    ],
+                    [
+                        494,
+                        677
+                    ],
+                    [
+                        480,
+                        785
+                    ],
+                    [
+                        378,
+                        782
+                    ],
+                    [
+                        309,
+                        815
+                    ],
+                    [
+                        304,
+                        867
+                    ],
+                    [
+                        496,
+                        892
+                    ],
+                    [
+                        645,
+                        823
+                    ],
+                    [
+                        672,
+                        782
+                    ],
+                    [
+                        678,
+                        658
+                    ],
+                    [
+                        717,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

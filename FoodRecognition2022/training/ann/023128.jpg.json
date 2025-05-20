@@ -1,0 +1,230 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1718091,
+            "classId": 4007,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:14.213Z",
+            "updatedAt": "2023-06-07T13:57:14.213Z",
+            "tags": [],
+            "classTitle": "country-fries",
+            "points": {
+                "exterior": [
+                    [
+                        862,
+                        339
+                    ],
+                    [
+                        730,
+                        294
+                    ],
+                    [
+                        509,
+                        391
+                    ],
+                    [
+                        436,
+                        360
+                    ],
+                    [
+                        370,
+                        544
+                    ],
+                    [
+                        146,
+                        605
+                    ],
+                    [
+                        183,
+                        815
+                    ],
+                    [
+                        242,
+                        806
+                    ],
+                    [
+                        344,
+                        726
+                    ],
+                    [
+                        412,
+                        754
+                    ],
+                    [
+                        457,
+                        803
+                    ],
+                    [
+                        565,
+                        789
+                    ],
+                    [
+                        714,
+                        777
+                    ],
+                    [
+                        787,
+                        721
+                    ],
+                    [
+                        860,
+                        551
+                    ],
+                    [
+                        862,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1718089,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:14.212Z",
+            "updatedAt": "2023-06-07T13:57:14.212Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        457,
+                        124
+                    ],
+                    [
+                        433,
+                        450
+                    ],
+                    [
+                        212,
+                        561
+                    ],
+                    [
+                        35,
+                        513
+                    ],
+                    [
+                        2,
+                        252
+                    ],
+                    [
+                        11,
+                        70
+                    ],
+                    [
+                        165,
+                        16
+                    ],
+                    [
+                        311,
+                        4
+                    ],
+                    [
+                        388,
+                        66
+                    ],
+                    [
+                        452,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1718087,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:14.211Z",
+            "updatedAt": "2023-06-07T13:57:14.211Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        355
+                    ],
+                    [
+                        280,
+                        438
+                    ],
+                    [
+                        299,
+                        521
+                    ],
+                    [
+                        396,
+                        528
+                    ],
+                    [
+                        433,
+                        419
+                    ],
+                    [
+                        400,
+                        360
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1718085,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:14.210Z",
+            "updatedAt": "2023-06-07T13:57:14.210Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        690
+                    ],
+                    [
+                        297,
+                        806
+                    ],
+                    [
+                        412,
+                        848
+                    ],
+                    [
+                        464,
+                        803
+                    ],
+                    [
+                        462,
+                        723
+                    ],
+                    [
+                        433,
+                        681
+                    ],
+                    [
+                        355,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

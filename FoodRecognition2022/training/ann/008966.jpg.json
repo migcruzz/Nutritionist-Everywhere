@@ -1,0 +1,386 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1704889,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:19.788Z",
+            "updatedAt": "2023-06-07T13:47:19.788Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        149,
+                        216
+                    ],
+                    [
+                        127,
+                        198
+                    ],
+                    [
+                        58,
+                        212
+                    ],
+                    [
+                        45,
+                        266
+                    ],
+                    [
+                        19,
+                        279
+                    ],
+                    [
+                        34,
+                        319
+                    ],
+                    [
+                        45,
+                        355
+                    ],
+                    [
+                        99,
+                        406
+                    ],
+                    [
+                        132,
+                        397
+                    ],
+                    [
+                        132,
+                        366
+                    ],
+                    [
+                        137,
+                        309
+                    ],
+                    [
+                        157,
+                        232
+                    ],
+                    [
+                        153,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704887,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:19.788Z",
+            "updatedAt": "2023-06-07T13:47:19.788Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        280
+                    ],
+                    [
+                        145,
+                        319
+                    ],
+                    [
+                        149,
+                        375
+                    ],
+                    [
+                        174,
+                        411
+                    ],
+                    [
+                        277,
+                        412
+                    ],
+                    [
+                        292,
+                        363
+                    ],
+                    [
+                        263,
+                        327
+                    ],
+                    [
+                        245,
+                        331
+                    ],
+                    [
+                        204,
+                        285
+                    ],
+                    [
+                        191,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704885,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:19.787Z",
+            "updatedAt": "2023-06-07T13:47:19.787Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        232
+                    ],
+                    [
+                        213,
+                        276
+                    ],
+                    [
+                        246,
+                        304
+                    ],
+                    [
+                        305,
+                        336
+                    ],
+                    [
+                        310,
+                        379
+                    ],
+                    [
+                        384,
+                        360
+                    ],
+                    [
+                        432,
+                        284
+                    ],
+                    [
+                        439,
+                        264
+                    ],
+                    [
+                        358,
+                        261
+                    ],
+                    [
+                        294,
+                        279
+                    ],
+                    [
+                        288,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704883,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:19.786Z",
+            "updatedAt": "2023-06-07T13:47:19.786Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        277
+                    ],
+                    [
+                        385,
+                        208
+                    ],
+                    [
+                        355,
+                        189
+                    ],
+                    [
+                        312,
+                        220
+                    ],
+                    [
+                        283,
+                        237
+                    ],
+                    [
+                        317,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704881,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:19.785Z",
+            "updatedAt": "2023-06-07T13:47:19.785Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        71,
+                        205
+                    ],
+                    [
+                        207,
+                        199
+                    ],
+                    [
+                        233,
+                        180
+                    ],
+                    [
+                        273,
+                        183
+                    ],
+                    [
+                        251,
+                        133
+                    ],
+                    [
+                        234,
+                        138
+                    ],
+                    [
+                        214,
+                        146
+                    ],
+                    [
+                        202,
+                        154
+                    ],
+                    [
+                        193,
+                        135
+                    ],
+                    [
+                        154,
+                        129
+                    ],
+                    [
+                        148,
+                        157
+                    ],
+                    [
+                        58,
+                        170
+                    ],
+                    [
+                        66,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704879,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:19.785Z",
+            "updatedAt": "2023-06-07T13:47:19.785Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        133
+                    ],
+                    [
+                        249,
+                        120
+                    ],
+                    [
+                        175,
+                        126
+                    ],
+                    [
+                        190,
+                        151
+                    ],
+                    [
+                        209,
+                        157
+                    ],
+                    [
+                        235,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704877,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:19.783Z",
+            "updatedAt": "2023-06-07T13:47:19.783Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        213
+                    ],
+                    [
+                        203,
+                        272
+                    ],
+                    [
+                        306,
+                        222
+                    ],
+                    [
+                        336,
+                        190
+                    ],
+                    [
+                        209,
+                        193
+                    ],
+                    [
+                        184,
+                        201
+                    ],
+                    [
+                        189,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

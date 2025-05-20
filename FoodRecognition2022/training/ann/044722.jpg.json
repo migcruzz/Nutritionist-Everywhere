@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1798573,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:17.353Z",
+            "updatedAt": "2023-06-07T14:52:17.353Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        302
+                    ],
+                    [
+                        456,
+                        478
+                    ],
+                    [
+                        786,
+                        536
+                    ],
+                    [
+                        789,
+                        378
+                    ],
+                    [
+                        730,
+                        229
+                    ],
+                    [
+                        538,
+                        149
+                    ],
+                    [
+                        329,
+                        217
+                    ],
+                    [
+                        249,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798571,
+            "classId": 4309,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:17.352Z",
+            "updatedAt": "2023-06-07T14:52:17.352Z",
+            "tags": [],
+            "classTitle": "peas",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        337
+                    ],
+                    [
+                        456,
+                        485
+                    ],
+                    [
+                        426,
+                        543
+                    ],
+                    [
+                        263,
+                        517
+                    ],
+                    [
+                        259,
+                        675
+                    ],
+                    [
+                        190,
+                        662
+                    ],
+                    [
+                        117,
+                        463
+                    ],
+                    [
+                        251,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798569,
+            "classId": 4013,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:17.352Z",
+            "updatedAt": "2023-06-07T14:52:17.352Z",
+            "tags": [],
+            "classTitle": "chicken-cut-into-stripes-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        526
+                    ],
+                    [
+                        256,
+                        667
+                    ],
+                    [
+                        373,
+                        784
+                    ],
+                    [
+                        657,
+                        748
+                    ],
+                    [
+                        774,
+                        572
+                    ],
+                    [
+                        453,
+                        482
+                    ],
+                    [
+                        390,
+                        553
+                    ],
+                    [
+                        249,
+                        519
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798567,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:17.352Z",
+            "updatedAt": "2023-06-07T14:52:17.352Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        553
+                    ],
+                    [
+                        290,
+                        731
+                    ],
+                    [
+                        431,
+                        806
+                    ],
+                    [
+                        655,
+                        701
+                    ],
+                    [
+                        502,
+                        473
+                    ],
+                    [
+                        293,
+                        560
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1767202,
+            "classId": 4165,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:50.096Z",
+            "updatedAt": "2023-06-07T14:30:50.096Z",
+            "tags": [],
+            "classTitle": "apple-pie",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        73
+                    ],
+                    [
+                        69,
+                        165
+                    ],
+                    [
+                        104,
+                        234
+                    ],
+                    [
+                        371,
+                        398
+                    ],
+                    [
+                        372,
+                        335
+                    ],
+                    [
+                        296,
+                        216
+                    ],
+                    [
+                        225,
+                        77
+                    ],
+                    [
+                        216,
+                        73
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767200,
+            "classId": 4165,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:50.094Z",
+            "updatedAt": "2023-06-07T14:30:50.094Z",
+            "tags": [],
+            "classTitle": "apple-pie",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        76
+                    ],
+                    [
+                        63,
+                        164
+                    ],
+                    [
+                        99,
+                        231
+                    ],
+                    [
+                        362,
+                        393
+                    ],
+                    [
+                        382,
+                        350
+                    ],
+                    [
+                        293,
+                        204
+                    ],
+                    [
+                        221,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

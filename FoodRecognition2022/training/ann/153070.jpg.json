@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 773,
+        "width": 771
+    },
+    "objects": [
+        {
+            "id": 1778557,
+            "classId": 3793,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:17.338Z",
+            "updatedAt": "2023-06-07T14:38:17.338Z",
+            "tags": [],
+            "classTitle": "juice-orange",
+            "points": {
+                "exterior": [
+                    [
+                        649,
+                        565
+                    ],
+                    [
+                        598,
+                        562
+                    ],
+                    [
+                        568,
+                        553
+                    ],
+                    [
+                        517,
+                        526
+                    ],
+                    [
+                        506,
+                        516
+                    ],
+                    [
+                        505,
+                        504
+                    ],
+                    [
+                        522,
+                        487
+                    ],
+                    [
+                        555,
+                        473
+                    ],
+                    [
+                        575,
+                        470
+                    ],
+                    [
+                        639,
+                        472
+                    ],
+                    [
+                        668,
+                        481
+                    ],
+                    [
+                        702,
+                        500
+                    ],
+                    [
+                        723,
+                        525
+                    ],
+                    [
+                        730,
+                        542
+                    ],
+                    [
+                        725,
+                        550
+                    ],
+                    [
+                        711,
+                        556
+                    ],
+                    [
+                        685,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778555,
+            "classId": 3729,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:17.336Z",
+            "updatedAt": "2023-06-07T14:38:17.336Z",
+            "tags": [],
+            "classTitle": "tea-green",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        393
+                    ],
+                    [
+                        206,
+                        362
+                    ],
+                    [
+                        81,
+                        436
+                    ],
+                    [
+                        146,
+                        521
+                    ],
+                    [
+                        287,
+                        517
+                    ],
+                    [
+                        419,
+                        449
+                    ],
+                    [
+                        380,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

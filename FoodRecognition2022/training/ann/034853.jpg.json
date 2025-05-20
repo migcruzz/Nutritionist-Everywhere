@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1747695,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.920Z",
+            "updatedAt": "2023-06-07T14:18:02.920Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        28
+                    ],
+                    [
+                        229,
+                        131
+                    ],
+                    [
+                        139,
+                        276
+                    ],
+                    [
+                        10,
+                        226
+                    ],
+                    [
+                        37,
+                        45
+                    ],
+                    [
+                        88,
+                        7
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747693,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.919Z",
+            "updatedAt": "2023-06-07T14:18:02.919Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        133
+                    ],
+                    [
+                        155,
+                        228
+                    ],
+                    [
+                        186,
+                        275
+                    ],
+                    [
+                        391,
+                        198
+                    ],
+                    [
+                        353,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747691,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.919Z",
+            "updatedAt": "2023-06-07T14:18:02.919Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        376
+                    ],
+                    [
+                        111,
+                        383
+                    ],
+                    [
+                        90,
+                        306
+                    ],
+                    [
+                        191,
+                        294
+                    ],
+                    [
+                        197,
+                        333
+                    ],
+                    [
+                        197,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747689,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.918Z",
+            "updatedAt": "2023-06-07T14:18:02.918Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        235
+                    ],
+                    [
+                        256,
+                        385
+                    ],
+                    [
+                        310,
+                        400
+                    ],
+                    [
+                        444,
+                        298
+                    ],
+                    [
+                        353,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1780462,
+            "classId": 3795,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.078Z",
+            "updatedAt": "2023-06-07T14:39:54.078Z",
+            "tags": [],
+            "classTitle": "ice-cubes",
+            "points": {
+                "exterior": [
+                    [
+                        435,
+                        176
+                    ],
+                    [
+                        293,
+                        157
+                    ],
+                    [
+                        291,
+                        206
+                    ],
+                    [
+                        360,
+                        231
+                    ],
+                    [
+                        425,
+                        226
+                    ],
+                    [
+                        438,
+                        178
+                    ],
+                    [
+                        437,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780460,
+            "classId": 4047,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.077Z",
+            "updatedAt": "2023-06-07T14:39:54.077Z",
+            "tags": [],
+            "classTitle": "pistachio",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        271
+                    ],
+                    [
+                        89,
+                        358
+                    ],
+                    [
+                        181,
+                        358
+                    ],
+                    [
+                        187,
+                        271
+                    ],
+                    [
+                        108,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

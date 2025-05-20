@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 820,
+        "width": 820
+    },
+    "objects": [
+        {
+            "id": 1727407,
+            "classId": 3735,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:51.273Z",
+            "updatedAt": "2023-06-07T14:03:51.273Z",
+            "tags": [],
+            "classTitle": "garlic",
+            "points": {
+                "exterior": [
+                    [
+                        510,
+                        67
+                    ],
+                    [
+                        428,
+                        59
+                    ],
+                    [
+                        334,
+                        134
+                    ],
+                    [
+                        330,
+                        212
+                    ],
+                    [
+                        412,
+                        212
+                    ],
+                    [
+                        500,
+                        182
+                    ],
+                    [
+                        514,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1727406,
+            "classId": 3735,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:51.273Z",
+            "updatedAt": "2023-06-07T14:03:51.273Z",
+            "tags": [],
+            "classTitle": "garlic",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        155
+                    ],
+                    [
+                        145,
+                        130
+                    ],
+                    [
+                        59,
+                        216
+                    ],
+                    [
+                        100,
+                        319
+                    ],
+                    [
+                        168,
+                        335
+                    ],
+                    [
+                        256,
+                        311
+                    ],
+                    [
+                        284,
+                        231
+                    ],
+                    [
+                        282,
+                        210
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

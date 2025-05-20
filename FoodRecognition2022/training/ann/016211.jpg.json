@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1753978,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:16.448Z",
+            "updatedAt": "2023-06-07T14:22:16.448Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        221
+                    ],
+                    [
+                        92,
+                        257
+                    ],
+                    [
+                        82,
+                        348
+                    ],
+                    [
+                        172,
+                        429
+                    ],
+                    [
+                        243,
+                        462
+                    ],
+                    [
+                        229,
+                        344
+                    ],
+                    [
+                        205,
+                        263
+                    ],
+                    [
+                        177,
+                        240
+                    ],
+                    [
+                        161,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753976,
+            "classId": 4083,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:16.447Z",
+            "updatedAt": "2023-06-07T14:22:16.447Z",
+            "tags": [],
+            "classTitle": "quinoa",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        153
+                    ],
+                    [
+                        228,
+                        158
+                    ],
+                    [
+                        190,
+                        197
+                    ],
+                    [
+                        184,
+                        228
+                    ],
+                    [
+                        222,
+                        279
+                    ],
+                    [
+                        246,
+                        353
+                    ],
+                    [
+                        293,
+                        399
+                    ],
+                    [
+                        355,
+                        373
+                    ],
+                    [
+                        389,
+                        323
+                    ],
+                    [
+                        417,
+                        264
+                    ],
+                    [
+                        417,
+                        219
+                    ],
+                    [
+                        356,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753974,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:16.446Z",
+            "updatedAt": "2023-06-07T14:22:16.446Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        191
+                    ],
+                    [
+                        243,
+                        257
+                    ],
+                    [
+                        290,
+                        290
+                    ],
+                    [
+                        344,
+                        270
+                    ],
+                    [
+                        349,
+                        217
+                    ],
+                    [
+                        305,
+                        246
+                    ],
+                    [
+                        279,
+                        251
+                    ],
+                    [
+                        267,
+                        233
+                    ],
+                    [
+                        287,
+                        186
+                    ],
+                    [
+                        264,
+                        171
+                    ],
+                    [
+                        243,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

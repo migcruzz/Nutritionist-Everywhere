@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1674850,
+            "classId": 4043,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:31.011Z",
+            "updatedAt": "2023-06-07T13:26:31.011Z",
+            "tags": [],
+            "classTitle": "tete-de-moine",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        365
+                    ],
+                    [
+                        90,
+                        319
+                    ],
+                    [
+                        66,
+                        405
+                    ],
+                    [
+                        149,
+                        445
+                    ],
+                    [
+                        285,
+                        455
+                    ],
+                    [
+                        331,
+                        435
+                    ],
+                    [
+                        368,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1674848,
+            "classId": 3957,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:31.011Z",
+            "updatedAt": "2023-06-07T13:26:31.011Z",
+            "tags": [],
+            "classTitle": "fennel",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        141
+                    ],
+                    [
+                        370,
+                        39
+                    ],
+                    [
+                        270,
+                        106
+                    ],
+                    [
+                        293,
+                        186
+                    ],
+                    [
+                        274,
+                        217
+                    ],
+                    [
+                        173,
+                        231
+                    ],
+                    [
+                        55,
+                        262
+                    ],
+                    [
+                        149,
+                        322
+                    ],
+                    [
+                        241,
+                        338
+                    ],
+                    [
+                        325,
+                        352
+                    ],
+                    [
+                        388,
+                        325
+                    ],
+                    [
+                        402,
+                        269
+                    ],
+                    [
+                        399,
+                        189
+                    ],
+                    [
+                        437,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1674846,
+            "classId": 3695,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:31.010Z",
+            "updatedAt": "2023-06-07T13:26:31.010Z",
+            "tags": [],
+            "classTitle": "cod",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        199
+                    ],
+                    [
+                        65,
+                        247
+                    ],
+                    [
+                        48,
+                        95
+                    ],
+                    [
+                        137,
+                        45
+                    ],
+                    [
+                        228,
+                        88
+                    ],
+                    [
+                        260,
+                        143
+                    ],
+                    [
+                        261,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

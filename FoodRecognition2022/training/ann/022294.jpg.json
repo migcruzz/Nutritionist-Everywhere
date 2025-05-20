@@ -1,0 +1,222 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1668214,
+            "classId": 4361,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:58.394Z",
+            "updatedAt": "2023-06-07T13:21:58.394Z",
+            "tags": [],
+            "classTitle": "fig-dried",
+            "points": {
+                "exterior": [
+                    [
+                        662,
+                        393
+                    ],
+                    [
+                        570,
+                        483
+                    ],
+                    [
+                        596,
+                        558
+                    ],
+                    [
+                        721,
+                        631
+                    ],
+                    [
+                        756,
+                        631
+                    ],
+                    [
+                        756,
+                        605
+                    ],
+                    [
+                        803,
+                        544
+                    ],
+                    [
+                        799,
+                        436
+                    ],
+                    [
+                        737,
+                        384
+                    ],
+                    [
+                        660,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668212,
+            "classId": 3809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:58.394Z",
+            "updatedAt": "2023-06-07T13:21:58.394Z",
+            "tags": [],
+            "classTitle": "hazelnut",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        615
+                    ],
+                    [
+                        195,
+                        634
+                    ],
+                    [
+                        212,
+                        697
+                    ],
+                    [
+                        304,
+                        697
+                    ],
+                    [
+                        301,
+                        641
+                    ],
+                    [
+                        266,
+                        627
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668210,
+            "classId": 3675,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:58.393Z",
+            "updatedAt": "2023-06-07T13:21:58.393Z",
+            "tags": [],
+            "classTitle": "dried-raisins",
+            "points": {
+                "exterior": [
+                    [
+                        572,
+                        733
+                    ],
+                    [
+                        648,
+                        754
+                    ],
+                    [
+                        693,
+                        719
+                    ],
+                    [
+                        693,
+                        669
+                    ],
+                    [
+                        608,
+                        671
+                    ],
+                    [
+                        572,
+                        728
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668208,
+            "classId": 3493,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:58.392Z",
+            "updatedAt": "2023-06-07T13:21:58.392Z",
+            "tags": [],
+            "classTitle": "almonds",
+            "points": {
+                "exterior": [
+                    [
+                        447,
+                        921
+                    ],
+                    [
+                        478,
+                        853
+                    ],
+                    [
+                        554,
+                        841
+                    ],
+                    [
+                        579,
+                        893
+                    ],
+                    [
+                        565,
+                        938
+                    ],
+                    [
+                        454,
+                        928
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668206,
+            "classId": 3491,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:58.392Z",
+            "updatedAt": "2023-06-07T13:21:58.392Z",
+            "tags": [],
+            "classTitle": "cashew-nut",
+            "points": {
+                "exterior": [
+                    [
+                        516,
+                        438
+                    ],
+                    [
+                        558,
+                        476
+                    ],
+                    [
+                        671,
+                        391
+                    ],
+                    [
+                        525,
+                        403
+                    ],
+                    [
+                        509,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

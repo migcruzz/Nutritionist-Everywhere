@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1759409,
+            "classId": 3521,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:56.001Z",
+            "updatedAt": "2023-06-07T14:25:56.001Z",
+            "tags": [],
+            "classTitle": "soup-vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        305
+                    ],
+                    [
+                        109,
+                        304
+                    ],
+                    [
+                        88,
+                        296
+                    ],
+                    [
+                        68,
+                        276
+                    ],
+                    [
+                        60,
+                        257
+                    ],
+                    [
+                        57,
+                        240
+                    ],
+                    [
+                        59,
+                        213
+                    ],
+                    [
+                        69,
+                        177
+                    ],
+                    [
+                        78,
+                        158
+                    ],
+                    [
+                        119,
+                        109
+                    ],
+                    [
+                        157,
+                        86
+                    ],
+                    [
+                        197,
+                        76
+                    ],
+                    [
+                        236,
+                        76
+                    ],
+                    [
+                        268,
+                        86
+                    ],
+                    [
+                        292,
+                        106
+                    ],
+                    [
+                        302,
+                        123
+                    ],
+                    [
+                        310,
+                        150
+                    ],
+                    [
+                        311,
+                        206
+                    ],
+                    [
+                        302,
+                        225
+                    ],
+                    [
+                        270,
+                        259
+                    ],
+                    [
+                        230,
+                        286
+                    ],
+                    [
+                        203,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1759407,
+            "classId": 3963,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:56.001Z",
+            "updatedAt": "2023-06-07T14:25:56.001Z",
+            "tags": [],
+            "classTitle": "croutons",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        155
+                    ],
+                    [
+                        186,
+                        110
+                    ],
+                    [
+                        212,
+                        123
+                    ],
+                    [
+                        220,
+                        147
+                    ],
+                    [
+                        236,
+                        141
+                    ],
+                    [
+                        239,
+                        166
+                    ],
+                    [
+                        225,
+                        183
+                    ],
+                    [
+                        194,
+                        200
+                    ],
+                    [
+                        160,
+                        194
+                    ],
+                    [
+                        161,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1759406,
+            "classId": 3963,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:56.000Z",
+            "updatedAt": "2023-06-07T14:25:56.000Z",
+            "tags": [],
+            "classTitle": "croutons",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        228
+                    ],
+                    [
+                        146,
+                        215
+                    ],
+                    [
+                        164,
+                        224
+                    ],
+                    [
+                        175,
+                        262
+                    ],
+                    [
+                        171,
+                        282
+                    ],
+                    [
+                        145,
+                        280
+                    ],
+                    [
+                        125,
+                        256
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1657725,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:14:34.805Z",
+            "updatedAt": "2023-06-07T13:14:34.805Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        577,
+                        229
+                    ],
+                    [
+                        598,
+                        130
+                    ],
+                    [
+                        466,
+                        86
+                    ],
+                    [
+                        285,
+                        91
+                    ],
+                    [
+                        271,
+                        182
+                    ],
+                    [
+                        302,
+                        267
+                    ],
+                    [
+                        294,
+                        353
+                    ],
+                    [
+                        291,
+                        440
+                    ],
+                    [
+                        242,
+                        526
+                    ],
+                    [
+                        301,
+                        608
+                    ],
+                    [
+                        417,
+                        613
+                    ],
+                    [
+                        514,
+                        572
+                    ],
+                    [
+                        540,
+                        511
+                    ],
+                    [
+                        532,
+                        470
+                    ],
+                    [
+                        615,
+                        467
+                    ],
+                    [
+                        625,
+                        399
+                    ],
+                    [
+                        598,
+                        331
+                    ],
+                    [
+                        559,
+                        319
+                    ],
+                    [
+                        576,
+                        257
+                    ],
+                    [
+                        570,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1657723,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:14:34.804Z",
+            "updatedAt": "2023-06-07T13:14:34.804Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        218
+                    ],
+                    [
+                        308,
+                        492
+                    ],
+                    [
+                        49,
+                        478
+                    ],
+                    [
+                        52,
+                        229
+                    ],
+                    [
+                        58,
+                        188
+                    ],
+                    [
+                        195,
+                        194
+                    ],
+                    [
+                        286,
+                        210
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

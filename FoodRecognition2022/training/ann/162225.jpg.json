@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 815,
+        "width": 814
+    },
+    "objects": [
+        {
+            "id": 1736789,
+            "classId": 4351,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.541Z",
+            "updatedAt": "2023-06-07T14:10:22.541Z",
+            "tags": [],
+            "classTitle": "beef-roast",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        433
+                    ],
+                    [
+                        518,
+                        515
+                    ],
+                    [
+                        534,
+                        580
+                    ],
+                    [
+                        573,
+                        545
+                    ],
+                    [
+                        564,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736787,
+            "classId": 4373,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.540Z",
+            "updatedAt": "2023-06-07T14:10:22.540Z",
+            "tags": [],
+            "classTitle": "shoots",
+            "points": {
+                "exterior": [
+                    [
+                        536,
+                        337
+                    ],
+                    [
+                        505,
+                        309
+                    ],
+                    [
+                        487,
+                        348
+                    ],
+                    [
+                        499,
+                        421
+                    ],
+                    [
+                        522,
+                        474
+                    ],
+                    [
+                        532,
+                        431
+                    ],
+                    [
+                        530,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

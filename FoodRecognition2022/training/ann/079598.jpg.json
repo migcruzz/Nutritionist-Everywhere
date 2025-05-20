@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 973,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1738148,
+            "classId": 3653,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:20.859Z",
+            "updatedAt": "2023-06-07T14:11:20.859Z",
+            "tags": [],
+            "classTitle": "tartar-meat",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        822
+                    ],
+                    [
+                        552,
+                        819
+                    ],
+                    [
+                        644,
+                        717
+                    ],
+                    [
+                        617,
+                        505
+                    ],
+                    [
+                        544,
+                        423
+                    ],
+                    [
+                        396,
+                        415
+                    ],
+                    [
+                        287,
+                        447
+                    ],
+                    [
+                        226,
+                        591
+                    ],
+                    [
+                        243,
+                        724
+                    ],
+                    [
+                        308,
+                        807
+                    ],
+                    [
+                        342,
+                        812
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738146,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:20.858Z",
+            "updatedAt": "2023-06-07T14:11:20.858Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        758,
+                        649
+                    ],
+                    [
+                        656,
+                        700
+                    ],
+                    [
+                        576,
+                        795
+                    ],
+                    [
+                        423,
+                        873
+                    ],
+                    [
+                        352,
+                        948
+                    ],
+                    [
+                        394,
+                        968
+                    ],
+                    [
+                        525,
+                        963
+                    ],
+                    [
+                        720,
+                        897
+                    ],
+                    [
+                        810,
+                        851
+                    ],
+                    [
+                        844,
+                        771
+                    ],
+                    [
+                        848,
+                        688
+                    ],
+                    [
+                        900,
+                        610
+                    ],
+                    [
+                        958,
+                        496
+                    ],
+                    [
+                        912,
+                        374
+                    ],
+                    [
+                        771,
+                        243
+                    ],
+                    [
+                        707,
+                        265
+                    ],
+                    [
+                        591,
+                        411
+                    ],
+                    [
+                        627,
+                        518
+                    ],
+                    [
+                        746,
+                        627
+                    ],
+                    [
+                        749,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738144,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:20.858Z",
+            "updatedAt": "2023-06-07T14:11:20.858Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        233
+                    ],
+                    [
+                        209,
+                        338
+                    ],
+                    [
+                        43,
+                        119
+                    ],
+                    [
+                        192,
+                        17
+                    ],
+                    [
+                        252,
+                        114
+                    ],
+                    [
+                        270,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

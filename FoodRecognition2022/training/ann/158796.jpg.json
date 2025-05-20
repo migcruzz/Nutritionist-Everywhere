@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1741325,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:26.410Z",
+            "updatedAt": "2023-06-07T14:13:26.410Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        190
+                    ],
+                    [
+                        309,
+                        205
+                    ],
+                    [
+                        283,
+                        258
+                    ],
+                    [
+                        277,
+                        319
+                    ],
+                    [
+                        293,
+                        424
+                    ],
+                    [
+                        346,
+                        472
+                    ],
+                    [
+                        391,
+                        459
+                    ],
+                    [
+                        447,
+                        363
+                    ],
+                    [
+                        442,
+                        261
+                    ],
+                    [
+                        420,
+                        207
+                    ],
+                    [
+                        377,
+                        175
+                    ],
+                    [
+                        370,
+                        184
+                    ],
+                    [
+                        370,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741323,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:26.409Z",
+            "updatedAt": "2023-06-07T14:13:26.409Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        22
+                    ],
+                    [
+                        269,
+                        88
+                    ],
+                    [
+                        299,
+                        132
+                    ],
+                    [
+                        337,
+                        108
+                    ],
+                    [
+                        391,
+                        50
+                    ],
+                    [
+                        393,
+                        27
+                    ],
+                    [
+                        318,
+                        9
+                    ],
+                    [
+                        252,
+                        9
+                    ],
+                    [
+                        249,
+                        12
+                    ],
+                    [
+                        249,
+                        18
+                    ],
+                    [
+                        250,
+                        19
+                    ],
+                    [
+                        255,
+                        21
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

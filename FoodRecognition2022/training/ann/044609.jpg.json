@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1750958,
+            "classId": 4141,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:17.428Z",
+            "updatedAt": "2023-06-07T14:20:17.428Z",
+            "tags": [],
+            "classTitle": "cheesecake",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        77
+                    ],
+                    [
+                        295,
+                        424
+                    ],
+                    [
+                        346,
+                        396
+                    ],
+                    [
+                        389,
+                        352
+                    ],
+                    [
+                        315,
+                        252
+                    ],
+                    [
+                        115,
+                        30
+                    ],
+                    [
+                        79,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750956,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:17.427Z",
+            "updatedAt": "2023-06-07T14:20:17.427Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        204
+                    ],
+                    [
+                        235,
+                        340
+                    ],
+                    [
+                        208,
+                        376
+                    ],
+                    [
+                        168,
+                        344
+                    ],
+                    [
+                        84,
+                        326
+                    ],
+                    [
+                        54,
+                        227
+                    ],
+                    [
+                        82,
+                        203
+                    ],
+                    [
+                        166,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1709724,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:08.516Z",
+            "updatedAt": "2023-06-07T13:51:08.516Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        351
+                    ],
+                    [
+                        167,
+                        350
+                    ],
+                    [
+                        160,
+                        339
+                    ],
+                    [
+                        162,
+                        250
+                    ],
+                    [
+                        172,
+                        184
+                    ],
+                    [
+                        185,
+                        159
+                    ],
+                    [
+                        187,
+                        142
+                    ],
+                    [
+                        194,
+                        132
+                    ],
+                    [
+                        247,
+                        131
+                    ],
+                    [
+                        255,
+                        139
+                    ],
+                    [
+                        258,
+                        159
+                    ],
+                    [
+                        251,
+                        198
+                    ],
+                    [
+                        249,
+                        244
+                    ],
+                    [
+                        242,
+                        282
+                    ],
+                    [
+                        234,
+                        305
+                    ],
+                    [
+                        221,
+                        329
+                    ],
+                    [
+                        217,
+                        333
+                    ],
+                    [
+                        197,
+                        338
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709722,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:08.515Z",
+            "updatedAt": "2023-06-07T13:51:08.515Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        183
+                    ],
+                    [
+                        172,
+                        164
+                    ],
+                    [
+                        164,
+                        270
+                    ],
+                    [
+                        250,
+                        279
+                    ],
+                    [
+                        267,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

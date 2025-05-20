@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1799436,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:51.609Z",
+            "updatedAt": "2023-06-07T14:52:51.609Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        91
+                    ],
+                    [
+                        265,
+                        88
+                    ],
+                    [
+                        239,
+                        79
+                    ],
+                    [
+                        230,
+                        70
+                    ],
+                    [
+                        232,
+                        49
+                    ],
+                    [
+                        253,
+                        31
+                    ],
+                    [
+                        277,
+                        25
+                    ],
+                    [
+                        302,
+                        23
+                    ],
+                    [
+                        362,
+                        32
+                    ],
+                    [
+                        385,
+                        45
+                    ],
+                    [
+                        386,
+                        63
+                    ],
+                    [
+                        370,
+                        76
+                    ],
+                    [
+                        341,
+                        87
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799434,
+            "classId": 4157,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:51.608Z",
+            "updatedAt": "2023-06-07T14:52:51.608Z",
+            "tags": [],
+            "classTitle": "sweets-candies",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        178
+                    ],
+                    [
+                        73,
+                        228
+                    ],
+                    [
+                        106,
+                        270
+                    ],
+                    [
+                        139,
+                        231
+                    ],
+                    [
+                        138,
+                        199
+                    ],
+                    [
+                        114,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

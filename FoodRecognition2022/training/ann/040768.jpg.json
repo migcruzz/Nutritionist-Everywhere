@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1775806,
+            "classId": 3483,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:29.706Z",
+            "updatedAt": "2023-06-07T14:36:29.706Z",
+            "tags": [],
+            "classTitle": "pasta",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        74
+                    ],
+                    [
+                        276,
+                        174
+                    ],
+                    [
+                        228,
+                        240
+                    ],
+                    [
+                        196,
+                        273
+                    ],
+                    [
+                        99,
+                        290
+                    ],
+                    [
+                        72,
+                        306
+                    ],
+                    [
+                        15,
+                        273
+                    ],
+                    [
+                        33,
+                        195
+                    ],
+                    [
+                        28,
+                        132
+                    ],
+                    [
+                        40,
+                        92
+                    ],
+                    [
+                        88,
+                        68
+                    ],
+                    [
+                        145,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1775804,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:29.705Z",
+            "updatedAt": "2023-06-07T14:36:29.705Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        105
+                    ],
+                    [
+                        295,
+                        48
+                    ],
+                    [
+                        251,
+                        66
+                    ],
+                    [
+                        280,
+                        163
+                    ],
+                    [
+                        312,
+                        243
+                    ],
+                    [
+                        407,
+                        303
+                    ],
+                    [
+                        431,
+                        260
+                    ],
+                    [
+                        417,
+                        202
+                    ],
+                    [
+                        343,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1775802,
+            "classId": 3747,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:29.705Z",
+            "updatedAt": "2023-06-07T14:36:29.705Z",
+            "tags": [],
+            "classTitle": "ratatouille",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        207
+                    ],
+                    [
+                        119,
+                        279
+                    ],
+                    [
+                        88,
+                        384
+                    ],
+                    [
+                        255,
+                        432
+                    ],
+                    [
+                        366,
+                        372
+                    ],
+                    [
+                        370,
+                        303
+                    ],
+                    [
+                        228,
+                        211
+                    ],
+                    [
+                        238,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

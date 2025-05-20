@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1648574,
+            "classId": 3609,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:34.028Z",
+            "updatedAt": "2023-06-07T13:08:34.028Z",
+            "tags": [],
+            "classTitle": "bread-grain",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        166
+                    ],
+                    [
+                        163,
+                        257
+                    ],
+                    [
+                        123,
+                        326
+                    ],
+                    [
+                        78,
+                        297
+                    ],
+                    [
+                        29,
+                        262
+                    ],
+                    [
+                        9,
+                        236
+                    ],
+                    [
+                        8,
+                        195
+                    ],
+                    [
+                        69,
+                        151
+                    ],
+                    [
+                        81,
+                        122
+                    ],
+                    [
+                        105,
+                        67
+                    ],
+                    [
+                        129,
+                        77
+                    ],
+                    [
+                        171,
+                        128
+                    ],
+                    [
+                        209,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648572,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:34.027Z",
+            "updatedAt": "2023-06-07T13:08:34.027Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        318
+                    ],
+                    [
+                        460,
+                        258
+                    ],
+                    [
+                        455,
+                        195
+                    ],
+                    [
+                        442,
+                        170
+                    ],
+                    [
+                        343,
+                        171
+                    ],
+                    [
+                        281,
+                        195
+                    ],
+                    [
+                        215,
+                        229
+                    ],
+                    [
+                        159,
+                        286
+                    ],
+                    [
+                        126,
+                        366
+                    ],
+                    [
+                        142,
+                        435
+                    ],
+                    [
+                        191,
+                        453
+                    ],
+                    [
+                        214,
+                        451
+                    ],
+                    [
+                        232,
+                        447
+                    ],
+                    [
+                        237,
+                        417
+                    ],
+                    [
+                        264,
+                        394
+                    ],
+                    [
+                        309,
+                        387
+                    ],
+                    [
+                        322,
+                        374
+                    ],
+                    [
+                        255,
+                        370
+                    ],
+                    [
+                        202,
+                        372
+                    ],
+                    [
+                        232,
+                        342
+                    ],
+                    [
+                        313,
+                        314
+                    ],
+                    [
+                        366,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648570,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:34.027Z",
+            "updatedAt": "2023-06-07T13:08:34.027Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        179
+                    ],
+                    [
+                        31,
+                        157
+                    ],
+                    [
+                        66,
+                        141
+                    ],
+                    [
+                        75,
+                        149
+                    ],
+                    [
+                        42,
+                        164
+                    ],
+                    [
+                        30,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648569,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:34.026Z",
+            "updatedAt": "2023-06-07T13:08:34.026Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        111
+                    ],
+                    [
+                        120,
+                        77
+                    ],
+                    [
+                        99,
+                        80
+                    ],
+                    [
+                        110,
+                        73
+                    ],
+                    [
+                        134,
+                        74
+                    ],
+                    [
+                        156,
+                        83
+                    ],
+                    [
+                        163,
+                        92
+                    ],
+                    [
+                        163,
+                        99
+                    ],
+                    [
+                        163,
+                        101
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

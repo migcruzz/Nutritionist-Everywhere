@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1695506,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.339Z",
+            "updatedAt": "2023-06-07T13:40:30.339Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        127
+                    ],
+                    [
+                        282,
+                        98
+                    ],
+                    [
+                        151,
+                        82
+                    ],
+                    [
+                        77,
+                        151
+                    ],
+                    [
+                        64,
+                        225
+                    ],
+                    [
+                        122,
+                        239
+                    ],
+                    [
+                        196,
+                        258
+                    ],
+                    [
+                        215,
+                        245
+                    ],
+                    [
+                        265,
+                        252
+                    ],
+                    [
+                        309,
+                        226
+                    ],
+                    [
+                        360,
+                        203
+                    ],
+                    [
+                        373,
+                        191
+                    ],
+                    [
+                        404,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695504,
+            "classId": 3885,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.338Z",
+            "updatedAt": "2023-06-07T13:40:30.338Z",
+            "tags": [],
+            "classTitle": "walnut",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        227
+                    ],
+                    [
+                        268,
+                        244
+                    ],
+                    [
+                        279,
+                        280
+                    ],
+                    [
+                        207,
+                        262
+                    ],
+                    [
+                        138,
+                        233
+                    ],
+                    [
+                        99,
+                        294
+                    ],
+                    [
+                        146,
+                        330
+                    ],
+                    [
+                        174,
+                        323
+                    ],
+                    [
+                        215,
+                        343
+                    ],
+                    [
+                        303,
+                        341
+                    ],
+                    [
+                        326,
+                        331
+                    ],
+                    [
+                        330,
+                        274
+                    ],
+                    [
+                        334,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695502,
+            "classId": 3491,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.337Z",
+            "updatedAt": "2023-06-07T13:40:30.337Z",
+            "tags": [],
+            "classTitle": "cashew-nut",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        197
+                    ],
+                    [
+                        324,
+                        214
+                    ],
+                    [
+                        338,
+                        236
+                    ],
+                    [
+                        332,
+                        267
+                    ],
+                    [
+                        332,
+                        332
+                    ],
+                    [
+                        384,
+                        325
+                    ],
+                    [
+                        375,
+                        288
+                    ],
+                    [
+                        400,
+                        262
+                    ],
+                    [
+                        418,
+                        247
+                    ],
+                    [
+                        413,
+                        233
+                    ],
+                    [
+                        387,
+                        220
+                    ],
+                    [
+                        383,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1717099,
+            "classId": 3719,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.928Z",
+            "updatedAt": "2023-06-07T13:56:36.928Z",
+            "tags": [],
+            "classTitle": "fajita-bread-only",
+            "points": {
+                "exterior": [
+                    [
+                        631,
+                        70
+                    ],
+                    [
+                        186,
+                        30
+                    ],
+                    [
+                        11,
+                        544
+                    ],
+                    [
+                        82,
+                        803
+                    ],
+                    [
+                        172,
+                        898
+                    ],
+                    [
+                        315,
+                        935
+                    ],
+                    [
+                        605,
+                        933
+                    ],
+                    [
+                        785,
+                        891
+                    ],
+                    [
+                        895,
+                        513
+                    ],
+                    [
+                        810,
+                        235
+                    ],
+                    [
+                        657,
+                        63
+                    ],
+                    [
+                        653,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717097,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.928Z",
+            "updatedAt": "2023-06-07T13:56:36.928Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        605,
+                        150
+                    ],
+                    [
+                        480,
+                        108
+                    ],
+                    [
+                        202,
+                        268
+                    ],
+                    [
+                        183,
+                        488
+                    ],
+                    [
+                        603,
+                        716
+                    ],
+                    [
+                        721,
+                        587
+                    ],
+                    [
+                        726,
+                        365
+                    ],
+                    [
+                        624,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717095,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.927Z",
+            "updatedAt": "2023-06-07T13:56:36.927Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        596,
+                        214
+                    ],
+                    [
+                        546,
+                        146
+                    ],
+                    [
+                        348,
+                        214
+                    ],
+                    [
+                        238,
+                        363
+                    ],
+                    [
+                        264,
+                        551
+                    ],
+                    [
+                        438,
+                        587
+                    ],
+                    [
+                        660,
+                        537
+                    ],
+                    [
+                        702,
+                        459
+                    ],
+                    [
+                        690,
+                        374
+                    ],
+                    [
+                        603,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717093,
+            "classId": 3567,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.926Z",
+            "updatedAt": "2023-06-07T13:56:36.926Z",
+            "tags": [],
+            "classTitle": "yaourt-yahourt-yogourt-ou-yoghourt-natural",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        256
+                    ],
+                    [
+                        339,
+                        139
+                    ],
+                    [
+                        242,
+                        398
+                    ],
+                    [
+                        476,
+                        483
+                    ],
+                    [
+                        686,
+                        638
+                    ],
+                    [
+                        723,
+                        572
+                    ],
+                    [
+                        702,
+                        476
+                    ],
+                    [
+                        530,
+                        360
+                    ],
+                    [
+                        676,
+                        266
+                    ],
+                    [
+                        528,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

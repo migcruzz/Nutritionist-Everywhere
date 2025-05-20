@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 936,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1762485,
+            "classId": 3719,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:40.613Z",
+            "updatedAt": "2023-06-07T14:27:40.613Z",
+            "tags": [],
+            "classTitle": "fajita-bread-only",
+            "points": {
+                "exterior": [
+                    [
+                        438,
+                        193
+                    ],
+                    [
+                        232,
+                        210
+                    ],
+                    [
+                        283,
+                        383
+                    ],
+                    [
+                        452,
+                        455
+                    ],
+                    [
+                        461,
+                        486
+                    ],
+                    [
+                        634,
+                        591
+                    ],
+                    [
+                        688,
+                        584
+                    ],
+                    [
+                        690,
+                        542
+                    ],
+                    [
+                        618,
+                        521
+                    ],
+                    [
+                        721,
+                        308
+                    ],
+                    [
+                        492,
+                        282
+                    ],
+                    [
+                        449,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1762483,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:40.611Z",
+            "updatedAt": "2023-06-07T14:27:40.611Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        471,
+                        275
+                    ],
+                    [
+                        489,
+                        331
+                    ],
+                    [
+                        550,
+                        425
+                    ],
+                    [
+                        660,
+                        383
+                    ],
+                    [
+                        651,
+                        315
+                    ],
+                    [
+                        485,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1762481,
+            "classId": 3585,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:40.611Z",
+            "updatedAt": "2023-06-07T14:27:40.611Z",
+            "tags": [],
+            "classTitle": "cream",
+            "points": {
+                "exterior": [
+                    [
+                        927,
+                        745
+                    ],
+                    [
+                        772,
+                        834
+                    ],
+                    [
+                        807,
+                        926
+                    ],
+                    [
+                        929,
+                        928
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

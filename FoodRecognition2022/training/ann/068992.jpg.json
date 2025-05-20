@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 909
+    },
+    "objects": [
+        {
+            "id": 1653074,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:21.740Z",
+            "updatedAt": "2023-06-07T13:11:21.740Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        552,
+                        423
+                    ],
+                    [
+                        650,
+                        412
+                    ],
+                    [
+                        593,
+                        335
+                    ],
+                    [
+                        498,
+                        342
+                    ],
+                    [
+                        532,
+                        408
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

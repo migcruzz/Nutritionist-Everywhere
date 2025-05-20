@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 565,
+        "width": 565
+    },
+    "objects": [
+        {
+            "id": 1774189,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:24.758Z",
+            "updatedAt": "2023-06-07T14:35:24.758Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        387
+                    ],
+                    [
+                        277,
+                        368
+                    ],
+                    [
+                        256,
+                        357
+                    ],
+                    [
+                        239,
+                        370
+                    ],
+                    [
+                        238,
+                        381
+                    ],
+                    [
+                        256,
+                        396
+                    ],
+                    [
+                        257,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1774188,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:24.757Z",
+            "updatedAt": "2023-06-07T14:35:24.757Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        409
+                    ],
+                    [
+                        300,
+                        401
+                    ],
+                    [
+                        295,
+                        426
+                    ],
+                    [
+                        321,
+                        430
+                    ],
+                    [
+                        329,
+                        423
+                    ],
+                    [
+                        331,
+                        411
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

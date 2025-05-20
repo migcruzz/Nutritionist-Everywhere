@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1668547,
+            "classId": 3791,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:18.578Z",
+            "updatedAt": "2023-06-07T13:22:18.578Z",
+            "tags": [],
+            "classTitle": "egg-scrambled-prepared",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        177
+                    ],
+                    [
+                        143,
+                        165
+                    ],
+                    [
+                        89,
+                        282
+                    ],
+                    [
+                        156,
+                        378
+                    ],
+                    [
+                        310,
+                        397
+                    ],
+                    [
+                        347,
+                        360
+                    ],
+                    [
+                        307,
+                        253
+                    ],
+                    [
+                        287,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668545,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:18.577Z",
+            "updatedAt": "2023-06-07T13:22:18.577Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        90
+                    ],
+                    [
+                        11,
+                        192
+                    ],
+                    [
+                        6,
+                        264
+                    ],
+                    [
+                        55,
+                        369
+                    ],
+                    [
+                        133,
+                        398
+                    ],
+                    [
+                        132,
+                        202
+                    ],
+                    [
+                        141,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668544,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:18.577Z",
+            "updatedAt": "2023-06-07T13:22:18.577Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        136
+                    ],
+                    [
+                        243,
+                        115
+                    ],
+                    [
+                        395,
+                        426
+                    ],
+                    [
+                        405,
+                        261
+                    ],
+                    [
+                        438,
+                        170
+                    ],
+                    [
+                        443,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

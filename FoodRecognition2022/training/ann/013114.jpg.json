@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1661856,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:20.924Z",
+            "updatedAt": "2023-06-07T13:17:20.924Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        188
+                    ],
+                    [
+                        371,
+                        471
+                    ],
+                    [
+                        524,
+                        721
+                    ],
+                    [
+                        569,
+                        808
+                    ],
+                    [
+                        880,
+                        620
+                    ],
+                    [
+                        920,
+                        315
+                    ],
+                    [
+                        734,
+                        136
+                    ],
+                    [
+                        672,
+                        70
+                    ],
+                    [
+                        486,
+                        82
+                    ],
+                    [
+                        446,
+                        82
+                    ],
+                    [
+                        472,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661854,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:20.924Z",
+            "updatedAt": "2023-06-07T13:17:20.924Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        143
+                    ],
+                    [
+                        418,
+                        127
+                    ],
+                    [
+                        484,
+                        426
+                    ],
+                    [
+                        418,
+                        480
+                    ],
+                    [
+                        573,
+                        773
+                    ],
+                    [
+                        691,
+                        709
+                    ],
+                    [
+                        696,
+                        572
+                    ],
+                    [
+                        918,
+                        381
+                    ],
+                    [
+                        821,
+                        245
+                    ],
+                    [
+                        653,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661852,
+            "classId": 4341,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:20.923Z",
+            "updatedAt": "2023-06-07T13:17:20.923Z",
+            "tags": [],
+            "classTitle": "sauce-sweet-sour",
+            "points": {
+                "exterior": [
+                    [
+                        901,
+                        726
+                    ],
+                    [
+                        785,
+                        773
+                    ],
+                    [
+                        750,
+                        876
+                    ],
+                    [
+                        788,
+                        926
+                    ],
+                    [
+                        936,
+                        938
+                    ],
+                    [
+                        936,
+                        721
+                    ],
+                    [
+                        903,
+                        721
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

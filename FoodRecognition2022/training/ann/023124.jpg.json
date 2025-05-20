@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1728481,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:38.469Z",
+            "updatedAt": "2023-06-07T14:04:38.469Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        187
+                    ],
+                    [
+                        211,
+                        304
+                    ],
+                    [
+                        381,
+                        154
+                    ],
+                    [
+                        342,
+                        76
+                    ],
+                    [
+                        267,
+                        51
+                    ],
+                    [
+                        107,
+                        70
+                    ],
+                    [
+                        44,
+                        124
+                    ],
+                    [
+                        37,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728479,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:38.469Z",
+            "updatedAt": "2023-06-07T14:04:38.469Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        106
+                    ],
+                    [
+                        141,
+                        247
+                    ],
+                    [
+                        53,
+                        216
+                    ],
+                    [
+                        48,
+                        163
+                    ],
+                    [
+                        131,
+                        88
+                    ],
+                    [
+                        221,
+                        66
+                    ],
+                    [
+                        261,
+                        93
+                    ],
+                    [
+                        268,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728477,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:38.468Z",
+            "updatedAt": "2023-06-07T14:04:38.468Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        457,
+                        225
+                    ],
+                    [
+                        354,
+                        182
+                    ],
+                    [
+                        210,
+                        291
+                    ],
+                    [
+                        224,
+                        438
+                    ],
+                    [
+                        310,
+                        446
+                    ],
+                    [
+                        420,
+                        403
+                    ],
+                    [
+                        455,
+                        308
+                    ],
+                    [
+                        464,
+                        225
+                    ],
+                    [
+                        460,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

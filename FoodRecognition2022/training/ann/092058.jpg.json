@@ -1,0 +1,302 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1087,
+        "width": 1087
+    },
+    "objects": [
+        {
+            "id": 1747737,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.924Z",
+            "updatedAt": "2023-06-07T14:18:02.924Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        813,
+                        1013
+                    ],
+                    [
+                        922,
+                        915
+                    ],
+                    [
+                        895,
+                        744
+                    ],
+                    [
+                        762,
+                        676
+                    ],
+                    [
+                        599,
+                        638
+                    ],
+                    [
+                        476,
+                        668
+                    ],
+                    [
+                        408,
+                        701
+                    ],
+                    [
+                        441,
+                        788
+                    ],
+                    [
+                        495,
+                        856
+                    ],
+                    [
+                        580,
+                        934
+                    ],
+                    [
+                        686,
+                        970
+                    ],
+                    [
+                        721,
+                        978
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747735,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.923Z",
+            "updatedAt": "2023-06-07T14:18:02.923Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        665
+                    ],
+                    [
+                        591,
+                        608
+                    ],
+                    [
+                        713,
+                        423
+                    ],
+                    [
+                        729,
+                        326
+                    ],
+                    [
+                        601,
+                        312
+                    ],
+                    [
+                        498,
+                        355
+                    ],
+                    [
+                        384,
+                        415
+                    ],
+                    [
+                        308,
+                        467
+                    ],
+                    [
+                        286,
+                        565
+                    ],
+                    [
+                        319,
+                        606
+                    ],
+                    [
+                        327,
+                        622
+                    ],
+                    [
+                        330,
+                        627
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747733,
+            "classId": 3825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.923Z",
+            "updatedAt": "2023-06-07T14:18:02.923Z",
+            "tags": [],
+            "classTitle": "mustard-dijon",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        250
+                    ],
+                    [
+                        137,
+                        315
+                    ],
+                    [
+                        191,
+                        418
+                    ],
+                    [
+                        292,
+                        432
+                    ],
+                    [
+                        422,
+                        388
+                    ],
+                    [
+                        504,
+                        326
+                    ],
+                    [
+                        525,
+                        258
+                    ],
+                    [
+                        523,
+                        146
+                    ],
+                    [
+                        504,
+                        125
+                    ],
+                    [
+                        485,
+                        211
+                    ],
+                    [
+                        357,
+                        323
+                    ],
+                    [
+                        278,
+                        358
+                    ],
+                    [
+                        232,
+                        290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747731,
+            "classId": 4043,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.922Z",
+            "updatedAt": "2023-06-07T14:18:02.922Z",
+            "tags": [],
+            "classTitle": "tete-de-moine",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        364
+                    ],
+                    [
+                        447,
+                        241
+                    ],
+                    [
+                        468,
+                        130
+                    ],
+                    [
+                        392,
+                        114
+                    ],
+                    [
+                        224,
+                        173
+                    ],
+                    [
+                        216,
+                        255
+                    ],
+                    [
+                        270,
+                        326
+                    ],
+                    [
+                        303,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747729,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.922Z",
+            "updatedAt": "2023-06-07T14:18:02.922Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        516
+                    ],
+                    [
+                        642,
+                        494
+                    ],
+                    [
+                        710,
+                        434
+                    ],
+                    [
+                        667,
+                        380
+                    ],
+                    [
+                        520,
+                        423
+                    ],
+                    [
+                        441,
+                        448
+                    ],
+                    [
+                        441,
+                        470
+                    ],
+                    [
+                        449,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

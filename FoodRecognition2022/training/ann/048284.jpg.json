@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1791641,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:22.399Z",
+            "updatedAt": "2023-06-07T14:47:22.399Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        199
+                    ],
+                    [
+                        218,
+                        199
+                    ],
+                    [
+                        181,
+                        192
+                    ],
+                    [
+                        165,
+                        183
+                    ],
+                    [
+                        164,
+                        171
+                    ],
+                    [
+                        178,
+                        154
+                    ],
+                    [
+                        220,
+                        142
+                    ],
+                    [
+                        261,
+                        139
+                    ],
+                    [
+                        291,
+                        141
+                    ],
+                    [
+                        302,
+                        146
+                    ],
+                    [
+                        308,
+                        169
+                    ],
+                    [
+                        312,
+                        174
+                    ],
+                    [
+                        312,
+                        178
+                    ],
+                    [
+                        307,
+                        183
+                    ],
+                    [
+                        281,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1791639,
+            "classId": 3881,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:22.398Z",
+            "updatedAt": "2023-06-07T14:47:22.398Z",
+            "tags": [],
+            "classTitle": "praline",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        435
+                    ],
+                    [
+                        214,
+                        439
+                    ],
+                    [
+                        244,
+                        381
+                    ],
+                    [
+                        211,
+                        340
+                    ],
+                    [
+                        177,
+                        337
+                    ],
+                    [
+                        145,
+                        344
+                    ],
+                    [
+                        114,
+                        375
+                    ],
+                    [
+                        119,
+                        412
+                    ],
+                    [
+                        131,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1791638,
+            "classId": 3881,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:22.398Z",
+            "updatedAt": "2023-06-07T14:47:22.398Z",
+            "tags": [],
+            "classTitle": "praline",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        386
+                    ],
+                    [
+                        118,
+                        338
+                    ],
+                    [
+                        118,
+                        273
+                    ],
+                    [
+                        84,
+                        256
+                    ],
+                    [
+                        33,
+                        291
+                    ],
+                    [
+                        28,
+                        344
+                    ],
+                    [
+                        40,
+                        363
+                    ],
+                    [
+                        45,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

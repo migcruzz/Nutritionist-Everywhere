@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1655138,
+            "classId": 3753,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:46.648Z",
+            "updatedAt": "2023-06-07T13:12:46.648Z",
+            "tags": [],
+            "classTitle": "cauliflower",
+            "points": {
+                "exterior": [
+                    [
+                        333,
+                        178
+                    ],
+                    [
+                        206,
+                        155
+                    ],
+                    [
+                        105,
+                        128
+                    ],
+                    [
+                        76,
+                        192
+                    ],
+                    [
+                        100,
+                        220
+                    ],
+                    [
+                        159,
+                        229
+                    ],
+                    [
+                        129,
+                        301
+                    ],
+                    [
+                        146,
+                        361
+                    ],
+                    [
+                        198,
+                        334
+                    ],
+                    [
+                        277,
+                        364
+                    ],
+                    [
+                        343,
+                        308
+                    ],
+                    [
+                        340,
+                        277
+                    ],
+                    [
+                        382,
+                        229
+                    ],
+                    [
+                        367,
+                        208
+                    ],
+                    [
+                        339,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1655136,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:46.647Z",
+            "updatedAt": "2023-06-07T13:12:46.647Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        368
+                    ],
+                    [
+                        184,
+                        372
+                    ],
+                    [
+                        131,
+                        357
+                    ],
+                    [
+                        104,
+                        338
+                    ],
+                    [
+                        127,
+                        334
+                    ],
+                    [
+                        164,
+                        354
+                    ],
+                    [
+                        190,
+                        344
+                    ],
+                    [
+                        231,
+                        344
+                    ],
+                    [
+                        244,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1655135,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:46.646Z",
+            "updatedAt": "2023-06-07T13:12:46.646Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        269
+                    ],
+                    [
+                        107,
+                        255
+                    ],
+                    [
+                        77,
+                        265
+                    ],
+                    [
+                        52,
+                        229
+                    ],
+                    [
+                        76,
+                        208
+                    ],
+                    [
+                        105,
+                        226
+                    ],
+                    [
+                        138,
+                        226
+                    ],
+                    [
+                        153,
+                        229
+                    ],
+                    [
+                        145,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

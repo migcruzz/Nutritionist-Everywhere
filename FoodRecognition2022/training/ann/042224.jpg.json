@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1805127,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:41.548Z",
+            "updatedAt": "2023-06-07T14:56:41.548Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        236
+                    ],
+                    [
+                        365,
+                        138
+                    ],
+                    [
+                        247,
+                        52
+                    ],
+                    [
+                        83,
+                        99
+                    ],
+                    [
+                        67,
+                        243
+                    ],
+                    [
+                        97,
+                        256
+                    ],
+                    [
+                        163,
+                        205
+                    ],
+                    [
+                        197,
+                        167
+                    ],
+                    [
+                        238,
+                        149
+                    ],
+                    [
+                        271,
+                        172
+                    ],
+                    [
+                        307,
+                        215
+                    ],
+                    [
+                        334,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805125,
+            "classId": 3565,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:41.548Z",
+            "updatedAt": "2023-06-07T14:56:41.548Z",
+            "tags": [],
+            "classTitle": "curry-vegetarian",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        178
+                    ],
+                    [
+                        35,
+                        265
+                    ],
+                    [
+                        83,
+                        382
+                    ],
+                    [
+                        267,
+                        419
+                    ],
+                    [
+                        377,
+                        406
+                    ],
+                    [
+                        454,
+                        347
+                    ],
+                    [
+                        454,
+                        291
+                    ],
+                    [
+                        417,
+                        248
+                    ],
+                    [
+                        396,
+                        210
+                    ],
+                    [
+                        344,
+                        179
+                    ],
+                    [
+                        354,
+                        241
+                    ],
+                    [
+                        308,
+                        218
+                    ],
+                    [
+                        251,
+                        169
+                    ],
+                    [
+                        215,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1039,
+        "width": 1039
+    },
+    "objects": [
+        {
+            "id": 1805704,
+            "classId": 4307,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:06.568Z",
+            "updatedAt": "2023-06-07T14:57:06.568Z",
+            "tags": [],
+            "classTitle": "corn-flakes",
+            "points": {
+                "exterior": [
+                    [
+                        537,
+                        457
+                    ],
+                    [
+                        397,
+                        486
+                    ],
+                    [
+                        379,
+                        636
+                    ],
+                    [
+                        226,
+                        634
+                    ],
+                    [
+                        252,
+                        491
+                    ],
+                    [
+                        280,
+                        335
+                    ],
+                    [
+                        316,
+                        312
+                    ],
+                    [
+                        431,
+                        278
+                    ],
+                    [
+                        561,
+                        273
+                    ],
+                    [
+                        592,
+                        390
+                    ],
+                    [
+                        553,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805702,
+            "classId": 4117,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:06.568Z",
+            "updatedAt": "2023-06-07T14:57:06.568Z",
+            "tags": [],
+            "classTitle": "milk",
+            "points": {
+                "exterior": [
+                    [
+                        714,
+                        693
+                    ],
+                    [
+                        602,
+                        823
+                    ],
+                    [
+                        363,
+                        745
+                    ],
+                    [
+                        366,
+                        680
+                    ],
+                    [
+                        506,
+                        670
+                    ],
+                    [
+                        714,
+                        660
+                    ],
+                    [
+                        724,
+                        701
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

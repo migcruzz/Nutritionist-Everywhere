@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1737024,
+            "classId": 3663,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:31.539Z",
+            "updatedAt": "2023-06-07T14:10:31.539Z",
+            "tags": [],
+            "classTitle": "roll-of-half-white-or-white-flour-with-large-void",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        390
+                    ],
+                    [
+                        228,
+                        349
+                    ],
+                    [
+                        16,
+                        319
+                    ],
+                    [
+                        16,
+                        254
+                    ],
+                    [
+                        73,
+                        173
+                    ],
+                    [
+                        122,
+                        157
+                    ],
+                    [
+                        233,
+                        180
+                    ],
+                    [
+                        251,
+                        207
+                    ],
+                    [
+                        317,
+                        172
+                    ],
+                    [
+                        428,
+                        219
+                    ],
+                    [
+                        435,
+                        291
+                    ],
+                    [
+                        412,
+                        372
+                    ],
+                    [
+                        387,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1737022,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:31.538Z",
+            "updatedAt": "2023-06-07T14:10:31.538Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        168
+                    ],
+                    [
+                        226,
+                        77
+                    ],
+                    [
+                        106,
+                        85
+                    ],
+                    [
+                        100,
+                        157
+                    ],
+                    [
+                        158,
+                        151
+                    ],
+                    [
+                        191,
+                        162
+                    ],
+                    [
+                        203,
+                        169
+                    ],
+                    [
+                        215,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1749912,
+            "classId": 4397,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:19:30.503Z",
+            "updatedAt": "2023-06-07T14:19:30.503Z",
+            "tags": [],
+            "classTitle": "bean-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        390,
+                        209
+                    ],
+                    [
+                        388,
+                        150
+                    ],
+                    [
+                        323,
+                        71
+                    ],
+                    [
+                        163,
+                        88
+                    ],
+                    [
+                        102,
+                        259
+                    ],
+                    [
+                        123,
+                        334
+                    ],
+                    [
+                        265,
+                        322
+                    ],
+                    [
+                        257,
+                        272
+                    ],
+                    [
+                        305,
+                        244
+                    ],
+                    [
+                        355,
+                        233
+                    ],
+                    [
+                        372,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1749910,
+            "classId": 4295,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:19:30.502Z",
+            "updatedAt": "2023-06-07T14:19:30.502Z",
+            "tags": [],
+            "classTitle": "rice-whole-grain",
+            "points": {
+                "exterior": [
+                    [
+                        299,
+                        264
+                    ],
+                    [
+                        195,
+                        325
+                    ],
+                    [
+                        141,
+                        363
+                    ],
+                    [
+                        225,
+                        431
+                    ],
+                    [
+                        379,
+                        433
+                    ],
+                    [
+                        441,
+                        360
+                    ],
+                    [
+                        459,
+                        280
+                    ],
+                    [
+                        446,
+                        255
+                    ],
+                    [
+                        371,
+                        273
+                    ],
+                    [
+                        294,
+                        303
+                    ],
+                    [
+                        283,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

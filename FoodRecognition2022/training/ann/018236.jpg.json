@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1721634,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:50.248Z",
+            "updatedAt": "2023-06-07T13:59:50.248Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        207
+                    ],
+                    [
+                        117,
+                        333
+                    ],
+                    [
+                        177,
+                        407
+                    ],
+                    [
+                        289,
+                        338
+                    ],
+                    [
+                        390,
+                        198
+                    ],
+                    [
+                        312,
+                        139
+                    ],
+                    [
+                        214,
+                        139
+                    ],
+                    [
+                        121,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721632,
+            "classId": 3885,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:50.248Z",
+            "updatedAt": "2023-06-07T13:59:50.248Z",
+            "tags": [],
+            "classTitle": "walnut",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        155
+                    ],
+                    [
+                        98,
+                        168
+                    ],
+                    [
+                        104,
+                        170
+                    ],
+                    [
+                        117,
+                        166
+                    ],
+                    [
+                        109,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721631,
+            "classId": 3885,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:50.247Z",
+            "updatedAt": "2023-06-07T13:59:50.247Z",
+            "tags": [],
+            "classTitle": "walnut",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        347
+                    ],
+                    [
+                        106,
+                        360
+                    ],
+                    [
+                        128,
+                        362
+                    ],
+                    [
+                        109,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721630,
+            "classId": 3885,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:50.247Z",
+            "updatedAt": "2023-06-07T13:59:50.247Z",
+            "tags": [],
+            "classTitle": "walnut",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        239
+                    ],
+                    [
+                        93,
+                        236
+                    ],
+                    [
+                        95,
+                        244
+                    ],
+                    [
+                        77,
+                        246
+                    ],
+                    [
+                        67,
+                        239
+                    ],
+                    [
+                        68,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

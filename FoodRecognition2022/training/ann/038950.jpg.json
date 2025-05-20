@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 737,
+        "width": 736
+    },
+    "objects": [
+        {
+            "id": 1790360,
+            "classId": 4297,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:38.656Z",
+            "updatedAt": "2023-06-07T14:46:38.656Z",
+            "tags": [],
+            "classTitle": "veal-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        438,
+                        589
+                    ],
+                    [
+                        571,
+                        447
+                    ],
+                    [
+                        534,
+                        311
+                    ],
+                    [
+                        466,
+                        281
+                    ],
+                    [
+                        350,
+                        337
+                    ],
+                    [
+                        252,
+                        479
+                    ],
+                    [
+                        217,
+                        565
+                    ],
+                    [
+                        271,
+                        606
+                    ],
+                    [
+                        376,
+                        624
+                    ],
+                    [
+                        416,
+                        608
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1790358,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:38.656Z",
+            "updatedAt": "2023-06-07T14:46:38.656Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        257
+                    ],
+                    [
+                        354,
+                        359
+                    ],
+                    [
+                        265,
+                        528
+                    ],
+                    [
+                        203,
+                        589
+                    ],
+                    [
+                        110,
+                        503
+                    ],
+                    [
+                        105,
+                        390
+                    ],
+                    [
+                        120,
+                        348
+                    ],
+                    [
+                        217,
+                        340
+                    ],
+                    [
+                        284,
+                        304
+                    ],
+                    [
+                        278,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1790356,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:38.655Z",
+            "updatedAt": "2023-06-07T14:46:38.655Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        250
+                    ],
+                    [
+                        274,
+                        311
+                    ],
+                    [
+                        258,
+                        346
+                    ],
+                    [
+                        199,
+                        337
+                    ],
+                    [
+                        168,
+                        320
+                    ],
+                    [
+                        206,
+                        270
+                    ],
+                    [
+                        228,
+                        252
+                    ],
+                    [
+                        260,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

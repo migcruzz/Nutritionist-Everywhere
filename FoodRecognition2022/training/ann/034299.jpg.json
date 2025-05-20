@@ -1,0 +1,258 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1765766,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.326Z",
+            "updatedAt": "2023-06-07T14:29:50.326Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        37
+                    ],
+                    [
+                        310,
+                        59
+                    ],
+                    [
+                        305,
+                        105
+                    ],
+                    [
+                        351,
+                        116
+                    ],
+                    [
+                        368,
+                        104
+                    ],
+                    [
+                        376,
+                        82
+                    ],
+                    [
+                        370,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765764,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.325Z",
+            "updatedAt": "2023-06-07T14:29:50.325Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        367,
+                        352
+                    ],
+                    [
+                        265,
+                        290
+                    ],
+                    [
+                        135,
+                        280
+                    ],
+                    [
+                        52,
+                        337
+                    ],
+                    [
+                        55,
+                        421
+                    ],
+                    [
+                        278,
+                        456
+                    ],
+                    [
+                        361,
+                        465
+                    ],
+                    [
+                        398,
+                        462
+                    ],
+                    [
+                        389,
+                        402
+                    ],
+                    [
+                        369,
+                        356
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765762,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.324Z",
+            "updatedAt": "2023-06-07T14:29:50.324Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        274
+                    ],
+                    [
+                        351,
+                        285
+                    ],
+                    [
+                        368,
+                        205
+                    ],
+                    [
+                        273,
+                        167
+                    ],
+                    [
+                        155,
+                        160
+                    ],
+                    [
+                        179,
+                        217
+                    ],
+                    [
+                        192,
+                        256
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765760,
+            "classId": 3803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.323Z",
+            "updatedAt": "2023-06-07T14:29:50.323Z",
+            "tags": [],
+            "classTitle": "hazelnut-chocolate-spread-nutella-ovomaltine-caotina",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        355
+                    ],
+                    [
+                        214,
+                        283
+                    ],
+                    [
+                        98,
+                        306
+                    ],
+                    [
+                        89,
+                        365
+                    ],
+                    [
+                        96,
+                        386
+                    ],
+                    [
+                        305,
+                        443
+                    ],
+                    [
+                        340,
+                        457
+                    ],
+                    [
+                        379,
+                        470
+                    ],
+                    [
+                        389,
+                        445
+                    ],
+                    [
+                        389,
+                        385
+                    ],
+                    [
+                        380,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765758,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.323Z",
+            "updatedAt": "2023-06-07T14:29:50.323Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        35
+                    ],
+                    [
+                        149,
+                        142
+                    ],
+                    [
+                        205,
+                        136
+                    ],
+                    [
+                        242,
+                        110
+                    ],
+                    [
+                        253,
+                        25
+                    ],
+                    [
+                        204,
+                        0
+                    ],
+                    [
+                        133,
+                        13
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 936,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1677138,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:05.671Z",
+            "updatedAt": "2023-06-07T13:28:05.671Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        535,
+                        186
+                    ],
+                    [
+                        350,
+                        163
+                    ],
+                    [
+                        345,
+                        392
+                    ],
+                    [
+                        423,
+                        839
+                    ],
+                    [
+                        481,
+                        923
+                    ],
+                    [
+                        659,
+                        813
+                    ],
+                    [
+                        572,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1677136,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:05.671Z",
+            "updatedAt": "2023-06-07T13:28:05.671Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        504,
+                        205
+                    ],
+                    [
+                        371,
+                        252
+                    ],
+                    [
+                        397,
+                        598
+                    ],
+                    [
+                        481,
+                        811
+                    ],
+                    [
+                        598,
+                        853
+                    ],
+                    [
+                        612,
+                        755
+                    ],
+                    [
+                        523,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

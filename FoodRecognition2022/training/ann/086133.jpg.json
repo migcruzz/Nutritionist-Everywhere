@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1662735,
+            "classId": 4315,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:01.287Z",
+            "updatedAt": "2023-06-07T13:18:01.287Z",
+            "tags": [],
+            "classTitle": "cake-marble",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        435
+                    ],
+                    [
+                        82,
+                        370
+                    ],
+                    [
+                        128,
+                        288
+                    ],
+                    [
+                        244,
+                        359
+                    ],
+                    [
+                        255,
+                        434
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1662734,
+            "classId": 4315,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:01.286Z",
+            "updatedAt": "2023-06-07T13:18:01.286Z",
+            "tags": [],
+            "classTitle": "cake-marble",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        65
+                    ],
+                    [
+                        136,
+                        292
+                    ],
+                    [
+                        314,
+                        375
+                    ],
+                    [
+                        349,
+                        350
+                    ],
+                    [
+                        371,
+                        267
+                    ],
+                    [
+                        342,
+                        162
+                    ],
+                    [
+                        305,
+                        103
+                    ],
+                    [
+                        191,
+                        62
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

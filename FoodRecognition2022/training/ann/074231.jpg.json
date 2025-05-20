@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 952
+    },
+    "objects": [
+        {
+            "id": 1805583,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:01.599Z",
+            "updatedAt": "2023-06-07T14:57:01.599Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        658,
+                        319
+                    ],
+                    [
+                        436,
+                        452
+                    ],
+                    [
+                        536,
+                        547
+                    ],
+                    [
+                        632,
+                        633
+                    ],
+                    [
+                        610,
+                        812
+                    ],
+                    [
+                        612,
+                        922
+                    ],
+                    [
+                        851,
+                        948
+                    ],
+                    [
+                        891,
+                        771
+                    ],
+                    [
+                        939,
+                        688
+                    ],
+                    [
+                        872,
+                        509
+                    ],
+                    [
+                        755,
+                        402
+                    ],
+                    [
+                        748,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805581,
+            "classId": 3811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:01.598Z",
+            "updatedAt": "2023-06-07T14:57:01.598Z",
+            "tags": [],
+            "classTitle": "bacon-raw",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        564
+                    ],
+                    [
+                        279,
+                        324
+                    ],
+                    [
+                        155,
+                        188
+                    ],
+                    [
+                        81,
+                        269
+                    ],
+                    [
+                        81,
+                        445
+                    ],
+                    [
+                        229,
+                        633
+                    ],
+                    [
+                        484,
+                        943
+                    ],
+                    [
+                        627,
+                        881
+                    ],
+                    [
+                        465,
+                        674
+                    ],
+                    [
+                        358,
+                        590
+                    ],
+                    [
+                        231,
+                        445
+                    ],
+                    [
+                        179,
+                        388
+                    ],
+                    [
+                        400,
+                        567
+                    ],
+                    [
+                        615,
+                        700
+                    ],
+                    [
+                        634,
+                        609
+                    ],
+                    [
+                        622,
+                        602
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805579,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:01.598Z",
+            "updatedAt": "2023-06-07T14:57:01.598Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        45
+                    ],
+                    [
+                        222,
+                        243
+                    ],
+                    [
+                        441,
+                        438
+                    ],
+                    [
+                        586,
+                        338
+                    ],
+                    [
+                        729,
+                        402
+                    ],
+                    [
+                        791,
+                        233
+                    ],
+                    [
+                        379,
+                        52
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

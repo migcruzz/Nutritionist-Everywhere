@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1662662,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:01.280Z",
+            "updatedAt": "2023-06-07T13:18:01.280Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        206
+                    ],
+                    [
+                        22,
+                        160
+                    ],
+                    [
+                        2,
+                        213
+                    ],
+                    [
+                        6,
+                        379
+                    ],
+                    [
+                        215,
+                        357
+                    ],
+                    [
+                        176,
+                        271
+                    ],
+                    [
+                        199,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1662660,
+            "classId": 3851,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:01.279Z",
+            "updatedAt": "2023-06-07T13:18:01.279Z",
+            "tags": [],
+            "classTitle": "meatloaf",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        161
+                    ],
+                    [
+                        99,
+                        125
+                    ],
+                    [
+                        86,
+                        177
+                    ],
+                    [
+                        127,
+                        191
+                    ],
+                    [
+                        230,
+                        211
+                    ],
+                    [
+                        260,
+                        185
+                    ],
+                    [
+                        341,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1662658,
+            "classId": 3811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:01.279Z",
+            "updatedAt": "2023-06-07T13:18:01.279Z",
+            "tags": [],
+            "classTitle": "bacon-raw",
+            "points": {
+                "exterior": [
+                    [
+                        453,
+                        150
+                    ],
+                    [
+                        350,
+                        164
+                    ],
+                    [
+                        244,
+                        193
+                    ],
+                    [
+                        246,
+                        261
+                    ],
+                    [
+                        288,
+                        279
+                    ],
+                    [
+                        367,
+                        258
+                    ],
+                    [
+                        409,
+                        264
+                    ],
+                    [
+                        456,
+                        300
+                    ],
+                    [
+                        459,
+                        293
+                    ],
+                    [
+                        462,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

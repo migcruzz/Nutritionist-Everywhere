@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1709148,
+            "classId": 3643,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:42.008Z",
+            "updatedAt": "2023-06-07T13:50:42.008Z",
+            "tags": [],
+            "classTitle": "pasta-penne",
+            "points": {
+                "exterior": [
+                    [
+                        581,
+                        57
+                    ],
+                    [
+                        197,
+                        76
+                    ],
+                    [
+                        30,
+                        255
+                    ],
+                    [
+                        9,
+                        603
+                    ],
+                    [
+                        69,
+                        761
+                    ],
+                    [
+                        235,
+                        840
+                    ],
+                    [
+                        745,
+                        840
+                    ],
+                    [
+                        790,
+                        626
+                    ],
+                    [
+                        817,
+                        351
+                    ],
+                    [
+                        770,
+                        176
+                    ],
+                    [
+                        662,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709146,
+            "classId": 4137,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:42.007Z",
+            "updatedAt": "2023-06-07T13:50:42.007Z",
+            "tags": [],
+            "classTitle": "processed-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        768,
+                        332
+                    ],
+                    [
+                        544,
+                        162
+                    ],
+                    [
+                        235,
+                        162
+                    ],
+                    [
+                        69,
+                        245
+                    ],
+                    [
+                        69,
+                        432
+                    ],
+                    [
+                        30,
+                        541
+                    ],
+                    [
+                        50,
+                        705
+                    ],
+                    [
+                        99,
+                        799
+                    ],
+                    [
+                        433,
+                        816
+                    ],
+                    [
+                        649,
+                        780
+                    ],
+                    [
+                        732,
+                        658
+                    ],
+                    [
+                        783,
+                        484
+                    ],
+                    [
+                        775,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

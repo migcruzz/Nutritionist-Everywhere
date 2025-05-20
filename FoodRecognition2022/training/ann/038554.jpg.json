@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1666677,
+            "classId": 4035,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:02.214Z",
+            "updatedAt": "2023-06-07T13:21:02.214Z",
+            "tags": [],
+            "classTitle": "milk-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        58
+                    ],
+                    [
+                        144,
+                        64
+                    ],
+                    [
+                        119,
+                        249
+                    ],
+                    [
+                        244,
+                        266
+                    ],
+                    [
+                        329,
+                        195
+                    ],
+                    [
+                        342,
+                        140
+                    ],
+                    [
+                        340,
+                        66
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666675,
+            "classId": 3749,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:02.214Z",
+            "updatedAt": "2023-06-07T13:21:02.214Z",
+            "tags": [],
+            "classTitle": "peanut",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        64
+                    ],
+                    [
+                        145,
+                        70
+                    ],
+                    [
+                        130,
+                        99
+                    ],
+                    [
+                        162,
+                        234
+                    ],
+                    [
+                        165,
+                        266
+                    ],
+                    [
+                        222,
+                        264
+                    ],
+                    [
+                        257,
+                        237
+                    ],
+                    [
+                        298,
+                        204
+                    ],
+                    [
+                        325,
+                        178
+                    ],
+                    [
+                        328,
+                        133
+                    ],
+                    [
+                        316,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

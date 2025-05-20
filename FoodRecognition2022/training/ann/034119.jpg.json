@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1719772,
+            "classId": 3649,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:31.546Z",
+            "updatedAt": "2023-06-07T13:58:31.546Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        814,
+                        662
+                    ],
+                    [
+                        871,
+                        490
+                    ],
+                    [
+                        823,
+                        443
+                    ],
+                    [
+                        635,
+                        443
+                    ],
+                    [
+                        357,
+                        521
+                    ],
+                    [
+                        272,
+                        598
+                    ],
+                    [
+                        364,
+                        634
+                    ],
+                    [
+                        708,
+                        582
+                    ],
+                    [
+                        748,
+                        577
+                    ],
+                    [
+                        774,
+                        601
+                    ],
+                    [
+                        793,
+                        657
+                    ],
+                    [
+                        802,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719770,
+            "classId": 3921,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:31.545Z",
+            "updatedAt": "2023-06-07T13:58:31.545Z",
+            "tags": [],
+            "classTitle": "mango",
+            "points": {
+                "exterior": [
+                    [
+                        779,
+                        796
+                    ],
+                    [
+                        769,
+                        558
+                    ],
+                    [
+                        526,
+                        565
+                    ],
+                    [
+                        192,
+                        660
+                    ],
+                    [
+                        269,
+                        780
+                    ],
+                    [
+                        449,
+                        851
+                    ],
+                    [
+                        691,
+                        843
+                    ],
+                    [
+                        800,
+                        792
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1721366,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:39.991Z",
+            "updatedAt": "2023-06-07T13:59:39.991Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        265
+                    ],
+                    [
+                        237,
+                        348
+                    ],
+                    [
+                        297,
+                        411
+                    ],
+                    [
+                        272,
+                        447
+                    ],
+                    [
+                        228,
+                        471
+                    ],
+                    [
+                        181,
+                        477
+                    ],
+                    [
+                        86,
+                        471
+                    ],
+                    [
+                        28,
+                        399
+                    ],
+                    [
+                        0,
+                        319
+                    ],
+                    [
+                        65,
+                        274
+                    ],
+                    [
+                        88,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721364,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:39.991Z",
+            "updatedAt": "2023-06-07T13:59:39.991Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        312
+                    ],
+                    [
+                        95,
+                        355
+                    ],
+                    [
+                        123,
+                        382
+                    ],
+                    [
+                        151,
+                        392
+                    ],
+                    [
+                        159,
+                        421
+                    ],
+                    [
+                        192,
+                        428
+                    ],
+                    [
+                        211,
+                        415
+                    ],
+                    [
+                        217,
+                        371
+                    ],
+                    [
+                        185,
+                        330
+                    ],
+                    [
+                        159,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

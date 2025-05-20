@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1654902,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:37.777Z",
+            "updatedAt": "2023-06-07T13:12:37.777Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        162
+                    ],
+                    [
+                        316,
+                        205
+                    ],
+                    [
+                        250,
+                        203
+                    ],
+                    [
+                        253,
+                        147
+                    ],
+                    [
+                        305,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1654900,
+            "classId": 3707,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:37.777Z",
+            "updatedAt": "2023-06-07T13:12:37.777Z",
+            "tags": [],
+            "classTitle": "coffee-decaffeinated",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        238
+                    ],
+                    [
+                        152,
+                        238
+                    ],
+                    [
+                        136,
+                        232
+                    ],
+                    [
+                        120,
+                        218
+                    ],
+                    [
+                        110,
+                        202
+                    ],
+                    [
+                        107,
+                        192
+                    ],
+                    [
+                        107,
+                        165
+                    ],
+                    [
+                        110,
+                        152
+                    ],
+                    [
+                        137,
+                        128
+                    ],
+                    [
+                        166,
+                        125
+                    ],
+                    [
+                        182,
+                        129
+                    ],
+                    [
+                        207,
+                        149
+                    ],
+                    [
+                        216,
+                        165
+                    ],
+                    [
+                        218,
+                        195
+                    ],
+                    [
+                        212,
+                        212
+                    ],
+                    [
+                        196,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1654898,
+            "classId": 4035,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:37.776Z",
+            "updatedAt": "2023-06-07T13:12:37.776Z",
+            "tags": [],
+            "classTitle": "milk-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        222
+                    ],
+                    [
+                        251,
+                        212
+                    ],
+                    [
+                        239,
+                        258
+                    ],
+                    [
+                        300,
+                        270
+                    ],
+                    [
+                        318,
+                        223
+                    ],
+                    [
+                        313,
+                        225
+                    ],
+                    [
+                        313,
+                        225
+                    ],
+                    [
+                        319,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

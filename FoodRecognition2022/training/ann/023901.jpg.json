@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1766108,
+            "classId": 4383,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:05.415Z",
+            "updatedAt": "2023-06-07T14:30:05.415Z",
+            "tags": [],
+            "classTitle": "apricot-dried",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        113
+                    ],
+                    [
+                        371,
+                        67
+                    ],
+                    [
+                        356,
+                        25
+                    ],
+                    [
+                        306,
+                        31
+                    ],
+                    [
+                        297,
+                        62
+                    ],
+                    [
+                        309,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1766106,
+            "classId": 3797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:05.414Z",
+            "updatedAt": "2023-06-07T14:30:05.414Z",
+            "tags": [],
+            "classTitle": "braided-white-loaf",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        168
+                    ],
+                    [
+                        441,
+                        341
+                    ],
+                    [
+                        353,
+                        438
+                    ],
+                    [
+                        161,
+                        371
+                    ],
+                    [
+                        91,
+                        234
+                    ],
+                    [
+                        160,
+                        188
+                    ],
+                    [
+                        213,
+                        188
+                    ],
+                    [
+                        259,
+                        150
+                    ],
+                    [
+                        284,
+                        146
+                    ],
+                    [
+                        325,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1766104,
+            "classId": 4131,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:05.413Z",
+            "updatedAt": "2023-06-07T14:30:05.413Z",
+            "tags": [],
+            "classTitle": "croissant",
+            "points": {
+                "exterior": [
+                    [
+                        440,
+                        67
+                    ],
+                    [
+                        298,
+                        113
+                    ],
+                    [
+                        353,
+                        182
+                    ],
+                    [
+                        430,
+                        347
+                    ],
+                    [
+                        426,
+                        443
+                    ],
+                    [
+                        545,
+                        423
+                    ],
+                    [
+                        594,
+                        283
+                    ],
+                    [
+                        583,
+                        165
+                    ],
+                    [
+                        533,
+                        84
+                    ],
+                    [
+                        459,
+                        67
+                    ],
+                    [
+                        443,
+                        67
+                    ],
+                    [
+                        432,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

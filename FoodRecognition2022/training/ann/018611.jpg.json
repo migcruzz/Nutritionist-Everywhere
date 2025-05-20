@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 919,
+        "width": 920
+    },
+    "objects": [
+        {
+            "id": 1749054,
+            "classId": 3827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:54.871Z",
+            "updatedAt": "2023-06-07T14:18:54.871Z",
+            "tags": [],
+            "classTitle": "rice-basmati",
+            "points": {
+                "exterior": [
+                    [
+                        702,
+                        160
+                    ],
+                    [
+                        911,
+                        333
+                    ],
+                    [
+                        916,
+                        655
+                    ],
+                    [
+                        813,
+                        790
+                    ],
+                    [
+                        509,
+                        891
+                    ],
+                    [
+                        394,
+                        705
+                    ],
+                    [
+                        481,
+                        457
+                    ],
+                    [
+                        491,
+                        349
+                    ],
+                    [
+                        615,
+                        224
+                    ],
+                    [
+                        695,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1749052,
+            "classId": 3565,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:54.870Z",
+            "updatedAt": "2023-06-07T14:18:54.870Z",
+            "tags": [],
+            "classTitle": "curry-vegetarian",
+            "points": {
+                "exterior": [
+                    [
+                        583,
+                        135
+                    ],
+                    [
+                        497,
+                        59
+                    ],
+                    [
+                        205,
+                        158
+                    ],
+                    [
+                        12,
+                        330
+                    ],
+                    [
+                        44,
+                        519
+                    ],
+                    [
+                        102,
+                        689
+                    ],
+                    [
+                        235,
+                        827
+                    ],
+                    [
+                        382,
+                        878
+                    ],
+                    [
+                        293,
+                        763
+                    ],
+                    [
+                        203,
+                        675
+                    ],
+                    [
+                        210,
+                        560
+                    ],
+                    [
+                        286,
+                        477
+                    ],
+                    [
+                        284,
+                        252
+                    ],
+                    [
+                        417,
+                        195
+                    ],
+                    [
+                        537,
+                        199
+                    ],
+                    [
+                        585,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

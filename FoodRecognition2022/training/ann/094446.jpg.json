@@ -1,0 +1,322 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 866
+    },
+    "objects": [
+        {
+            "id": 1653869,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:57.157Z",
+            "updatedAt": "2023-06-07T13:11:57.157Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        143
+                    ],
+                    [
+                        348,
+                        307
+                    ],
+                    [
+                        322,
+                        429
+                    ],
+                    [
+                        517,
+                        465
+                    ],
+                    [
+                        623,
+                        424
+                    ],
+                    [
+                        632,
+                        357
+                    ],
+                    [
+                        614,
+                        286
+                    ],
+                    [
+                        567,
+                        283
+                    ],
+                    [
+                        549,
+                        201
+                    ],
+                    [
+                        506,
+                        216
+                    ],
+                    [
+                        459,
+                        130
+                    ],
+                    [
+                        428,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653867,
+            "classId": 3557,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:57.156Z",
+            "updatedAt": "2023-06-07T13:11:57.156Z",
+            "tags": [],
+            "classTitle": "green-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        102
+                    ],
+                    [
+                        279,
+                        147
+                    ],
+                    [
+                        231,
+                        216
+                    ],
+                    [
+                        242,
+                        390
+                    ],
+                    [
+                        365,
+                        381
+                    ],
+                    [
+                        335,
+                        264
+                    ],
+                    [
+                        409,
+                        214
+                    ],
+                    [
+                        415,
+                        158
+                    ],
+                    [
+                        374,
+                        151
+                    ],
+                    [
+                        339,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653865,
+            "classId": 3527,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:57.156Z",
+            "updatedAt": "2023-06-07T13:11:57.156Z",
+            "tags": [],
+            "classTitle": "green-bean-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        643,
+                        468
+                    ],
+                    [
+                        463,
+                        450
+                    ],
+                    [
+                        467,
+                        478
+                    ],
+                    [
+                        593,
+                        561
+                    ],
+                    [
+                        591,
+                        535
+                    ],
+                    [
+                        662,
+                        558
+                    ],
+                    [
+                        664,
+                        532
+                    ],
+                    [
+                        612,
+                        491
+                    ],
+                    [
+                        656,
+                        476
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653863,
+            "classId": 4405,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:57.155Z",
+            "updatedAt": "2023-06-07T13:11:57.155Z",
+            "tags": [],
+            "classTitle": "tomato-stewed-without-addition-of-fat-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        496
+                    ],
+                    [
+                        437,
+                        506
+                    ],
+                    [
+                        394,
+                        593
+                    ],
+                    [
+                        426,
+                        639
+                    ],
+                    [
+                        549,
+                        613
+                    ],
+                    [
+                        569,
+                        537
+                    ],
+                    [
+                        526,
+                        496
+                    ],
+                    [
+                        485,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653861,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:57.153Z",
+            "updatedAt": "2023-06-07T13:11:57.153Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        149
+                    ],
+                    [
+                        112,
+                        305
+                    ],
+                    [
+                        145,
+                        522
+                    ],
+                    [
+                        186,
+                        558
+                    ],
+                    [
+                        218,
+                        416
+                    ],
+                    [
+                        231,
+                        327
+                    ],
+                    [
+                        218,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653860,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:57.153Z",
+            "updatedAt": "2023-06-07T13:11:57.153Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        612,
+                        548
+                    ],
+                    [
+                        528,
+                        632
+                    ],
+                    [
+                        337,
+                        639
+                    ],
+                    [
+                        407,
+                        686
+                    ],
+                    [
+                        504,
+                        675
+                    ],
+                    [
+                        621,
+                        602
+                    ],
+                    [
+                        653,
+                        558
+                    ],
+                    [
+                        623,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

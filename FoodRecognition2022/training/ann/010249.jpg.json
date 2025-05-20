@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 310,
+        "width": 311
+    },
+    "objects": [
+        {
+            "id": 1740530,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:55.119Z",
+            "updatedAt": "2023-06-07T14:12:55.119Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        36
+                    ],
+                    [
+                        84,
+                        35
+                    ],
+                    [
+                        39,
+                        67
+                    ],
+                    [
+                        41,
+                        83
+                    ],
+                    [
+                        99,
+                        107
+                    ],
+                    [
+                        195,
+                        113
+                    ],
+                    [
+                        198,
+                        102
+                    ],
+                    [
+                        179,
+                        67
+                    ],
+                    [
+                        149,
+                        48
+                    ],
+                    [
+                        125,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740528,
+            "classId": 3565,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:55.119Z",
+            "updatedAt": "2023-06-07T14:12:55.119Z",
+            "tags": [],
+            "classTitle": "curry-vegetarian",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        36
+                    ],
+                    [
+                        157,
+                        56
+                    ],
+                    [
+                        179,
+                        92
+                    ],
+                    [
+                        215,
+                        109
+                    ],
+                    [
+                        277,
+                        92
+                    ],
+                    [
+                        295,
+                        92
+                    ],
+                    [
+                        304,
+                        67
+                    ],
+                    [
+                        286,
+                        39
+                    ],
+                    [
+                        267,
+                        18
+                    ],
+                    [
+                        239,
+                        19
+                    ],
+                    [
+                        211,
+                        25
+                    ],
+                    [
+                        175,
+                        16
+                    ],
+                    [
+                        131,
+                        12
+                    ],
+                    [
+                        113,
+                        18
+                    ],
+                    [
+                        115,
+                        36
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

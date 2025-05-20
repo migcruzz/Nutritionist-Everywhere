@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 607,
+        "width": 607
+    },
+    "objects": [
+        {
+            "id": 1719840,
+            "classId": 3667,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:31.553Z",
+            "updatedAt": "2023-06-07T13:58:31.553Z",
+            "tags": [],
+            "classTitle": "omelette-plain",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        142
+                    ],
+                    [
+                        17,
+                        186
+                    ],
+                    [
+                        94,
+                        503
+                    ],
+                    [
+                        204,
+                        543
+                    ],
+                    [
+                        345,
+                        452
+                    ],
+                    [
+                        272,
+                        338
+                    ],
+                    [
+                        144,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719838,
+            "classId": 3431,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:31.553Z",
+            "updatedAt": "2023-06-07T13:58:31.553Z",
+            "tags": [],
+            "classTitle": "cottage-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        251
+                    ],
+                    [
+                        340,
+                        411
+                    ],
+                    [
+                        472,
+                        500
+                    ],
+                    [
+                        550,
+                        450
+                    ],
+                    [
+                        578,
+                        342
+                    ],
+                    [
+                        537,
+                        226
+                    ],
+                    [
+                        509,
+                        200
+                    ],
+                    [
+                        375,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719836,
+            "classId": 4271,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:31.552Z",
+            "updatedAt": "2023-06-07T13:58:31.552Z",
+            "tags": [],
+            "classTitle": "gluten-free-bread",
+            "points": {
+                "exterior": [
+                    [
+                        481,
+                        109
+                    ],
+                    [
+                        387,
+                        218
+                    ],
+                    [
+                        175,
+                        210
+                    ],
+                    [
+                        132,
+                        56
+                    ],
+                    [
+                        319,
+                        19
+                    ],
+                    [
+                        434,
+                        37
+                    ],
+                    [
+                        468,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

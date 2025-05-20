@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1745715,
+            "classId": 3921,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.047Z",
+            "updatedAt": "2023-06-07T14:16:37.047Z",
+            "tags": [],
+            "classTitle": "mango",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        225
+                    ],
+                    [
+                        52,
+                        310
+                    ],
+                    [
+                        88,
+                        353
+                    ],
+                    [
+                        122,
+                        347
+                    ],
+                    [
+                        134,
+                        300
+                    ],
+                    [
+                        129,
+                        267
+                    ],
+                    [
+                        95,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745714,
+            "classId": 3921,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.047Z",
+            "updatedAt": "2023-06-07T14:16:37.047Z",
+            "tags": [],
+            "classTitle": "mango",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        177
+                    ],
+                    [
+                        224,
+                        185
+                    ],
+                    [
+                        224,
+                        234
+                    ],
+                    [
+                        273,
+                        263
+                    ],
+                    [
+                        321,
+                        262
+                    ],
+                    [
+                        341,
+                        219
+                    ],
+                    [
+                        326,
+                        189
+                    ],
+                    [
+                        307,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745712,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.045Z",
+            "updatedAt": "2023-06-07T14:16:37.045Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        148
+                    ],
+                    [
+                        146,
+                        173
+                    ],
+                    [
+                        197,
+                        143
+                    ],
+                    [
+                        215,
+                        138
+                    ],
+                    [
+                        218,
+                        99
+                    ],
+                    [
+                        185,
+                        76
+                    ],
+                    [
+                        179,
+                        75
+                    ],
+                    [
+                        151,
+                        83
+                    ],
+                    [
+                        131,
+                        96
+                    ],
+                    [
+                        134,
+                        120
+                    ],
+                    [
+                        134,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

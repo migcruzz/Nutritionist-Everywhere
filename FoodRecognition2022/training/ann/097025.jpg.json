@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1767821,
+            "classId": 3539,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.573Z",
+            "updatedAt": "2023-06-07T14:31:17.573Z",
+            "tags": [],
+            "classTitle": "tart",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        69
+                    ],
+                    [
+                        24,
+                        101
+                    ],
+                    [
+                        42,
+                        250
+                    ],
+                    [
+                        75,
+                        265
+                    ],
+                    [
+                        303,
+                        186
+                    ],
+                    [
+                        282,
+                        100
+                    ],
+                    [
+                        218,
+                        80
+                    ],
+                    [
+                        82,
+                        77
+                    ],
+                    [
+                        65,
+                        63
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767819,
+            "classId": 4103,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.572Z",
+            "updatedAt": "2023-06-07T14:31:17.572Z",
+            "tags": [],
+            "classTitle": "pineapple",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        85
+                    ],
+                    [
+                        73,
+                        135
+                    ],
+                    [
+                        63,
+                        211
+                    ],
+                    [
+                        89,
+                        220
+                    ],
+                    [
+                        127,
+                        206
+                    ],
+                    [
+                        152,
+                        189
+                    ],
+                    [
+                        174,
+                        189
+                    ],
+                    [
+                        215,
+                        195
+                    ],
+                    [
+                        265,
+                        188
+                    ],
+                    [
+                        276,
+                        164
+                    ],
+                    [
+                        257,
+                        113
+                    ],
+                    [
+                        157,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

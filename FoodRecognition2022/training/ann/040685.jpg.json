@@ -1,0 +1,278 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1763058,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:00.497Z",
+            "updatedAt": "2023-06-07T14:28:00.497Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        172
+                    ],
+                    [
+                        214,
+                        296
+                    ],
+                    [
+                        237,
+                        288
+                    ],
+                    [
+                        227,
+                        340
+                    ],
+                    [
+                        192,
+                        360
+                    ],
+                    [
+                        192,
+                        395
+                    ],
+                    [
+                        333,
+                        431
+                    ],
+                    [
+                        442,
+                        414
+                    ],
+                    [
+                        453,
+                        366
+                    ],
+                    [
+                        431,
+                        276
+                    ],
+                    [
+                        463,
+                        257
+                    ],
+                    [
+                        459,
+                        236
+                    ],
+                    [
+                        289,
+                        130
+                    ],
+                    [
+                        228,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763056,
+            "classId": 4285,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:00.497Z",
+            "updatedAt": "2023-06-07T14:28:00.497Z",
+            "tags": [],
+            "classTitle": "butter-herb",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        180
+                    ],
+                    [
+                        118,
+                        228
+                    ],
+                    [
+                        129,
+                        256
+                    ],
+                    [
+                        184,
+                        269
+                    ],
+                    [
+                        202,
+                        255
+                    ],
+                    [
+                        216,
+                        215
+                    ],
+                    [
+                        214,
+                        192
+                    ],
+                    [
+                        192,
+                        180
+                    ],
+                    [
+                        133,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763054,
+            "classId": 3651,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:00.497Z",
+            "updatedAt": "2023-06-07T14:28:00.497Z",
+            "tags": [],
+            "classTitle": "french-beans",
+            "points": {
+                "exterior": [
+                    [
+                        149,
+                        129
+                    ],
+                    [
+                        221,
+                        107
+                    ],
+                    [
+                        259,
+                        164
+                    ],
+                    [
+                        329,
+                        164
+                    ],
+                    [
+                        360,
+                        110
+                    ],
+                    [
+                        421,
+                        111
+                    ],
+                    [
+                        367,
+                        39
+                    ],
+                    [
+                        268,
+                        15
+                    ],
+                    [
+                        144,
+                        50
+                    ],
+                    [
+                        139,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763052,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:00.497Z",
+            "updatedAt": "2023-06-07T14:28:00.497Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        167
+                    ],
+                    [
+                        432,
+                        226
+                    ],
+                    [
+                        466,
+                        166
+                    ],
+                    [
+                        431,
+                        116
+                    ],
+                    [
+                        358,
+                        114
+                    ],
+                    [
+                        333,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763050,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:00.497Z",
+            "updatedAt": "2023-06-07T14:28:00.497Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        176
+                    ],
+                    [
+                        95,
+                        176
+                    ],
+                    [
+                        126,
+                        150
+                    ],
+                    [
+                        131,
+                        94
+                    ],
+                    [
+                        83,
+                        64
+                    ],
+                    [
+                        22,
+                        83
+                    ],
+                    [
+                        18,
+                        124
+                    ],
+                    [
+                        35,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1762451,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:40.609Z",
+            "updatedAt": "2023-06-07T14:27:40.609Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        219
+                    ],
+                    [
+                        187,
+                        282
+                    ],
+                    [
+                        205,
+                        363
+                    ],
+                    [
+                        200,
+                        412
+                    ],
+                    [
+                        260,
+                        444
+                    ],
+                    [
+                        320,
+                        421
+                    ],
+                    [
+                        428,
+                        385
+                    ],
+                    [
+                        424,
+                        324
+                    ],
+                    [
+                        363,
+                        288
+                    ],
+                    [
+                        291,
+                        267
+                    ],
+                    [
+                        268,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1762449,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:40.608Z",
+            "updatedAt": "2023-06-07T14:27:40.608Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        88
+                    ],
+                    [
+                        204,
+                        315
+                    ],
+                    [
+                        43,
+                        393
+                    ],
+                    [
+                        3,
+                        269
+                    ],
+                    [
+                        7,
+                        186
+                    ],
+                    [
+                        94,
+                        87
+                    ],
+                    [
+                        189,
+                        66
+                    ],
+                    [
+                        226,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1762447,
+            "classId": 3919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:40.607Z",
+            "updatedAt": "2023-06-07T14:27:40.607Z",
+            "tags": [],
+            "classTitle": "rosti",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        129
+                    ],
+                    [
+                        325,
+                        192
+                    ],
+                    [
+                        308,
+                        247
+                    ],
+                    [
+                        196,
+                        295
+                    ],
+                    [
+                        237,
+                        202
+                    ],
+                    [
+                        224,
+                        163
+                    ],
+                    [
+                        226,
+                        120
+                    ],
+                    [
+                        231,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

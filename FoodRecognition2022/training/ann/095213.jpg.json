@@ -1,0 +1,62 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1678101,
+            "classId": 3433,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:45.299Z",
+            "updatedAt": "2023-06-07T13:28:45.299Z",
+            "tags": [],
+            "classTitle": "bread-half-white",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        24
+                    ],
+                    [
+                        273,
+                        422
+                    ],
+                    [
+                        109,
+                        446
+                    ],
+                    [
+                        85,
+                        391
+                    ],
+                    [
+                        90,
+                        277
+                    ],
+                    [
+                        78,
+                        150
+                    ],
+                    [
+                        103,
+                        62
+                    ],
+                    [
+                        190,
+                        19
+                    ],
+                    [
+                        257,
+                        18
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

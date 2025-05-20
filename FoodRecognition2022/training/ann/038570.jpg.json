@@ -1,0 +1,474 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1781740,
+            "classId": 3827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:40.973Z",
+            "updatedAt": "2023-06-07T14:40:40.973Z",
+            "tags": [],
+            "classTitle": "rice-basmati",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        103
+                    ],
+                    [
+                        173,
+                        102
+                    ],
+                    [
+                        72,
+                        170
+                    ],
+                    [
+                        83,
+                        267
+                    ],
+                    [
+                        149,
+                        265
+                    ],
+                    [
+                        222,
+                        296
+                    ],
+                    [
+                        293,
+                        282
+                    ],
+                    [
+                        339,
+                        255
+                    ],
+                    [
+                        331,
+                        218
+                    ],
+                    [
+                        318,
+                        194
+                    ],
+                    [
+                        334,
+                        160
+                    ],
+                    [
+                        330,
+                        132
+                    ],
+                    [
+                        315,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781738,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:40.973Z",
+            "updatedAt": "2023-06-07T14:40:40.973Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        196
+                    ],
+                    [
+                        255,
+                        117
+                    ],
+                    [
+                        214,
+                        109
+                    ],
+                    [
+                        197,
+                        120
+                    ],
+                    [
+                        213,
+                        165
+                    ],
+                    [
+                        208,
+                        172
+                    ],
+                    [
+                        197,
+                        168
+                    ],
+                    [
+                        139,
+                        134
+                    ],
+                    [
+                        108,
+                        156
+                    ],
+                    [
+                        136,
+                        187
+                    ],
+                    [
+                        139,
+                        189
+                    ],
+                    [
+                        83,
+                        229
+                    ],
+                    [
+                        82,
+                        255
+                    ],
+                    [
+                        139,
+                        216
+                    ],
+                    [
+                        163,
+                        193
+                    ],
+                    [
+                        173,
+                        183
+                    ],
+                    [
+                        189,
+                        207
+                    ],
+                    [
+                        193,
+                        237
+                    ],
+                    [
+                        232,
+                        254
+                    ],
+                    [
+                        257,
+                        240
+                    ],
+                    [
+                        241,
+                        189
+                    ],
+                    [
+                        232,
+                        176
+                    ],
+                    [
+                        253,
+                        183
+                    ],
+                    [
+                        276,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781736,
+            "classId": 3509,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:40.972Z",
+            "updatedAt": "2023-06-07T14:40:40.972Z",
+            "tags": [],
+            "classTitle": "greek-yaourt-yahourt-yogourt-ou-yoghourt",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        253
+                    ],
+                    [
+                        257,
+                        292
+                    ],
+                    [
+                        369,
+                        284
+                    ],
+                    [
+                        420,
+                        314
+                    ],
+                    [
+                        424,
+                        234
+                    ],
+                    [
+                        385,
+                        245
+                    ],
+                    [
+                        346,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781734,
+            "classId": 3761,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:40.971Z",
+            "updatedAt": "2023-06-07T14:40:40.971Z",
+            "tags": [],
+            "classTitle": "eggplant-caviar",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        376
+                    ],
+                    [
+                        424,
+                        322
+                    ],
+                    [
+                        365,
+                        284
+                    ],
+                    [
+                        263,
+                        284
+                    ],
+                    [
+                        267,
+                        343
+                    ],
+                    [
+                        331,
+                        342
+                    ],
+                    [
+                        352,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781732,
+            "classId": 3929,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:40.970Z",
+            "updatedAt": "2023-06-07T14:40:40.970Z",
+            "tags": [],
+            "classTitle": "fish",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        463
+                    ],
+                    [
+                        281,
+                        402
+                    ],
+                    [
+                        263,
+                        355
+                    ],
+                    [
+                        247,
+                        289
+                    ],
+                    [
+                        202,
+                        273
+                    ],
+                    [
+                        167,
+                        292
+                    ],
+                    [
+                        171,
+                        322
+                    ],
+                    [
+                        205,
+                        350
+                    ],
+                    [
+                        210,
+                        384
+                    ],
+                    [
+                        237,
+                        410
+                    ],
+                    [
+                        261,
+                        447
+                    ],
+                    [
+                        300,
+                        464
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781730,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:40.970Z",
+            "updatedAt": "2023-06-07T14:40:40.970Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        438
+                    ],
+                    [
+                        210,
+                        396
+                    ],
+                    [
+                        179,
+                        358
+                    ],
+                    [
+                        145,
+                        338
+                    ],
+                    [
+                        149,
+                        282
+                    ],
+                    [
+                        112,
+                        240
+                    ],
+                    [
+                        78,
+                        248
+                    ],
+                    [
+                        78,
+                        280
+                    ],
+                    [
+                        132,
+                        284
+                    ],
+                    [
+                        137,
+                        307
+                    ],
+                    [
+                        121,
+                        351
+                    ],
+                    [
+                        117,
+                        402
+                    ],
+                    [
+                        149,
+                        435
+                    ],
+                    [
+                        189,
+                        450
+                    ],
+                    [
+                        243,
+                        466
+                    ],
+                    [
+                        275,
+                        471
+                    ],
+                    [
+                        255,
+                        436
+                    ],
+                    [
+                        221,
+                        428
+                    ],
+                    [
+                        208,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781728,
+            "classId": 3753,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:40.969Z",
+            "updatedAt": "2023-06-07T14:40:40.969Z",
+            "tags": [],
+            "classTitle": "cauliflower",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        297
+                    ],
+                    [
+                        75,
+                        302
+                    ],
+                    [
+                        59,
+                        378
+                    ],
+                    [
+                        150,
+                        386
+                    ],
+                    [
+                        160,
+                        344
+                    ],
+                    [
+                        150,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1801231,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:05.041Z",
+            "updatedAt": "2023-06-07T14:54:05.041Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        124
+                    ],
+                    [
+                        212,
+                        87
+                    ],
+                    [
+                        127,
+                        73
+                    ],
+                    [
+                        61,
+                        62
+                    ],
+                    [
+                        26,
+                        82
+                    ],
+                    [
+                        18,
+                        139
+                    ],
+                    [
+                        6,
+                        248
+                    ],
+                    [
+                        12,
+                        305
+                    ],
+                    [
+                        71,
+                        340
+                    ],
+                    [
+                        124,
+                        339
+                    ],
+                    [
+                        192,
+                        337
+                    ],
+                    [
+                        225,
+                        310
+                    ],
+                    [
+                        216,
+                        182
+                    ],
+                    [
+                        225,
+                        128
+                    ],
+                    [
+                        214,
+                        109
+                    ],
+                    [
+                        209,
+                        97
+                    ],
+                    [
+                        209,
+                        92
+                    ],
+                    [
+                        208,
+                        91
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801229,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:05.039Z",
+            "updatedAt": "2023-06-07T14:54:05.039Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        75
+                    ],
+                    [
+                        243,
+                        171
+                    ],
+                    [
+                        270,
+                        173
+                    ],
+                    [
+                        294,
+                        146
+                    ],
+                    [
+                        296,
+                        113
+                    ],
+                    [
+                        286,
+                        81
+                    ],
+                    [
+                        267,
+                        72
+                    ],
+                    [
+                        264,
+                        72
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 737,
+        "width": 736
+    },
+    "objects": [
+        {
+            "id": 1666222,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:45.219Z",
+            "updatedAt": "2023-06-07T13:20:45.219Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        394
+                    ],
+                    [
+                        403,
+                        265
+                    ],
+                    [
+                        343,
+                        162
+                    ],
+                    [
+                        158,
+                        149
+                    ],
+                    [
+                        94,
+                        237
+                    ],
+                    [
+                        79,
+                        340
+                    ],
+                    [
+                        85,
+                        460
+                    ],
+                    [
+                        144,
+                        517
+                    ],
+                    [
+                        204,
+                        493
+                    ],
+                    [
+                        280,
+                        451
+                    ],
+                    [
+                        302,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666221,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:45.219Z",
+            "updatedAt": "2023-06-07T13:20:45.219Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        329
+                    ],
+                    [
+                        319,
+                        479
+                    ],
+                    [
+                        319,
+                        626
+                    ],
+                    [
+                        451,
+                        630
+                    ],
+                    [
+                        543,
+                        589
+                    ],
+                    [
+                        606,
+                        534
+                    ],
+                    [
+                        608,
+                        431
+                    ],
+                    [
+                        558,
+                        337
+                    ],
+                    [
+                        466,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

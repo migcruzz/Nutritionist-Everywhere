@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1768139,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:28.082Z",
+            "updatedAt": "2023-06-07T14:31:28.082Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        935,
+                        480
+                    ],
+                    [
+                        728,
+                        344
+                    ],
+                    [
+                        709,
+                        337
+                    ],
+                    [
+                        577,
+                        462
+                    ],
+                    [
+                        546,
+                        554
+                    ],
+                    [
+                        582,
+                        645
+                    ],
+                    [
+                        669,
+                        700
+                    ],
+                    [
+                        735,
+                        737
+                    ],
+                    [
+                        836,
+                        657
+                    ],
+                    [
+                        935,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768137,
+            "classId": 4177,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:28.081Z",
+            "updatedAt": "2023-06-07T14:31:28.081Z",
+            "tags": [],
+            "classTitle": "meat-terrine-pate",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        436
+                    ],
+                    [
+                        139,
+                        419
+                    ],
+                    [
+                        122,
+                        426
+                    ],
+                    [
+                        68,
+                        417
+                    ],
+                    [
+                        25,
+                        443
+                    ],
+                    [
+                        56,
+                        660
+                    ],
+                    [
+                        148,
+                        695
+                    ],
+                    [
+                        221,
+                        688
+                    ],
+                    [
+                        322,
+                        624
+                    ],
+                    [
+                        330,
+                        594
+                    ],
+                    [
+                        360,
+                        598
+                    ],
+                    [
+                        443,
+                        591
+                    ],
+                    [
+                        417,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

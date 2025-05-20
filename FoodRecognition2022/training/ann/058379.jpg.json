@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1743940,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.718Z",
+            "updatedAt": "2023-06-07T14:15:22.718Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        69
+                    ],
+                    [
+                        487,
+                        294
+                    ],
+                    [
+                        493,
+                        594
+                    ],
+                    [
+                        531,
+                        839
+                    ],
+                    [
+                        709,
+                        1015
+                    ],
+                    [
+                        985,
+                        1061
+                    ],
+                    [
+                        1028,
+                        956
+                    ],
+                    [
+                        1060,
+                        231
+                    ],
+                    [
+                        933,
+                        118
+                    ],
+                    [
+                        822,
+                        40
+                    ],
+                    [
+                        604,
+                        21
+                    ],
+                    [
+                        514,
+                        40
+                    ],
+                    [
+                        493,
+                        64
+                    ],
+                    [
+                        493,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743938,
+            "classId": 4365,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.717Z",
+            "updatedAt": "2023-06-07T14:15:22.717Z",
+            "tags": [],
+            "classTitle": "minced-meat",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        126
+                    ],
+                    [
+                        228,
+                        191
+                    ],
+                    [
+                        136,
+                        323
+                    ],
+                    [
+                        68,
+                        496
+                    ],
+                    [
+                        47,
+                        750
+                    ],
+                    [
+                        112,
+                        966
+                    ],
+                    [
+                        168,
+                        1034
+                    ],
+                    [
+                        371,
+                        1077
+                    ],
+                    [
+                        506,
+                        1058
+                    ],
+                    [
+                        493,
+                        764
+                    ],
+                    [
+                        474,
+                        512
+                    ],
+                    [
+                        398,
+                        364
+                    ],
+                    [
+                        339,
+                        204
+                    ],
+                    [
+                        314,
+                        113
+                    ],
+                    [
+                        322,
+                        169
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

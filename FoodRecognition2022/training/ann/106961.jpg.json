@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1721009,
+            "classId": 4183,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:24.107Z",
+            "updatedAt": "2023-06-07T13:59:24.107Z",
+            "tags": [],
+            "classTitle": "berries",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        211
+                    ],
+                    [
+                        258,
+                        209
+                    ],
+                    [
+                        234,
+                        219
+                    ],
+                    [
+                        269,
+                        253
+                    ],
+                    [
+                        306,
+                        283
+                    ],
+                    [
+                        349,
+                        250
+                    ],
+                    [
+                        331,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721007,
+            "classId": 3845,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:24.106Z",
+            "updatedAt": "2023-06-07T13:59:24.106Z",
+            "tags": [],
+            "classTitle": "crunch-muesli",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        169
+                    ],
+                    [
+                        187,
+                        151
+                    ],
+                    [
+                        142,
+                        215
+                    ],
+                    [
+                        103,
+                        251
+                    ],
+                    [
+                        203,
+                        256
+                    ],
+                    [
+                        264,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

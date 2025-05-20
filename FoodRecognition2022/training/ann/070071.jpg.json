@@ -1,0 +1,258 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1654471,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:22.517Z",
+            "updatedAt": "2023-06-07T13:12:22.517Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        283
+                    ],
+                    [
+                        100,
+                        232
+                    ],
+                    [
+                        92,
+                        203
+                    ],
+                    [
+                        34,
+                        177
+                    ],
+                    [
+                        2,
+                        215
+                    ],
+                    [
+                        20,
+                        284
+                    ],
+                    [
+                        57,
+                        301
+                    ],
+                    [
+                        91,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1654469,
+            "classId": 4127,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:22.515Z",
+            "updatedAt": "2023-06-07T13:12:22.515Z",
+            "tags": [],
+            "classTitle": "sweet-potato",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        207
+                    ],
+                    [
+                        234,
+                        281
+                    ],
+                    [
+                        245,
+                        316
+                    ],
+                    [
+                        318,
+                        315
+                    ],
+                    [
+                        366,
+                        293
+                    ],
+                    [
+                        369,
+                        238
+                    ],
+                    [
+                        339,
+                        193
+                    ],
+                    [
+                        310,
+                        193
+                    ],
+                    [
+                        267,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1654467,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:22.515Z",
+            "updatedAt": "2023-06-07T13:12:22.515Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        162,
+                        79
+                    ],
+                    [
+                        127,
+                        71
+                    ],
+                    [
+                        117,
+                        114
+                    ],
+                    [
+                        98,
+                        344
+                    ],
+                    [
+                        141,
+                        368
+                    ],
+                    [
+                        164,
+                        356
+                    ],
+                    [
+                        170,
+                        222
+                    ],
+                    [
+                        162,
+                        93
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1654465,
+            "classId": 3825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:22.514Z",
+            "updatedAt": "2023-06-07T13:12:22.514Z",
+            "tags": [],
+            "classTitle": "mustard-dijon",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        204
+                    ],
+                    [
+                        92,
+                        116
+                    ],
+                    [
+                        49,
+                        106
+                    ],
+                    [
+                        33,
+                        125
+                    ],
+                    [
+                        36,
+                        146
+                    ],
+                    [
+                        28,
+                        163
+                    ],
+                    [
+                        38,
+                        185
+                    ],
+                    [
+                        62,
+                        190
+                    ],
+                    [
+                        78,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1654463,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:22.513Z",
+            "updatedAt": "2023-06-07T13:12:22.513Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        125
+                    ],
+                    [
+                        300,
+                        128
+                    ],
+                    [
+                        229,
+                        171
+                    ],
+                    [
+                        247,
+                        194
+                    ],
+                    [
+                        284,
+                        196
+                    ],
+                    [
+                        345,
+                        204
+                    ],
+                    [
+                        358,
+                        189
+                    ],
+                    [
+                        336,
+                        133
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

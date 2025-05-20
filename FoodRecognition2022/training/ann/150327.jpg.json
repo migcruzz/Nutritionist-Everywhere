@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1763478,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:20.256Z",
+            "updatedAt": "2023-06-07T14:28:20.256Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        82,
+                        65
+                    ],
+                    [
+                        20,
+                        92
+                    ],
+                    [
+                        28,
+                        141
+                    ],
+                    [
+                        76,
+                        220
+                    ],
+                    [
+                        307,
+                        211
+                    ],
+                    [
+                        323,
+                        150
+                    ],
+                    [
+                        222,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763476,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:20.255Z",
+            "updatedAt": "2023-06-07T14:28:20.255Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        156
+                    ],
+                    [
+                        188,
+                        131
+                    ],
+                    [
+                        70,
+                        104
+                    ],
+                    [
+                        58,
+                        144
+                    ],
+                    [
+                        296,
+                        173
+                    ],
+                    [
+                        288,
+                        89
+                    ],
+                    [
+                        196,
+                        72
+                    ],
+                    [
+                        195,
+                        85
+                    ],
+                    [
+                        262,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1678213,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:45.310Z",
+            "updatedAt": "2023-06-07T13:28:45.310Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        939,
+                        156
+                    ],
+                    [
+                        773,
+                        181
+                    ],
+                    [
+                        613,
+                        13
+                    ],
+                    [
+                        632,
+                        169
+                    ],
+                    [
+                        486,
+                        110
+                    ],
+                    [
+                        464,
+                        220
+                    ],
+                    [
+                        489,
+                        463
+                    ],
+                    [
+                        499,
+                        597
+                    ],
+                    [
+                        593,
+                        767
+                    ],
+                    [
+                        642,
+                        755
+                    ],
+                    [
+                        654,
+                        687
+                    ],
+                    [
+                        652,
+                        558
+                    ],
+                    [
+                        769,
+                        490
+                    ],
+                    [
+                        844,
+                        404
+                    ],
+                    [
+                        839,
+                        293
+                    ],
+                    [
+                        890,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1678211,
+            "classId": 3957,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:45.310Z",
+            "updatedAt": "2023-06-07T13:28:45.310Z",
+            "tags": [],
+            "classTitle": "fennel",
+            "points": {
+                "exterior": [
+                    [
+                        435,
+                        166
+                    ],
+                    [
+                        304,
+                        96
+                    ],
+                    [
+                        204,
+                        190
+                    ],
+                    [
+                        90,
+                        186
+                    ],
+                    [
+                        90,
+                        283
+                    ],
+                    [
+                        117,
+                        344
+                    ],
+                    [
+                        34,
+                        463
+                    ],
+                    [
+                        27,
+                        653
+                    ],
+                    [
+                        129,
+                        711
+                    ],
+                    [
+                        263,
+                        786
+                    ],
+                    [
+                        486,
+                        806
+                    ],
+                    [
+                        499,
+                        730
+                    ],
+                    [
+                        533,
+                        694
+                    ],
+                    [
+                        481,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1678209,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:45.310Z",
+            "updatedAt": "2023-06-07T13:28:45.310Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        851,
+                        434
+                    ],
+                    [
+                        657,
+                        560
+                    ],
+                    [
+                        644,
+                        767
+                    ],
+                    [
+                        705,
+                        825
+                    ],
+                    [
+                        834,
+                        782
+                    ],
+                    [
+                        944,
+                        660
+                    ],
+                    [
+                        914,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

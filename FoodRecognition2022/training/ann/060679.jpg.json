@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1776343,
+            "classId": 3743,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:53.774Z",
+            "updatedAt": "2023-06-07T14:36:53.774Z",
+            "tags": [],
+            "classTitle": "glucose-drink-50g",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        133
+                    ],
+                    [
+                        96,
+                        149
+                    ],
+                    [
+                        79,
+                        166
+                    ],
+                    [
+                        130,
+                        188
+                    ],
+                    [
+                        196,
+                        197
+                    ],
+                    [
+                        253,
+                        193
+                    ],
+                    [
+                        286,
+                        182
+                    ],
+                    [
+                        299,
+                        166
+                    ],
+                    [
+                        298,
+                        139
+                    ],
+                    [
+                        238,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776341,
+            "classId": 3743,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:53.774Z",
+            "updatedAt": "2023-06-07T14:36:53.774Z",
+            "tags": [],
+            "classTitle": "glucose-drink-50g",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        144
+                    ],
+                    [
+                        222,
+                        126
+                    ],
+                    [
+                        103,
+                        145
+                    ],
+                    [
+                        75,
+                        170
+                    ],
+                    [
+                        142,
+                        186
+                    ],
+                    [
+                        203,
+                        187
+                    ],
+                    [
+                        267,
+                        175
+                    ],
+                    [
+                        296,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

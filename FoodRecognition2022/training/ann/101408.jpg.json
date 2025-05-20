@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1728027,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:18.459Z",
+            "updatedAt": "2023-06-07T14:04:18.459Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        68
+                    ],
+                    [
+                        306,
+                        69
+                    ],
+                    [
+                        266,
+                        124
+                    ],
+                    [
+                        292,
+                        169
+                    ],
+                    [
+                        344,
+                        183
+                    ],
+                    [
+                        401,
+                        171
+                    ],
+                    [
+                        403,
+                        111
+                    ],
+                    [
+                        381,
+                        73
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728025,
+            "classId": 3535,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:18.459Z",
+            "updatedAt": "2023-06-07T14:04:18.459Z",
+            "tags": [],
+            "classTitle": "mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        206
+                    ],
+                    [
+                        145,
+                        226
+                    ],
+                    [
+                        147,
+                        282
+                    ],
+                    [
+                        53,
+                        327
+                    ],
+                    [
+                        114,
+                        400
+                    ],
+                    [
+                        189,
+                        405
+                    ],
+                    [
+                        233,
+                        388
+                    ],
+                    [
+                        280,
+                        314
+                    ],
+                    [
+                        259,
+                        237
+                    ],
+                    [
+                        226,
+                        205
+                    ],
+                    [
+                        175,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728023,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:18.458Z",
+            "updatedAt": "2023-06-07T14:04:18.458Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        229
+                    ],
+                    [
+                        75,
+                        233
+                    ],
+                    [
+                        35,
+                        307
+                    ],
+                    [
+                        49,
+                        327
+                    ],
+                    [
+                        77,
+                        302
+                    ],
+                    [
+                        118,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

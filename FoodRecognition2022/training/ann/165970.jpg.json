@@ -1,0 +1,222 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1692558,
+            "classId": 3993,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:30.243Z",
+            "updatedAt": "2023-06-07T13:38:30.243Z",
+            "tags": [],
+            "classTitle": "vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        94
+                    ],
+                    [
+                        130,
+                        105
+                    ],
+                    [
+                        90,
+                        145
+                    ],
+                    [
+                        84,
+                        181
+                    ],
+                    [
+                        92,
+                        256
+                    ],
+                    [
+                        130,
+                        264
+                    ],
+                    [
+                        199,
+                        267
+                    ],
+                    [
+                        279,
+                        252
+                    ],
+                    [
+                        300,
+                        226
+                    ],
+                    [
+                        308,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1692556,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:30.243Z",
+            "updatedAt": "2023-06-07T13:38:30.243Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        162
+                    ],
+                    [
+                        237,
+                        140
+                    ],
+                    [
+                        181,
+                        132
+                    ],
+                    [
+                        114,
+                        147
+                    ],
+                    [
+                        145,
+                        161
+                    ],
+                    [
+                        225,
+                        164
+                    ],
+                    [
+                        250,
+                        219
+                    ],
+                    [
+                        258,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1692554,
+            "classId": 3943,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:30.242Z",
+            "updatedAt": "2023-06-07T13:38:30.242Z",
+            "tags": [],
+            "classTitle": "sweet-corn-canned",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        256
+                    ],
+                    [
+                        251,
+                        228
+                    ],
+                    [
+                        184,
+                        250
+                    ],
+                    [
+                        133,
+                        224
+                    ],
+                    [
+                        101,
+                        278
+                    ],
+                    [
+                        102,
+                        315
+                    ],
+                    [
+                        197,
+                        323
+                    ],
+                    [
+                        240,
+                        315
+                    ],
+                    [
+                        269,
+                        301
+                    ],
+                    [
+                        283,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1692552,
+            "classId": 3585,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:30.241Z",
+            "updatedAt": "2023-06-07T13:38:30.241Z",
+            "tags": [],
+            "classTitle": "cream",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        68
+                    ],
+                    [
+                        102,
+                        96
+                    ],
+                    [
+                        39,
+                        206
+                    ],
+                    [
+                        76,
+                        326
+                    ],
+                    [
+                        212,
+                        393
+                    ],
+                    [
+                        306,
+                        345
+                    ],
+                    [
+                        353,
+                        257
+                    ],
+                    [
+                        352,
+                        182
+                    ],
+                    [
+                        304,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

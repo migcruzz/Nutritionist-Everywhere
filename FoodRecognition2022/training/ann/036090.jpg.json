@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1695918,
+            "classId": 3685,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:52.358Z",
+            "updatedAt": "2023-06-07T13:40:52.358Z",
+            "tags": [],
+            "classTitle": "crepe-plain",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        256
+                    ],
+                    [
+                        303,
+                        422
+                    ],
+                    [
+                        59,
+                        296
+                    ],
+                    [
+                        141,
+                        62
+                    ],
+                    [
+                        219,
+                        27
+                    ],
+                    [
+                        334,
+                        81
+                    ],
+                    [
+                        412,
+                        172
+                    ],
+                    [
+                        461,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

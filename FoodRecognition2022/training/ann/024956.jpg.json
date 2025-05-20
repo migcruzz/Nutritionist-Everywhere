@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1799245,
+            "classId": 4245,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:43.662Z",
+            "updatedAt": "2023-06-07T14:52:43.662Z",
+            "tags": [],
+            "classTitle": "french-pizza-from-alsace-baked",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        141
+                    ],
+                    [
+                        211,
+                        320
+                    ],
+                    [
+                        449,
+                        387
+                    ],
+                    [
+                        425,
+                        268
+                    ],
+                    [
+                        344,
+                        188
+                    ],
+                    [
+                        280,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799243,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:43.661Z",
+            "updatedAt": "2023-06-07T14:52:43.661Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        201
+                    ],
+                    [
+                        137,
+                        358
+                    ],
+                    [
+                        49,
+                        307
+                    ],
+                    [
+                        79,
+                        180
+                    ],
+                    [
+                        150,
+                        134
+                    ],
+                    [
+                        203,
+                        162
+                    ],
+                    [
+                        216,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

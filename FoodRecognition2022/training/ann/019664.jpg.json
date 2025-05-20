@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 864,
+        "width": 865
+    },
+    "objects": [
+        {
+            "id": 1704574,
+            "classId": 3567,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:03.657Z",
+            "updatedAt": "2023-06-07T13:47:03.657Z",
+            "tags": [],
+            "classTitle": "yaourt-yahourt-yogourt-ou-yoghourt-natural",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        282
+                    ],
+                    [
+                        241,
+                        453
+                    ],
+                    [
+                        295,
+                        654
+                    ],
+                    [
+                        535,
+                        743
+                    ],
+                    [
+                        727,
+                        609
+                    ],
+                    [
+                        738,
+                        364
+                    ],
+                    [
+                        630,
+                        230
+                    ],
+                    [
+                        444,
+                        220
+                    ],
+                    [
+                        368,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704572,
+            "classId": 4241,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:03.656Z",
+            "updatedAt": "2023-06-07T13:47:03.656Z",
+            "tags": [],
+            "classTitle": "chia-grains",
+            "points": {
+                "exterior": [
+                    [
+                        576,
+                        269
+                    ],
+                    [
+                        286,
+                        336
+                    ],
+                    [
+                        262,
+                        546
+                    ],
+                    [
+                        381,
+                        667
+                    ],
+                    [
+                        636,
+                        641
+                    ],
+                    [
+                        738,
+                        561
+                    ],
+                    [
+                        682,
+                        323
+                    ],
+                    [
+                        615,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

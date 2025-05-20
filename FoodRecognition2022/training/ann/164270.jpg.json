@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1698386,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:32.658Z",
+            "updatedAt": "2023-06-07T13:42:32.658Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        333,
+                        182
+                    ],
+                    [
+                        256,
+                        189
+                    ],
+                    [
+                        235,
+                        227
+                    ],
+                    [
+                        240,
+                        264
+                    ],
+                    [
+                        253,
+                        293
+                    ],
+                    [
+                        245,
+                        320
+                    ],
+                    [
+                        245,
+                        352
+                    ],
+                    [
+                        249,
+                        381
+                    ],
+                    [
+                        274,
+                        388
+                    ],
+                    [
+                        330,
+                        390
+                    ],
+                    [
+                        363,
+                        378
+                    ],
+                    [
+                        375,
+                        345
+                    ],
+                    [
+                        378,
+                        311
+                    ],
+                    [
+                        369,
+                        256
+                    ],
+                    [
+                        359,
+                        218
+                    ],
+                    [
+                        353,
+                        207
+                    ],
+                    [
+                        340,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1698384,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:32.657Z",
+            "updatedAt": "2023-06-07T13:42:32.657Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        208
+                    ],
+                    [
+                        287,
+                        185
+                    ],
+                    [
+                        233,
+                        232
+                    ],
+                    [
+                        245,
+                        279
+                    ],
+                    [
+                        247,
+                        326
+                    ],
+                    [
+                        265,
+                        364
+                    ],
+                    [
+                        321,
+                        364
+                    ],
+                    [
+                        343,
+                        353
+                    ],
+                    [
+                        347,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1698382,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:32.656Z",
+            "updatedAt": "2023-06-07T13:42:32.656Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        38
+                    ],
+                    [
+                        337,
+                        50
+                    ],
+                    [
+                        331,
+                        64
+                    ],
+                    [
+                        358,
+                        68
+                    ],
+                    [
+                        370,
+                        68
+                    ],
+                    [
+                        396,
+                        60
+                    ],
+                    [
+                        399,
+                        45
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

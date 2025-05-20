@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1711533,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:33.017Z",
+            "updatedAt": "2023-06-07T13:52:33.017Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        173
+                    ],
+                    [
+                        173,
+                        203
+                    ],
+                    [
+                        172,
+                        305
+                    ],
+                    [
+                        224,
+                        314
+                    ],
+                    [
+                        267,
+                        267
+                    ],
+                    [
+                        289,
+                        256
+                    ],
+                    [
+                        349,
+                        228
+                    ],
+                    [
+                        356,
+                        185
+                    ],
+                    [
+                        337,
+                        144
+                    ],
+                    [
+                        253,
+                        124
+                    ],
+                    [
+                        226,
+                        156
+                    ],
+                    [
+                        218,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711531,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:33.017Z",
+            "updatedAt": "2023-06-07T13:52:33.017Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        123
+                    ],
+                    [
+                        147,
+                        161
+                    ],
+                    [
+                        149,
+                        195
+                    ],
+                    [
+                        214,
+                        212
+                    ],
+                    [
+                        216,
+                        203
+                    ],
+                    [
+                        231,
+                        184
+                    ],
+                    [
+                        251,
+                        170
+                    ],
+                    [
+                        246,
+                        162
+                    ],
+                    [
+                        241,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711530,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:33.016Z",
+            "updatedAt": "2023-06-07T13:52:33.016Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        224
+                    ],
+                    [
+                        314,
+                        206
+                    ],
+                    [
+                        307,
+                        237
+                    ],
+                    [
+                        299,
+                        252
+                    ],
+                    [
+                        264,
+                        253
+                    ],
+                    [
+                        243,
+                        273
+                    ],
+                    [
+                        273,
+                        298
+                    ],
+                    [
+                        307,
+                        297
+                    ],
+                    [
+                        345,
+                        271
+                    ],
+                    [
+                        350,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

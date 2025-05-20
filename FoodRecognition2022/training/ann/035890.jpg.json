@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1681658,
+            "classId": 3741,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:59.697Z",
+            "updatedAt": "2023-06-07T13:30:59.697Z",
+            "tags": [],
+            "classTitle": "beer",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        19
+                    ],
+                    [
+                        136,
+                        474
+                    ],
+                    [
+                        429,
+                        445
+                    ],
+                    [
+                        435,
+                        3
+                    ],
+                    [
+                        117,
+                        6
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1681656,
+            "classId": 3741,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:59.696Z",
+            "updatedAt": "2023-06-07T13:30:59.696Z",
+            "tags": [],
+            "classTitle": "beer",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        5
+                    ],
+                    [
+                        169,
+                        457
+                    ],
+                    [
+                        414,
+                        473
+                    ],
+                    [
+                        425,
+                        5
+                    ],
+                    [
+                        149,
+                        3
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

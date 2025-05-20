@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1600,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 1655773,
+            "classId": 4355,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:11.921Z",
+            "updatedAt": "2023-06-07T13:13:11.921Z",
+            "tags": [],
+            "classTitle": "pasta-in-conch-form",
+            "points": {
+                "exterior": [
+                    [
+                        552,
+                        524
+                    ],
+                    [
+                        360,
+                        544
+                    ],
+                    [
+                        320,
+                        876
+                    ],
+                    [
+                        344,
+                        1008
+                    ],
+                    [
+                        860,
+                        1032
+                    ],
+                    [
+                        964,
+                        996
+                    ],
+                    [
+                        884,
+                        488
+                    ],
+                    [
+                        664,
+                        532
+                    ],
+                    [
+                        644,
+                        672
+                    ],
+                    [
+                        544,
+                        740
+                    ],
+                    [
+                        564,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1655771,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:11.920Z",
+            "updatedAt": "2023-06-07T13:13:11.920Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        824,
+                        624
+                    ],
+                    [
+                        636,
+                        528
+                    ],
+                    [
+                        532,
+                        692
+                    ],
+                    [
+                        356,
+                        768
+                    ],
+                    [
+                        356,
+                        968
+                    ],
+                    [
+                        476,
+                        1019
+                    ],
+                    [
+                        848,
+                        1016
+                    ],
+                    [
+                        900,
+                        924
+                    ],
+                    [
+                        884,
+                        776
+                    ],
+                    [
+                        804,
+                        740
+                    ],
+                    [
+                        832,
+                        656
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

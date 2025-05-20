@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1674322,
+            "classId": 3653,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:09.871Z",
+            "updatedAt": "2023-06-07T13:26:09.871Z",
+            "tags": [],
+            "classTitle": "tartar-meat",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        204
+                    ],
+                    [
+                        203,
+                        232
+                    ],
+                    [
+                        207,
+                        249
+                    ],
+                    [
+                        219,
+                        292
+                    ],
+                    [
+                        248,
+                        291
+                    ],
+                    [
+                        253,
+                        278
+                    ],
+                    [
+                        252,
+                        255
+                    ],
+                    [
+                        234,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1674320,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:09.870Z",
+            "updatedAt": "2023-06-07T13:26:09.870Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        165
+                    ],
+                    [
+                        90,
+                        197
+                    ],
+                    [
+                        189,
+                        236
+                    ],
+                    [
+                        178,
+                        202
+                    ],
+                    [
+                        158,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1674319,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:09.870Z",
+            "updatedAt": "2023-06-07T13:26:09.870Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        166
+                    ],
+                    [
+                        282,
+                        259
+                    ],
+                    [
+                        259,
+                        279
+                    ],
+                    [
+                        232,
+                        181
+                    ],
+                    [
+                        243,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1674317,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:09.868Z",
+            "updatedAt": "2023-06-07T13:26:09.868Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        285
+                    ],
+                    [
+                        223,
+                        278
+                    ],
+                    [
+                        228,
+                        257
+                    ],
+                    [
+                        217,
+                        247
+                    ],
+                    [
+                        200,
+                        250
+                    ],
+                    [
+                        195,
+                        265
+                    ],
+                    [
+                        196,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

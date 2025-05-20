@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1703271,
+            "classId": 3975,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:02.051Z",
+            "updatedAt": "2023-06-07T13:46:02.051Z",
+            "tags": [],
+            "classTitle": "breadcrumbs-unspiced",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        122
+                    ],
+                    [
+                        122,
+                        189
+                    ],
+                    [
+                        265,
+                        147
+                    ],
+                    [
+                        234,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703269,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:02.051Z",
+            "updatedAt": "2023-06-07T13:46:02.051Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        217
+                    ],
+                    [
+                        23,
+                        298
+                    ],
+                    [
+                        202,
+                        261
+                    ],
+                    [
+                        177,
+                        218
+                    ],
+                    [
+                        114,
+                        196
+                    ],
+                    [
+                        73,
+                        200
+                    ],
+                    [
+                        71,
+                        230
+                    ],
+                    [
+                        40,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703267,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:02.051Z",
+            "updatedAt": "2023-06-07T13:46:02.051Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        313
+                    ],
+                    [
+                        221,
+                        223
+                    ],
+                    [
+                        281,
+                        249
+                    ],
+                    [
+                        343,
+                        232
+                    ],
+                    [
+                        431,
+                        220
+                    ],
+                    [
+                        408,
+                        139
+                    ],
+                    [
+                        450,
+                        166
+                    ],
+                    [
+                        460,
+                        248
+                    ],
+                    [
+                        330,
+                        355
+                    ],
+                    [
+                        220,
+                        398
+                    ],
+                    [
+                        111,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

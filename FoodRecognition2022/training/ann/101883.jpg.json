@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 820,
+        "width": 820
+    },
+    "objects": [
+        {
+            "id": 1669628,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:58.808Z",
+            "updatedAt": "2023-06-07T13:22:58.808Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        480,
+                        463
+                    ],
+                    [
+                        542,
+                        561
+                    ],
+                    [
+                        683,
+                        500
+                    ],
+                    [
+                        734,
+                        403
+                    ],
+                    [
+                        720,
+                        301
+                    ],
+                    [
+                        636,
+                        254
+                    ],
+                    [
+                        546,
+                        246
+                    ],
+                    [
+                        470,
+                        272
+                    ],
+                    [
+                        408,
+                        317
+                    ],
+                    [
+                        406,
+                        360
+                    ],
+                    [
+                        433,
+                        410
+                    ],
+                    [
+                        445,
+                        430
+                    ],
+                    [
+                        445,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669626,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:58.807Z",
+            "updatedAt": "2023-06-07T13:22:58.807Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        574
+                    ],
+                    [
+                        427,
+                        571
+                    ],
+                    [
+                        468,
+                        485
+                    ],
+                    [
+                        413,
+                        393
+                    ],
+                    [
+                        320,
+                        414
+                    ],
+                    [
+                        290,
+                        453
+                    ],
+                    [
+                        294,
+                        514
+                    ],
+                    [
+                        304,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1725004,
+            "classId": 3885,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:03.522Z",
+            "updatedAt": "2023-06-07T14:02:03.522Z",
+            "tags": [],
+            "classTitle": "walnut",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        294
+                    ],
+                    [
+                        392,
+                        329
+                    ],
+                    [
+                        329,
+                        307
+                    ],
+                    [
+                        332,
+                        255
+                    ],
+                    [
+                        387,
+                        246
+                    ],
+                    [
+                        412,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1725002,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:03.522Z",
+            "updatedAt": "2023-06-07T14:02:03.522Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        257
+                    ],
+                    [
+                        242,
+                        239
+                    ],
+                    [
+                        187,
+                        267
+                    ],
+                    [
+                        141,
+                        317
+                    ],
+                    [
+                        170,
+                        378
+                    ],
+                    [
+                        260,
+                        404
+                    ],
+                    [
+                        311,
+                        370
+                    ],
+                    [
+                        270,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1725000,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:03.521Z",
+            "updatedAt": "2023-06-07T14:02:03.521Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        91
+                    ],
+                    [
+                        165,
+                        148
+                    ],
+                    [
+                        191,
+                        197
+                    ],
+                    [
+                        258,
+                        147
+                    ],
+                    [
+                        244,
+                        102
+                    ],
+                    [
+                        244,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1724998,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:03.520Z",
+            "updatedAt": "2023-06-07T14:02:03.520Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        158
+                    ],
+                    [
+                        311,
+                        156
+                    ],
+                    [
+                        303,
+                        244
+                    ],
+                    [
+                        347,
+                        251
+                    ],
+                    [
+                        380,
+                        244
+                    ],
+                    [
+                        371,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1724996,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:03.520Z",
+            "updatedAt": "2023-06-07T14:02:03.520Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        185
+                    ],
+                    [
+                        80,
+                        214
+                    ],
+                    [
+                        71,
+                        255
+                    ],
+                    [
+                        96,
+                        263
+                    ],
+                    [
+                        149,
+                        243
+                    ],
+                    [
+                        153,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

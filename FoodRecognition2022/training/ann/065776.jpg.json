@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1733256,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:54.729Z",
+            "updatedAt": "2023-06-07T14:07:54.729Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        5
+                    ],
+                    [
+                        120,
+                        459
+                    ],
+                    [
+                        282,
+                        456
+                    ],
+                    [
+                        368,
+                        435
+                    ],
+                    [
+                        320,
+                        12
+                    ],
+                    [
+                        157,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

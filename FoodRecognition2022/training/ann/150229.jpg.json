@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 935,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1641058,
+            "classId": 3945,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:26.803Z",
+            "updatedAt": "2023-06-07T13:03:26.803Z",
+            "tags": [],
+            "classTitle": "flakes-oat",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        242
+                    ],
+                    [
+                        167,
+                        455
+                    ],
+                    [
+                        209,
+                        544
+                    ],
+                    [
+                        536,
+                        546
+                    ],
+                    [
+                        424,
+                        413
+                    ],
+                    [
+                        454,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1641057,
+            "classId": 3945,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:26.802Z",
+            "updatedAt": "2023-06-07T13:03:26.802Z",
+            "tags": [],
+            "classTitle": "flakes-oat",
+            "points": {
+                "exterior": [
+                    [
+                        695,
+                        506
+                    ],
+                    [
+                        541,
+                        637
+                    ],
+                    [
+                        407,
+                        721
+                    ],
+                    [
+                        293,
+                        637
+                    ],
+                    [
+                        274,
+                        726
+                    ],
+                    [
+                        407,
+                        808
+                    ],
+                    [
+                        660,
+                        679
+                    ],
+                    [
+                        751,
+                        553
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

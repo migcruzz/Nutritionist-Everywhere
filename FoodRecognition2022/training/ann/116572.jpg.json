@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 936,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1742670,
+            "classId": 4385,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:33.918Z",
+            "updatedAt": "2023-06-07T14:14:33.918Z",
+            "tags": [],
+            "classTitle": "sauce-curry",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        82
+                    ],
+                    [
+                        216,
+                        159
+                    ],
+                    [
+                        277,
+                        196
+                    ],
+                    [
+                        338,
+                        189
+                    ],
+                    [
+                        363,
+                        154
+                    ],
+                    [
+                        347,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1742668,
+            "classId": 4145,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:33.917Z",
+            "updatedAt": "2023-06-07T14:14:33.917Z",
+            "tags": [],
+            "classTitle": "sauce-cocktail",
+            "points": {
+                "exterior": [
+                    [
+                        162,
+                        112
+                    ],
+                    [
+                        82,
+                        110
+                    ],
+                    [
+                        43,
+                        180
+                    ],
+                    [
+                        104,
+                        208
+                    ],
+                    [
+                        164,
+                        194
+                    ],
+                    [
+                        192,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

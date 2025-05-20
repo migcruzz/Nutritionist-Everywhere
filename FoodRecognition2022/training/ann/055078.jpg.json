@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1686790,
+            "classId": 3729,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:31.932Z",
+            "updatedAt": "2023-06-07T13:34:31.932Z",
+            "tags": [],
+            "classTitle": "tea-green",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        109
+                    ],
+                    [
+                        180,
+                        58
+                    ],
+                    [
+                        81,
+                        102
+                    ],
+                    [
+                        76,
+                        172
+                    ],
+                    [
+                        204,
+                        204
+                    ],
+                    [
+                        351,
+                        162
+                    ],
+                    [
+                        360,
+                        127
+                    ],
+                    [
+                        358,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

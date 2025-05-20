@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 756,
+        "width": 756
+    },
+    "objects": [
+        {
+            "id": 1716817,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:22.375Z",
+            "updatedAt": "2023-06-07T13:56:22.375Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        478
+                    ],
+                    [
+                        262,
+                        459
+                    ],
+                    [
+                        304,
+                        474
+                    ],
+                    [
+                        302,
+                        665
+                    ],
+                    [
+                        309,
+                        733
+                    ],
+                    [
+                        277,
+                        746
+                    ],
+                    [
+                        152,
+                        752
+                    ],
+                    [
+                        33,
+                        746
+                    ],
+                    [
+                        209,
+                        718
+                    ],
+                    [
+                        262,
+                        707
+                    ],
+                    [
+                        271,
+                        625
+                    ],
+                    [
+                        273,
+                        518
+                    ],
+                    [
+                        270,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1716815,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:22.373Z",
+            "updatedAt": "2023-06-07T13:56:22.373Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        497
+                    ],
+                    [
+                        313,
+                        459
+                    ],
+                    [
+                        281,
+                        709
+                    ],
+                    [
+                        22,
+                        746
+                    ],
+                    [
+                        13,
+                        746
+                    ],
+                    [
+                        14,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1716813,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:22.372Z",
+            "updatedAt": "2023-06-07T13:56:22.372Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        162,
+                        755
+                    ],
+                    [
+                        153,
+                        755
+                    ],
+                    [
+                        52,
+                        744
+                    ],
+                    [
+                        164,
+                        733
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

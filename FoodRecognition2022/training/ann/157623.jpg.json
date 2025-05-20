@@ -1,0 +1,522 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 977,
+        "width": 977
+    },
+    "objects": [
+        {
+            "id": 1667736,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.380Z",
+            "updatedAt": "2023-06-07T13:21:38.380Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        799,
+                        513
+                    ],
+                    [
+                        674,
+                        351
+                    ],
+                    [
+                        489,
+                        405
+                    ],
+                    [
+                        608,
+                        513
+                    ],
+                    [
+                        723,
+                        547
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667735,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.379Z",
+            "updatedAt": "2023-06-07T13:21:38.379Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        801,
+                        613
+                    ],
+                    [
+                        804,
+                        632
+                    ],
+                    [
+                        799,
+                        730
+                    ],
+                    [
+                        738,
+                        759
+                    ],
+                    [
+                        635,
+                        706
+                    ],
+                    [
+                        577,
+                        666
+                    ],
+                    [
+                        545,
+                        647
+                    ],
+                    [
+                        511,
+                        637
+                    ],
+                    [
+                        474,
+                        732
+                    ],
+                    [
+                        674,
+                        862
+                    ],
+                    [
+                        809,
+                        862
+                    ],
+                    [
+                        887,
+                        576
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667734,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.379Z",
+            "updatedAt": "2023-06-07T13:21:38.379Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        530
+                    ],
+                    [
+                        386,
+                        578
+                    ],
+                    [
+                        442,
+                        620
+                    ],
+                    [
+                        442,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667733,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.379Z",
+            "updatedAt": "2023-06-07T13:21:38.379Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        620
+                    ],
+                    [
+                        205,
+                        432
+                    ],
+                    [
+                        198,
+                        554
+                    ],
+                    [
+                        227,
+                        618
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667731,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.379Z",
+            "updatedAt": "2023-06-07T13:21:38.379Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        523,
+                        395
+                    ],
+                    [
+                        432,
+                        307
+                    ],
+                    [
+                        323,
+                        237
+                    ],
+                    [
+                        230,
+                        237
+                    ],
+                    [
+                        230,
+                        408
+                    ],
+                    [
+                        393,
+                        542
+                    ],
+                    [
+                        503,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667730,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.378Z",
+            "updatedAt": "2023-06-07T13:21:38.378Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        799,
+                        625
+                    ],
+                    [
+                        642,
+                        608
+                    ],
+                    [
+                        599,
+                        669
+                    ],
+                    [
+                        752,
+                        752
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667728,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.377Z",
+            "updatedAt": "2023-06-07T13:21:38.377Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        608,
+                        498
+                    ],
+                    [
+                        506,
+                        437
+                    ],
+                    [
+                        484,
+                        471
+                    ],
+                    [
+                        457,
+                        564
+                    ],
+                    [
+                        450,
+                        618
+                    ],
+                    [
+                        555,
+                        620
+                    ],
+                    [
+                        567,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667727,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.377Z",
+            "updatedAt": "2023-06-07T13:21:38.377Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        906,
+                        464
+                    ],
+                    [
+                        767,
+                        366
+                    ],
+                    [
+                        745,
+                        430
+                    ],
+                    [
+                        850,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667726,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.377Z",
+            "updatedAt": "2023-06-07T13:21:38.377Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        754
+                    ],
+                    [
+                        349,
+                        649
+                    ],
+                    [
+                        345,
+                        740
+                    ],
+                    [
+                        545,
+                        820
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667724,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.375Z",
+            "updatedAt": "2023-06-07T13:21:38.375Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        853,
+                        527
+                    ],
+                    [
+                        728,
+                        547
+                    ],
+                    [
+                        591,
+                        517
+                    ],
+                    [
+                        552,
+                        346
+                    ],
+                    [
+                        454,
+                        259
+                    ],
+                    [
+                        403,
+                        268
+                    ],
+                    [
+                        276,
+                        469
+                    ],
+                    [
+                        247,
+                        466
+                    ],
+                    [
+                        457,
+                        764
+                    ],
+                    [
+                        530,
+                        644
+                    ],
+                    [
+                        420,
+                        593
+                    ],
+                    [
+                        440,
+                        544
+                    ],
+                    [
+                        384,
+                        527
+                    ],
+                    [
+                        335,
+                        491
+                    ],
+                    [
+                        435,
+                        312
+                    ],
+                    [
+                        540,
+                        451
+                    ],
+                    [
+                        567,
+                        554
+                    ],
+                    [
+                        694,
+                        620
+                    ],
+                    [
+                        882,
+                        581
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667722,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.374Z",
+            "updatedAt": "2023-06-07T13:21:38.374Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        664
+                    ],
+                    [
+                        286,
+                        635
+                    ],
+                    [
+                        230,
+                        669
+                    ],
+                    [
+                        237,
+                        708
+                    ],
+                    [
+                        310,
+                        725
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667720,
+            "classId": 3871,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:38.374Z",
+            "updatedAt": "2023-06-07T13:21:38.374Z",
+            "tags": [],
+            "classTitle": "salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        694,
+                        747
+                    ],
+                    [
+                        572,
+                        769
+                    ],
+                    [
+                        547,
+                        793
+                    ],
+                    [
+                        589,
+                        828
+                    ],
+                    [
+                        655,
+                        847
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

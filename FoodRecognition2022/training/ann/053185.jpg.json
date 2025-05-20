@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1696402,
+            "classId": 3649,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:10.925Z",
+            "updatedAt": "2023-06-07T13:41:10.925Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        247
+                    ],
+                    [
+                        167,
+                        140
+                    ],
+                    [
+                        50,
+                        153
+                    ],
+                    [
+                        8,
+                        213
+                    ],
+                    [
+                        14,
+                        302
+                    ],
+                    [
+                        56,
+                        328
+                    ],
+                    [
+                        98,
+                        338
+                    ],
+                    [
+                        138,
+                        338
+                    ],
+                    [
+                        182,
+                        304
+                    ],
+                    [
+                        194,
+                        279
+                    ],
+                    [
+                        202,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696401,
+            "classId": 3649,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:10.924Z",
+            "updatedAt": "2023-06-07T13:41:10.924Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        164
+                    ],
+                    [
+                        273,
+                        268
+                    ],
+                    [
+                        284,
+                        405
+                    ],
+                    [
+                        383,
+                        408
+                    ],
+                    [
+                        450,
+                        383
+                    ],
+                    [
+                        477,
+                        319
+                    ],
+                    [
+                        466,
+                        226
+                    ],
+                    [
+                        400,
+                        172
+                    ],
+                    [
+                        393,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

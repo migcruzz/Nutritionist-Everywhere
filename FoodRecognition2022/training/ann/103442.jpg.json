@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1808252,
+            "classId": 3517,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:54.571Z",
+            "updatedAt": "2023-06-07T14:58:54.571Z",
+            "tags": [],
+            "classTitle": "herbal-tea",
+            "points": {
+                "exterior": [
+                    [
+                        275,
+                        67
+                    ],
+                    [
+                        217,
+                        12
+                    ],
+                    [
+                        87,
+                        8
+                    ],
+                    [
+                        12,
+                        64
+                    ],
+                    [
+                        5,
+                        166
+                    ],
+                    [
+                        153,
+                        182
+                    ],
+                    [
+                        271,
+                        107
+                    ],
+                    [
+                        283,
+                        72
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1808251,
+            "classId": 3517,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:54.571Z",
+            "updatedAt": "2023-06-07T14:58:54.571Z",
+            "tags": [],
+            "classTitle": "herbal-tea",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        213
+                    ],
+                    [
+                        201,
+                        232
+                    ],
+                    [
+                        164,
+                        294
+                    ],
+                    [
+                        172,
+                        345
+                    ],
+                    [
+                        235,
+                        389
+                    ],
+                    [
+                        343,
+                        385
+                    ],
+                    [
+                        384,
+                        332
+                    ],
+                    [
+                        377,
+                        275
+                    ],
+                    [
+                        320,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

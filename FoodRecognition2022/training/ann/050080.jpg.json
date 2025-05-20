@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1743300,
+            "classId": 3629,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:00.082Z",
+            "updatedAt": "2023-06-07T14:15:00.082Z",
+            "tags": [],
+            "classTitle": "beef-sirloin-steak",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        148
+                    ],
+                    [
+                        49,
+                        173
+                    ],
+                    [
+                        31,
+                        249
+                    ],
+                    [
+                        49,
+                        358
+                    ],
+                    [
+                        175,
+                        347
+                    ],
+                    [
+                        232,
+                        320
+                    ],
+                    [
+                        188,
+                        270
+                    ],
+                    [
+                        186,
+                        250
+                    ],
+                    [
+                        195,
+                        231
+                    ],
+                    [
+                        151,
+                        191
+                    ],
+                    [
+                        135,
+                        155
+                    ],
+                    [
+                        117,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743298,
+            "classId": 4333,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:00.081Z",
+            "updatedAt": "2023-06-07T14:15:00.081Z",
+            "tags": [],
+            "classTitle": "vegetable-au-gratin-baked",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        259
+                    ],
+                    [
+                        230,
+                        213
+                    ],
+                    [
+                        189,
+                        263
+                    ],
+                    [
+                        202,
+                        319
+                    ],
+                    [
+                        205,
+                        336
+                    ],
+                    [
+                        152,
+                        386
+                    ],
+                    [
+                        230,
+                        456
+                    ],
+                    [
+                        358,
+                        426
+                    ],
+                    [
+                        399,
+                        390
+                    ],
+                    [
+                        416,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

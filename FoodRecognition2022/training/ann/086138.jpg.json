@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1807194,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:11.561Z",
+            "updatedAt": "2023-06-07T14:58:11.561Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        213
+                    ],
+                    [
+                        125,
+                        197
+                    ],
+                    [
+                        54,
+                        136
+                    ],
+                    [
+                        32,
+                        78
+                    ],
+                    [
+                        56,
+                        46
+                    ],
+                    [
+                        270,
+                        86
+                    ],
+                    [
+                        289,
+                        125
+                    ],
+                    [
+                        258,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807193,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:11.561Z",
+            "updatedAt": "2023-06-07T14:58:11.561Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        237
+                    ],
+                    [
+                        168,
+                        318
+                    ],
+                    [
+                        213,
+                        360
+                    ],
+                    [
+                        349,
+                        389
+                    ],
+                    [
+                        410,
+                        353
+                    ],
+                    [
+                        451,
+                        315
+                    ],
+                    [
+                        457,
+                        261
+                    ],
+                    [
+                        428,
+                        221
+                    ],
+                    [
+                        237,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1801640,
+            "classId": 3603,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:25.129Z",
+            "updatedAt": "2023-06-07T14:54:25.129Z",
+            "tags": [],
+            "classTitle": "white-cabbage",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        235
+                    ],
+                    [
+                        203,
+                        259
+                    ],
+                    [
+                        127,
+                        298
+                    ],
+                    [
+                        129,
+                        391
+                    ],
+                    [
+                        239,
+                        387
+                    ],
+                    [
+                        342,
+                        351
+                    ],
+                    [
+                        355,
+                        330
+                    ],
+                    [
+                        325,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801638,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:25.128Z",
+            "updatedAt": "2023-06-07T14:54:25.128Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        293
+                    ],
+                    [
+                        325,
+                        262
+                    ],
+                    [
+                        292,
+                        252
+                    ],
+                    [
+                        240,
+                        268
+                    ],
+                    [
+                        186,
+                        273
+                    ],
+                    [
+                        118,
+                        304
+                    ],
+                    [
+                        102,
+                        343
+                    ],
+                    [
+                        150,
+                        369
+                    ],
+                    [
+                        169,
+                        366
+                    ],
+                    [
+                        187,
+                        337
+                    ],
+                    [
+                        225,
+                        334
+                    ],
+                    [
+                        237,
+                        294
+                    ],
+                    [
+                        246,
+                        286
+                    ],
+                    [
+                        279,
+                        295
+                    ],
+                    [
+                        307,
+                        286
+                    ],
+                    [
+                        313,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801636,
+            "classId": 4133,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:25.128Z",
+            "updatedAt": "2023-06-07T14:54:25.128Z",
+            "tags": [],
+            "classTitle": "sour-cream",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        103
+                    ],
+                    [
+                        208,
+                        33
+                    ],
+                    [
+                        139,
+                        18
+                    ],
+                    [
+                        99,
+                        66
+                    ],
+                    [
+                        107,
+                        120
+                    ],
+                    [
+                        155,
+                        136
+                    ],
+                    [
+                        204,
+                        132
+                    ],
+                    [
+                        208,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

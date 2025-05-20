@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 847,
+        "width": 847
+    },
+    "objects": [
+        {
+            "id": 1691132,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:29.958Z",
+            "updatedAt": "2023-06-07T13:37:29.958Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        834,
+                        614
+                    ],
+                    [
+                        705,
+                        618
+                    ],
+                    [
+                        576,
+                        775
+                    ],
+                    [
+                        540,
+                        667
+                    ],
+                    [
+                        432,
+                        650
+                    ],
+                    [
+                        307,
+                        599
+                    ],
+                    [
+                        288,
+                        481
+                    ],
+                    [
+                        258,
+                        362
+                    ],
+                    [
+                        290,
+                        309
+                    ],
+                    [
+                        288,
+                        180
+                    ],
+                    [
+                        347,
+                        216
+                    ],
+                    [
+                        373,
+                        95
+                    ],
+                    [
+                        459,
+                        104
+                    ],
+                    [
+                        517,
+                        144
+                    ],
+                    [
+                        669,
+                        142
+                    ],
+                    [
+                        796,
+                        218
+                    ],
+                    [
+                        832,
+                        281
+                    ],
+                    [
+                        841,
+                        497
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1691130,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:29.958Z",
+            "updatedAt": "2023-06-07T13:37:29.958Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        256
+                    ],
+                    [
+                        121,
+                        301
+                    ],
+                    [
+                        89,
+                        398
+                    ],
+                    [
+                        68,
+                        544
+                    ],
+                    [
+                        216,
+                        669
+                    ],
+                    [
+                        332,
+                        671
+                    ],
+                    [
+                        303,
+                        555
+                    ],
+                    [
+                        227,
+                        425
+                    ],
+                    [
+                        282,
+                        303
+                    ],
+                    [
+                        292,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1726406,
+            "classId": 4005,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:08.017Z",
+            "updatedAt": "2023-06-07T14:03:08.017Z",
+            "tags": [],
+            "classTitle": "mustard",
+            "points": {
+                "exterior": [
+                    [
+                        74,
+                        146
+                    ],
+                    [
+                        65,
+                        140
+                    ],
+                    [
+                        64,
+                        135
+                    ],
+                    [
+                        64,
+                        124
+                    ],
+                    [
+                        70,
+                        112
+                    ],
+                    [
+                        95,
+                        109
+                    ],
+                    [
+                        102,
+                        113
+                    ],
+                    [
+                        108,
+                        124
+                    ],
+                    [
+                        108,
+                        138
+                    ],
+                    [
+                        104,
+                        140
+                    ],
+                    [
+                        88,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726404,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:08.017Z",
+            "updatedAt": "2023-06-07T14:03:08.017Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        131
+                    ],
+                    [
+                        245,
+                        128
+                    ],
+                    [
+                        230,
+                        115
+                    ],
+                    [
+                        232,
+                        94
+                    ],
+                    [
+                        249,
+                        76
+                    ],
+                    [
+                        274,
+                        76
+                    ],
+                    [
+                        291,
+                        82
+                    ],
+                    [
+                        297,
+                        90
+                    ],
+                    [
+                        297,
+                        106
+                    ],
+                    [
+                        290,
+                        120
+                    ],
+                    [
+                        280,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726402,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:08.016Z",
+            "updatedAt": "2023-06-07T14:03:08.016Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        183
+                    ],
+                    [
+                        104,
+                        255
+                    ],
+                    [
+                        109,
+                        279
+                    ],
+                    [
+                        180,
+                        304
+                    ],
+                    [
+                        231,
+                        300
+                    ],
+                    [
+                        248,
+                        273
+                    ],
+                    [
+                        243,
+                        229
+                    ],
+                    [
+                        190,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726400,
+            "classId": 4297,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:08.015Z",
+            "updatedAt": "2023-06-07T14:03:08.015Z",
+            "tags": [],
+            "classTitle": "veal-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        168
+                    ],
+                    [
+                        66,
+                        230
+                    ],
+                    [
+                        73,
+                        296
+                    ],
+                    [
+                        102,
+                        304
+                    ],
+                    [
+                        106,
+                        292
+                    ],
+                    [
+                        98,
+                        238
+                    ],
+                    [
+                        118,
+                        191
+                    ],
+                    [
+                        109,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

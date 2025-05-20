@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1687526,
+            "classId": 4045,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:35:03.572Z",
+            "updatedAt": "2023-06-07T13:35:03.572Z",
+            "tags": [],
+            "classTitle": "dates",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        193
+                    ],
+                    [
+                        433,
+                        318
+                    ],
+                    [
+                        333,
+                        336
+                    ],
+                    [
+                        143,
+                        330
+                    ],
+                    [
+                        33,
+                        347
+                    ],
+                    [
+                        6,
+                        319
+                    ],
+                    [
+                        27,
+                        223
+                    ],
+                    [
+                        161,
+                        147
+                    ],
+                    [
+                        267,
+                        165
+                    ],
+                    [
+                        331,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1687524,
+            "classId": 4045,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:35:03.572Z",
+            "updatedAt": "2023-06-07T13:35:03.572Z",
+            "tags": [],
+            "classTitle": "dates",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        255
+                    ],
+                    [
+                        340,
+                        325
+                    ],
+                    [
+                        119,
+                        321
+                    ],
+                    [
+                        45,
+                        342
+                    ],
+                    [
+                        10,
+                        298
+                    ],
+                    [
+                        59,
+                        209
+                    ],
+                    [
+                        198,
+                        171
+                    ],
+                    [
+                        323,
+                        174
+                    ],
+                    [
+                        379,
+                        195
+                    ],
+                    [
+                        381,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1705242,
+            "classId": 3797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:33.119Z",
+            "updatedAt": "2023-06-07T13:47:33.119Z",
+            "tags": [],
+            "classTitle": "braided-white-loaf",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        28
+                    ],
+                    [
+                        17,
+                        71
+                    ],
+                    [
+                        74,
+                        158
+                    ],
+                    [
+                        85,
+                        189
+                    ],
+                    [
+                        94,
+                        306
+                    ],
+                    [
+                        122,
+                        435
+                    ],
+                    [
+                        167,
+                        466
+                    ],
+                    [
+                        259,
+                        445
+                    ],
+                    [
+                        294,
+                        377
+                    ],
+                    [
+                        266,
+                        295
+                    ],
+                    [
+                        245,
+                        260
+                    ],
+                    [
+                        234,
+                        213
+                    ],
+                    [
+                        313,
+                        208
+                    ],
+                    [
+                        391,
+                        206
+                    ],
+                    [
+                        422,
+                        151
+                    ],
+                    [
+                        412,
+                        79
+                    ],
+                    [
+                        378,
+                        34
+                    ],
+                    [
+                        340,
+                        25
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705240,
+            "classId": 4249,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:33.118Z",
+            "updatedAt": "2023-06-07T13:47:33.118Z",
+            "tags": [],
+            "classTitle": "cooked-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        115
+                    ],
+                    [
+                        194,
+                        151
+                    ],
+                    [
+                        290,
+                        139
+                    ],
+                    [
+                        304,
+                        108
+                    ],
+                    [
+                        289,
+                        68
+                    ],
+                    [
+                        221,
+                        52
+                    ],
+                    [
+                        153,
+                        60
+                    ],
+                    [
+                        124,
+                        92
+                    ],
+                    [
+                        124,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

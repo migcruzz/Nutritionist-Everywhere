@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 830,
+        "width": 831
+    },
+    "objects": [
+        {
+            "id": 1759876,
+            "classId": 4385,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:09.825Z",
+            "updatedAt": "2023-06-07T14:26:09.825Z",
+            "tags": [],
+            "classTitle": "sauce-curry",
+            "points": {
+                "exterior": [
+                    [
+                        638,
+                        577
+                    ],
+                    [
+                        578,
+                        720
+                    ],
+                    [
+                        537,
+                        793
+                    ],
+                    [
+                        613,
+                        822
+                    ],
+                    [
+                        709,
+                        818
+                    ],
+                    [
+                        796,
+                        741
+                    ],
+                    [
+                        807,
+                        670
+                    ],
+                    [
+                        802,
+                        597
+                    ],
+                    [
+                        734,
+                        552
+                    ],
+                    [
+                        657,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1759874,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:09.824Z",
+            "updatedAt": "2023-06-07T14:26:09.824Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        807
+                    ],
+                    [
+                        358,
+                        732
+                    ],
+                    [
+                        350,
+                        714
+                    ],
+                    [
+                        223,
+                        749
+                    ],
+                    [
+                        167,
+                        801
+                    ],
+                    [
+                        229,
+                        820
+                    ],
+                    [
+                        318,
+                        820
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

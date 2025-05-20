@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1734897,
+            "classId": 4059,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:09:04.800Z",
+            "updatedAt": "2023-06-07T14:09:04.800Z",
+            "tags": [],
+            "classTitle": "witloof-chicory",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        54
+                    ],
+                    [
+                        200,
+                        36
+                    ],
+                    [
+                        181,
+                        68
+                    ],
+                    [
+                        205,
+                        98
+                    ],
+                    [
+                        296,
+                        100
+                    ],
+                    [
+                        335,
+                        127
+                    ],
+                    [
+                        326,
+                        160
+                    ],
+                    [
+                        346,
+                        173
+                    ],
+                    [
+                        377,
+                        192
+                    ],
+                    [
+                        381,
+                        114
+                    ],
+                    [
+                        378,
+                        82
+                    ],
+                    [
+                        314,
+                        61
+                    ],
+                    [
+                        293,
+                        57
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734895,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:09:04.799Z",
+            "updatedAt": "2023-06-07T14:09:04.799Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        111
+                    ],
+                    [
+                        190,
+                        141
+                    ],
+                    [
+                        168,
+                        160
+                    ],
+                    [
+                        241,
+                        194
+                    ],
+                    [
+                        285,
+                        165
+                    ],
+                    [
+                        375,
+                        213
+                    ],
+                    [
+                        338,
+                        155
+                    ],
+                    [
+                        317,
+                        103
+                    ],
+                    [
+                        269,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

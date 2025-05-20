@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4032,
+        "width": 3024
+    },
+    "objects": [
+        {
+            "id": 1784772,
+            "classId": 4207,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:49.049Z",
+            "updatedAt": "2023-06-07T14:42:49.049Z",
+            "tags": [],
+            "classTitle": "chocolate-mousse",
+            "points": {
+                "exterior": [
+                    [
+                        1718,
+                        1622
+                    ],
+                    [
+                        2535,
+                        1552
+                    ],
+                    [
+                        2585,
+                        2439
+                    ],
+                    [
+                        1758,
+                        2479
+                    ],
+                    [
+                        1718,
+                        1622
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784770,
+            "classId": 4175,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:49.048Z",
+            "updatedAt": "2023-06-07T14:42:49.048Z",
+            "tags": [],
+            "classTitle": "lemon-pie",
+            "points": {
+                "exterior": [
+                    [
+                        2373,
+                        1179
+                    ],
+                    [
+                        2625,
+                        1028
+                    ],
+                    [
+                        2494,
+                        604
+                    ],
+                    [
+                        2152,
+                        554
+                    ],
+                    [
+                        2041,
+                        745
+                    ],
+                    [
+                        2031,
+                        917
+                    ],
+                    [
+                        2101,
+                        1098
+                    ],
+                    [
+                        2303,
+                        1169
+                    ],
+                    [
+                        2303,
+                        1169
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784768,
+            "classId": 3503,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:49.048Z",
+            "updatedAt": "2023-06-07T14:42:49.048Z",
+            "tags": [],
+            "classTitle": "blueberries",
+            "points": {
+                "exterior": [
+                    [
+                        1486,
+                        735
+                    ],
+                    [
+                        1617,
+                        675
+                    ],
+                    [
+                        1638,
+                        604
+                    ],
+                    [
+                        1547,
+                        544
+                    ],
+                    [
+                        1476,
+                        554
+                    ],
+                    [
+                        1456,
+                        614
+                    ],
+                    [
+                        1476,
+                        695
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784766,
+            "classId": 4103,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:49.047Z",
+            "updatedAt": "2023-06-07T14:42:49.047Z",
+            "tags": [],
+            "classTitle": "pineapple",
+            "points": {
+                "exterior": [
+                    [
+                        1940,
+                        856
+                    ],
+                    [
+                        1728,
+                        604
+                    ],
+                    [
+                        1436,
+                        836
+                    ],
+                    [
+                        1547,
+                        1028
+                    ],
+                    [
+                        1728,
+                        1038
+                    ],
+                    [
+                        1859,
+                        917
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784764,
+            "classId": 4227,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:49.046Z",
+            "updatedAt": "2023-06-07T14:42:49.046Z",
+            "tags": [],
+            "classTitle": "chocolate-cookies",
+            "points": {
+                "exterior": [
+                    [
+                        3008,
+                        1653
+                    ],
+                    [
+                        2817,
+                        1622
+                    ],
+                    [
+                        2625,
+                        1451
+                    ],
+                    [
+                        2615,
+                        1209
+                    ],
+                    [
+                        2857,
+                        1008
+                    ],
+                    [
+                        3023,
+                        1029
+                    ],
+                    [
+                        3023,
+                        1645
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

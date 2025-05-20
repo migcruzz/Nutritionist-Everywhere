@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1680900,
+            "classId": 4255,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:32.066Z",
+            "updatedAt": "2023-06-07T13:30:32.066Z",
+            "tags": [],
+            "classTitle": "wine-rose",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        157
+                    ],
+                    [
+                        97,
+                        276
+                    ],
+                    [
+                        239,
+                        313
+                    ],
+                    [
+                        347,
+                        255
+                    ],
+                    [
+                        353,
+                        157
+                    ],
+                    [
+                        210,
+                        130
+                    ],
+                    [
+                        149,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

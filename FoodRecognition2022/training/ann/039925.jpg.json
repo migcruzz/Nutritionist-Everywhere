@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 852,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1661754,
+            "classId": 4161,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.185Z",
+            "updatedAt": "2023-06-07T13:17:15.185Z",
+            "tags": [],
+            "classTitle": "wienerli-swiss-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        773
+                    ],
+                    [
+                        429,
+                        741
+                    ],
+                    [
+                        344,
+                        765
+                    ],
+                    [
+                        365,
+                        835
+                    ],
+                    [
+                        446,
+                        826
+                    ],
+                    [
+                        465,
+                        788
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661752,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.185Z",
+            "updatedAt": "2023-06-07T13:17:15.185Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        735
+                    ],
+                    [
+                        338,
+                        748
+                    ],
+                    [
+                        342,
+                        809
+                    ],
+                    [
+                        382,
+                        837
+                    ],
+                    [
+                        367,
+                        801
+                    ],
+                    [
+                        363,
+                        782
+                    ],
+                    [
+                        374,
+                        756
+                    ],
+                    [
+                        384,
+                        741
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

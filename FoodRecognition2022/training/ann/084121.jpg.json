@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 838,
+        "width": 838
+    },
+    "objects": [
+        {
+            "id": 1675161,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:39.369Z",
+            "updatedAt": "2023-06-07T13:26:39.369Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        469,
+                        389
+                    ],
+                    [
+                        437,
+                        450
+                    ],
+                    [
+                        452,
+                        513
+                    ],
+                    [
+                        460,
+                        536
+                    ],
+                    [
+                        532,
+                        515
+                    ],
+                    [
+                        559,
+                        513
+                    ],
+                    [
+                        605,
+                        523
+                    ],
+                    [
+                        664,
+                        517
+                    ],
+                    [
+                        687,
+                        465
+                    ],
+                    [
+                        674,
+                        408
+                    ],
+                    [
+                        630,
+                        372
+                    ],
+                    [
+                        569,
+                        362
+                    ],
+                    [
+                        527,
+                        377
+                    ],
+                    [
+                        517,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675159,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:39.369Z",
+            "updatedAt": "2023-06-07T13:26:39.369Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        490,
+                        618
+                    ],
+                    [
+                        613,
+                        659
+                    ],
+                    [
+                        674,
+                        546
+                    ],
+                    [
+                        536,
+                        523
+                    ],
+                    [
+                        509,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

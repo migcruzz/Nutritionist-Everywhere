@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1790900,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:59.943Z",
+            "updatedAt": "2023-06-07T14:46:59.943Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        88
+                    ],
+                    [
+                        401,
+                        204
+                    ],
+                    [
+                        371,
+                        385
+                    ],
+                    [
+                        192,
+                        431
+                    ],
+                    [
+                        67,
+                        422
+                    ],
+                    [
+                        56,
+                        277
+                    ],
+                    [
+                        85,
+                        172
+                    ],
+                    [
+                        19,
+                        113
+                    ],
+                    [
+                        40,
+                        35
+                    ],
+                    [
+                        122,
+                        57
+                    ],
+                    [
+                        170,
+                        137
+                    ],
+                    [
+                        212,
+                        184
+                    ],
+                    [
+                        258,
+                        123
+                    ],
+                    [
+                        302,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1790898,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:59.942Z",
+            "updatedAt": "2023-06-07T14:46:59.942Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        19
+                    ],
+                    [
+                        180,
+                        201
+                    ],
+                    [
+                        240,
+                        168
+                    ],
+                    [
+                        249,
+                        47
+                    ],
+                    [
+                        212,
+                        9
+                    ],
+                    [
+                        128,
+                        9
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1702949,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:53.008Z",
+            "updatedAt": "2023-06-07T13:45:53.008Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        299
+                    ],
+                    [
+                        209,
+                        297
+                    ],
+                    [
+                        192,
+                        289
+                    ],
+                    [
+                        116,
+                        242
+                    ],
+                    [
+                        68,
+                        201
+                    ],
+                    [
+                        45,
+                        172
+                    ],
+                    [
+                        12,
+                        154
+                    ],
+                    [
+                        12,
+                        127
+                    ],
+                    [
+                        45,
+                        110
+                    ],
+                    [
+                        96,
+                        72
+                    ],
+                    [
+                        121,
+                        67
+                    ],
+                    [
+                        222,
+                        72
+                    ],
+                    [
+                        288,
+                        93
+                    ],
+                    [
+                        327,
+                        98
+                    ],
+                    [
+                        347,
+                        106
+                    ],
+                    [
+                        376,
+                        137
+                    ],
+                    [
+                        377,
+                        151
+                    ],
+                    [
+                        373,
+                        161
+                    ],
+                    [
+                        356,
+                        175
+                    ],
+                    [
+                        326,
+                        205
+                    ],
+                    [
+                        321,
+                        215
+                    ],
+                    [
+                        284,
+                        250
+                    ],
+                    [
+                        250,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702947,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:53.008Z",
+            "updatedAt": "2023-06-07T13:45:53.008Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        250
+                    ],
+                    [
+                        267,
+                        253
+                    ],
+                    [
+                        273,
+                        242
+                    ],
+                    [
+                        268,
+                        228
+                    ],
+                    [
+                        235,
+                        217
+                    ],
+                    [
+                        233,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702946,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:53.007Z",
+            "updatedAt": "2023-06-07T13:45:53.007Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        287
+                    ],
+                    [
+                        212,
+                        269
+                    ],
+                    [
+                        199,
+                        253
+                    ],
+                    [
+                        181,
+                        257
+                    ],
+                    [
+                        178,
+                        272
+                    ],
+                    [
+                        182,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

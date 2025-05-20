@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1679058,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:23.990Z",
+            "updatedAt": "2023-06-07T13:29:23.990Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        144
+                    ],
+                    [
+                        186,
+                        159
+                    ],
+                    [
+                        98,
+                        247
+                    ],
+                    [
+                        168,
+                        405
+                    ],
+                    [
+                        273,
+                        453
+                    ],
+                    [
+                        345,
+                        353
+                    ],
+                    [
+                        350,
+                        264
+                    ],
+                    [
+                        274,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679056,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:23.989Z",
+            "updatedAt": "2023-06-07T13:29:23.989Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        62
+                    ],
+                    [
+                        207,
+                        131
+                    ],
+                    [
+                        321,
+                        198
+                    ],
+                    [
+                        350,
+                        252
+                    ],
+                    [
+                        431,
+                        205
+                    ],
+                    [
+                        445,
+                        125
+                    ],
+                    [
+                        364,
+                        77
+                    ],
+                    [
+                        308,
+                        69
+                    ],
+                    [
+                        304,
+                        69
+                    ],
+                    [
+                        329,
+                        72
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

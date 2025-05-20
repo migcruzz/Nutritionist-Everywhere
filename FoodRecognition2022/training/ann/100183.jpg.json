@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 773,
+        "width": 771
+    },
+    "objects": [
+        {
+            "id": 1662253,
+            "classId": 3477,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:39.078Z",
+            "updatedAt": "2023-06-07T13:17:39.078Z",
+            "tags": [],
+            "classTitle": "pasta-hornli",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        565
+                    ],
+                    [
+                        121,
+                        567
+                    ],
+                    [
+                        92,
+                        525
+                    ],
+                    [
+                        121,
+                        501
+                    ],
+                    [
+                        157,
+                        509
+                    ],
+                    [
+                        196,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1662252,
+            "classId": 3477,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:39.077Z",
+            "updatedAt": "2023-06-07T13:17:39.077Z",
+            "tags": [],
+            "classTitle": "pasta-hornli",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        486
+                    ],
+                    [
+                        411,
+                        507
+                    ],
+                    [
+                        443,
+                        525
+                    ],
+                    [
+                        457,
+                        525
+                    ],
+                    [
+                        451,
+                        505
+                    ],
+                    [
+                        418,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1662250,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:39.077Z",
+            "updatedAt": "2023-06-07T13:17:39.077Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        527,
+                        432
+                    ],
+                    [
+                        324,
+                        374
+                    ],
+                    [
+                        271,
+                        312
+                    ],
+                    [
+                        119,
+                        362
+                    ],
+                    [
+                        65,
+                        432
+                    ],
+                    [
+                        92,
+                        507
+                    ],
+                    [
+                        163,
+                        513
+                    ],
+                    [
+                        169,
+                        571
+                    ],
+                    [
+                        312,
+                        588
+                    ],
+                    [
+                        474,
+                        585
+                    ],
+                    [
+                        575,
+                        534
+                    ],
+                    [
+                        575,
+                        461
+                    ],
+                    [
+                        515,
+                        459
+                    ],
+                    [
+                        525,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

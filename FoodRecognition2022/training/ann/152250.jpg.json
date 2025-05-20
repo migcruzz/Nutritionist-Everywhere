@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 802,
+        "width": 802
+    },
+    "objects": [
+        {
+            "id": 1741419,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:32.229Z",
+            "updatedAt": "2023-06-07T14:13:32.229Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        733,
+                        66
+                    ],
+                    [
+                        504,
+                        74
+                    ],
+                    [
+                        478,
+                        379
+                    ],
+                    [
+                        727,
+                        389
+                    ],
+                    [
+                        723,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741418,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:32.229Z",
+            "updatedAt": "2023-06-07T14:13:32.229Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        90
+                    ],
+                    [
+                        187,
+                        38
+                    ],
+                    [
+                        3,
+                        274
+                    ],
+                    [
+                        189,
+                        361
+                    ],
+                    [
+                        362,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741417,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:32.229Z",
+            "updatedAt": "2023-06-07T14:13:32.229Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        657,
+                        541
+                    ],
+                    [
+                        418,
+                        405
+                    ],
+                    [
+                        288,
+                        599
+                    ],
+                    [
+                        312,
+                        721
+                    ],
+                    [
+                        464,
+                        753
+                    ],
+                    [
+                        546,
+                        693
+                    ],
+                    [
+                        542,
+                        629
+                    ],
+                    [
+                        607,
+                        611
+                    ],
+                    [
+                        635,
+                        583
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741415,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:32.228Z",
+            "updatedAt": "2023-06-07T14:13:32.228Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        701,
+                        114
+                    ],
+                    [
+                        532,
+                        90
+                    ],
+                    [
+                        502,
+                        318
+                    ],
+                    [
+                        530,
+                        377
+                    ],
+                    [
+                        661,
+                        369
+                    ],
+                    [
+                        709,
+                        326
+                    ],
+                    [
+                        695,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

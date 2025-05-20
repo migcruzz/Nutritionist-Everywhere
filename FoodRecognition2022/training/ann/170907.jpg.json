@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1774314,
+            "classId": 3907,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:28.809Z",
+            "updatedAt": "2023-06-07T14:35:28.809Z",
+            "tags": [],
+            "classTitle": "chocolate-egg-small",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        377
+                    ],
+                    [
+                        200,
+                        377
+                    ],
+                    [
+                        181,
+                        375
+                    ],
+                    [
+                        158,
+                        357
+                    ],
+                    [
+                        147,
+                        336
+                    ],
+                    [
+                        146,
+                        324
+                    ],
+                    [
+                        150,
+                        316
+                    ],
+                    [
+                        162,
+                        312
+                    ],
+                    [
+                        185,
+                        314
+                    ],
+                    [
+                        207,
+                        326
+                    ],
+                    [
+                        218,
+                        338
+                    ],
+                    [
+                        221,
+                        346
+                    ],
+                    [
+                        220,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1774312,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:28.809Z",
+            "updatedAt": "2023-06-07T14:35:28.809Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        207
+                    ],
+                    [
+                        212,
+                        207
+                    ],
+                    [
+                        183,
+                        204
+                    ],
+                    [
+                        173,
+                        199
+                    ],
+                    [
+                        150,
+                        178
+                    ],
+                    [
+                        139,
+                        152
+                    ],
+                    [
+                        139,
+                        126
+                    ],
+                    [
+                        150,
+                        102
+                    ],
+                    [
+                        170,
+                        84
+                    ],
+                    [
+                        191,
+                        75
+                    ],
+                    [
+                        218,
+                        75
+                    ],
+                    [
+                        231,
+                        80
+                    ],
+                    [
+                        252,
+                        99
+                    ],
+                    [
+                        262,
+                        120
+                    ],
+                    [
+                        262,
+                        156
+                    ],
+                    [
+                        252,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

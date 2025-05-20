@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1741317,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:26.409Z",
+            "updatedAt": "2023-06-07T14:13:26.409Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        351
+                    ],
+                    [
+                        435,
+                        302
+                    ],
+                    [
+                        434,
+                        213
+                    ],
+                    [
+                        364,
+                        146
+                    ],
+                    [
+                        309,
+                        112
+                    ],
+                    [
+                        269,
+                        125
+                    ],
+                    [
+                        214,
+                        180
+                    ],
+                    [
+                        180,
+                        261
+                    ],
+                    [
+                        183,
+                        338
+                    ],
+                    [
+                        224,
+                        385
+                    ],
+                    [
+                        283,
+                        364
+                    ],
+                    [
+                        326,
+                        330
+                    ],
+                    [
+                        345,
+                        320
+                    ],
+                    [
+                        360,
+                        324
+                    ],
+                    [
+                        360,
+                        327
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741315,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:26.408Z",
+            "updatedAt": "2023-06-07T14:13:26.408Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        149,
+                        303
+                    ],
+                    [
+                        230,
+                        194
+                    ],
+                    [
+                        283,
+                        89
+                    ],
+                    [
+                        216,
+                        67
+                    ],
+                    [
+                        143,
+                        44
+                    ],
+                    [
+                        108,
+                        128
+                    ],
+                    [
+                        62,
+                        220
+                    ],
+                    [
+                        82,
+                        257
+                    ],
+                    [
+                        107,
+                        269
+                    ],
+                    [
+                        108,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

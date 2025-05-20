@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1731628,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:45.307Z",
+            "updatedAt": "2023-06-07T14:06:45.307Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        123
+                    ],
+                    [
+                        514,
+                        35
+                    ],
+                    [
+                        711,
+                        153
+                    ],
+                    [
+                        837,
+                        344
+                    ],
+                    [
+                        813,
+                        643
+                    ],
+                    [
+                        574,
+                        662
+                    ],
+                    [
+                        574,
+                        662
+                    ],
+                    [
+                        713,
+                        807
+                    ],
+                    [
+                        662,
+                        831
+                    ],
+                    [
+                        534,
+                        718
+                    ],
+                    [
+                        376,
+                        752
+                    ],
+                    [
+                        391,
+                        641
+                    ],
+                    [
+                        306,
+                        594
+                    ],
+                    [
+                        229,
+                        656
+                    ],
+                    [
+                        122,
+                        464
+                    ],
+                    [
+                        97,
+                        216
+                    ],
+                    [
+                        192,
+                        261
+                    ],
+                    [
+                        365,
+                        133
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1731626,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:45.306Z",
+            "updatedAt": "2023-06-07T14:06:45.306Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        534
+                    ],
+                    [
+                        169,
+                        558
+                    ],
+                    [
+                        214,
+                        664
+                    ],
+                    [
+                        39,
+                        752
+                    ],
+                    [
+                        5,
+                        645
+                    ],
+                    [
+                        120,
+                        534
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1731624,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:45.306Z",
+            "updatedAt": "2023-06-07T14:06:45.306Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        596
+                    ],
+                    [
+                        229,
+                        660
+                    ],
+                    [
+                        229,
+                        726
+                    ],
+                    [
+                        297,
+                        767
+                    ],
+                    [
+                        365,
+                        760
+                    ],
+                    [
+                        397,
+                        692
+                    ],
+                    [
+                        380,
+                        647
+                    ],
+                    [
+                        299,
+                        594
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

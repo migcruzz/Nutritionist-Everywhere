@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 821,
+        "width": 822
+    },
+    "objects": [
+        {
+            "id": 1747176,
+            "classId": 4193,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:39.381Z",
+            "updatedAt": "2023-06-07T14:17:39.381Z",
+            "tags": [],
+            "classTitle": "mixed-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        71
+                    ],
+                    [
+                        238,
+                        65
+                    ],
+                    [
+                        242,
+                        221
+                    ],
+                    [
+                        312,
+                        792
+                    ],
+                    [
+                        369,
+                        792
+                    ],
+                    [
+                        347,
+                        591
+                    ],
+                    [
+                        328,
+                        396
+                    ],
+                    [
+                        289,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747175,
+            "classId": 4193,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:39.381Z",
+            "updatedAt": "2023-06-07T14:17:39.381Z",
+            "tags": [],
+            "classTitle": "mixed-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        24
+                    ],
+                    [
+                        540,
+                        759
+                    ],
+                    [
+                        563,
+                        766
+                    ],
+                    [
+                        406,
+                        24
+                    ],
+                    [
+                        400,
+                        24
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

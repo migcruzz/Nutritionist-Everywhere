@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 838,
+        "width": 838
+    },
+    "objects": [
+        {
+            "id": 1742296,
+            "classId": 4101,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:17.881Z",
+            "updatedAt": "2023-06-07T14:14:17.881Z",
+            "tags": [],
+            "classTitle": "pizza-with-ham-baked",
+            "points": {
+                "exterior": [
+                    [
+                        575,
+                        169
+                    ],
+                    [
+                        275,
+                        173
+                    ],
+                    [
+                        340,
+                        798
+                    ],
+                    [
+                        692,
+                        752
+                    ],
+                    [
+                        598,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

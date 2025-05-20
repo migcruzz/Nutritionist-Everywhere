@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1701434,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:46.994Z",
+            "updatedAt": "2023-06-07T13:44:46.994Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        110
+                    ],
+                    [
+                        263,
+                        193
+                    ],
+                    [
+                        237,
+                        213
+                    ],
+                    [
+                        299,
+                        362
+                    ],
+                    [
+                        360,
+                        420
+                    ],
+                    [
+                        450,
+                        386
+                    ],
+                    [
+                        473,
+                        136
+                    ],
+                    [
+                        376,
+                        111
+                    ],
+                    [
+                        294,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1701432,
+            "classId": 3957,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:46.994Z",
+            "updatedAt": "2023-06-07T13:44:46.994Z",
+            "tags": [],
+            "classTitle": "fennel",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        127
+                    ],
+                    [
+                        245,
+                        198
+                    ],
+                    [
+                        217,
+                        254
+                    ],
+                    [
+                        277,
+                        343
+                    ],
+                    [
+                        298,
+                        417
+                    ],
+                    [
+                        157,
+                        416
+                    ],
+                    [
+                        43,
+                        374
+                    ],
+                    [
+                        6,
+                        286
+                    ],
+                    [
+                        4,
+                        104
+                    ],
+                    [
+                        64,
+                        44
+                    ],
+                    [
+                        189,
+                        84
+                    ],
+                    [
+                        256,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

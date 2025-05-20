@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1640084,
+            "classId": 3473,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:48.539Z",
+            "updatedAt": "2023-06-07T13:02:48.539Z",
+            "tags": [],
+            "classTitle": "chickpeas",
+            "points": {
+                "exterior": [
+                    [
+                        619,
+                        283
+                    ],
+                    [
+                        265,
+                        601
+                    ],
+                    [
+                        65,
+                        526
+                    ],
+                    [
+                        33,
+                        358
+                    ],
+                    [
+                        175,
+                        162
+                    ],
+                    [
+                        436,
+                        100
+                    ],
+                    [
+                        613,
+                        110
+                    ],
+                    [
+                        709,
+                        164
+                    ],
+                    [
+                        638,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640082,
+            "classId": 3785,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:48.539Z",
+            "updatedAt": "2023-06-07T13:02:48.539Z",
+            "tags": [],
+            "classTitle": "romanesco",
+            "points": {
+                "exterior": [
+                    [
+                        578,
+                        260
+                    ],
+                    [
+                        216,
+                        629
+                    ],
+                    [
+                        459,
+                        793
+                    ],
+                    [
+                        672,
+                        703
+                    ],
+                    [
+                        775,
+                        398
+                    ],
+                    [
+                        698,
+                        270
+                    ],
+                    [
+                        602,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

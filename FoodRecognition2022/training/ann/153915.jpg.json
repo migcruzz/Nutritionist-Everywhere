@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 798,
+        "width": 798
+    },
+    "objects": [
+        {
+            "id": 1663684,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:42.967Z",
+            "updatedAt": "2023-06-07T13:18:42.967Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        557,
+                        159
+                    ],
+                    [
+                        342,
+                        103
+                    ],
+                    [
+                        236,
+                        107
+                    ],
+                    [
+                        116,
+                        193
+                    ],
+                    [
+                        18,
+                        350
+                    ],
+                    [
+                        30,
+                        500
+                    ],
+                    [
+                        160,
+                        645
+                    ],
+                    [
+                        531,
+                        628
+                    ],
+                    [
+                        755,
+                        564
+                    ],
+                    [
+                        777,
+                        404
+                    ],
+                    [
+                        693,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1663682,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:42.966Z",
+            "updatedAt": "2023-06-07T13:18:42.966Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        493,
+                        286
+                    ],
+                    [
+                        453,
+                        223
+                    ],
+                    [
+                        284,
+                        262
+                    ],
+                    [
+                        170,
+                        278
+                    ],
+                    [
+                        34,
+                        422
+                    ],
+                    [
+                        50,
+                        444
+                    ],
+                    [
+                        294,
+                        440
+                    ],
+                    [
+                        392,
+                        466
+                    ],
+                    [
+                        505,
+                        484
+                    ],
+                    [
+                        571,
+                        462
+                    ],
+                    [
+                        561,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

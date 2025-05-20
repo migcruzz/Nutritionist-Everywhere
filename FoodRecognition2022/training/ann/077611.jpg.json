@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1747149,
+            "classId": 3631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:32.771Z",
+            "updatedAt": "2023-06-07T14:17:32.771Z",
+            "tags": [],
+            "classTitle": "taboule-prepared-with-couscous",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        99
+                    ],
+                    [
+                        134,
+                        171
+                    ],
+                    [
+                        45,
+                        203
+                    ],
+                    [
+                        19,
+                        197
+                    ],
+                    [
+                        19,
+                        120
+                    ],
+                    [
+                        100,
+                        99
+                    ],
+                    [
+                        121,
+                        95
+                    ],
+                    [
+                        121,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747147,
+            "classId": 3737,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:32.769Z",
+            "updatedAt": "2023-06-07T14:17:32.769Z",
+            "tags": [],
+            "classTitle": "hummus",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        379
+                    ],
+                    [
+                        219,
+                        283
+                    ],
+                    [
+                        128,
+                        243
+                    ],
+                    [
+                        47,
+                        274
+                    ],
+                    [
+                        76,
+                        419
+                    ],
+                    [
+                        95,
+                        460
+                    ],
+                    [
+                        197,
+                        455
+                    ],
+                    [
+                        285,
+                        426
+                    ],
+                    [
+                        371,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747145,
+            "classId": 4099,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:32.768Z",
+            "updatedAt": "2023-06-07T14:17:32.768Z",
+            "tags": [],
+            "classTitle": "beef-minced-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        203
+                    ],
+                    [
+                        329,
+                        247
+                    ],
+                    [
+                        361,
+                        273
+                    ],
+                    [
+                        433,
+                        294
+                    ],
+                    [
+                        450,
+                        283
+                    ],
+                    [
+                        452,
+                        251
+                    ],
+                    [
+                        435,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

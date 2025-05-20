@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1804475,
+            "classId": 3611,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:12.723Z",
+            "updatedAt": "2023-06-07T14:56:12.723Z",
+            "tags": [],
+            "classTitle": "applesauce-unsweetened-canned",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        191
+                    ],
+                    [
+                        56,
+                        279
+                    ],
+                    [
+                        74,
+                        337
+                    ],
+                    [
+                        137,
+                        383
+                    ],
+                    [
+                        216,
+                        402
+                    ],
+                    [
+                        282,
+                        382
+                    ],
+                    [
+                        319,
+                        356
+                    ],
+                    [
+                        350,
+                        325
+                    ],
+                    [
+                        359,
+                        214
+                    ],
+                    [
+                        327,
+                        175
+                    ],
+                    [
+                        245,
+                        169
+                    ],
+                    [
+                        161,
+                        182
+                    ],
+                    [
+                        110,
+                        184
+                    ],
+                    [
+                        108,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1804473,
+            "classId": 4267,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:12.722Z",
+            "updatedAt": "2023-06-07T14:56:12.722Z",
+            "tags": [],
+            "classTitle": "coconut-milk",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        336
+                    ],
+                    [
+                        128,
+                        445
+                    ],
+                    [
+                        196,
+                        461
+                    ],
+                    [
+                        302,
+                        462
+                    ],
+                    [
+                        331,
+                        437
+                    ],
+                    [
+                        361,
+                        321
+                    ],
+                    [
+                        323,
+                        372
+                    ],
+                    [
+                        276,
+                        387
+                    ],
+                    [
+                        190,
+                        392
+                    ],
+                    [
+                        144,
+                        387
+                    ],
+                    [
+                        78,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

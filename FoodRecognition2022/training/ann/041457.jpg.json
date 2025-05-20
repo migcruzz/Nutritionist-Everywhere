@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1649120,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:46.928Z",
+            "updatedAt": "2023-06-07T13:08:46.928Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        439
+                    ],
+                    [
+                        401,
+                        313
+                    ],
+                    [
+                        384,
+                        174
+                    ],
+                    [
+                        336,
+                        184
+                    ],
+                    [
+                        251,
+                        238
+                    ],
+                    [
+                        145,
+                        240
+                    ],
+                    [
+                        46,
+                        225
+                    ],
+                    [
+                        37,
+                        334
+                    ],
+                    [
+                        141,
+                        434
+                    ],
+                    [
+                        227,
+                        457
+                    ],
+                    [
+                        313,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649118,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:46.927Z",
+            "updatedAt": "2023-06-07T13:08:46.927Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        104
+                    ],
+                    [
+                        267,
+                        222
+                    ],
+                    [
+                        114,
+                        231
+                    ],
+                    [
+                        35,
+                        144
+                    ],
+                    [
+                        150,
+                        10
+                    ],
+                    [
+                        252,
+                        1
+                    ],
+                    [
+                        383,
+                        26
+                    ],
+                    [
+                        388,
+                        28
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

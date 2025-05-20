@@ -1,0 +1,590 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1784065,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.950Z",
+            "updatedAt": "2023-06-07T14:42:11.950Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        81
+                    ],
+                    [
+                        48,
+                        194
+                    ],
+                    [
+                        28,
+                        236
+                    ],
+                    [
+                        151,
+                        166
+                    ],
+                    [
+                        176,
+                        196
+                    ],
+                    [
+                        160,
+                        232
+                    ],
+                    [
+                        84,
+                        292
+                    ],
+                    [
+                        79,
+                        344
+                    ],
+                    [
+                        204,
+                        412
+                    ],
+                    [
+                        297,
+                        424
+                    ],
+                    [
+                        333,
+                        416
+                    ],
+                    [
+                        336,
+                        386
+                    ],
+                    [
+                        255,
+                        214
+                    ],
+                    [
+                        270,
+                        192
+                    ],
+                    [
+                        331,
+                        199
+                    ],
+                    [
+                        388,
+                        307
+                    ],
+                    [
+                        405,
+                        372
+                    ],
+                    [
+                        463,
+                        337
+                    ],
+                    [
+                        436,
+                        196
+                    ],
+                    [
+                        424,
+                        154
+                    ],
+                    [
+                        356,
+                        175
+                    ],
+                    [
+                        304,
+                        164
+                    ],
+                    [
+                        313,
+                        116
+                    ],
+                    [
+                        327,
+                        117
+                    ],
+                    [
+                        199,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784063,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.950Z",
+            "updatedAt": "2023-06-07T14:42:11.950Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        286
+                    ],
+                    [
+                        262,
+                        295
+                    ],
+                    [
+                        271,
+                        229
+                    ],
+                    [
+                        214,
+                        195
+                    ],
+                    [
+                        164,
+                        218
+                    ],
+                    [
+                        146,
+                        249
+                    ],
+                    [
+                        146,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784061,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.950Z",
+            "updatedAt": "2023-06-07T14:42:11.950Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        321
+                    ],
+                    [
+                        245,
+                        369
+                    ],
+                    [
+                        201,
+                        374
+                    ],
+                    [
+                        213,
+                        451
+                    ],
+                    [
+                        301,
+                        439
+                    ],
+                    [
+                        330,
+                        406
+                    ],
+                    [
+                        326,
+                        376
+                    ],
+                    [
+                        307,
+                        370
+                    ],
+                    [
+                        272,
+                        339
+                    ],
+                    [
+                        230,
+                        326
+                    ],
+                    [
+                        228,
+                        327
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784059,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.950Z",
+            "updatedAt": "2023-06-07T14:42:11.950Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        141
+                    ],
+                    [
+                        172,
+                        151
+                    ],
+                    [
+                        102,
+                        139
+                    ],
+                    [
+                        180,
+                        180
+                    ],
+                    [
+                        163,
+                        212
+                    ],
+                    [
+                        79,
+                        300
+                    ],
+                    [
+                        154,
+                        349
+                    ],
+                    [
+                        242,
+                        402
+                    ],
+                    [
+                        270,
+                        417
+                    ],
+                    [
+                        295,
+                        368
+                    ],
+                    [
+                        266,
+                        279
+                    ],
+                    [
+                        178,
+                        298
+                    ],
+                    [
+                        180,
+                        222
+                    ],
+                    [
+                        226,
+                        211
+                    ],
+                    [
+                        248,
+                        235
+                    ],
+                    [
+                        296,
+                        207
+                    ],
+                    [
+                        345,
+                        222
+                    ],
+                    [
+                        376,
+                        242
+                    ],
+                    [
+                        432,
+                        255
+                    ],
+                    [
+                        453,
+                        170
+                    ],
+                    [
+                        409,
+                        156
+                    ],
+                    [
+                        337,
+                        177
+                    ],
+                    [
+                        307,
+                        157
+                    ],
+                    [
+                        273,
+                        144
+                    ],
+                    [
+                        259,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784057,
+            "classId": 3939,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.950Z",
+            "updatedAt": "2023-06-07T14:42:11.950Z",
+            "tags": [],
+            "classTitle": "pork",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        164
+                    ],
+                    [
+                        13,
+                        250
+                    ],
+                    [
+                        16,
+                        286
+                    ],
+                    [
+                        27,
+                        306
+                    ],
+                    [
+                        112,
+                        268
+                    ],
+                    [
+                        171,
+                        210
+                    ],
+                    [
+                        165,
+                        171
+                    ],
+                    [
+                        151,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784056,
+            "classId": 3939,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.950Z",
+            "updatedAt": "2023-06-07T14:42:11.950Z",
+            "tags": [],
+            "classTitle": "pork",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        92
+                    ],
+                    [
+                        308,
+                        133
+                    ],
+                    [
+                        337,
+                        172
+                    ],
+                    [
+                        460,
+                        118
+                    ],
+                    [
+                        430,
+                        80
+                    ],
+                    [
+                        412,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784055,
+            "classId": 3939,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.950Z",
+            "updatedAt": "2023-06-07T14:42:11.950Z",
+            "tags": [],
+            "classTitle": "pork",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        205
+                    ],
+                    [
+                        260,
+                        230
+                    ],
+                    [
+                        343,
+                        417
+                    ],
+                    [
+                        439,
+                        399
+                    ],
+                    [
+                        346,
+                        278
+                    ],
+                    [
+                        325,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784053,
+            "classId": 3975,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.949Z",
+            "updatedAt": "2023-06-07T14:42:11.949Z",
+            "tags": [],
+            "classTitle": "breadcrumbs-unspiced",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        165
+                    ],
+                    [
+                        177,
+                        201
+                    ],
+                    [
+                        25,
+                        301
+                    ],
+                    [
+                        4,
+                        271
+                    ],
+                    [
+                        22,
+                        249
+                    ],
+                    [
+                        130,
+                        198
+                    ],
+                    [
+                        129,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784052,
+            "classId": 3975,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.949Z",
+            "updatedAt": "2023-06-07T14:42:11.949Z",
+            "tags": [],
+            "classTitle": "breadcrumbs-unspiced",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        205
+                    ],
+                    [
+                        256,
+                        229
+                    ],
+                    [
+                        362,
+                        432
+                    ],
+                    [
+                        415,
+                        386
+                    ],
+                    [
+                        316,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784051,
+            "classId": 3975,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:11.949Z",
+            "updatedAt": "2023-06-07T14:42:11.949Z",
+            "tags": [],
+            "classTitle": "breadcrumbs-unspiced",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        79
+                    ],
+                    [
+                        309,
+                        139
+                    ],
+                    [
+                        346,
+                        182
+                    ],
+                    [
+                        464,
+                        112
+                    ],
+                    [
+                        429,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

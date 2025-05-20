@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1681067,
+            "classId": 3747,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:36.863Z",
+            "updatedAt": "2023-06-07T13:30:36.863Z",
+            "tags": [],
+            "classTitle": "ratatouille",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        178
+                    ],
+                    [
+                        267,
+                        248
+                    ],
+                    [
+                        206,
+                        302
+                    ],
+                    [
+                        123,
+                        334
+                    ],
+                    [
+                        62,
+                        315
+                    ],
+                    [
+                        55,
+                        245
+                    ],
+                    [
+                        121,
+                        81
+                    ],
+                    [
+                        165,
+                        46
+                    ],
+                    [
+                        201,
+                        49
+                    ],
+                    [
+                        243,
+                        103
+                    ],
+                    [
+                        265,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1681065,
+            "classId": 3595,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:36.861Z",
+            "updatedAt": "2023-06-07T13:30:36.861Z",
+            "tags": [],
+            "classTitle": "spaetzle",
+            "points": {
+                "exterior": [
+                    [
+                        297,
+                        218
+                    ],
+                    [
+                        248,
+                        254
+                    ],
+                    [
+                        186,
+                        286
+                    ],
+                    [
+                        132,
+                        302
+                    ],
+                    [
+                        105,
+                        321
+                    ],
+                    [
+                        106,
+                        396
+                    ],
+                    [
+                        252,
+                        428
+                    ],
+                    [
+                        273,
+                        430
+                    ],
+                    [
+                        330,
+                        417
+                    ],
+                    [
+                        364,
+                        390
+                    ],
+                    [
+                        390,
+                        354
+                    ],
+                    [
+                        369,
+                        326
+                    ],
+                    [
+                        339,
+                        265
+                    ],
+                    [
+                        302,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

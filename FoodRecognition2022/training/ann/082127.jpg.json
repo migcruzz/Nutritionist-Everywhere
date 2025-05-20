@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1039,
+        "width": 1039
+    },
+    "objects": [
+        {
+            "id": 1692566,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:30.245Z",
+            "updatedAt": "2023-06-07T13:38:30.245Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        501,
+                        223
+                    ],
+                    [
+                        277,
+                        270
+                    ],
+                    [
+                        238,
+                        316
+                    ],
+                    [
+                        218,
+                        919
+                    ],
+                    [
+                        301,
+                        1023
+                    ],
+                    [
+                        503,
+                        984
+                    ],
+                    [
+                        670,
+                        966
+                    ],
+                    [
+                        807,
+                        779
+                    ],
+                    [
+                        828,
+                        625
+                    ],
+                    [
+                        758,
+                        384
+                    ],
+                    [
+                        628,
+                        270
+                    ],
+                    [
+                        561,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1692564,
+            "classId": 3763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:30.243Z",
+            "updatedAt": "2023-06-07T13:38:30.243Z",
+            "tags": [],
+            "classTitle": "bread-pita",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        23
+                    ],
+                    [
+                        67,
+                        114
+                    ],
+                    [
+                        25,
+                        298
+                    ],
+                    [
+                        38,
+                        451
+                    ],
+                    [
+                        5,
+                        844
+                    ],
+                    [
+                        15,
+                        997
+                    ],
+                    [
+                        25,
+                        1031
+                    ],
+                    [
+                        161,
+                        1015
+                    ],
+                    [
+                        210,
+                        646
+                    ],
+                    [
+                        244,
+                        277
+                    ],
+                    [
+                        228,
+                        140
+                    ],
+                    [
+                        236,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

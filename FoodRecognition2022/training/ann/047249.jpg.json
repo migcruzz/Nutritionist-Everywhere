@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 784,
+        "width": 785
+    },
+    "objects": [
+        {
+            "id": 1744650,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:54.909Z",
+            "updatedAt": "2023-06-07T14:15:54.909Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        374
+                    ],
+                    [
+                        515,
+                        637
+                    ],
+                    [
+                        646,
+                        743
+                    ],
+                    [
+                        740,
+                        682
+                    ],
+                    [
+                        681,
+                        527
+                    ],
+                    [
+                        521,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744648,
+            "classId": 3651,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:54.908Z",
+            "updatedAt": "2023-06-07T14:15:54.908Z",
+            "tags": [],
+            "classTitle": "french-beans",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        109
+                    ],
+                    [
+                        418,
+                        260
+                    ],
+                    [
+                        254,
+                        368
+                    ],
+                    [
+                        148,
+                        462
+                    ],
+                    [
+                        48,
+                        533
+                    ],
+                    [
+                        22,
+                        415
+                    ],
+                    [
+                        30,
+                        99
+                    ],
+                    [
+                        138,
+                        15
+                    ],
+                    [
+                        362,
+                        36
+                    ],
+                    [
+                        440,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744646,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:54.907Z",
+            "updatedAt": "2023-06-07T14:15:54.907Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        213
+                    ],
+                    [
+                        320,
+                        333
+                    ],
+                    [
+                        120,
+                        405
+                    ],
+                    [
+                        52,
+                        497
+                    ],
+                    [
+                        152,
+                        635
+                    ],
+                    [
+                        246,
+                        633
+                    ],
+                    [
+                        354,
+                        472
+                    ],
+                    [
+                        462,
+                        348
+                    ],
+                    [
+                        479,
+                        299
+                    ],
+                    [
+                        395,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744644,
+            "classId": 4299,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:54.906Z",
+            "updatedAt": "2023-06-07T14:15:54.906Z",
+            "tags": [],
+            "classTitle": "cervelat",
+            "points": {
+                "exterior": [
+                    [
+                        538,
+                        405
+                    ],
+                    [
+                        517,
+                        311
+                    ],
+                    [
+                        399,
+                        301
+                    ],
+                    [
+                        305,
+                        484
+                    ],
+                    [
+                        201,
+                        753
+                    ],
+                    [
+                        424,
+                        778
+                    ],
+                    [
+                        491,
+                        753
+                    ],
+                    [
+                        542,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

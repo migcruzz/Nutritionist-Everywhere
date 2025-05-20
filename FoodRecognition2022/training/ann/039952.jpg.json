@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1703451,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:12.001Z",
+            "updatedAt": "2023-06-07T13:46:12.001Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        221
+                    ],
+                    [
+                        216,
+                        355
+                    ],
+                    [
+                        311,
+                        376
+                    ],
+                    [
+                        360,
+                        277
+                    ],
+                    [
+                        355,
+                        204
+                    ],
+                    [
+                        348,
+                        233
+                    ],
+                    [
+                        268,
+                        229
+                    ],
+                    [
+                        251,
+                        150
+                    ],
+                    [
+                        201,
+                        178
+                    ],
+                    [
+                        183,
+                        201
+                    ],
+                    [
+                        175,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703449,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:12.000Z",
+            "updatedAt": "2023-06-07T13:46:12.000Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        162
+                    ],
+                    [
+                        187,
+                        203
+                    ],
+                    [
+                        191,
+                        264
+                    ],
+                    [
+                        276,
+                        327
+                    ],
+                    [
+                        361,
+                        327
+                    ],
+                    [
+                        385,
+                        259
+                    ],
+                    [
+                        352,
+                        202
+                    ],
+                    [
+                        322,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

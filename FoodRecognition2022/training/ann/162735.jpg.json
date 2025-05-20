@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 977,
+        "width": 977
+    },
+    "objects": [
+        {
+            "id": 1767380,
+            "classId": 4005,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:01.310Z",
+            "updatedAt": "2023-06-07T14:31:01.310Z",
+            "tags": [],
+            "classTitle": "mustard",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        361
+                    ],
+                    [
+                        45,
+                        397
+                    ],
+                    [
+                        20,
+                        546
+                    ],
+                    [
+                        113,
+                        539
+                    ],
+                    [
+                        233,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767378,
+            "classId": 3827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:01.309Z",
+            "updatedAt": "2023-06-07T14:31:01.309Z",
+            "tags": [],
+            "classTitle": "rice-basmati",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        492
+                    ],
+                    [
+                        247,
+                        470
+                    ],
+                    [
+                        174,
+                        673
+                    ],
+                    [
+                        252,
+                        849
+                    ],
+                    [
+                        448,
+                        903
+                    ],
+                    [
+                        550,
+                        905
+                    ],
+                    [
+                        470,
+                        622
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767376,
+            "classId": 3529,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:01.309Z",
+            "updatedAt": "2023-06-07T14:31:01.309Z",
+            "tags": [],
+            "classTitle": "sausage",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        163
+                    ],
+                    [
+                        289,
+                        429
+                    ],
+                    [
+                        848,
+                        463
+                    ],
+                    [
+                        843,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767374,
+            "classId": 3469,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:01.309Z",
+            "updatedAt": "2023-06-07T14:31:01.309Z",
+            "tags": [],
+            "classTitle": "beetroot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        817,
+                        468
+                    ],
+                    [
+                        511,
+                        422
+                    ],
+                    [
+                        448,
+                        571
+                    ],
+                    [
+                        484,
+                        759
+                    ],
+                    [
+                        536,
+                        903
+                    ],
+                    [
+                        719,
+                        925
+                    ],
+                    [
+                        902,
+                        834
+                    ],
+                    [
+                        900,
+                        597
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

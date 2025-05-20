@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1796711,
+            "classId": 3885,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:53.489Z",
+            "updatedAt": "2023-06-07T14:50:53.489Z",
+            "tags": [],
+            "classTitle": "walnut",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        222
+                    ],
+                    [
+                        250,
+                        297
+                    ],
+                    [
+                        318,
+                        372
+                    ],
+                    [
+                        384,
+                        389
+                    ],
+                    [
+                        418,
+                        308
+                    ],
+                    [
+                        423,
+                        238
+                    ],
+                    [
+                        361,
+                        223
+                    ],
+                    [
+                        349,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1796710,
+            "classId": 3885,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:53.489Z",
+            "updatedAt": "2023-06-07T14:50:53.489Z",
+            "tags": [],
+            "classTitle": "walnut",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        244
+                    ],
+                    [
+                        135,
+                        296
+                    ],
+                    [
+                        124,
+                        382
+                    ],
+                    [
+                        62,
+                        415
+                    ],
+                    [
+                        4,
+                        394
+                    ],
+                    [
+                        8,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1796708,
+            "classId": 4047,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:53.489Z",
+            "updatedAt": "2023-06-07T14:50:53.489Z",
+            "tags": [],
+            "classTitle": "pistachio",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        272
+                    ],
+                    [
+                        124,
+                        243
+                    ],
+                    [
+                        137,
+                        307
+                    ],
+                    [
+                        162,
+                        345
+                    ],
+                    [
+                        179,
+                        398
+                    ],
+                    [
+                        193,
+                        419
+                    ],
+                    [
+                        242,
+                        421
+                    ],
+                    [
+                        244,
+                        304
+                    ],
+                    [
+                        192,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

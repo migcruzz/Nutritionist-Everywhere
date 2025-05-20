@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 243,
+        "width": 242
+    },
+    "objects": [
+        {
+            "id": 1733834,
+            "classId": 4227,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:20.289Z",
+            "updatedAt": "2023-06-07T14:08:20.289Z",
+            "tags": [],
+            "classTitle": "chocolate-cookies",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        78
+                    ],
+                    [
+                        137,
+                        58
+                    ],
+                    [
+                        107,
+                        40
+                    ],
+                    [
+                        66,
+                        44
+                    ],
+                    [
+                        49,
+                        68
+                    ],
+                    [
+                        59,
+                        92
+                    ],
+                    [
+                        62,
+                        126
+                    ],
+                    [
+                        78,
+                        134
+                    ],
+                    [
+                        109,
+                        136
+                    ],
+                    [
+                        129,
+                        133
+                    ],
+                    [
+                        142,
+                        122
+                    ],
+                    [
+                        145,
+                        107
+                    ],
+                    [
+                        139,
+                        91
+                    ],
+                    [
+                        138,
+                        90
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733832,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:20.289Z",
+            "updatedAt": "2023-06-07T14:08:20.289Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        32
+                    ],
+                    [
+                        130,
+                        55
+                    ],
+                    [
+                        156,
+                        139
+                    ],
+                    [
+                        224,
+                        111
+                    ],
+                    [
+                        203,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

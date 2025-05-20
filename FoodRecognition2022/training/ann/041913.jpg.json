@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1645070,
+            "classId": 4059,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:13.559Z",
+            "updatedAt": "2023-06-07T13:06:13.559Z",
+            "tags": [],
+            "classTitle": "witloof-chicory",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        91
+                    ],
+                    [
+                        65,
+                        174
+                    ],
+                    [
+                        5,
+                        23
+                    ],
+                    [
+                        107,
+                        0
+                    ],
+                    [
+                        229,
+                        0
+                    ],
+                    [
+                        286,
+                        34
+                    ],
+                    [
+                        299,
+                        49
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645068,
+            "classId": 4067,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:13.559Z",
+            "updatedAt": "2023-06-07T13:06:13.559Z",
+            "tags": [],
+            "classTitle": "risotto-with-mushrooms-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        160
+                    ],
+                    [
+                        73,
+                        232
+                    ],
+                    [
+                        102,
+                        426
+                    ],
+                    [
+                        261,
+                        463
+                    ],
+                    [
+                        419,
+                        393
+                    ],
+                    [
+                        432,
+                        270
+                    ],
+                    [
+                        395,
+                        177
+                    ],
+                    [
+                        274,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

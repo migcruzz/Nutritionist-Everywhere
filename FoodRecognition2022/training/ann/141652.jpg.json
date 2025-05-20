@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 401,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1661900,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:20.927Z",
+            "updatedAt": "2023-06-07T13:17:20.927Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        171
+                    ],
+                    [
+                        41,
+                        161
+                    ],
+                    [
+                        4,
+                        188
+                    ],
+                    [
+                        14,
+                        278
+                    ],
+                    [
+                        74,
+                        336
+                    ],
+                    [
+                        159,
+                        355
+                    ],
+                    [
+                        226,
+                        353
+                    ],
+                    [
+                        252,
+                        320
+                    ],
+                    [
+                        252,
+                        273
+                    ],
+                    [
+                        223,
+                        243
+                    ],
+                    [
+                        188,
+                        218
+                    ],
+                    [
+                        131,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661898,
+            "classId": 4327,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:20.927Z",
+            "updatedAt": "2023-06-07T13:17:20.927Z",
+            "tags": [],
+            "classTitle": "rice-waffels",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        72
+                    ],
+                    [
+                        136,
+                        111
+                    ],
+                    [
+                        112,
+                        140
+                    ],
+                    [
+                        132,
+                        174
+                    ],
+                    [
+                        170,
+                        222
+                    ],
+                    [
+                        207,
+                        234
+                    ],
+                    [
+                        277,
+                        233
+                    ],
+                    [
+                        308,
+                        221
+                    ],
+                    [
+                        339,
+                        166
+                    ],
+                    [
+                        334,
+                        118
+                    ],
+                    [
+                        279,
+                        77
+                    ],
+                    [
+                        219,
+                        61
+                    ],
+                    [
+                        211,
+                        61
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661896,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:20.926Z",
+            "updatedAt": "2023-06-07T13:17:20.926Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        78
+                    ],
+                    [
+                        131,
+                        156
+                    ],
+                    [
+                        177,
+                        175
+                    ],
+                    [
+                        197,
+                        199
+                    ],
+                    [
+                        225,
+                        212
+                    ],
+                    [
+                        280,
+                        213
+                    ],
+                    [
+                        314,
+                        199
+                    ],
+                    [
+                        327,
+                        150
+                    ],
+                    [
+                        306,
+                        100
+                    ],
+                    [
+                        238,
+                        76
+                    ],
+                    [
+                        197,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 935,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1675255,
+            "classId": 3469,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:44.523Z",
+            "updatedAt": "2023-06-07T13:26:44.523Z",
+            "tags": [],
+            "classTitle": "beetroot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        541,
+                        331
+                    ],
+                    [
+                        496,
+                        263
+                    ],
+                    [
+                        522,
+                        193
+                    ],
+                    [
+                        489,
+                        177
+                    ],
+                    [
+                        449,
+                        158
+                    ],
+                    [
+                        428,
+                        102
+                    ],
+                    [
+                        372,
+                        114
+                    ],
+                    [
+                        300,
+                        209
+                    ],
+                    [
+                        227,
+                        280
+                    ],
+                    [
+                        155,
+                        329
+                    ],
+                    [
+                        113,
+                        441
+                    ],
+                    [
+                        115,
+                        595
+                    ],
+                    [
+                        153,
+                        724
+                    ],
+                    [
+                        241,
+                        766
+                    ],
+                    [
+                        328,
+                        742
+                    ],
+                    [
+                        370,
+                        738
+                    ],
+                    [
+                        501,
+                        754
+                    ],
+                    [
+                        562,
+                        717
+                    ],
+                    [
+                        587,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675253,
+            "classId": 4367,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:44.523Z",
+            "updatedAt": "2023-06-07T13:26:44.523Z",
+            "tags": [],
+            "classTitle": "carrot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        718,
+                        504
+                    ],
+                    [
+                        672,
+                        579
+                    ],
+                    [
+                        688,
+                        586
+                    ],
+                    [
+                        753,
+                        602
+                    ],
+                    [
+                        798,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

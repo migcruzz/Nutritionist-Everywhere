@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1673816,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:50.513Z",
+            "updatedAt": "2023-06-07T13:25:50.513Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        192
+                    ],
+                    [
+                        387,
+                        160
+                    ],
+                    [
+                        374,
+                        90
+                    ],
+                    [
+                        301,
+                        57
+                    ],
+                    [
+                        223,
+                        37
+                    ],
+                    [
+                        143,
+                        44
+                    ],
+                    [
+                        77,
+                        99
+                    ],
+                    [
+                        39,
+                        157
+                    ],
+                    [
+                        52,
+                        221
+                    ],
+                    [
+                        90,
+                        282
+                    ],
+                    [
+                        143,
+                        348
+                    ],
+                    [
+                        184,
+                        355
+                    ],
+                    [
+                        232,
+                        353
+                    ],
+                    [
+                        260,
+                        326
+                    ],
+                    [
+                        285,
+                        327
+                    ],
+                    [
+                        327,
+                        308
+                    ],
+                    [
+                        355,
+                        256
+                    ],
+                    [
+                        362,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673814,
+            "classId": 3879,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:50.513Z",
+            "updatedAt": "2023-06-07T13:25:50.513Z",
+            "tags": [],
+            "classTitle": "feta",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        212
+                    ],
+                    [
+                        317,
+                        200
+                    ],
+                    [
+                        309,
+                        178
+                    ],
+                    [
+                        257,
+                        160
+                    ],
+                    [
+                        234,
+                        163
+                    ],
+                    [
+                        225,
+                        191
+                    ],
+                    [
+                        226,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

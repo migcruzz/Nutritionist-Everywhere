@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1763919,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:35.843Z",
+            "updatedAt": "2023-06-07T14:28:35.843Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        418
+                    ],
+                    [
+                        267,
+                        296
+                    ],
+                    [
+                        141,
+                        274
+                    ],
+                    [
+                        42,
+                        374
+                    ],
+                    [
+                        53,
+                        450
+                    ],
+                    [
+                        130,
+                        470
+                    ],
+                    [
+                        171,
+                        469
+                    ],
+                    [
+                        265,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763917,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:35.842Z",
+            "updatedAt": "2023-06-07T14:28:35.842Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        286
+                    ],
+                    [
+                        267,
+                        309
+                    ],
+                    [
+                        314,
+                        417
+                    ],
+                    [
+                        367,
+                        389
+                    ],
+                    [
+                        330,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763915,
+            "classId": 3939,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:35.842Z",
+            "updatedAt": "2023-06-07T14:28:35.842Z",
+            "tags": [],
+            "classTitle": "pork",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        260
+                    ],
+                    [
+                        323,
+                        259
+                    ],
+                    [
+                        338,
+                        307
+                    ],
+                    [
+                        382,
+                        363
+                    ],
+                    [
+                        390,
+                        378
+                    ],
+                    [
+                        396,
+                        357
+                    ],
+                    [
+                        387,
+                        320
+                    ],
+                    [
+                        368,
+                        296
+                    ],
+                    [
+                        356,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763913,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:35.840Z",
+            "updatedAt": "2023-06-07T14:28:35.840Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        77
+                    ],
+                    [
+                        218,
+                        146
+                    ],
+                    [
+                        179,
+                        129
+                    ],
+                    [
+                        165,
+                        173
+                    ],
+                    [
+                        56,
+                        204
+                    ],
+                    [
+                        8,
+                        204
+                    ],
+                    [
+                        1,
+                        47
+                    ],
+                    [
+                        77,
+                        53
+                    ],
+                    [
+                        157,
+                        103
+                    ],
+                    [
+                        172,
+                        71
+                    ],
+                    [
+                        207,
+                        83
+                    ],
+                    [
+                        210,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

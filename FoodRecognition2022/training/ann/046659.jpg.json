@@ -1,0 +1,62 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1681963,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:14.272Z",
+            "updatedAt": "2023-06-07T13:31:14.272Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        135,
+                        129
+                    ],
+                    [
+                        49,
+                        231
+                    ],
+                    [
+                        107,
+                        348
+                    ],
+                    [
+                        213,
+                        386
+                    ],
+                    [
+                        324,
+                        387
+                    ],
+                    [
+                        373,
+                        291
+                    ],
+                    [
+                        337,
+                        175
+                    ],
+                    [
+                        253,
+                        115
+                    ],
+                    [
+                        186,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

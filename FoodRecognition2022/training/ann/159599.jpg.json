@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1806435,
+            "classId": 3929,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:39.837Z",
+            "updatedAt": "2023-06-07T14:57:39.837Z",
+            "tags": [],
+            "classTitle": "fish",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        31
+                    ],
+                    [
+                        217,
+                        112
+                    ],
+                    [
+                        186,
+                        213
+                    ],
+                    [
+                        210,
+                        283
+                    ],
+                    [
+                        273,
+                        283
+                    ],
+                    [
+                        342,
+                        236
+                    ],
+                    [
+                        355,
+                        205
+                    ],
+                    [
+                        338,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1806433,
+            "classId": 3931,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:39.836Z",
+            "updatedAt": "2023-06-07T14:57:39.836Z",
+            "tags": [],
+            "classTitle": "risotto-without-cheese-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        313
+                    ],
+                    [
+                        186,
+                        220
+                    ],
+                    [
+                        144,
+                        170
+                    ],
+                    [
+                        50,
+                        133
+                    ],
+                    [
+                        45,
+                        218
+                    ],
+                    [
+                        68,
+                        286
+                    ],
+                    [
+                        119,
+                        330
+                    ],
+                    [
+                        184,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

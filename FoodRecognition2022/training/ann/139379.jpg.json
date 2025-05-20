@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 820,
+        "width": 820
+    },
+    "objects": [
+        {
+            "id": 1751641,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:46.189Z",
+            "updatedAt": "2023-06-07T14:20:46.189Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        651,
+                        145
+                    ],
+                    [
+                        545,
+                        214
+                    ],
+                    [
+                        483,
+                        368
+                    ],
+                    [
+                        576,
+                        405
+                    ],
+                    [
+                        731,
+                        393
+                    ],
+                    [
+                        801,
+                        387
+                    ],
+                    [
+                        807,
+                        259
+                    ],
+                    [
+                        758,
+                        188
+                    ],
+                    [
+                        684,
+                        216
+                    ],
+                    [
+                        682,
+                        134
+                    ],
+                    [
+                        680,
+                        136
+                    ],
+                    [
+                        660,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1751639,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:46.189Z",
+            "updatedAt": "2023-06-07T14:20:46.189Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        430
+                    ],
+                    [
+                        293,
+                        409
+                    ],
+                    [
+                        231,
+                        378
+                    ],
+                    [
+                        198,
+                        286
+                    ],
+                    [
+                        100,
+                        282
+                    ],
+                    [
+                        16,
+                        325
+                    ],
+                    [
+                        10,
+                        487
+                    ],
+                    [
+                        155,
+                        471
+                    ],
+                    [
+                        231,
+                        528
+                    ],
+                    [
+                        373,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

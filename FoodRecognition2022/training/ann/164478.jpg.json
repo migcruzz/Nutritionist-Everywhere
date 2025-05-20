@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 815,
+        "width": 814
+    },
+    "objects": [
+        {
+            "id": 1756641,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:24:06.679Z",
+            "updatedAt": "2023-06-07T14:24:06.679Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        477,
+                        346
+                    ],
+                    [
+                        536,
+                        256
+                    ],
+                    [
+                        524,
+                        158
+                    ],
+                    [
+                        503,
+                        65
+                    ],
+                    [
+                        385,
+                        44
+                    ],
+                    [
+                        338,
+                        179
+                    ],
+                    [
+                        218,
+                        160
+                    ],
+                    [
+                        149,
+                        197
+                    ],
+                    [
+                        137,
+                        380
+                    ],
+                    [
+                        206,
+                        484
+                    ],
+                    [
+                        318,
+                        497
+                    ],
+                    [
+                        405,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1756639,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:24:06.678Z",
+            "updatedAt": "2023-06-07T14:24:06.678Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        428,
+                        492
+                    ],
+                    [
+                        192,
+                        541
+                    ],
+                    [
+                        232,
+                        637
+                    ],
+                    [
+                        283,
+                        753
+                    ],
+                    [
+                        391,
+                        708
+                    ],
+                    [
+                        377,
+                        812
+                    ],
+                    [
+                        471,
+                        808
+                    ],
+                    [
+                        477,
+                        592
+                    ],
+                    [
+                        452,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1756637,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:24:06.678Z",
+            "updatedAt": "2023-06-07T14:24:06.678Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        689,
+                        568
+                    ],
+                    [
+                        564,
+                        497
+                    ],
+                    [
+                        456,
+                        488
+                    ],
+                    [
+                        456,
+                        537
+                    ],
+                    [
+                        495,
+                        647
+                    ],
+                    [
+                        540,
+                        660
+                    ],
+                    [
+                        660,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1756635,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:24:06.677Z",
+            "updatedAt": "2023-06-07T14:24:06.677Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        772,
+                        248
+                    ],
+                    [
+                        666,
+                        207
+                    ],
+                    [
+                        540,
+                        262
+                    ],
+                    [
+                        473,
+                        366
+                    ],
+                    [
+                        530,
+                        490
+                    ],
+                    [
+                        638,
+                        495
+                    ],
+                    [
+                        727,
+                        421
+                    ],
+                    [
+                        776,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

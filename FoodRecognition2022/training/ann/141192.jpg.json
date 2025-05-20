@@ -1,0 +1,338 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 603,
+        "width": 603
+    },
+    "objects": [
+        {
+            "id": 1683207,
+            "classId": 3813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:01.751Z",
+            "updatedAt": "2023-06-07T13:32:01.751Z",
+            "tags": [],
+            "classTitle": "bread-nut",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        259
+                    ],
+                    [
+                        274,
+                        176
+                    ],
+                    [
+                        323,
+                        74
+                    ],
+                    [
+                        293,
+                        16
+                    ],
+                    [
+                        188,
+                        22
+                    ],
+                    [
+                        103,
+                        62
+                    ],
+                    [
+                        48,
+                        132
+                    ],
+                    [
+                        16,
+                        202
+                    ],
+                    [
+                        26,
+                        257
+                    ],
+                    [
+                        57,
+                        267
+                    ],
+                    [
+                        76,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683205,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:01.751Z",
+            "updatedAt": "2023-06-07T13:32:01.751Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        453,
+                        114
+                    ],
+                    [
+                        424,
+                        21
+                    ],
+                    [
+                        326,
+                        13
+                    ],
+                    [
+                        329,
+                        87
+                    ],
+                    [
+                        272,
+                        143
+                    ],
+                    [
+                        201,
+                        233
+                    ],
+                    [
+                        201,
+                        331
+                    ],
+                    [
+                        245,
+                        352
+                    ],
+                    [
+                        317,
+                        309
+                    ],
+                    [
+                        342,
+                        282
+                    ],
+                    [
+                        382,
+                        292
+                    ],
+                    [
+                        394,
+                        325
+                    ],
+                    [
+                        406,
+                        340
+                    ],
+                    [
+                        459,
+                        307
+                    ],
+                    [
+                        479,
+                        315
+                    ],
+                    [
+                        482,
+                        236
+                    ],
+                    [
+                        506,
+                        205
+                    ],
+                    [
+                        524,
+                        188
+                    ],
+                    [
+                        495,
+                        119
+                    ],
+                    [
+                        477,
+                        113
+                    ],
+                    [
+                        473,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683203,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:01.750Z",
+            "updatedAt": "2023-06-07T13:32:01.750Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        374
+                    ],
+                    [
+                        198,
+                        372
+                    ],
+                    [
+                        194,
+                        273
+                    ],
+                    [
+                        19,
+                        270
+                    ],
+                    [
+                        17,
+                        325
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683201,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:01.750Z",
+            "updatedAt": "2023-06-07T13:32:01.750Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        423,
+                        426
+                    ],
+                    [
+                        557,
+                        450
+                    ],
+                    [
+                        572,
+                        368
+                    ],
+                    [
+                        412,
+                        322
+                    ],
+                    [
+                        397,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683199,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:01.749Z",
+            "updatedAt": "2023-06-07T13:32:01.749Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        419
+                    ],
+                    [
+                        361,
+                        544
+                    ],
+                    [
+                        429,
+                        459
+                    ],
+                    [
+                        423,
+                        417
+                    ],
+                    [
+                        329,
+                        386
+                    ],
+                    [
+                        228,
+                        374
+                    ],
+                    [
+                        197,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683197,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:01.749Z",
+            "updatedAt": "2023-06-07T13:32:01.749Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        475
+                    ],
+                    [
+                        188,
+                        466
+                    ],
+                    [
+                        197,
+                        402
+                    ],
+                    [
+                        179,
+                        374
+                    ],
+                    [
+                        118,
+                        360
+                    ],
+                    [
+                        57,
+                        387
+                    ],
+                    [
+                        31,
+                        407
+                    ],
+                    [
+                        52,
+                        443
+                    ],
+                    [
+                        52,
+                        443
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1695520,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.342Z",
+            "updatedAt": "2023-06-07T13:40:30.342Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        240
+                    ],
+                    [
+                        299,
+                        177
+                    ],
+                    [
+                        224,
+                        123
+                    ],
+                    [
+                        125,
+                        113
+                    ],
+                    [
+                        101,
+                        156
+                    ],
+                    [
+                        129,
+                        217
+                    ],
+                    [
+                        230,
+                        284
+                    ],
+                    [
+                        303,
+                        324
+                    ],
+                    [
+                        337,
+                        312
+                    ],
+                    [
+                        319,
+                        276
+                    ],
+                    [
+                        349,
+                        253
+                    ],
+                    [
+                        355,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695519,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.342Z",
+            "updatedAt": "2023-06-07T13:40:30.342Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        346
+                    ],
+                    [
+                        189,
+                        327
+                    ],
+                    [
+                        104,
+                        303
+                    ],
+                    [
+                        90,
+                        356
+                    ],
+                    [
+                        135,
+                        414
+                    ],
+                    [
+                        189,
+                        440
+                    ],
+                    [
+                        267,
+                        442
+                    ],
+                    [
+                        294,
+                        429
+                    ],
+                    [
+                        314,
+                        410
+                    ],
+                    [
+                        316,
+                        382
+                    ],
+                    [
+                        298,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695517,
+            "classId": 4159,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.341Z",
+            "updatedAt": "2023-06-07T13:40:30.341Z",
+            "tags": [],
+            "classTitle": "brie",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        257
+                    ],
+                    [
+                        125,
+                        309
+                    ],
+                    [
+                        47,
+                        257
+                    ],
+                    [
+                        93,
+                        186
+                    ],
+                    [
+                        156,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

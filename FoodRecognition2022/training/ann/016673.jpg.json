@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 919,
+        "width": 920
+    },
+    "objects": [
+        {
+            "id": 1783223,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:38.901Z",
+            "updatedAt": "2023-06-07T14:41:38.901Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        369
+                    ],
+                    [
+                        232,
+                        599
+                    ],
+                    [
+                        409,
+                        613
+                    ],
+                    [
+                        443,
+                        390
+                    ],
+                    [
+                        404,
+                        296
+                    ],
+                    [
+                        294,
+                        296
+                    ],
+                    [
+                        259,
+                        344
+                    ],
+                    [
+                        236,
+                        356
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1783222,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:38.900Z",
+            "updatedAt": "2023-06-07T14:41:38.900Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        630,
+                        353
+                    ],
+                    [
+                        499,
+                        372
+                    ],
+                    [
+                        462,
+                        581
+                    ],
+                    [
+                        533,
+                        705
+                    ],
+                    [
+                        726,
+                        678
+                    ],
+                    [
+                        747,
+                        526
+                    ],
+                    [
+                        694,
+                        392
+                    ],
+                    [
+                        644,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

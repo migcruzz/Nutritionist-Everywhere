@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1749450,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:19:13.869Z",
+            "updatedAt": "2023-06-07T14:19:13.869Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        171
+                    ],
+                    [
+                        93,
+                        248
+                    ],
+                    [
+                        171,
+                        241
+                    ],
+                    [
+                        179,
+                        145
+                    ],
+                    [
+                        105,
+                        127
+                    ],
+                    [
+                        70,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1749448,
+            "classId": 3923,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:19:13.867Z",
+            "updatedAt": "2023-06-07T14:19:13.867Z",
+            "tags": [],
+            "classTitle": "sandwich-ham-cheese-and-butter",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        109
+                    ],
+                    [
+                        193,
+                        111
+                    ],
+                    [
+                        160,
+                        135
+                    ],
+                    [
+                        183,
+                        169
+                    ],
+                    [
+                        237,
+                        182
+                    ],
+                    [
+                        256,
+                        186
+                    ],
+                    [
+                        283,
+                        174
+                    ],
+                    [
+                        340,
+                        190
+                    ],
+                    [
+                        342,
+                        148
+                    ],
+                    [
+                        305,
+                        139
+                    ],
+                    [
+                        282,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

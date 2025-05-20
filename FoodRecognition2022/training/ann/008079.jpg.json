@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1670853,
+            "classId": 4177,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:50.350Z",
+            "updatedAt": "2023-06-07T13:23:50.350Z",
+            "tags": [],
+            "classTitle": "meat-terrine-pate",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        333
+                    ],
+                    [
+                        145,
+                        328
+                    ],
+                    [
+                        141,
+                        243
+                    ],
+                    [
+                        70,
+                        196
+                    ],
+                    [
+                        32,
+                        216
+                    ],
+                    [
+                        33,
+                        258
+                    ],
+                    [
+                        48,
+                        320
+                    ],
+                    [
+                        54,
+                        331
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670852,
+            "classId": 4177,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:50.349Z",
+            "updatedAt": "2023-06-07T13:23:50.349Z",
+            "tags": [],
+            "classTitle": "meat-terrine-pate",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        82
+                    ],
+                    [
+                        254,
+                        85
+                    ],
+                    [
+                        261,
+                        208
+                    ],
+                    [
+                        310,
+                        294
+                    ],
+                    [
+                        394,
+                        300
+                    ],
+                    [
+                        462,
+                        289
+                    ],
+                    [
+                        476,
+                        184
+                    ],
+                    [
+                        470,
+                        78
+                    ],
+                    [
+                        399,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670850,
+            "classId": 4193,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:50.349Z",
+            "updatedAt": "2023-06-07T13:23:50.349Z",
+            "tags": [],
+            "classTitle": "mixed-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        274
+                    ],
+                    [
+                        51,
+                        349
+                    ],
+                    [
+                        30,
+                        349
+                    ],
+                    [
+                        11,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

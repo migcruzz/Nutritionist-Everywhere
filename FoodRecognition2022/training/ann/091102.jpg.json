@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1671828,
+            "classId": 4025,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:25.159Z",
+            "updatedAt": "2023-06-07T13:24:25.159Z",
+            "tags": [],
+            "classTitle": "porridge-prepared-with-partially-skimmed-milk",
+            "points": {
+                "exterior": [
+                    [
+                        156,
+                        88
+                    ],
+                    [
+                        265,
+                        104
+                    ],
+                    [
+                        307,
+                        166
+                    ],
+                    [
+                        295,
+                        271
+                    ],
+                    [
+                        276,
+                        292
+                    ],
+                    [
+                        211,
+                        324
+                    ],
+                    [
+                        110,
+                        283
+                    ],
+                    [
+                        120,
+                        271
+                    ],
+                    [
+                        209,
+                        308
+                    ],
+                    [
+                        214,
+                        286
+                    ],
+                    [
+                        200,
+                        250
+                    ],
+                    [
+                        155,
+                        232
+                    ],
+                    [
+                        156,
+                        195
+                    ],
+                    [
+                        176,
+                        164
+                    ],
+                    [
+                        263,
+                        149
+                    ],
+                    [
+                        239,
+                        113
+                    ],
+                    [
+                        153,
+                        88
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1671826,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:25.159Z",
+            "updatedAt": "2023-06-07T13:24:25.159Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        302
+                    ],
+                    [
+                        170,
+                        306
+                    ],
+                    [
+                        147,
+                        290
+                    ],
+                    [
+                        120,
+                        269
+                    ],
+                    [
+                        138,
+                        227
+                    ],
+                    [
+                        147,
+                        221
+                    ],
+                    [
+                        147,
+                        236
+                    ],
+                    [
+                        185,
+                        236
+                    ],
+                    [
+                        218,
+                        257
+                    ],
+                    [
+                        215,
+                        281
+                    ],
+                    [
+                        222,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1671824,
+            "classId": 3499,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:25.158Z",
+            "updatedAt": "2023-06-07T13:24:25.158Z",
+            "tags": [],
+            "classTitle": "peanut-butter",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        148
+                    ],
+                    [
+                        223,
+                        159
+                    ],
+                    [
+                        166,
+                        162
+                    ],
+                    [
+                        150,
+                        88
+                    ],
+                    [
+                        227,
+                        95
+                    ],
+                    [
+                        246,
+                        121
+                    ],
+                    [
+                        253,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

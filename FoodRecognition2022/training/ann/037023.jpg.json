@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1745892,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:41.876Z",
+            "updatedAt": "2023-06-07T14:16:41.876Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        135
+                    ],
+                    [
+                        107,
+                        207
+                    ],
+                    [
+                        216,
+                        208
+                    ],
+                    [
+                        282,
+                        136
+                    ],
+                    [
+                        252,
+                        62
+                    ],
+                    [
+                        193,
+                        33
+                    ],
+                    [
+                        105,
+                        74
+                    ],
+                    [
+                        91,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745890,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:41.876Z",
+            "updatedAt": "2023-06-07T14:16:41.876Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        145
+                    ],
+                    [
+                        133,
+                        186
+                    ],
+                    [
+                        173,
+                        218
+                    ],
+                    [
+                        235,
+                        190
+                    ],
+                    [
+                        252,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745888,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:41.875Z",
+            "updatedAt": "2023-06-07T14:16:41.875Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        166
+                    ],
+                    [
+                        261,
+                        141
+                    ],
+                    [
+                        256,
+                        201
+                    ],
+                    [
+                        307,
+                        306
+                    ],
+                    [
+                        376,
+                        354
+                    ],
+                    [
+                        415,
+                        259
+                    ],
+                    [
+                        431,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745886,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:41.875Z",
+            "updatedAt": "2023-06-07T14:16:41.875Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        214
+                    ],
+                    [
+                        33,
+                        195
+                    ],
+                    [
+                        65,
+                        340
+                    ],
+                    [
+                        171,
+                        402
+                    ],
+                    [
+                        304,
+                        382
+                    ],
+                    [
+                        317,
+                        314
+                    ],
+                    [
+                        276,
+                        250
+                    ],
+                    [
+                        247,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

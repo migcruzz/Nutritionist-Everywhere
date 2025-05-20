@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 784,
+        "width": 785
+    },
+    "objects": [
+        {
+            "id": 1682727,
+            "classId": 3743,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:44.054Z",
+            "updatedAt": "2023-06-07T13:31:44.054Z",
+            "tags": [],
+            "classTitle": "glucose-drink-50g",
+            "points": {
+                "exterior": [
+                    [
+                        19,
+                        193
+                    ],
+                    [
+                        208,
+                        757
+                    ],
+                    [
+                        527,
+                        760
+                    ],
+                    [
+                        724,
+                        144
+                    ],
+                    [
+                        643,
+                        56
+                    ],
+                    [
+                        514,
+                        19
+                    ],
+                    [
+                        180,
+                        19
+                    ],
+                    [
+                        41,
+                        87
+                    ],
+                    [
+                        29,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682725,
+            "classId": 3743,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:44.054Z",
+            "updatedAt": "2023-06-07T13:31:44.054Z",
+            "tags": [],
+            "classTitle": "glucose-drink-50g",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        162
+                    ],
+                    [
+                        221,
+                        770
+                    ],
+                    [
+                        500,
+                        780
+                    ],
+                    [
+                        563,
+                        753
+                    ],
+                    [
+                        718,
+                        166
+                    ],
+                    [
+                        596,
+                        56
+                    ],
+                    [
+                        158,
+                        30
+                    ],
+                    [
+                        41,
+                        117
+                    ],
+                    [
+                        13,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

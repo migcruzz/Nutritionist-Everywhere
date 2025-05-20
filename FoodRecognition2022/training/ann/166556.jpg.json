@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1799584,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:55.131Z",
+            "updatedAt": "2023-06-07T14:52:55.131Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        177
+                    ],
+                    [
+                        245,
+                        191
+                    ],
+                    [
+                        256,
+                        229
+                    ],
+                    [
+                        270,
+                        251
+                    ],
+                    [
+                        257,
+                        265
+                    ],
+                    [
+                        229,
+                        296
+                    ],
+                    [
+                        210,
+                        324
+                    ],
+                    [
+                        197,
+                        361
+                    ],
+                    [
+                        234,
+                        379
+                    ],
+                    [
+                        285,
+                        345
+                    ],
+                    [
+                        313,
+                        311
+                    ],
+                    [
+                        334,
+                        284
+                    ],
+                    [
+                        326,
+                        250
+                    ],
+                    [
+                        326,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799582,
+            "classId": 3685,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:55.131Z",
+            "updatedAt": "2023-06-07T14:52:55.131Z",
+            "tags": [],
+            "classTitle": "crepe-plain",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        49
+                    ],
+                    [
+                        282,
+                        87
+                    ],
+                    [
+                        180,
+                        365
+                    ],
+                    [
+                        79,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799580,
+            "classId": 3511,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:55.131Z",
+            "updatedAt": "2023-06-07T14:52:55.131Z",
+            "tags": [],
+            "classTitle": "maple-syrup-concentrate",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        178
+                    ],
+                    [
+                        243,
+                        113
+                    ],
+                    [
+                        214,
+                        161
+                    ],
+                    [
+                        218,
+                        191
+                    ],
+                    [
+                        243,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

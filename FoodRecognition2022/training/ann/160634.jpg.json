@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1014,
+        "width": 1014
+    },
+    "objects": [
+        {
+            "id": 1754773,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:51.808Z",
+            "updatedAt": "2023-06-07T14:22:51.808Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        605
+                    ],
+                    [
+                        361,
+                        598
+                    ],
+                    [
+                        280,
+                        575
+                    ],
+                    [
+                        206,
+                        527
+                    ],
+                    [
+                        183,
+                        689
+                    ],
+                    [
+                        148,
+                        790
+                    ],
+                    [
+                        62,
+                        854
+                    ],
+                    [
+                        120,
+                        960
+                    ],
+                    [
+                        231,
+                        879
+                    ],
+                    [
+                        242,
+                        932
+                    ],
+                    [
+                        247,
+                        803
+                    ],
+                    [
+                        295,
+                        750
+                    ],
+                    [
+                        437,
+                        988
+                    ],
+                    [
+                        533,
+                        1001
+                    ],
+                    [
+                        472,
+                        869
+                    ],
+                    [
+                        401,
+                        732
+                    ],
+                    [
+                        485,
+                        656
+                    ],
+                    [
+                        419,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754771,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:51.806Z",
+            "updatedAt": "2023-06-07T14:22:51.806Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        500,
+                        491
+                    ],
+                    [
+                        356,
+                        519
+                    ],
+                    [
+                        318,
+                        552
+                    ],
+                    [
+                        325,
+                        608
+                    ],
+                    [
+                        457,
+                        608
+                    ],
+                    [
+                        508,
+                        595
+                    ],
+                    [
+                        520,
+                        545
+                    ],
+                    [
+                        498,
+                        486
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1641729,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:54.323Z",
+            "updatedAt": "2023-06-07T13:03:54.323Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        265
+                    ],
+                    [
+                        82,
+                        361
+                    ],
+                    [
+                        15,
+                        303
+                    ],
+                    [
+                        46,
+                        147
+                    ],
+                    [
+                        232,
+                        46
+                    ],
+                    [
+                        445,
+                        88
+                    ],
+                    [
+                        474,
+                        127
+                    ],
+                    [
+                        391,
+                        186
+                    ],
+                    [
+                        363,
+                        249
+                    ],
+                    [
+                        234,
+                        256
+                    ],
+                    [
+                        243,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1641727,
+            "classId": 3687,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:54.322Z",
+            "updatedAt": "2023-06-07T13:03:54.322Z",
+            "tags": [],
+            "classTitle": "chicken-nuggets",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        273
+                    ],
+                    [
+                        61,
+                        364
+                    ],
+                    [
+                        204,
+                        450
+                    ],
+                    [
+                        323,
+                        379
+                    ],
+                    [
+                        397,
+                        342
+                    ],
+                    [
+                        359,
+                        272
+                    ],
+                    [
+                        328,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1714812,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:59.408Z",
+            "updatedAt": "2023-06-07T13:54:59.408Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        82
+                    ],
+                    [
+                        161,
+                        118
+                    ],
+                    [
+                        139,
+                        156
+                    ],
+                    [
+                        147,
+                        249
+                    ],
+                    [
+                        168,
+                        306
+                    ],
+                    [
+                        188,
+                        331
+                    ],
+                    [
+                        246,
+                        335
+                    ],
+                    [
+                        301,
+                        305
+                    ],
+                    [
+                        324,
+                        227
+                    ],
+                    [
+                        333,
+                        151
+                    ],
+                    [
+                        303,
+                        95
+                    ],
+                    [
+                        240,
+                        81
+                    ],
+                    [
+                        238,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714810,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:59.407Z",
+            "updatedAt": "2023-06-07T13:54:59.407Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        52
+                    ],
+                    [
+                        93,
+                        10
+                    ],
+                    [
+                        22,
+                        9
+                    ],
+                    [
+                        1,
+                        17
+                    ],
+                    [
+                        8,
+                        89
+                    ],
+                    [
+                        26,
+                        118
+                    ],
+                    [
+                        40,
+                        134
+                    ],
+                    [
+                        103,
+                        118
+                    ],
+                    [
+                        123,
+                        83
+                    ],
+                    [
+                        111,
+                        63
+                    ],
+                    [
+                        108,
+                        54
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

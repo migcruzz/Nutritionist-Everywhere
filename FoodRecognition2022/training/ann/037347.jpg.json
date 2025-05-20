@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 226,
+        "width": 226
+    },
+    "objects": [
+        {
+            "id": 1727373,
+            "classId": 3777,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:51.271Z",
+            "updatedAt": "2023-06-07T14:03:51.271Z",
+            "tags": [],
+            "classTitle": "crackers",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        123
+                    ],
+                    [
+                        142,
+                        151
+                    ],
+                    [
+                        143,
+                        174
+                    ],
+                    [
+                        185,
+                        188
+                    ],
+                    [
+                        223,
+                        175
+                    ],
+                    [
+                        213,
+                        138
+                    ],
+                    [
+                        194,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1727371,
+            "classId": 3737,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:51.270Z",
+            "updatedAt": "2023-06-07T14:03:51.270Z",
+            "tags": [],
+            "classTitle": "hummus",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        55
+                    ],
+                    [
+                        30,
+                        69
+                    ],
+                    [
+                        25,
+                        93
+                    ],
+                    [
+                        58,
+                        101
+                    ],
+                    [
+                        124,
+                        87
+                    ],
+                    [
+                        142,
+                        74
+                    ],
+                    [
+                        126,
+                        61
+                    ],
+                    [
+                        97,
+                        56
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

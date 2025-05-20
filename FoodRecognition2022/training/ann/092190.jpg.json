@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1670166,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:16.734Z",
+            "updatedAt": "2023-06-07T13:23:16.734Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        263
+                    ],
+                    [
+                        90,
+                        261
+                    ],
+                    [
+                        65,
+                        249
+                    ],
+                    [
+                        54,
+                        236
+                    ],
+                    [
+                        54,
+                        222
+                    ],
+                    [
+                        61,
+                        207
+                    ],
+                    [
+                        80,
+                        189
+                    ],
+                    [
+                        108,
+                        178
+                    ],
+                    [
+                        157,
+                        178
+                    ],
+                    [
+                        182,
+                        189
+                    ],
+                    [
+                        200,
+                        207
+                    ],
+                    [
+                        200,
+                        230
+                    ],
+                    [
+                        171,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670164,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:16.733Z",
+            "updatedAt": "2023-06-07T13:23:16.733Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        101
+                    ],
+                    [
+                        339,
+                        91
+                    ],
+                    [
+                        298,
+                        121
+                    ],
+                    [
+                        284,
+                        318
+                    ],
+                    [
+                        316,
+                        344
+                    ],
+                    [
+                        367,
+                        350
+                    ],
+                    [
+                        408,
+                        331
+                    ],
+                    [
+                        474,
+                        230
+                    ],
+                    [
+                        474,
+                        132
+                    ],
+                    [
+                        445,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1706687,
+            "classId": 4085,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:42.075Z",
+            "updatedAt": "2023-06-07T13:48:42.075Z",
+            "tags": [],
+            "classTitle": "kefir-drink",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        723
+                    ],
+                    [
+                        332,
+                        869
+                    ],
+                    [
+                        579,
+                        891
+                    ],
+                    [
+                        577,
+                        756
+                    ],
+                    [
+                        492,
+                        789
+                    ],
+                    [
+                        388,
+                        759
+                    ],
+                    [
+                        355,
+                        721
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

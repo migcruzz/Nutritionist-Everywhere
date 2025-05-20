@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1768039,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:28.073Z",
+            "updatedAt": "2023-06-07T14:31:28.073Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        564,
+                        532
+                    ],
+                    [
+                        449,
+                        483
+                    ],
+                    [
+                        321,
+                        532
+                    ],
+                    [
+                        300,
+                        601
+                    ],
+                    [
+                        505,
+                        614
+                    ],
+                    [
+                        559,
+                        570
+                    ],
+                    [
+                        561,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768037,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:28.072Z",
+            "updatedAt": "2023-06-07T14:31:28.072Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        120
+                    ],
+                    [
+                        96,
+                        148
+                    ],
+                    [
+                        65,
+                        271
+                    ],
+                    [
+                        162,
+                        343
+                    ],
+                    [
+                        331,
+                        253
+                    ],
+                    [
+                        352,
+                        184
+                    ],
+                    [
+                        239,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

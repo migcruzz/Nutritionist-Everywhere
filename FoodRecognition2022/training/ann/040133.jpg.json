@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1737181,
+            "classId": 3583,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:37.322Z",
+            "updatedAt": "2023-06-07T14:10:37.322Z",
+            "tags": [],
+            "classTitle": "pasta-noodles",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        506
+                    ],
+                    [
+                        340,
+                        449
+                    ],
+                    [
+                        211,
+                        404
+                    ],
+                    [
+                        95,
+                        408
+                    ],
+                    [
+                        66,
+                        327
+                    ],
+                    [
+                        87,
+                        218
+                    ],
+                    [
+                        36,
+                        289
+                    ],
+                    [
+                        63,
+                        405
+                    ],
+                    [
+                        214,
+                        498
+                    ],
+                    [
+                        261,
+                        533
+                    ],
+                    [
+                        356,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1737179,
+            "classId": 4333,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:37.321Z",
+            "updatedAt": "2023-06-07T14:10:37.321Z",
+            "tags": [],
+            "classTitle": "vegetable-au-gratin-baked",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        130
+                    ],
+                    [
+                        253,
+                        163
+                    ],
+                    [
+                        320,
+                        257
+                    ],
+                    [
+                        349,
+                        320
+                    ],
+                    [
+                        406,
+                        438
+                    ],
+                    [
+                        447,
+                        462
+                    ],
+                    [
+                        516,
+                        404
+                    ],
+                    [
+                        587,
+                        294
+                    ],
+                    [
+                        581,
+                        205
+                    ],
+                    [
+                        497,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

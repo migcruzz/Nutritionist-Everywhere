@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1661971,
+            "classId": 4213,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:27.105Z",
+            "updatedAt": "2023-06-07T13:17:27.105Z",
+            "tags": [],
+            "classTitle": "meringue",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        220
+                    ],
+                    [
+                        274,
+                        181
+                    ],
+                    [
+                        188,
+                        151
+                    ],
+                    [
+                        132,
+                        145
+                    ],
+                    [
+                        42,
+                        254
+                    ],
+                    [
+                        117,
+                        300
+                    ],
+                    [
+                        196,
+                        308
+                    ],
+                    [
+                        226,
+                        297
+                    ],
+                    [
+                        256,
+                        249
+                    ],
+                    [
+                        318,
+                        243
+                    ],
+                    [
+                        324,
+                        258
+                    ],
+                    [
+                        326,
+                        256
+                    ],
+                    [
+                        326,
+                        256
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661969,
+            "classId": 3863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:27.102Z",
+            "updatedAt": "2023-06-07T13:17:27.102Z",
+            "tags": [],
+            "classTitle": "dairy-ice-cream",
+            "points": {
+                "exterior": [
+                    [
+                        103,
+                        121
+                    ],
+                    [
+                        94,
+                        109
+                    ],
+                    [
+                        81,
+                        121
+                    ],
+                    [
+                        62,
+                        144
+                    ],
+                    [
+                        48,
+                        166
+                    ],
+                    [
+                        37,
+                        199
+                    ],
+                    [
+                        41,
+                        223
+                    ],
+                    [
+                        63,
+                        240
+                    ],
+                    [
+                        88,
+                        223
+                    ],
+                    [
+                        112,
+                        192
+                    ],
+                    [
+                        123,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

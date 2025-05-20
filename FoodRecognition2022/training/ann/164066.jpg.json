@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1699588,
+            "classId": 4403,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:43:26.564Z",
+            "updatedAt": "2023-06-07T13:43:26.564Z",
+            "tags": [],
+            "classTitle": "pie-rhubarb-baked-with-cake-dough",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        150
+                    ],
+                    [
+                        392,
+                        124
+                    ],
+                    [
+                        495,
+                        114
+                    ],
+                    [
+                        764,
+                        109
+                    ],
+                    [
+                        794,
+                        140
+                    ],
+                    [
+                        559,
+                        887
+                    ],
+                    [
+                        497,
+                        854
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

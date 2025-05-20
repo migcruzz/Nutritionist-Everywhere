@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1650520,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:41.047Z",
+            "updatedAt": "2023-06-07T13:09:41.047Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        297
+                    ],
+                    [
+                        201,
+                        310
+                    ],
+                    [
+                        268,
+                        310
+                    ],
+                    [
+                        318,
+                        277
+                    ],
+                    [
+                        332,
+                        215
+                    ],
+                    [
+                        333,
+                        169
+                    ],
+                    [
+                        338,
+                        112
+                    ],
+                    [
+                        294,
+                        81
+                    ],
+                    [
+                        218,
+                        62
+                    ],
+                    [
+                        168,
+                        63
+                    ],
+                    [
+                        98,
+                        77
+                    ],
+                    [
+                        66,
+                        142
+                    ],
+                    [
+                        60,
+                        158
+                    ],
+                    [
+                        41,
+                        191
+                    ],
+                    [
+                        47,
+                        259
+                    ],
+                    [
+                        70,
+                        296
+                    ],
+                    [
+                        122,
+                        307
+                    ],
+                    [
+                        150,
+                        310
+                    ],
+                    [
+                        156,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650518,
+            "classId": 4217,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:41.046Z",
+            "updatedAt": "2023-06-07T13:09:41.046Z",
+            "tags": [],
+            "classTitle": "shrimp-prawn-large",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        108
+                    ],
+                    [
+                        169,
+                        115
+                    ],
+                    [
+                        180,
+                        83
+                    ],
+                    [
+                        155,
+                        59
+                    ],
+                    [
+                        121,
+                        60
+                    ],
+                    [
+                        104,
+                        80
+                    ],
+                    [
+                        110,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1728906,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:54.410Z",
+            "updatedAt": "2023-06-07T14:04:54.410Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        342
+                    ],
+                    [
+                        421,
+                        278
+                    ],
+                    [
+                        419,
+                        212
+                    ],
+                    [
+                        348,
+                        176
+                    ],
+                    [
+                        315,
+                        177
+                    ],
+                    [
+                        245,
+                        233
+                    ],
+                    [
+                        232,
+                        254
+                    ],
+                    [
+                        262,
+                        312
+                    ],
+                    [
+                        262,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728904,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:54.409Z",
+            "updatedAt": "2023-06-07T14:04:54.409Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        150
+                    ],
+                    [
+                        89,
+                        133
+                    ],
+                    [
+                        30,
+                        452
+                    ],
+                    [
+                        209,
+                        451
+                    ],
+                    [
+                        256,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1724023,
+            "classId": 3635,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:25.381Z",
+            "updatedAt": "2023-06-07T14:01:25.381Z",
+            "tags": [],
+            "classTitle": "bread",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        98
+                    ],
+                    [
+                        31,
+                        168
+                    ],
+                    [
+                        27,
+                        227
+                    ],
+                    [
+                        135,
+                        311
+                    ],
+                    [
+                        242,
+                        313
+                    ],
+                    [
+                        307,
+                        276
+                    ],
+                    [
+                        337,
+                        211
+                    ],
+                    [
+                        340,
+                        153
+                    ],
+                    [
+                        291,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1724021,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:25.381Z",
+            "updatedAt": "2023-06-07T14:01:25.381Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        119
+                    ],
+                    [
+                        69,
+                        164
+                    ],
+                    [
+                        133,
+                        207
+                    ],
+                    [
+                        204,
+                        246
+                    ],
+                    [
+                        278,
+                        245
+                    ],
+                    [
+                        315,
+                        200
+                    ],
+                    [
+                        316,
+                        175
+                    ],
+                    [
+                        312,
+                        144
+                    ],
+                    [
+                        249,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

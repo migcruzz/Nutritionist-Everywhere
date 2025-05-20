@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1785758,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:23.150Z",
+            "updatedAt": "2023-06-07T14:43:23.150Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        164
+                    ],
+                    [
+                        214,
+                        250
+                    ],
+                    [
+                        240,
+                        300
+                    ],
+                    [
+                        289,
+                        324
+                    ],
+                    [
+                        348,
+                        320
+                    ],
+                    [
+                        447,
+                        237
+                    ],
+                    [
+                        441,
+                        163
+                    ],
+                    [
+                        319,
+                        161
+                    ],
+                    [
+                        272,
+                        165
+                    ],
+                    [
+                        269,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1785756,
+            "classId": 4005,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:23.150Z",
+            "updatedAt": "2023-06-07T14:43:23.150Z",
+            "tags": [],
+            "classTitle": "mustard",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        219
+                    ],
+                    [
+                        30,
+                        262
+                    ],
+                    [
+                        64,
+                        284
+                    ],
+                    [
+                        95,
+                        287
+                    ],
+                    [
+                        108,
+                        247
+                    ],
+                    [
+                        89,
+                        213
+                    ],
+                    [
+                        57,
+                        201
+                    ],
+                    [
+                        46,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
