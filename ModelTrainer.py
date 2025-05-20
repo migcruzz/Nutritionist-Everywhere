@@ -1,22 +1,52 @@
-from pathlib import Path
 from ultralytics import YOLO
+from pathlib import Path
+import torch
 
-base_path = Path("./datasets/food2022").resolve()
-yaml_path = base_path / "food2022.yaml"
+PLATFORM = "amd"
+EXPORT_FORMAT = "onnx"
 
-assert yaml_path.exists(), f"YAML file not found: {yaml_path}"
+BASE_PATH = Path("./datasets/food2022").resolve()
+YAML_PATH = BASE_PATH / "food2022.yaml"
+MODEL_NAME = "yolov8n.pt"
+RUN_NAME = f"food2022_yolov8_{PLATFORM}"
 
-model = YOLO("yolov8n.pt")
+EPOCHS = 10
+BATCH = 32
+IMGSZ = 640
+WORKERS = 4
 
-model.train(
-    data=str(yaml_path),
-    epochs=5,
-    imgsz=640,
-    batch=32,
-    workers=8,
-    device="mps",
-    amp=False,
-    cache=True,
-    rect=True,
-    name="food2022_yolov8_mps"
-)
+def get_device():
+    if PLATFORM == "apple":
+        if not torch.backends.mps.is_available():
+            raise RuntimeError("MPS is not available.")
+        return "mps"
+    elif PLATFORM == "nvidia":
+        return "cuda" if torch.cuda.is_available() else "cpu"
+    elif PLATFORM == "amd":
+        print("AMD GPU not supported on Windows. Using CPU.")
+        return "cpu"
+    else:
+        return "cpu"
+
+def train():
+    assert YAML_PATH.exists(), f"YAML file not found: {YAML_PATH}"
+    device = get_device()
+    print(f"Platform: {PLATFORM.upper()} | Device: {device.upper()}")
+    model = YOLO(MODEL_NAME)
+    model.train(
+        data=str(YAML_PATH),
+        epochs=EPOCHS,
+        imgsz=IMGSZ,
+        batch=BATCH,
+        workers=WORKERS,
+        device=device,
+        amp=False,
+        cache=True,
+        rect=True,
+        name=RUN_NAME
+    )
+    if EXPORT_FORMAT:
+        model.export(format=EXPORT_FORMAT)
+
+if __name__ == "__main__":
+    train()
