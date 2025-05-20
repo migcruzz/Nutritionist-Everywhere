@@ -3,8 +3,8 @@ import subprocess
 from pathlib import Path
 from time import sleep
 
-MAX_MB = 10
-MAX_FILES = 50
+MAX_MB = 300
+MAX_FILES = 600
 REPO_ROOT = Path.cwd()
 GIT_BRANCH = "master"
 PUSH_TIMEOUT = 240
