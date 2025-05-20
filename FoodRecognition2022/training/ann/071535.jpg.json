@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1684386,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:50.019Z",
+            "updatedAt": "2023-06-07T13:32:50.019Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        241
+                    ],
+                    [
+                        261,
+                        288
+                    ],
+                    [
+                        341,
+                        288
+                    ],
+                    [
+                        370,
+                        248
+                    ],
+                    [
+                        355,
+                        185
+                    ],
+                    [
+                        296,
+                        147
+                    ],
+                    [
+                        249,
+                        153
+                    ],
+                    [
+                        194,
+                        186
+                    ],
+                    [
+                        199,
+                        219
+                    ],
+                    [
+                        202,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1684385,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:50.018Z",
+            "updatedAt": "2023-06-07T13:32:50.018Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        238
+                    ],
+                    [
+                        191,
+                        165
+                    ],
+                    [
+                        154,
+                        107
+                    ],
+                    [
+                        81,
+                        97
+                    ],
+                    [
+                        34,
+                        143
+                    ],
+                    [
+                        33,
+                        215
+                    ],
+                    [
+                        68,
+                        247
+                    ],
+                    [
+                        102,
+                        255
+                    ],
+                    [
+                        148,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

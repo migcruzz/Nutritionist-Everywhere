@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 513,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1733276,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:54.734Z",
+            "updatedAt": "2023-06-07T14:07:54.734Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        92
+                    ],
+                    [
+                        268,
+                        102
+                    ],
+                    [
+                        297,
+                        220
+                    ],
+                    [
+                        331,
+                        278
+                    ],
+                    [
+                        373,
+                        296
+                    ],
+                    [
+                        425,
+                        302
+                    ],
+                    [
+                        433,
+                        298
+                    ],
+                    [
+                        437,
+                        260
+                    ],
+                    [
+                        414,
+                        212
+                    ],
+                    [
+                        393,
+                        175
+                    ],
+                    [
+                        375,
+                        141
+                    ],
+                    [
+                        331,
+                        102
+                    ],
+                    [
+                        322,
+                        96
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733274,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:54.732Z",
+            "updatedAt": "2023-06-07T14:07:54.732Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        215
+                    ],
+                    [
+                        121,
+                        224
+                    ],
+                    [
+                        123,
+                        252
+                    ],
+                    [
+                        139,
+                        265
+                    ],
+                    [
+                        164,
+                        261
+                    ],
+                    [
+                        163,
+                        229
+                    ],
+                    [
+                        142,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

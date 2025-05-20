@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1660294,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:15.114Z",
+            "updatedAt": "2023-06-07T13:16:15.114Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        85
+                    ],
+                    [
+                        29,
+                        116
+                    ],
+                    [
+                        21,
+                        188
+                    ],
+                    [
+                        23,
+                        273
+                    ],
+                    [
+                        82,
+                        351
+                    ],
+                    [
+                        160,
+                        372
+                    ],
+                    [
+                        197,
+                        366
+                    ],
+                    [
+                        203,
+                        325
+                    ],
+                    [
+                        155,
+                        250
+                    ],
+                    [
+                        153,
+                        146
+                    ],
+                    [
+                        167,
+                        129
+                    ],
+                    [
+                        173,
+                        108
+                    ],
+                    [
+                        173,
+                        93
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1660292,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:15.114Z",
+            "updatedAt": "2023-06-07T13:16:15.114Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        231
+                    ],
+                    [
+                        378,
+                        364
+                    ],
+                    [
+                        406,
+                        357
+                    ],
+                    [
+                        450,
+                        281
+                    ],
+                    [
+                        441,
+                        130
+                    ],
+                    [
+                        366,
+                        62
+                    ],
+                    [
+                        303,
+                        148
+                    ],
+                    [
+                        308,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1660290,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:15.113Z",
+            "updatedAt": "2023-06-07T13:16:15.113Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        228
+                    ],
+                    [
+                        369,
+                        351
+                    ],
+                    [
+                        241,
+                        346
+                    ],
+                    [
+                        157,
+                        230
+                    ],
+                    [
+                        142,
+                        142
+                    ],
+                    [
+                        222,
+                        74
+                    ],
+                    [
+                        350,
+                        45
+                    ],
+                    [
+                        381,
+                        108
+                    ],
+                    [
+                        319,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

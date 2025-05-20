@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1667546,
+            "classId": 3583,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:29.350Z",
+            "updatedAt": "2023-06-07T13:21:29.350Z",
+            "tags": [],
+            "classTitle": "pasta-noodles",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        132
+                    ],
+                    [
+                        317,
+                        73
+                    ],
+                    [
+                        257,
+                        38
+                    ],
+                    [
+                        183,
+                        24
+                    ],
+                    [
+                        141,
+                        22
+                    ],
+                    [
+                        77,
+                        96
+                    ],
+                    [
+                        113,
+                        169
+                    ],
+                    [
+                        182,
+                        190
+                    ],
+                    [
+                        265,
+                        202
+                    ],
+                    [
+                        284,
+                        182
+                    ],
+                    [
+                        316,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667544,
+            "classId": 4385,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:29.350Z",
+            "updatedAt": "2023-06-07T13:21:29.350Z",
+            "tags": [],
+            "classTitle": "sauce-curry",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        158
+                    ],
+                    [
+                        277,
+                        193
+                    ],
+                    [
+                        197,
+                        190
+                    ],
+                    [
+                        153,
+                        191
+                    ],
+                    [
+                        112,
+                        151
+                    ],
+                    [
+                        88,
+                        122
+                    ],
+                    [
+                        20,
+                        136
+                    ],
+                    [
+                        31,
+                        202
+                    ],
+                    [
+                        62,
+                        262
+                    ],
+                    [
+                        140,
+                        323
+                    ],
+                    [
+                        210,
+                        336
+                    ],
+                    [
+                        260,
+                        323
+                    ],
+                    [
+                        312,
+                        295
+                    ],
+                    [
+                        349,
+                        240
+                    ],
+                    [
+                        355,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667542,
+            "classId": 4181,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:29.350Z",
+            "updatedAt": "2023-06-07T13:21:29.350Z",
+            "tags": [],
+            "classTitle": "falafel-balls",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        288
+                    ],
+                    [
+                        147,
+                        247
+                    ],
+                    [
+                        105,
+                        216
+                    ],
+                    [
+                        81,
+                        253
+                    ],
+                    [
+                        136,
+                        326
+                    ],
+                    [
+                        189,
+                        336
+                    ],
+                    [
+                        251,
+                        324
+                    ],
+                    [
+                        279,
+                        301
+                    ],
+                    [
+                        279,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

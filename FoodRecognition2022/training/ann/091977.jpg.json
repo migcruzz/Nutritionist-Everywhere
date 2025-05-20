@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 866
+    },
+    "objects": [
+        {
+            "id": 1760242,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:28.739Z",
+            "updatedAt": "2023-06-07T14:26:28.739Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        484
+                    ],
+                    [
+                        347,
+                        292
+                    ],
+                    [
+                        282,
+                        229
+                    ],
+                    [
+                        148,
+                        261
+                    ],
+                    [
+                        105,
+                        361
+                    ],
+                    [
+                        130,
+                        500
+                    ],
+                    [
+                        195,
+                        532
+                    ],
+                    [
+                        256,
+                        556
+                    ],
+                    [
+                        254,
+                        584
+                    ],
+                    [
+                        263,
+                        643
+                    ],
+                    [
+                        310,
+                        690
+                    ],
+                    [
+                        362,
+                        733
+                    ],
+                    [
+                        460,
+                        718
+                    ],
+                    [
+                        509,
+                        703
+                    ],
+                    [
+                        499,
+                        617
+                    ],
+                    [
+                        479,
+                        571
+                    ],
+                    [
+                        451,
+                        517
+                    ],
+                    [
+                        440,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760240,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:28.739Z",
+            "updatedAt": "2023-06-07T14:26:28.739Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        543
+                    ],
+                    [
+                        410,
+                        439
+                    ],
+                    [
+                        321,
+                        222
+                    ],
+                    [
+                        161,
+                        253
+                    ],
+                    [
+                        87,
+                        303
+                    ],
+                    [
+                        180,
+                        415
+                    ],
+                    [
+                        213,
+                        493
+                    ],
+                    [
+                        213,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760238,
+            "classId": 3443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:28.738Z",
+            "updatedAt": "2023-06-07T14:26:28.738Z",
+            "tags": [],
+            "classTitle": "salmon-smoked",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        480
+                    ],
+                    [
+                        260,
+                        573
+                    ],
+                    [
+                        217,
+                        643
+                    ],
+                    [
+                        254,
+                        634
+                    ],
+                    [
+                        338,
+                        697
+                    ],
+                    [
+                        353,
+                        742
+                    ],
+                    [
+                        362,
+                        762
+                    ],
+                    [
+                        384,
+                        766
+                    ],
+                    [
+                        418,
+                        785
+                    ],
+                    [
+                        442,
+                        744
+                    ],
+                    [
+                        462,
+                        703
+                    ],
+                    [
+                        494,
+                        673
+                    ],
+                    [
+                        488,
+                        614
+                    ],
+                    [
+                        431,
+                        526
+                    ],
+                    [
+                        392,
+                        482
+                    ],
+                    [
+                        384,
+                        480
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760236,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:28.737Z",
+            "updatedAt": "2023-06-07T14:26:28.737Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        380
+                    ],
+                    [
+                        142,
+                        464
+                    ],
+                    [
+                        166,
+                        499
+                    ],
+                    [
+                        194,
+                        499
+                    ],
+                    [
+                        194,
+                        475
+                    ],
+                    [
+                        172,
+                        440
+                    ],
+                    [
+                        151,
+                        417
+                    ],
+                    [
+                        144,
+                        410
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

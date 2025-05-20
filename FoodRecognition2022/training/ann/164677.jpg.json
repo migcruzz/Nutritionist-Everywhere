@@ -1,0 +1,262 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1690849,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:18.767Z",
+            "updatedAt": "2023-06-07T13:37:18.767Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        130
+                    ],
+                    [
+                        287,
+                        72
+                    ],
+                    [
+                        271,
+                        51
+                    ],
+                    [
+                        191,
+                        23
+                    ],
+                    [
+                        99,
+                        53
+                    ],
+                    [
+                        80,
+                        101
+                    ],
+                    [
+                        107,
+                        154
+                    ],
+                    [
+                        182,
+                        151
+                    ],
+                    [
+                        223,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1690847,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:18.767Z",
+            "updatedAt": "2023-06-07T13:37:18.767Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        210
+                    ],
+                    [
+                        320,
+                        176
+                    ],
+                    [
+                        274,
+                        162
+                    ],
+                    [
+                        278,
+                        200
+                    ],
+                    [
+                        287,
+                        245
+                    ],
+                    [
+                        309,
+                        244
+                    ],
+                    [
+                        308,
+                        230
+                    ],
+                    [
+                        346,
+                        263
+                    ],
+                    [
+                        364,
+                        256
+                    ],
+                    [
+                        364,
+                        243
+                    ],
+                    [
+                        384,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1690845,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:18.767Z",
+            "updatedAt": "2023-06-07T13:37:18.767Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        211
+                    ],
+                    [
+                        112,
+                        180
+                    ],
+                    [
+                        86,
+                        236
+                    ],
+                    [
+                        70,
+                        283
+                    ],
+                    [
+                        111,
+                        305
+                    ],
+                    [
+                        134,
+                        305
+                    ],
+                    [
+                        132,
+                        270
+                    ],
+                    [
+                        144,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1690843,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:18.766Z",
+            "updatedAt": "2023-06-07T13:37:18.766Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        319
+                    ],
+                    [
+                        215,
+                        275
+                    ],
+                    [
+                        156,
+                        264
+                    ],
+                    [
+                        137,
+                        267
+                    ],
+                    [
+                        137,
+                        309
+                    ],
+                    [
+                        158,
+                        333
+                    ],
+                    [
+                        207,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1690841,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:18.766Z",
+            "updatedAt": "2023-06-07T13:37:18.766Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        253
+                    ],
+                    [
+                        273,
+                        251
+                    ],
+                    [
+                        236,
+                        277
+                    ],
+                    [
+                        212,
+                        298
+                    ],
+                    [
+                        231,
+                        333
+                    ],
+                    [
+                        256,
+                        332
+                    ],
+                    [
+                        290,
+                        308
+                    ],
+                    [
+                        302,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

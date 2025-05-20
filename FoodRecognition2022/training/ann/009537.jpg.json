@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1752681,
+            "classId": 4165,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:21.428Z",
+            "updatedAt": "2023-06-07T14:21:21.428Z",
+            "tags": [],
+            "classTitle": "apple-pie",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        61
+                    ],
+                    [
+                        212,
+                        406
+                    ],
+                    [
+                        476,
+                        361
+                    ],
+                    [
+                        402,
+                        46
+                    ],
+                    [
+                        177,
+                        61
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752679,
+            "classId": 3611,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:21.427Z",
+            "updatedAt": "2023-06-07T14:21:21.427Z",
+            "tags": [],
+            "classTitle": "applesauce-unsweetened-canned",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        48
+                    ],
+                    [
+                        87,
+                        87
+                    ],
+                    [
+                        22,
+                        205
+                    ],
+                    [
+                        10,
+                        303
+                    ],
+                    [
+                        68,
+                        394
+                    ],
+                    [
+                        139,
+                        412
+                    ],
+                    [
+                        198,
+                        368
+                    ],
+                    [
+                        202,
+                        312
+                    ],
+                    [
+                        166,
+                        91
+                    ],
+                    [
+                        189,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

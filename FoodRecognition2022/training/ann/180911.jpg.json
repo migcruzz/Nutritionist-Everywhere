@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1711886,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:47.469Z",
+            "updatedAt": "2023-06-07T13:52:47.469Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        199
+                    ],
+                    [
+                        140,
+                        220
+                    ],
+                    [
+                        38,
+                        327
+                    ],
+                    [
+                        130,
+                        469
+                    ],
+                    [
+                        253,
+                        527
+                    ],
+                    [
+                        384,
+                        491
+                    ],
+                    [
+                        460,
+                        370
+                    ],
+                    [
+                        405,
+                        259
+                    ],
+                    [
+                        335,
+                        210
+                    ],
+                    [
+                        331,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711884,
+            "classId": 3573,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:47.468Z",
+            "updatedAt": "2023-06-07T13:52:47.468Z",
+            "tags": [],
+            "classTitle": "balsamic-vinegar",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        387
+                    ],
+                    [
+                        183,
+                        471
+                    ],
+                    [
+                        280,
+                        490
+                    ],
+                    [
+                        292,
+                        430
+                    ],
+                    [
+                        202,
+                        385
+                    ],
+                    [
+                        173,
+                        389
+                    ],
+                    [
+                        180,
+                        382
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

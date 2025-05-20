@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1724251,
+            "classId": 3421,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:36.775Z",
+            "updatedAt": "2023-06-07T14:01:36.775Z",
+            "tags": [],
+            "classTitle": "bread-sourdough",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        95
+                    ],
+                    [
+                        168,
+                        64
+                    ],
+                    [
+                        2,
+                        67
+                    ],
+                    [
+                        51,
+                        290
+                    ],
+                    [
+                        127,
+                        328
+                    ],
+                    [
+                        231,
+                        325
+                    ],
+                    [
+                        350,
+                        310
+                    ],
+                    [
+                        400,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1724249,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:36.773Z",
+            "updatedAt": "2023-06-07T14:01:36.773Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        115
+                    ],
+                    [
+                        307,
+                        106
+                    ],
+                    [
+                        250,
+                        137
+                    ],
+                    [
+                        199,
+                        129
+                    ],
+                    [
+                        163,
+                        101
+                    ],
+                    [
+                        47,
+                        102
+                    ],
+                    [
+                        21,
+                        165
+                    ],
+                    [
+                        37,
+                        246
+                    ],
+                    [
+                        97,
+                        295
+                    ],
+                    [
+                        130,
+                        264
+                    ],
+                    [
+                        180,
+                        167
+                    ],
+                    [
+                        229,
+                        160
+                    ],
+                    [
+                        243,
+                        263
+                    ],
+                    [
+                        242,
+                        294
+                    ],
+                    [
+                        281,
+                        294
+                    ],
+                    [
+                        302,
+                        268
+                    ],
+                    [
+                        306,
+                        236
+                    ],
+                    [
+                        376,
+                        186
+                    ],
+                    [
+                        376,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

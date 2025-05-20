@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 481,
+        "width": 481
+    },
+    "objects": [
+        {
+            "id": 1719908,
+            "classId": 4197,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:37.156Z",
+            "updatedAt": "2023-06-07T13:58:37.156Z",
+            "tags": [],
+            "classTitle": "hamburger-bun",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        134
+                    ],
+                    [
+                        211,
+                        140
+                    ],
+                    [
+                        136,
+                        205
+                    ],
+                    [
+                        145,
+                        277
+                    ],
+                    [
+                        166,
+                        340
+                    ],
+                    [
+                        246,
+                        378
+                    ],
+                    [
+                        330,
+                        358
+                    ],
+                    [
+                        381,
+                        282
+                    ],
+                    [
+                        377,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719906,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:37.154Z",
+            "updatedAt": "2023-06-07T13:58:37.154Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        363
+                    ],
+                    [
+                        137,
+                        274
+                    ],
+                    [
+                        85,
+                        274
+                    ],
+                    [
+                        74,
+                        307
+                    ],
+                    [
+                        108,
+                        354
+                    ],
+                    [
+                        155,
+                        413
+                    ],
+                    [
+                        162,
+                        405
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

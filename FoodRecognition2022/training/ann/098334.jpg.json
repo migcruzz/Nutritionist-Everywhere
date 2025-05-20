@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1652162,
+            "classId": 3829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:41.589Z",
+            "updatedAt": "2023-06-07T13:10:41.589Z",
+            "tags": [],
+            "classTitle": "mashed-potatoes-prepared-with-full-fat-milk-with-butter",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        65
+                    ],
+                    [
+                        147,
+                        85
+                    ],
+                    [
+                        156,
+                        160
+                    ],
+                    [
+                        190,
+                        226
+                    ],
+                    [
+                        228,
+                        231
+                    ],
+                    [
+                        263,
+                        228
+                    ],
+                    [
+                        308,
+                        210
+                    ],
+                    [
+                        326,
+                        194
+                    ],
+                    [
+                        347,
+                        164
+                    ],
+                    [
+                        345,
+                        123
+                    ],
+                    [
+                        320,
+                        74
+                    ],
+                    [
+                        294,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652160,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:41.589Z",
+            "updatedAt": "2023-06-07T13:10:41.589Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        310
+                    ],
+                    [
+                        164,
+                        277
+                    ],
+                    [
+                        152,
+                        207
+                    ],
+                    [
+                        127,
+                        138
+                    ],
+                    [
+                        96,
+                        73
+                    ],
+                    [
+                        48,
+                        93
+                    ],
+                    [
+                        21,
+                        140
+                    ],
+                    [
+                        30,
+                        225
+                    ],
+                    [
+                        50,
+                        290
+                    ],
+                    [
+                        62,
+                        320
+                    ],
+                    [
+                        92,
+                        321
+                    ],
+                    [
+                        116,
+                        316
+                    ],
+                    [
+                        118,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652158,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:41.588Z",
+            "updatedAt": "2023-06-07T13:10:41.588Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        314
+                    ],
+                    [
+                        282,
+                        325
+                    ],
+                    [
+                        324,
+                        315
+                    ],
+                    [
+                        348,
+                        300
+                    ],
+                    [
+                        352,
+                        260
+                    ],
+                    [
+                        342,
+                        203
+                    ],
+                    [
+                        322,
+                        195
+                    ],
+                    [
+                        258,
+                        219
+                    ],
+                    [
+                        210,
+                        234
+                    ],
+                    [
+                        203,
+                        246
+                    ],
+                    [
+                        206,
+                        288
+                    ],
+                    [
+                        208,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1661684,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.179Z",
+            "updatedAt": "2023-06-07T13:17:15.179Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        201
+                    ],
+                    [
+                        152,
+                        192
+                    ],
+                    [
+                        130,
+                        201
+                    ],
+                    [
+                        121,
+                        209
+                    ],
+                    [
+                        129,
+                        240
+                    ],
+                    [
+                        155,
+                        295
+                    ],
+                    [
+                        196,
+                        280
+                    ],
+                    [
+                        204,
+                        249
+                    ],
+                    [
+                        185,
+                        216
+                    ],
+                    [
+                        172,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661683,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.179Z",
+            "updatedAt": "2023-06-07T13:17:15.179Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        200
+                    ],
+                    [
+                        228,
+                        273
+                    ],
+                    [
+                        242,
+                        287
+                    ],
+                    [
+                        268,
+                        262
+                    ],
+                    [
+                        282,
+                        233
+                    ],
+                    [
+                        260,
+                        204
+                    ],
+                    [
+                        225,
+                        190
+                    ],
+                    [
+                        210,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661681,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.178Z",
+            "updatedAt": "2023-06-07T13:17:15.178Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        210
+                    ],
+                    [
+                        139,
+                        232
+                    ],
+                    [
+                        151,
+                        272
+                    ],
+                    [
+                        166,
+                        289
+                    ],
+                    [
+                        179,
+                        280
+                    ],
+                    [
+                        184,
+                        258
+                    ],
+                    [
+                        181,
+                        230
+                    ],
+                    [
+                        165,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661680,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.178Z",
+            "updatedAt": "2023-06-07T13:17:15.178Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        210
+                    ],
+                    [
+                        218,
+                        211
+                    ],
+                    [
+                        227,
+                        250
+                    ],
+                    [
+                        250,
+                        267
+                    ],
+                    [
+                        281,
+                        263
+                    ],
+                    [
+                        277,
+                        222
+                    ],
+                    [
+                        263,
+                        202
+                    ],
+                    [
+                        258,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661678,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.177Z",
+            "updatedAt": "2023-06-07T13:17:15.177Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        314
+                    ],
+                    [
+                        165,
+                        321
+                    ],
+                    [
+                        171,
+                        344
+                    ],
+                    [
+                        228,
+                        334
+                    ],
+                    [
+                        214,
+                        311
+                    ],
+                    [
+                        198,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661676,
+            "classId": 3805,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.176Z",
+            "updatedAt": "2023-06-07T13:17:15.176Z",
+            "tags": [],
+            "classTitle": "tomme",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        292
+                    ],
+                    [
+                        109,
+                        317
+                    ],
+                    [
+                        125,
+                        351
+                    ],
+                    [
+                        159,
+                        335
+                    ],
+                    [
+                        167,
+                        302
+                    ],
+                    [
+                        146,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661674,
+            "classId": 3545,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.175Z",
+            "updatedAt": "2023-06-07T13:17:15.175Z",
+            "tags": [],
+            "classTitle": "white-coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        82
+                    ],
+                    [
+                        56,
+                        97
+                    ],
+                    [
+                        59,
+                        120
+                    ],
+                    [
+                        87,
+                        131
+                    ],
+                    [
+                        122,
+                        124
+                    ],
+                    [
+                        133,
+                        99
+                    ],
+                    [
+                        117,
+                        79
+                    ],
+                    [
+                        85,
+                        78
+                    ],
+                    [
+                        83,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661672,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.175Z",
+            "updatedAt": "2023-06-07T13:17:15.175Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        67
+                    ],
+                    [
+                        265,
+                        85
+                    ],
+                    [
+                        264,
+                        103
+                    ],
+                    [
+                        299,
+                        124
+                    ],
+                    [
+                        315,
+                        126
+                    ],
+                    [
+                        338,
+                        111
+                    ],
+                    [
+                        349,
+                        83
+                    ],
+                    [
+                        317,
+                        62
+                    ],
+                    [
+                        295,
+                        60
+                    ],
+                    [
+                        292,
+                        61
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

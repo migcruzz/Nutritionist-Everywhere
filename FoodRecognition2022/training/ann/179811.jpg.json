@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1714804,
+            "classId": 3635,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:59.407Z",
+            "updatedAt": "2023-06-07T13:54:59.407Z",
+            "tags": [],
+            "classTitle": "bread",
+            "points": {
+                "exterior": [
+                    [
+                        656,
+                        55
+                    ],
+                    [
+                        513,
+                        86
+                    ],
+                    [
+                        423,
+                        173
+                    ],
+                    [
+                        380,
+                        288
+                    ],
+                    [
+                        405,
+                        388
+                    ],
+                    [
+                        508,
+                        478
+                    ],
+                    [
+                        669,
+                        508
+                    ],
+                    [
+                        825,
+                        437
+                    ],
+                    [
+                        879,
+                        291
+                    ],
+                    [
+                        800,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714802,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:59.407Z",
+            "updatedAt": "2023-06-07T13:54:59.407Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        807,
+                        388
+                    ],
+                    [
+                        584,
+                        442
+                    ],
+                    [
+                        477,
+                        411
+                    ],
+                    [
+                        520,
+                        478
+                    ],
+                    [
+                        687,
+                        475
+                    ],
+                    [
+                        736,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714800,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:59.406Z",
+            "updatedAt": "2023-06-07T13:54:59.406Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        569,
+                        654
+                    ],
+                    [
+                        477,
+                        672
+                    ],
+                    [
+                        421,
+                        721
+                    ],
+                    [
+                        467,
+                        754
+                    ],
+                    [
+                        528,
+                        813
+                    ],
+                    [
+                        569,
+                        759
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714798,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:59.406Z",
+            "updatedAt": "2023-06-07T13:54:59.406Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        808
+                    ],
+                    [
+                        295,
+                        836
+                    ],
+                    [
+                        293,
+                        903
+                    ],
+                    [
+                        349,
+                        941
+                    ],
+                    [
+                        428,
+                        915
+                    ],
+                    [
+                        426,
+                        836
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

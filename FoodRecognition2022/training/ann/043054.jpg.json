@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4032,
+        "width": 3024
+    },
+    "objects": [
+        {
+            "id": 1650799,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.830Z",
+            "updatedAt": "2023-06-07T13:09:50.830Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        952,
+                        2731
+                    ],
+                    [
+                        1638,
+                        2489
+                    ],
+                    [
+                        1486,
+                        1501
+                    ],
+                    [
+                        1043,
+                        1058
+                    ],
+                    [
+                        357,
+                        1088
+                    ],
+                    [
+                        0,
+                        1753
+                    ],
+                    [
+                        196,
+                        2298
+                    ],
+                    [
+                        700,
+                        2540
+                    ],
+                    [
+                        1154,
+                        2731
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650797,
+            "classId": 3479,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.829Z",
+            "updatedAt": "2023-06-07T13:09:50.829Z",
+            "tags": [],
+            "classTitle": "sauce-cream",
+            "points": {
+                "exterior": [
+                    [
+                        2404,
+                        786
+                    ],
+                    [
+                        1456,
+                        1874
+                    ],
+                    [
+                        882,
+                        2419
+                    ],
+                    [
+                        871,
+                        2731
+                    ],
+                    [
+                        1154,
+                        2640
+                    ],
+                    [
+                        1517,
+                        2751
+                    ],
+                    [
+                        2071,
+                        2721
+                    ],
+                    [
+                        2373,
+                        2590
+                    ],
+                    [
+                        2535,
+                        2247
+                    ],
+                    [
+                        2575,
+                        1612
+                    ],
+                    [
+                        2444,
+                        1058
+                    ],
+                    [
+                        2434,
+                        836
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650795,
+            "classId": 4373,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.829Z",
+            "updatedAt": "2023-06-07T13:09:50.829Z",
+            "tags": [],
+            "classTitle": "shoots",
+            "points": {
+                "exterior": [
+                    [
+                        2877,
+                        1058
+                    ],
+                    [
+                        2081,
+                        957
+                    ],
+                    [
+                        1446,
+                        1864
+                    ],
+                    [
+                        2051,
+                        2328
+                    ],
+                    [
+                        2696,
+                        2096
+                    ],
+                    [
+                        2908,
+                        1693
+                    ],
+                    [
+                        2958,
+                        1149
+                    ],
+                    [
+                        2948,
+                        1128
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

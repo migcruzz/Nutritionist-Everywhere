@@ -1,0 +1,262 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1738223,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:26.036Z",
+            "updatedAt": "2023-06-07T14:11:26.036Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        233
+                    ],
+                    [
+                        293,
+                        224
+                    ],
+                    [
+                        292,
+                        186
+                    ],
+                    [
+                        311,
+                        179
+                    ],
+                    [
+                        322,
+                        206
+                    ],
+                    [
+                        342,
+                        198
+                    ],
+                    [
+                        334,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738222,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:26.036Z",
+            "updatedAt": "2023-06-07T14:11:26.036Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        76
+                    ],
+                    [
+                        306,
+                        101
+                    ],
+                    [
+                        285,
+                        111
+                    ],
+                    [
+                        263,
+                        95
+                    ],
+                    [
+                        279,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738220,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:26.035Z",
+            "updatedAt": "2023-06-07T14:11:26.035Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        254
+                    ],
+                    [
+                        126,
+                        245
+                    ],
+                    [
+                        116,
+                        203
+                    ],
+                    [
+                        111,
+                        155
+                    ],
+                    [
+                        122,
+                        111
+                    ],
+                    [
+                        163,
+                        98
+                    ],
+                    [
+                        182,
+                        108
+                    ],
+                    [
+                        187,
+                        86
+                    ],
+                    [
+                        240,
+                        80
+                    ],
+                    [
+                        250,
+                        121
+                    ],
+                    [
+                        267,
+                        167
+                    ],
+                    [
+                        262,
+                        206
+                    ],
+                    [
+                        255,
+                        235
+                    ],
+                    [
+                        242,
+                        252
+                    ],
+                    [
+                        216,
+                        277
+                    ],
+                    [
+                        159,
+                        256
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738218,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:26.035Z",
+            "updatedAt": "2023-06-07T14:11:26.035Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        262
+                    ],
+                    [
+                        191,
+                        262
+                    ],
+                    [
+                        191,
+                        233
+                    ],
+                    [
+                        207,
+                        220
+                    ],
+                    [
+                        217,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738217,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:26.034Z",
+            "updatedAt": "2023-06-07T14:11:26.034Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        198
+                    ],
+                    [
+                        173,
+                        172
+                    ],
+                    [
+                        127,
+                        174
+                    ],
+                    [
+                        127,
+                        152
+                    ],
+                    [
+                        159,
+                        137
+                    ],
+                    [
+                        208,
+                        141
+                    ],
+                    [
+                        242,
+                        157
+                    ],
+                    [
+                        266,
+                        159
+                    ],
+                    [
+                        221,
+                        180
+                    ],
+                    [
+                        206,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

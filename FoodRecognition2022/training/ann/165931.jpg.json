@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 866
+    },
+    "objects": [
+        {
+            "id": 1786877,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:11.089Z",
+            "updatedAt": "2023-06-07T14:44:11.089Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        674,
+                        30
+                    ],
+                    [
+                        605,
+                        32
+                    ],
+                    [
+                        514,
+                        45
+                    ],
+                    [
+                        366,
+                        114
+                    ],
+                    [
+                        282,
+                        171
+                    ],
+                    [
+                        369,
+                        205
+                    ],
+                    [
+                        538,
+                        190
+                    ],
+                    [
+                        687,
+                        149
+                    ],
+                    [
+                        676,
+                        160
+                    ],
+                    [
+                        379,
+                        381
+                    ],
+                    [
+                        351,
+                        422
+                    ],
+                    [
+                        563,
+                        363
+                    ],
+                    [
+                        737,
+                        257
+                    ],
+                    [
+                        776,
+                        207
+                    ],
+                    [
+                        769,
+                        173
+                    ],
+                    [
+                        726,
+                        116
+                    ],
+                    [
+                        715,
+                        69
+                    ],
+                    [
+                        680,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786875,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:11.089Z",
+            "updatedAt": "2023-06-07T14:44:11.089Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        430
+                    ],
+                    [
+                        150,
+                        435
+                    ],
+                    [
+                        156,
+                        539
+                    ],
+                    [
+                        200,
+                        586
+                    ],
+                    [
+                        293,
+                        539
+                    ],
+                    [
+                        291,
+                        469
+                    ],
+                    [
+                        273,
+                        433
+                    ],
+                    [
+                        269,
+                        435
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786873,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:11.088Z",
+            "updatedAt": "2023-06-07T14:44:11.088Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        268
+                    ],
+                    [
+                        163,
+                        329
+                    ],
+                    [
+                        213,
+                        439
+                    ],
+                    [
+                        306,
+                        402
+                    ],
+                    [
+                        297,
+                        305
+                    ],
+                    [
+                        263,
+                        257
+                    ],
+                    [
+                        260,
+                        257
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

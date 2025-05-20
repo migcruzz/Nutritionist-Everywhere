@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1684404,
+            "classId": 3521,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:50.020Z",
+            "updatedAt": "2023-06-07T13:32:50.020Z",
+            "tags": [],
+            "classTitle": "soup-vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        127
+                    ],
+                    [
+                        197,
+                        140
+                    ],
+                    [
+                        172,
+                        168
+                    ],
+                    [
+                        157,
+                        177
+                    ],
+                    [
+                        144,
+                        223
+                    ],
+                    [
+                        157,
+                        261
+                    ],
+                    [
+                        208,
+                        288
+                    ],
+                    [
+                        273,
+                        288
+                    ],
+                    [
+                        321,
+                        284
+                    ],
+                    [
+                        364,
+                        264
+                    ],
+                    [
+                        389,
+                        238
+                    ],
+                    [
+                        397,
+                        213
+                    ],
+                    [
+                        389,
+                        170
+                    ],
+                    [
+                        369,
+                        140
+                    ],
+                    [
+                        328,
+                        118
+                    ],
+                    [
+                        287,
+                        115
+                    ],
+                    [
+                        270,
+                        118
+                    ],
+                    [
+                        257,
+                        122
+                    ],
+                    [
+                        253,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1684402,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:50.019Z",
+            "updatedAt": "2023-06-07T13:32:50.019Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        149,
+                        286
+                    ],
+                    [
+                        87,
+                        297
+                    ],
+                    [
+                        144,
+                        369
+                    ],
+                    [
+                        55,
+                        386
+                    ],
+                    [
+                        53,
+                        409
+                    ],
+                    [
+                        64,
+                        436
+                    ],
+                    [
+                        83,
+                        441
+                    ],
+                    [
+                        227,
+                        403
+                    ],
+                    [
+                        222,
+                        366
+                    ],
+                    [
+                        175,
+                        361
+                    ],
+                    [
+                        156,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1684400,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:50.019Z",
+            "updatedAt": "2023-06-07T13:32:50.019Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        86
+                    ],
+                    [
+                        3,
+                        114
+                    ],
+                    [
+                        3,
+                        162
+                    ],
+                    [
+                        5,
+                        180
+                    ],
+                    [
+                        5,
+                        250
+                    ],
+                    [
+                        13,
+                        266
+                    ],
+                    [
+                        79,
+                        278
+                    ],
+                    [
+                        115,
+                        249
+                    ],
+                    [
+                        89,
+                        176
+                    ],
+                    [
+                        118,
+                        109
+                    ],
+                    [
+                        132,
+                        92
+                    ],
+                    [
+                        124,
+                        90
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

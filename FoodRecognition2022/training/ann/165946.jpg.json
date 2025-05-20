@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1744174,
+            "classId": 3969,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:32.591Z",
+            "updatedAt": "2023-06-07T14:15:32.591Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-stewed-without-addition-of-fat-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        190
+                    ],
+                    [
+                        296,
+                        150
+                    ],
+                    [
+                        208,
+                        180
+                    ],
+                    [
+                        202,
+                        184
+                    ],
+                    [
+                        165,
+                        203
+                    ],
+                    [
+                        151,
+                        209
+                    ],
+                    [
+                        104,
+                        245
+                    ],
+                    [
+                        91,
+                        277
+                    ],
+                    [
+                        98,
+                        317
+                    ],
+                    [
+                        136,
+                        331
+                    ],
+                    [
+                        191,
+                        338
+                    ],
+                    [
+                        243,
+                        329
+                    ],
+                    [
+                        268,
+                        307
+                    ],
+                    [
+                        284,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744172,
+            "classId": 3979,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:32.590Z",
+            "updatedAt": "2023-06-07T14:15:32.590Z",
+            "tags": [],
+            "classTitle": "sauce-mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        132
+                    ],
+                    [
+                        299,
+                        225
+                    ],
+                    [
+                        299,
+                        252
+                    ],
+                    [
+                        362,
+                        254
+                    ],
+                    [
+                        377,
+                        206
+                    ],
+                    [
+                        389,
+                        159
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

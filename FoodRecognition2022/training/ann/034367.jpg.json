@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1792874,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:03.240Z",
+            "updatedAt": "2023-06-07T14:48:03.240Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        500,
+                        265
+                    ],
+                    [
+                        489,
+                        229
+                    ],
+                    [
+                        448,
+                        196
+                    ],
+                    [
+                        375,
+                        229
+                    ],
+                    [
+                        297,
+                        239
+                    ],
+                    [
+                        249,
+                        237
+                    ],
+                    [
+                        165,
+                        187
+                    ],
+                    [
+                        164,
+                        103
+                    ],
+                    [
+                        60,
+                        154
+                    ],
+                    [
+                        47,
+                        294
+                    ],
+                    [
+                        65,
+                        377
+                    ],
+                    [
+                        145,
+                        400
+                    ],
+                    [
+                        233,
+                        331
+                    ],
+                    [
+                        312,
+                        292
+                    ],
+                    [
+                        387,
+                        306
+                    ],
+                    [
+                        478,
+                        300
+                    ],
+                    [
+                        491,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1792872,
+            "classId": 3957,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:03.239Z",
+            "updatedAt": "2023-06-07T14:48:03.239Z",
+            "tags": [],
+            "classTitle": "fennel",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        212
+                    ],
+                    [
+                        554,
+                        165
+                    ],
+                    [
+                        527,
+                        102
+                    ],
+                    [
+                        423,
+                        91
+                    ],
+                    [
+                        360,
+                        55
+                    ],
+                    [
+                        197,
+                        100
+                    ],
+                    [
+                        167,
+                        86
+                    ],
+                    [
+                        167,
+                        169
+                    ],
+                    [
+                        200,
+                        250
+                    ],
+                    [
+                        250,
+                        336
+                    ],
+                    [
+                        335,
+                        303
+                    ],
+                    [
+                        337,
+                        240
+                    ],
+                    [
+                        387,
+                        228
+                    ],
+                    [
+                        404,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1792870,
+            "classId": 3667,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:03.238Z",
+            "updatedAt": "2023-06-07T14:48:03.238Z",
+            "tags": [],
+            "classTitle": "omelette-plain",
+            "points": {
+                "exterior": [
+                    [
+                        614,
+                        301
+                    ],
+                    [
+                        329,
+                        306
+                    ],
+                    [
+                        217,
+                        386
+                    ],
+                    [
+                        258,
+                        529
+                    ],
+                    [
+                        389,
+                        586
+                    ],
+                    [
+                        540,
+                        545
+                    ],
+                    [
+                        609,
+                        389
+                    ],
+                    [
+                        607,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

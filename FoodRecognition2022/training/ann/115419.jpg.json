@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1794422,
+            "classId": 4181,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:49:16.240Z",
+            "updatedAt": "2023-06-07T14:49:16.240Z",
+            "tags": [],
+            "classTitle": "falafel-balls",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        178
+                    ],
+                    [
+                        198,
+                        179
+                    ],
+                    [
+                        148,
+                        213
+                    ],
+                    [
+                        157,
+                        286
+                    ],
+                    [
+                        189,
+                        318
+                    ],
+                    [
+                        273,
+                        294
+                    ],
+                    [
+                        286,
+                        245
+                    ],
+                    [
+                        247,
+                        161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1794420,
+            "classId": 4341,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:49:16.240Z",
+            "updatedAt": "2023-06-07T14:49:16.240Z",
+            "tags": [],
+            "classTitle": "sauce-sweet-sour",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        216
+                    ],
+                    [
+                        281,
+                        266
+                    ],
+                    [
+                        270,
+                        293
+                    ],
+                    [
+                        203,
+                        316
+                    ],
+                    [
+                        173,
+                        296
+                    ],
+                    [
+                        136,
+                        222
+                    ],
+                    [
+                        119,
+                        247
+                    ],
+                    [
+                        143,
+                        313
+                    ],
+                    [
+                        167,
+                        344
+                    ],
+                    [
+                        222,
+                        346
+                    ],
+                    [
+                        253,
+                        344
+                    ],
+                    [
+                        303,
+                        283
+                    ],
+                    [
+                        306,
+                        249
+                    ],
+                    [
+                        305,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

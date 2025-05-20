@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 431,
+        "width": 431
+    },
+    "objects": [
+        {
+            "id": 1691076,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:29.952Z",
+            "updatedAt": "2023-06-07T13:37:29.952Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        44
+                    ],
+                    [
+                        3,
+                        84
+                    ],
+                    [
+                        0,
+                        229
+                    ],
+                    [
+                        17,
+                        320
+                    ],
+                    [
+                        29,
+                        373
+                    ],
+                    [
+                        236,
+                        394
+                    ],
+                    [
+                        344,
+                        386
+                    ],
+                    [
+                        378,
+                        385
+                    ],
+                    [
+                        357,
+                        343
+                    ],
+                    [
+                        165,
+                        327
+                    ],
+                    [
+                        56,
+                        327
+                    ],
+                    [
+                        28,
+                        310
+                    ],
+                    [
+                        12,
+                        241
+                    ],
+                    [
+                        414,
+                        281
+                    ],
+                    [
+                        425,
+                        35
+                    ],
+                    [
+                        77,
+                        40
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1691074,
+            "classId": 3443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:29.951Z",
+            "updatedAt": "2023-06-07T13:37:29.951Z",
+            "tags": [],
+            "classTitle": "salmon-smoked",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        270
+                    ],
+                    [
+                        7,
+                        240
+                    ],
+                    [
+                        17,
+                        302
+                    ],
+                    [
+                        253,
+                        317
+                    ],
+                    [
+                        313,
+                        317
+                    ],
+                    [
+                        322,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1691072,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:29.950Z",
+            "updatedAt": "2023-06-07T13:37:29.950Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        281
+                    ],
+                    [
+                        317,
+                        280
+                    ],
+                    [
+                        282,
+                        322
+                    ],
+                    [
+                        16,
+                        308
+                    ],
+                    [
+                        46,
+                        388
+                    ],
+                    [
+                        71,
+                        339
+                    ],
+                    [
+                        175,
+                        321
+                    ],
+                    [
+                        311,
+                        352
+                    ],
+                    [
+                        421,
+                        368
+                    ],
+                    [
+                        380,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

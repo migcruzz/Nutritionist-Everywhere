@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 838,
+        "width": 838
+    },
+    "objects": [
+        {
+            "id": 1700595,
+            "classId": 4351,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:13.423Z",
+            "updatedAt": "2023-06-07T13:44:13.423Z",
+            "tags": [],
+            "classTitle": "beef-roast",
+            "points": {
+                "exterior": [
+                    [
+                        594,
+                        228
+                    ],
+                    [
+                        199,
+                        253
+                    ],
+                    [
+                        127,
+                        343
+                    ],
+                    [
+                        111,
+                        469
+                    ],
+                    [
+                        240,
+                        565
+                    ],
+                    [
+                        462,
+                        653
+                    ],
+                    [
+                        630,
+                        659
+                    ],
+                    [
+                        678,
+                        532
+                    ],
+                    [
+                        659,
+                        465
+                    ],
+                    [
+                        628,
+                        364
+                    ],
+                    [
+                        628,
+                        301
+                    ],
+                    [
+                        620,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1700593,
+            "classId": 3995,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:13.421Z",
+            "updatedAt": "2023-06-07T13:44:13.421Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal-toast",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        523
+                    ],
+                    [
+                        138,
+                        678
+                    ],
+                    [
+                        337,
+                        651
+                    ],
+                    [
+                        395,
+                        649
+                    ],
+                    [
+                        251,
+                        584
+                    ],
+                    [
+                        194,
+                        553
+                    ],
+                    [
+                        175,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1700591,
+            "classId": 4055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:13.420Z",
+            "updatedAt": "2023-06-07T13:44:13.420Z",
+            "tags": [],
+            "classTitle": "cream-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        618
+                    ],
+                    [
+                        175,
+                        548
+                    ],
+                    [
+                        163,
+                        599
+                    ],
+                    [
+                        224,
+                        630
+                    ],
+                    [
+                        261,
+                        636
+                    ],
+                    [
+                        295,
+                        630
+                    ],
+                    [
+                        307,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

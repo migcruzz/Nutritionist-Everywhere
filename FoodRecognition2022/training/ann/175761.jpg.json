@@ -1,0 +1,62 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1752928,
+            "classId": 3977,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:33.999Z",
+            "updatedAt": "2023-06-07T14:21:33.999Z",
+            "tags": [],
+            "classTitle": "fondue",
+            "points": {
+                "exterior": [
+                    [
+                        664,
+                        391
+                    ],
+                    [
+                        439,
+                        345
+                    ],
+                    [
+                        231,
+                        448
+                    ],
+                    [
+                        234,
+                        545
+                    ],
+                    [
+                        352,
+                        606
+                    ],
+                    [
+                        500,
+                        619
+                    ],
+                    [
+                        623,
+                        596
+                    ],
+                    [
+                        736,
+                        524
+                    ],
+                    [
+                        751,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

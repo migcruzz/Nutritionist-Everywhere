@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 482,
+        "width": 482
+    },
+    "objects": [
+        {
+            "id": 1764924,
+            "classId": 3677,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:14.401Z",
+            "updatedAt": "2023-06-07T14:29:14.401Z",
+            "tags": [],
+            "classTitle": "ice-tea",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        96
+                    ],
+                    [
+                        95,
+                        156
+                    ],
+                    [
+                        139,
+                        169
+                    ],
+                    [
+                        269,
+                        169
+                    ],
+                    [
+                        330,
+                        166
+                    ],
+                    [
+                        342,
+                        165
+                    ],
+                    [
+                        350,
+                        126
+                    ],
+                    [
+                        345,
+                        91
+                    ],
+                    [
+                        304,
+                        91
+                    ],
+                    [
+                        244,
+                        98
+                    ],
+                    [
+                        189,
+                        100
+                    ],
+                    [
+                        148,
+                        95
+                    ],
+                    [
+                        115,
+                        91
+                    ],
+                    [
+                        95,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1764923,
+            "classId": 3677,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:14.401Z",
+            "updatedAt": "2023-06-07T14:29:14.401Z",
+            "tags": [],
+            "classTitle": "ice-tea",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        353
+                    ],
+                    [
+                        157,
+                        421
+                    ],
+                    [
+                        301,
+                        409
+                    ],
+                    [
+                        304,
+                        365
+                    ],
+                    [
+                        294,
+                        354
+                    ],
+                    [
+                        240,
+                        368
+                    ],
+                    [
+                        200,
+                        368
+                    ],
+                    [
+                        156,
+                        362
+                    ],
+                    [
+                        147,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

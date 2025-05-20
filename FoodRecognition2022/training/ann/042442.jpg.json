@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 837,
+        "width": 837
+    },
+    "objects": [
+        {
+            "id": 1755417,
+            "classId": 4101,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:15.976Z",
+            "updatedAt": "2023-06-07T14:23:15.976Z",
+            "tags": [],
+            "classTitle": "pizza-with-ham-baked",
+            "points": {
+                "exterior": [
+                    [
+                        649,
+                        142
+                    ],
+                    [
+                        70,
+                        163
+                    ],
+                    [
+                        377,
+                        742
+                    ],
+                    [
+                        519,
+                        790
+                    ],
+                    [
+                        532,
+                        518
+                    ],
+                    [
+                        635,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1755415,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:15.976Z",
+            "updatedAt": "2023-06-07T14:23:15.976Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        688
+                    ],
+                    [
+                        513,
+                        537
+                    ],
+                    [
+                        406,
+                        343
+                    ],
+                    [
+                        270,
+                        420
+                    ],
+                    [
+                        218,
+                        554
+                    ],
+                    [
+                        199,
+                        677
+                    ],
+                    [
+                        245,
+                        696
+                    ],
+                    [
+                        335,
+                        590
+                    ],
+                    [
+                        369,
+                        518
+                    ],
+                    [
+                        396,
+                        516
+                    ],
+                    [
+                        440,
+                        654
+                    ],
+                    [
+                        480,
+                        667
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

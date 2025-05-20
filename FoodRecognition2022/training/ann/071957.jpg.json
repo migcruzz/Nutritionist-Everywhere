@@ -1,0 +1,270 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1798666,
+            "classId": 3535,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:24.898Z",
+            "updatedAt": "2023-06-07T14:52:24.898Z",
+            "tags": [],
+            "classTitle": "mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        280
+                    ],
+                    [
+                        315,
+                        295
+                    ],
+                    [
+                        311,
+                        242
+                    ],
+                    [
+                        280,
+                        227
+                    ],
+                    [
+                        244,
+                        235
+                    ],
+                    [
+                        231,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798664,
+            "classId": 3479,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:24.896Z",
+            "updatedAt": "2023-06-07T14:52:24.896Z",
+            "tags": [],
+            "classTitle": "sauce-cream",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        228
+                    ],
+                    [
+                        120,
+                        236
+                    ],
+                    [
+                        85,
+                        314
+                    ],
+                    [
+                        118,
+                        360
+                    ],
+                    [
+                        185,
+                        378
+                    ],
+                    [
+                        232,
+                        377
+                    ],
+                    [
+                        343,
+                        313
+                    ],
+                    [
+                        345,
+                        286
+                    ],
+                    [
+                        334,
+                        250
+                    ],
+                    [
+                        304,
+                        249
+                    ],
+                    [
+                        290,
+                        246
+                    ],
+                    [
+                        225,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798662,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:24.895Z",
+            "updatedAt": "2023-06-07T14:52:24.895Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        79
+                    ],
+                    [
+                        170,
+                        119
+                    ],
+                    [
+                        155,
+                        178
+                    ],
+                    [
+                        173,
+                        211
+                    ],
+                    [
+                        180,
+                        224
+                    ],
+                    [
+                        203,
+                        216
+                    ],
+                    [
+                        229,
+                        227
+                    ],
+                    [
+                        244,
+                        228
+                    ],
+                    [
+                        273,
+                        216
+                    ],
+                    [
+                        293,
+                        233
+                    ],
+                    [
+                        328,
+                        225
+                    ],
+                    [
+                        339,
+                        244
+                    ],
+                    [
+                        351,
+                        175
+                    ],
+                    [
+                        323,
+                        139
+                    ],
+                    [
+                        265,
+                        90
+                    ],
+                    [
+                        237,
+                        89
+                    ],
+                    [
+                        229,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798660,
+            "classId": 3919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:24.894Z",
+            "updatedAt": "2023-06-07T14:52:24.894Z",
+            "tags": [],
+            "classTitle": "rosti",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        232
+                    ],
+                    [
+                        150,
+                        181
+                    ],
+                    [
+                        166,
+                        121
+                    ],
+                    [
+                        150,
+                        71
+                    ],
+                    [
+                        116,
+                        65
+                    ],
+                    [
+                        67,
+                        97
+                    ],
+                    [
+                        24,
+                        140
+                    ],
+                    [
+                        20,
+                        208
+                    ],
+                    [
+                        24,
+                        281
+                    ],
+                    [
+                        71,
+                        305
+                    ],
+                    [
+                        72,
+                        250
+                    ],
+                    [
+                        108,
+                        240
+                    ],
+                    [
+                        131,
+                        216
+                    ],
+                    [
+                        154,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

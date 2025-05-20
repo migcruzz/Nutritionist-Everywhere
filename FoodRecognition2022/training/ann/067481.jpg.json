@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1680503,
+            "classId": 4301,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:17.245Z",
+            "updatedAt": "2023-06-07T13:30:17.245Z",
+            "tags": [],
+            "classTitle": "sorbet",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        356
+                    ],
+                    [
+                        291,
+                        287
+                    ],
+                    [
+                        256,
+                        251
+                    ],
+                    [
+                        203,
+                        227
+                    ],
+                    [
+                        156,
+                        228
+                    ],
+                    [
+                        128,
+                        256
+                    ],
+                    [
+                        147,
+                        319
+                    ],
+                    [
+                        193,
+                        352
+                    ],
+                    [
+                        223,
+                        354
+                    ],
+                    [
+                        229,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1680501,
+            "classId": 3847,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:17.244Z",
+            "updatedAt": "2023-06-07T13:30:17.244Z",
+            "tags": [],
+            "classTitle": "biscuits",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        257
+                    ],
+                    [
+                        323,
+                        211
+                    ],
+                    [
+                        307,
+                        146
+                    ],
+                    [
+                        233,
+                        109
+                    ],
+                    [
+                        171,
+                        120
+                    ],
+                    [
+                        158,
+                        162
+                    ],
+                    [
+                        152,
+                        206
+                    ],
+                    [
+                        164,
+                        227
+                    ],
+                    [
+                        205,
+                        241
+                    ],
+                    [
+                        241,
+                        247
+                    ],
+                    [
+                        252,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

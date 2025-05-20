@@ -1,0 +1,342 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1793518,
+            "classId": 4295,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:29.654Z",
+            "updatedAt": "2023-06-07T14:48:29.654Z",
+            "tags": [],
+            "classTitle": "rice-whole-grain",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        94
+                    ],
+                    [
+                        137,
+                        127
+                    ],
+                    [
+                        139,
+                        224
+                    ],
+                    [
+                        161,
+                        286
+                    ],
+                    [
+                        179,
+                        314
+                    ],
+                    [
+                        221,
+                        351
+                    ],
+                    [
+                        201,
+                        290
+                    ],
+                    [
+                        238,
+                        284
+                    ],
+                    [
+                        295,
+                        292
+                    ],
+                    [
+                        345,
+                        290
+                    ],
+                    [
+                        419,
+                        303
+                    ],
+                    [
+                        436,
+                        245
+                    ],
+                    [
+                        409,
+                        218
+                    ],
+                    [
+                        375,
+                        212
+                    ],
+                    [
+                        351,
+                        163
+                    ],
+                    [
+                        299,
+                        127
+                    ],
+                    [
+                        237,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793516,
+            "classId": 4041,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:29.653Z",
+            "updatedAt": "2023-06-07T14:48:29.653Z",
+            "tags": [],
+            "classTitle": "corn",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        248
+                    ],
+                    [
+                        288,
+                        192
+                    ],
+                    [
+                        228,
+                        192
+                    ],
+                    [
+                        198,
+                        210
+                    ],
+                    [
+                        186,
+                        249
+                    ],
+                    [
+                        179,
+                        289
+                    ],
+                    [
+                        193,
+                        307
+                    ],
+                    [
+                        231,
+                        294
+                    ],
+                    [
+                        292,
+                        280
+                    ],
+                    [
+                        324,
+                        282
+                    ],
+                    [
+                        411,
+                        301
+                    ],
+                    [
+                        453,
+                        300
+                    ],
+                    [
+                        435,
+                        249
+                    ],
+                    [
+                        411,
+                        235
+                    ],
+                    [
+                        365,
+                        253
+                    ],
+                    [
+                        365,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793515,
+            "classId": 4041,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:29.653Z",
+            "updatedAt": "2023-06-07T14:48:29.653Z",
+            "tags": [],
+            "classTitle": "corn",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        120
+                    ],
+                    [
+                        222,
+                        116
+                    ],
+                    [
+                        196,
+                        130
+                    ],
+                    [
+                        137,
+                        132
+                    ],
+                    [
+                        139,
+                        193
+                    ],
+                    [
+                        156,
+                        204
+                    ],
+                    [
+                        187,
+                        174
+                    ],
+                    [
+                        202,
+                        146
+                    ],
+                    [
+                        223,
+                        166
+                    ],
+                    [
+                        226,
+                        172
+                    ],
+                    [
+                        240,
+                        151
+                    ],
+                    [
+                        244,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793513,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:29.653Z",
+            "updatedAt": "2023-06-07T14:48:29.653Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        150
+                    ],
+                    [
+                        18,
+                        276
+                    ],
+                    [
+                        132,
+                        369
+                    ],
+                    [
+                        177,
+                        379
+                    ],
+                    [
+                        185,
+                        297
+                    ],
+                    [
+                        175,
+                        248
+                    ],
+                    [
+                        181,
+                        186
+                    ],
+                    [
+                        129,
+                        159
+                    ],
+                    [
+                        126,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793511,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:29.652Z",
+            "updatedAt": "2023-06-07T14:48:29.652Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        374
+                    ],
+                    [
+                        216,
+                        333
+                    ],
+                    [
+                        154,
+                        346
+                    ],
+                    [
+                        65,
+                        356
+                    ],
+                    [
+                        90,
+                        398
+                    ],
+                    [
+                        160,
+                        372
+                    ],
+                    [
+                        196,
+                        382
+                    ],
+                    [
+                        238,
+                        393
+                    ],
+                    [
+                        253,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

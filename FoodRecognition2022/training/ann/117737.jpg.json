@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1758467,
+            "classId": 3933,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:23.289Z",
+            "updatedAt": "2023-06-07T14:25:23.289Z",
+            "tags": [],
+            "classTitle": "milk-chocolate-with-hazelnuts",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        183
+                    ],
+                    [
+                        218,
+                        174
+                    ],
+                    [
+                        60,
+                        196
+                    ],
+                    [
+                        72,
+                        276
+                    ],
+                    [
+                        287,
+                        254
+                    ],
+                    [
+                        289,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

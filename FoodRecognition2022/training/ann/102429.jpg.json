@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1795429,
+            "classId": 4037,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:49:56.173Z",
+            "updatedAt": "2023-06-07T14:49:56.173Z",
+            "tags": [],
+            "classTitle": "bread-fruit",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        123
+                    ],
+                    [
+                        185,
+                        81
+                    ],
+                    [
+                        90,
+                        89
+                    ],
+                    [
+                        77,
+                        188
+                    ],
+                    [
+                        114,
+                        313
+                    ],
+                    [
+                        170,
+                        326
+                    ],
+                    [
+                        153,
+                        391
+                    ],
+                    [
+                        217,
+                        451
+                    ],
+                    [
+                        321,
+                        453
+                    ],
+                    [
+                        410,
+                        411
+                    ],
+                    [
+                        321,
+                        231
+                    ],
+                    [
+                        285,
+                        238
+                    ],
+                    [
+                        300,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1795427,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:49:56.172Z",
+            "updatedAt": "2023-06-07T14:49:56.172Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        124
+                    ],
+                    [
+                        91,
+                        183
+                    ],
+                    [
+                        110,
+                        243
+                    ],
+                    [
+                        111,
+                        278
+                    ],
+                    [
+                        171,
+                        304
+                    ],
+                    [
+                        217,
+                        277
+                    ],
+                    [
+                        271,
+                        227
+                    ],
+                    [
+                        277,
+                        175
+                    ],
+                    [
+                        217,
+                        158
+                    ],
+                    [
+                        211,
+                        119
+                    ],
+                    [
+                        169,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1795426,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:49:56.172Z",
+            "updatedAt": "2023-06-07T14:49:56.172Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        295
+                    ],
+                    [
+                        177,
+                        375
+                    ],
+                    [
+                        197,
+                        421
+                    ],
+                    [
+                        248,
+                        435
+                    ],
+                    [
+                        320,
+                        436
+                    ],
+                    [
+                        378,
+                        359
+                    ],
+                    [
+                        338,
+                        322
+                    ],
+                    [
+                        276,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

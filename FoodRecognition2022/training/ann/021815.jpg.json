@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1786994,
+            "classId": 3863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:15.856Z",
+            "updatedAt": "2023-06-07T14:44:15.856Z",
+            "tags": [],
+            "classTitle": "dairy-ice-cream",
+            "points": {
+                "exterior": [
+                    [
+                        650,
+                        403
+                    ],
+                    [
+                        770,
+                        304
+                    ],
+                    [
+                        822,
+                        325
+                    ],
+                    [
+                        818,
+                        445
+                    ],
+                    [
+                        709,
+                        579
+                    ],
+                    [
+                        641,
+                        631
+                    ],
+                    [
+                        516,
+                        620
+                    ],
+                    [
+                        488,
+                        502
+                    ],
+                    [
+                        483,
+                        419
+                    ],
+                    [
+                        546,
+                        469
+                    ],
+                    [
+                        603,
+                        450
+                    ],
+                    [
+                        641,
+                        405
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786992,
+            "classId": 4211,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:15.855Z",
+            "updatedAt": "2023-06-07T14:44:15.855Z",
+            "tags": [],
+            "classTitle": "thickened-cream-35",
+            "points": {
+                "exterior": [
+                    [
+                        431,
+                        115
+                    ],
+                    [
+                        337,
+                        278
+                    ],
+                    [
+                        521,
+                        403
+                    ],
+                    [
+                        608,
+                        412
+                    ],
+                    [
+                        704,
+                        337
+                    ],
+                    [
+                        818,
+                        341
+                    ],
+                    [
+                        881,
+                        351
+                    ],
+                    [
+                        902,
+                        247
+                    ],
+                    [
+                        799,
+                        143
+                    ],
+                    [
+                        693,
+                        113
+                    ],
+                    [
+                        627,
+                        94
+                    ],
+                    [
+                        747,
+                        160
+                    ],
+                    [
+                        634,
+                        233
+                    ],
+                    [
+                        532,
+                        311
+                    ],
+                    [
+                        499,
+                        216
+                    ],
+                    [
+                        454,
+                        150
+                    ],
+                    [
+                        459,
+                        110
+                    ],
+                    [
+                        436,
+                        117
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786990,
+            "classId": 3677,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:15.855Z",
+            "updatedAt": "2023-06-07T14:44:15.855Z",
+            "tags": [],
+            "classTitle": "ice-tea",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        292
+                    ],
+                    [
+                        148,
+                        615
+                    ],
+                    [
+                        297,
+                        568
+                    ],
+                    [
+                        271,
+                        228
+                    ],
+                    [
+                        124,
+                        200
+                    ],
+                    [
+                        66,
+                        254
+                    ],
+                    [
+                        63,
+                        259
+                    ],
+                    [
+                        56,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

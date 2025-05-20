@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1778044,
+            "classId": 4333,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:57.815Z",
+            "updatedAt": "2023-06-07T14:37:57.815Z",
+            "tags": [],
+            "classTitle": "vegetable-au-gratin-baked",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        86
+                    ],
+                    [
+                        257,
+                        119
+                    ],
+                    [
+                        90,
+                        135
+                    ],
+                    [
+                        39,
+                        161
+                    ],
+                    [
+                        36,
+                        184
+                    ],
+                    [
+                        57,
+                        260
+                    ],
+                    [
+                        96,
+                        280
+                    ],
+                    [
+                        189,
+                        276
+                    ],
+                    [
+                        319,
+                        249
+                    ],
+                    [
+                        350,
+                        206
+                    ],
+                    [
+                        378,
+                        201
+                    ],
+                    [
+                        370,
+                        91
+                    ],
+                    [
+                        355,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778042,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:57.815Z",
+            "updatedAt": "2023-06-07T14:37:57.815Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        127
+                    ],
+                    [
+                        130,
+                        135
+                    ],
+                    [
+                        90,
+                        181
+                    ],
+                    [
+                        137,
+                        194
+                    ],
+                    [
+                        156,
+                        239
+                    ],
+                    [
+                        182,
+                        276
+                    ],
+                    [
+                        300,
+                        268
+                    ],
+                    [
+                        315,
+                        243
+                    ],
+                    [
+                        288,
+                        215
+                    ],
+                    [
+                        273,
+                        186
+                    ],
+                    [
+                        255,
+                        183
+                    ],
+                    [
+                        234,
+                        161
+                    ],
+                    [
+                        243,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 607,
+        "width": 607
+    },
+    "objects": [
+        {
+            "id": 1682312,
+            "classId": 3939,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:22.840Z",
+            "updatedAt": "2023-06-07T13:31:22.840Z",
+            "tags": [],
+            "classTitle": "pork",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        94
+                    ],
+                    [
+                        258,
+                        270
+                    ],
+                    [
+                        73,
+                        297
+                    ],
+                    [
+                        41,
+                        204
+                    ],
+                    [
+                        150,
+                        106
+                    ],
+                    [
+                        267,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682310,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:22.839Z",
+            "updatedAt": "2023-06-07T13:31:22.839Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        367,
+                        476
+                    ],
+                    [
+                        305,
+                        279
+                    ],
+                    [
+                        170,
+                        276
+                    ],
+                    [
+                        53,
+                        424
+                    ],
+                    [
+                        163,
+                        531
+                    ],
+                    [
+                        314,
+                        531
+                    ],
+                    [
+                        349,
+                        493
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682308,
+            "classId": 3747,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:22.839Z",
+            "updatedAt": "2023-06-07T13:31:22.839Z",
+            "tags": [],
+            "classTitle": "ratatouille",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        118
+                    ],
+                    [
+                        283,
+                        110
+                    ],
+                    [
+                        281,
+                        235
+                    ],
+                    [
+                        399,
+                        415
+                    ],
+                    [
+                        495,
+                        447
+                    ],
+                    [
+                        562,
+                        324
+                    ],
+                    [
+                        551,
+                        200
+                    ],
+                    [
+                        468,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682306,
+            "classId": 4047,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:22.838Z",
+            "updatedAt": "2023-06-07T13:31:22.838Z",
+            "tags": [],
+            "classTitle": "pistachio",
+            "points": {
+                "exterior": [
+                    [
+                        185,
+                        423
+                    ],
+                    [
+                        287,
+                        424
+                    ],
+                    [
+                        293,
+                        361
+                    ],
+                    [
+                        223,
+                        317
+                    ],
+                    [
+                        149,
+                        329
+                    ],
+                    [
+                        94,
+                        397
+                    ],
+                    [
+                        170,
+                        403
+                    ],
+                    [
+                        184,
+                        388
+                    ],
+                    [
+                        190,
+                        421
+                    ],
+                    [
+                        190,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 977,
+        "width": 977
+    },
+    "objects": [
+        {
+            "id": 1758986,
+            "classId": 3489,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:44.115Z",
+            "updatedAt": "2023-06-07T14:25:44.115Z",
+            "tags": [],
+            "classTitle": "pear",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        153
+                    ],
+                    [
+                        432,
+                        339
+                    ],
+                    [
+                        450,
+                        640
+                    ],
+                    [
+                        628,
+                        867
+                    ],
+                    [
+                        677,
+                        723
+                    ],
+                    [
+                        794,
+                        505
+                    ],
+                    [
+                        713,
+                        376
+                    ],
+                    [
+                        765,
+                        263
+                    ],
+                    [
+                        667,
+                        173
+                    ],
+                    [
+                        623,
+                        207
+                    ],
+                    [
+                        515,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1758985,
+            "classId": 3489,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:44.114Z",
+            "updatedAt": "2023-06-07T14:25:44.114Z",
+            "tags": [],
+            "classTitle": "pear",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        185
+                    ],
+                    [
+                        210,
+                        244
+                    ],
+                    [
+                        178,
+                        344
+                    ],
+                    [
+                        115,
+                        471
+                    ],
+                    [
+                        115,
+                        640
+                    ],
+                    [
+                        203,
+                        769
+                    ],
+                    [
+                        327,
+                        833
+                    ],
+                    [
+                        454,
+                        894
+                    ],
+                    [
+                        506,
+                        872
+                    ],
+                    [
+                        503,
+                        723
+                    ],
+                    [
+                        379,
+                        654
+                    ],
+                    [
+                        308,
+                        635
+                    ],
+                    [
+                        291,
+                        522
+                    ],
+                    [
+                        362,
+                        415
+                    ],
+                    [
+                        374,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1758983,
+            "classId": 4117,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:44.113Z",
+            "updatedAt": "2023-06-07T14:25:44.113Z",
+            "tags": [],
+            "classTitle": "milk",
+            "points": {
+                "exterior": [
+                    [
+                        752,
+                        310
+                    ],
+                    [
+                        689,
+                        386
+                    ],
+                    [
+                        813,
+                        456
+                    ],
+                    [
+                        796,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

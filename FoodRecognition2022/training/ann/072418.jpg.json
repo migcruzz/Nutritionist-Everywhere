@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 952
+    },
+    "objects": [
+        {
+            "id": 1729290,
+            "classId": 3639,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:15.683Z",
+            "updatedAt": "2023-06-07T14:05:15.683Z",
+            "tags": [],
+            "classTitle": "mungbean-sprouts",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        271
+                    ],
+                    [
+                        336,
+                        231
+                    ],
+                    [
+                        265,
+                        302
+                    ],
+                    [
+                        288,
+                        402
+                    ],
+                    [
+                        346,
+                        474
+                    ],
+                    [
+                        403,
+                        500
+                    ],
+                    [
+                        472,
+                        478
+                    ],
+                    [
+                        570,
+                        507
+                    ],
+                    [
+                        603,
+                        483
+                    ],
+                    [
+                        562,
+                        426
+                    ],
+                    [
+                        467,
+                        412
+                    ],
+                    [
+                        455,
+                        302
+                    ],
+                    [
+                        455,
+                        297
+                    ],
+                    [
+                        458,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1729288,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:15.681Z",
+            "updatedAt": "2023-06-07T14:05:15.681Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        582,
+                        228
+                    ],
+                    [
+                        460,
+                        290
+                    ],
+                    [
+                        505,
+                        412
+                    ],
+                    [
+                        634,
+                        409
+                    ],
+                    [
+                        705,
+                        350
+                    ],
+                    [
+                        627,
+                        240
+                    ],
+                    [
+                        620,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

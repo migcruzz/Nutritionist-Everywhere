@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1778601,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:17.345Z",
+            "updatedAt": "2023-06-07T14:38:17.345Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        31
+                    ],
+                    [
+                        111,
+                        121
+                    ],
+                    [
+                        220,
+                        184
+                    ],
+                    [
+                        280,
+                        153
+                    ],
+                    [
+                        339,
+                        84
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778600,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:17.344Z",
+            "updatedAt": "2023-06-07T14:38:17.344Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        200
+                    ],
+                    [
+                        61,
+                        338
+                    ],
+                    [
+                        96,
+                        418
+                    ],
+                    [
+                        298,
+                        414
+                    ],
+                    [
+                        321,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778598,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:17.344Z",
+            "updatedAt": "2023-06-07T14:38:17.344Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        401,
+                        116
+                    ],
+                    [
+                        378,
+                        150
+                    ],
+                    [
+                        412,
+                        207
+                    ],
+                    [
+                        466,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778596,
+            "classId": 4209,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:17.343Z",
+            "updatedAt": "2023-06-07T14:38:17.343Z",
+            "tags": [],
+            "classTitle": "cenovis-yeast-spread",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        66
+                    ],
+                    [
+                        124,
+                        109
+                    ],
+                    [
+                        208,
+                        153
+                    ],
+                    [
+                        252,
+                        128
+                    ],
+                    [
+                        231,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778595,
+            "classId": 4209,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:17.343Z",
+            "updatedAt": "2023-06-07T14:38:17.343Z",
+            "tags": [],
+            "classTitle": "cenovis-yeast-spread",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        256
+                    ],
+                    [
+                        107,
+                        364
+                    ],
+                    [
+                        253,
+                        364
+                    ],
+                    [
+                        294,
+                        303
+                    ],
+                    [
+                        255,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

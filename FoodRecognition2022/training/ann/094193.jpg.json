@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1297,
+        "width": 1297
+    },
+    "objects": [
+        {
+            "id": 1707599,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:27.831Z",
+            "updatedAt": "2023-06-07T13:49:27.831Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        1139,
+                        580
+                    ],
+                    [
+                        620,
+                        804
+                    ],
+                    [
+                        348,
+                        826
+                    ],
+                    [
+                        248,
+                        826
+                    ],
+                    [
+                        163,
+                        645
+                    ],
+                    [
+                        209,
+                        466
+                    ],
+                    [
+                        283,
+                        415
+                    ],
+                    [
+                        387,
+                        408
+                    ],
+                    [
+                        721,
+                        434
+                    ],
+                    [
+                        912,
+                        479
+                    ],
+                    [
+                        1136,
+                        499
+                    ],
+                    [
+                        1185,
+                        509
+                    ],
+                    [
+                        1185,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707597,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:27.830Z",
+            "updatedAt": "2023-06-07T13:49:27.830Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        813
+                    ],
+                    [
+                        371,
+                        995
+                    ],
+                    [
+                        711,
+                        914
+                    ],
+                    [
+                        912,
+                        839
+                    ],
+                    [
+                        1013,
+                        713
+                    ],
+                    [
+                        1010,
+                        687
+                    ],
+                    [
+                        792,
+                        726
+                    ],
+                    [
+                        523,
+                        804
+                    ],
+                    [
+                        445,
+                        813
+                    ],
+                    [
+                        387,
+                        813
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1733848,
+            "classId": 4057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:20.290Z",
+            "updatedAt": "2023-06-07T14:08:20.290Z",
+            "tags": [],
+            "classTitle": "bread-rye",
+            "points": {
+                "exterior": [
+                    [
+                        71,
+                        210
+                    ],
+                    [
+                        6,
+                        273
+                    ],
+                    [
+                        6,
+                        321
+                    ],
+                    [
+                        214,
+                        318
+                    ],
+                    [
+                        185,
+                        297
+                    ],
+                    [
+                        57,
+                        300
+                    ],
+                    [
+                        72,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733846,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:20.289Z",
+            "updatedAt": "2023-06-07T14:08:20.289Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        213
+                    ],
+                    [
+                        201,
+                        309
+                    ],
+                    [
+                        81,
+                        343
+                    ],
+                    [
+                        22,
+                        319
+                    ],
+                    [
+                        16,
+                        285
+                    ],
+                    [
+                        41,
+                        241
+                    ],
+                    [
+                        136,
+                        196
+                    ],
+                    [
+                        150,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733844,
+            "classId": 4069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:20.289Z",
+            "updatedAt": "2023-06-07T14:08:20.289Z",
+            "tags": [],
+            "classTitle": "blue-mould-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        207
+                    ],
+                    [
+                        83,
+                        211
+                    ],
+                    [
+                        60,
+                        265
+                    ],
+                    [
+                        97,
+                        298
+                    ],
+                    [
+                        161,
+                        314
+                    ],
+                    [
+                        177,
+                        303
+                    ],
+                    [
+                        180,
+                        283
+                    ],
+                    [
+                        167,
+                        241
+                    ],
+                    [
+                        161,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733843,
+            "classId": 4069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:20.289Z",
+            "updatedAt": "2023-06-07T14:08:20.289Z",
+            "tags": [],
+            "classTitle": "blue-mould-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        192
+                    ],
+                    [
+                        263,
+                        195
+                    ],
+                    [
+                        258,
+                        280
+                    ],
+                    [
+                        388,
+                        309
+                    ],
+                    [
+                        401,
+                        268
+                    ],
+                    [
+                        402,
+                        217
+                    ],
+                    [
+                        397,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

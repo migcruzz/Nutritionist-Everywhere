@@ -1,0 +1,350 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 866
+    },
+    "objects": [
+        {
+            "id": 1649991,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.272Z",
+            "updatedAt": "2023-06-07T13:09:15.272Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        440,
+                        476
+                    ],
+                    [
+                        533,
+                        428
+                    ],
+                    [
+                        594,
+                        387
+                    ],
+                    [
+                        628,
+                        346
+                    ],
+                    [
+                        576,
+                        294
+                    ],
+                    [
+                        509,
+                        257
+                    ],
+                    [
+                        418,
+                        233
+                    ],
+                    [
+                        356,
+                        251
+                    ],
+                    [
+                        310,
+                        270
+                    ],
+                    [
+                        295,
+                        292
+                    ],
+                    [
+                        312,
+                        320
+                    ],
+                    [
+                        362,
+                        335
+                    ],
+                    [
+                        353,
+                        355
+                    ],
+                    [
+                        343,
+                        409
+                    ],
+                    [
+                        369,
+                        465
+                    ],
+                    [
+                        401,
+                        500
+                    ],
+                    [
+                        425,
+                        502
+                    ],
+                    [
+                        429,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649989,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.272Z",
+            "updatedAt": "2023-06-07T13:09:15.272Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        498,
+                        445
+                    ],
+                    [
+                        570,
+                        473
+                    ],
+                    [
+                        574,
+                        436
+                    ],
+                    [
+                        539,
+                        415
+                    ],
+                    [
+                        502,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649988,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.271Z",
+            "updatedAt": "2023-06-07T13:09:15.271Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        462
+                    ],
+                    [
+                        422,
+                        440
+                    ],
+                    [
+                        431,
+                        414
+                    ],
+                    [
+                        418,
+                        404
+                    ],
+                    [
+                        401,
+                        406
+                    ],
+                    [
+                        386,
+                        414
+                    ],
+                    [
+                        381,
+                        436
+                    ],
+                    [
+                        386,
+                        451
+                    ],
+                    [
+                        379,
+                        481
+                    ],
+                    [
+                        412,
+                        492
+                    ],
+                    [
+                        425,
+                        488
+                    ],
+                    [
+                        427,
+                        475
+                    ],
+                    [
+                        412,
+                        462
+                    ],
+                    [
+                        405,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649986,
+            "classId": 4351,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.271Z",
+            "updatedAt": "2023-06-07T13:09:15.271Z",
+            "tags": [],
+            "classTitle": "beef-roast",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        664
+                    ],
+                    [
+                        399,
+                        692
+                    ],
+                    [
+                        538,
+                        677
+                    ],
+                    [
+                        587,
+                        625
+                    ],
+                    [
+                        607,
+                        582
+                    ],
+                    [
+                        512,
+                        552
+                    ],
+                    [
+                        505,
+                        543
+                    ],
+                    [
+                        501,
+                        497
+                    ],
+                    [
+                        425,
+                        476
+                    ],
+                    [
+                        310,
+                        504
+                    ],
+                    [
+                        276,
+                        528
+                    ],
+                    [
+                        254,
+                        573
+                    ],
+                    [
+                        215,
+                        640
+                    ],
+                    [
+                        252,
+                        684
+                    ],
+                    [
+                        312,
+                        675
+                    ],
+                    [
+                        312,
+                        675
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649984,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.270Z",
+            "updatedAt": "2023-06-07T13:09:15.270Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        422
+                    ],
+                    [
+                        306,
+                        471
+                    ],
+                    [
+                        234,
+                        430
+                    ],
+                    [
+                        206,
+                        394
+                    ],
+                    [
+                        163,
+                        359
+                    ],
+                    [
+                        128,
+                        348
+                    ],
+                    [
+                        148,
+                        285
+                    ],
+                    [
+                        206,
+                        255
+                    ],
+                    [
+                        250,
+                        305
+                    ],
+                    [
+                        302,
+                        361
+                    ],
+                    [
+                        332,
+                        396
+                    ],
+                    [
+                        332,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

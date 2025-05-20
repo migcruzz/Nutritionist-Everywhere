@@ -1,0 +1,238 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1794496,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:49:16.249Z",
+            "updatedAt": "2023-06-07T14:49:16.249Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        356
+                    ],
+                    [
+                        117,
+                        226
+                    ],
+                    [
+                        131,
+                        178
+                    ],
+                    [
+                        155,
+                        108
+                    ],
+                    [
+                        89,
+                        94
+                    ],
+                    [
+                        43,
+                        117
+                    ],
+                    [
+                        6,
+                        196
+                    ],
+                    [
+                        0,
+                        267
+                    ],
+                    [
+                        29,
+                        330
+                    ],
+                    [
+                        72,
+                        357
+                    ],
+                    [
+                        90,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1794494,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:49:16.248Z",
+            "updatedAt": "2023-06-07T14:49:16.248Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        254
+                    ],
+                    [
+                        221,
+                        201
+                    ],
+                    [
+                        142,
+                        201
+                    ],
+                    [
+                        125,
+                        244
+                    ],
+                    [
+                        113,
+                        284
+                    ],
+                    [
+                        121,
+                        324
+                    ],
+                    [
+                        95,
+                        354
+                    ],
+                    [
+                        69,
+                        357
+                    ],
+                    [
+                        85,
+                        409
+                    ],
+                    [
+                        155,
+                        406
+                    ],
+                    [
+                        197,
+                        426
+                    ],
+                    [
+                        269,
+                        420
+                    ],
+                    [
+                        339,
+                        376
+                    ],
+                    [
+                        317,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1794492,
+            "classId": 3631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:49:16.247Z",
+            "updatedAt": "2023-06-07T14:49:16.247Z",
+            "tags": [],
+            "classTitle": "taboule-prepared-with-couscous",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        222
+                    ],
+                    [
+                        136,
+                        200
+                    ],
+                    [
+                        153,
+                        135
+                    ],
+                    [
+                        161,
+                        79
+                    ],
+                    [
+                        207,
+                        68
+                    ],
+                    [
+                        252,
+                        94
+                    ],
+                    [
+                        280,
+                        123
+                    ],
+                    [
+                        298,
+                        188
+                    ],
+                    [
+                        299,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1794490,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:49:16.247Z",
+            "updatedAt": "2023-06-07T14:49:16.247Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        412,
+                        97
+                    ],
+                    [
+                        318,
+                        130
+                    ],
+                    [
+                        337,
+                        216
+                    ],
+                    [
+                        405,
+                        232
+                    ],
+                    [
+                        425,
+                        195
+                    ],
+                    [
+                        432,
+                        157
+                    ],
+                    [
+                        425,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

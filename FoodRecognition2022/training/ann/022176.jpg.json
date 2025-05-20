@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1746810,
+            "classId": 4361,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:22.012Z",
+            "updatedAt": "2023-06-07T14:17:22.012Z",
+            "tags": [],
+            "classTitle": "fig-dried",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        497
+                    ],
+                    [
+                        344,
+                        674
+                    ],
+                    [
+                        443,
+                        860
+                    ],
+                    [
+                        570,
+                        839
+                    ],
+                    [
+                        641,
+                        664
+                    ],
+                    [
+                        598,
+                        568
+                    ],
+                    [
+                        513,
+                        466
+                    ],
+                    [
+                        355,
+                        396
+                    ],
+                    [
+                        231,
+                        424
+                    ],
+                    [
+                        150,
+                        476
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1746808,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:22.012Z",
+            "updatedAt": "2023-06-07T14:17:22.012Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        544
+                    ],
+                    [
+                        84,
+                        702
+                    ],
+                    [
+                        417,
+                        799
+                    ],
+                    [
+                        384,
+                        714
+                    ],
+                    [
+                        254,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

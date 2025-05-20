@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1790205,
+            "classId": 4293,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:34.098Z",
+            "updatedAt": "2023-06-07T14:46:34.098Z",
+            "tags": [],
+            "classTitle": "cocktail",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        107
+                    ],
+                    [
+                        111,
+                        155
+                    ],
+                    [
+                        126,
+                        226
+                    ],
+                    [
+                        240,
+                        256
+                    ],
+                    [
+                        341,
+                        229
+                    ],
+                    [
+                        363,
+                        165
+                    ],
+                    [
+                        339,
+                        117
+                    ],
+                    [
+                        304,
+                        106
+                    ],
+                    [
+                        283,
+                        145
+                    ],
+                    [
+                        244,
+                        180
+                    ],
+                    [
+                        186,
+                        178
+                    ],
+                    [
+                        165,
+                        154
+                    ],
+                    [
+                        181,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1790203,
+            "classId": 3423,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:34.097Z",
+            "updatedAt": "2023-06-07T14:46:34.097Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        95
+                    ],
+                    [
+                        159,
+                        127
+                    ],
+                    [
+                        180,
+                        168
+                    ],
+                    [
+                        251,
+                        163
+                    ],
+                    [
+                        282,
+                        139
+                    ],
+                    [
+                        287,
+                        114
+                    ],
+                    [
+                        262,
+                        101
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

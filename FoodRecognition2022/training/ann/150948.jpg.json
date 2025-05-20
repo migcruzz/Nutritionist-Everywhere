@@ -1,0 +1,626 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1778487,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        153
+                    ],
+                    [
+                        244,
+                        132
+                    ],
+                    [
+                        232,
+                        167
+                    ],
+                    [
+                        235,
+                        195
+                    ],
+                    [
+                        286,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778486,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        199
+                    ],
+                    [
+                        143,
+                        210
+                    ],
+                    [
+                        121,
+                        240
+                    ],
+                    [
+                        163,
+                        263
+                    ],
+                    [
+                        226,
+                        264
+                    ],
+                    [
+                        227,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778484,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        124
+                    ],
+                    [
+                        133,
+                        108
+                    ],
+                    [
+                        137,
+                        149
+                    ],
+                    [
+                        173,
+                        159
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778482,
+            "classId": 3473,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "chickpeas",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        133
+                    ],
+                    [
+                        210,
+                        139
+                    ],
+                    [
+                        233,
+                        167
+                    ],
+                    [
+                        237,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778481,
+            "classId": 3473,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "chickpeas",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        146
+                    ],
+                    [
+                        136,
+                        197
+                    ],
+                    [
+                        164,
+                        210
+                    ],
+                    [
+                        186,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778480,
+            "classId": 3473,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "chickpeas",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        293
+                    ],
+                    [
+                        121,
+                        305
+                    ],
+                    [
+                        158,
+                        363
+                    ],
+                    [
+                        167,
+                        335
+                    ],
+                    [
+                        155,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778479,
+            "classId": 3473,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "chickpeas",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        249
+                    ],
+                    [
+                        270,
+                        268
+                    ],
+                    [
+                        305,
+                        298
+                    ],
+                    [
+                        323,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778477,
+            "classId": 4001,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "beans-kidney",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        164
+                    ],
+                    [
+                        342,
+                        193
+                    ],
+                    [
+                        360,
+                        209
+                    ],
+                    [
+                        386,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778476,
+            "classId": 4001,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "beans-kidney",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        302
+                    ],
+                    [
+                        264,
+                        282
+                    ],
+                    [
+                        254,
+                        303
+                    ],
+                    [
+                        305,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778475,
+            "classId": 4001,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "beans-kidney",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        151
+                    ],
+                    [
+                        110,
+                        180
+                    ],
+                    [
+                        146,
+                        187
+                    ],
+                    [
+                        159,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778474,
+            "classId": 4001,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "beans-kidney",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        285
+                    ],
+                    [
+                        173,
+                        287
+                    ],
+                    [
+                        182,
+                        313
+                    ],
+                    [
+                        220,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778473,
+            "classId": 4001,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "beans-kidney",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        110
+                    ],
+                    [
+                        229,
+                        132
+                    ],
+                    [
+                        246,
+                        150
+                    ],
+                    [
+                        233,
+                        165
+                    ],
+                    [
+                        250,
+                        184
+                    ],
+                    [
+                        269,
+                        170
+                    ],
+                    [
+                        258,
+                        133
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778471,
+            "classId": 3941,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.801Z",
+            "updatedAt": "2023-06-07T14:38:11.801Z",
+            "tags": [],
+            "classTitle": "pomegranate",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        128
+                    ],
+                    [
+                        192,
+                        114
+                    ],
+                    [
+                        176,
+                        134
+                    ],
+                    [
+                        195,
+                        154
+                    ],
+                    [
+                        203,
+                        145
+                    ],
+                    [
+                        198,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778469,
+            "classId": 3997,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.800Z",
+            "updatedAt": "2023-06-07T14:38:11.800Z",
+            "tags": [],
+            "classTitle": "red-radish",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        147
+                    ],
+                    [
+                        183,
+                        173
+                    ],
+                    [
+                        213,
+                        197
+                    ],
+                    [
+                        248,
+                        183
+                    ],
+                    [
+                        217,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778467,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.800Z",
+            "updatedAt": "2023-06-07T14:38:11.800Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        94
+                    ],
+                    [
+                        231,
+                        77
+                    ],
+                    [
+                        273,
+                        119
+                    ],
+                    [
+                        258,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778465,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.800Z",
+            "updatedAt": "2023-06-07T14:38:11.800Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        61
+                    ],
+                    [
+                        138,
+                        21
+                    ],
+                    [
+                        80,
+                        56
+                    ],
+                    [
+                        16,
+                        110
+                    ],
+                    [
+                        2,
+                        165
+                    ],
+                    [
+                        4,
+                        210
+                    ],
+                    [
+                        43,
+                        233
+                    ],
+                    [
+                        14,
+                        294
+                    ],
+                    [
+                        15,
+                        352
+                    ],
+                    [
+                        128,
+                        342
+                    ],
+                    [
+                        156,
+                        279
+                    ],
+                    [
+                        130,
+                        247
+                    ],
+                    [
+                        143,
+                        202
+                    ],
+                    [
+                        106,
+                        180
+                    ],
+                    [
+                        87,
+                        122
+                    ],
+                    [
+                        114,
+                        97
+                    ],
+                    [
+                        175,
+                        123
+                    ],
+                    [
+                        216,
+                        88
+                    ],
+                    [
+                        267,
+                        87
+                    ],
+                    [
+                        247,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

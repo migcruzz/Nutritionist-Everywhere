@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1743329,
+            "classId": 4101,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:00.086Z",
+            "updatedAt": "2023-06-07T14:15:00.086Z",
+            "tags": [],
+            "classTitle": "pizza-with-ham-baked",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        282
+                    ],
+                    [
+                        152,
+                        282
+                    ],
+                    [
+                        140,
+                        278
+                    ],
+                    [
+                        91,
+                        182
+                    ],
+                    [
+                        88,
+                        166
+                    ],
+                    [
+                        68,
+                        127
+                    ],
+                    [
+                        68,
+                        119
+                    ],
+                    [
+                        78,
+                        108
+                    ],
+                    [
+                        137,
+                        97
+                    ],
+                    [
+                        187,
+                        76
+                    ],
+                    [
+                        237,
+                        74
+                    ],
+                    [
+                        246,
+                        81
+                    ],
+                    [
+                        259,
+                        111
+                    ],
+                    [
+                        289,
+                        159
+                    ],
+                    [
+                        298,
+                        186
+                    ],
+                    [
+                        297,
+                        215
+                    ],
+                    [
+                        287,
+                        232
+                    ],
+                    [
+                        270,
+                        250
+                    ],
+                    [
+                        230,
+                        261
+                    ],
+                    [
+                        192,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743327,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:00.085Z",
+            "updatedAt": "2023-06-07T14:15:00.085Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        176
+                    ],
+                    [
+                        226,
+                        196
+                    ],
+                    [
+                        267,
+                        200
+                    ],
+                    [
+                        267,
+                        180
+                    ],
+                    [
+                        234,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743326,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:00.085Z",
+            "updatedAt": "2023-06-07T14:15:00.085Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        142
+                    ],
+                    [
+                        88,
+                        162
+                    ],
+                    [
+                        121,
+                        168
+                    ],
+                    [
+                        121,
+                        151
+                    ],
+                    [
+                        96,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

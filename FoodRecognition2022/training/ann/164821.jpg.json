@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1670455,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:32.416Z",
+            "updatedAt": "2023-06-07T13:23:32.416Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        239
+                    ],
+                    [
+                        263,
+                        202
+                    ],
+                    [
+                        216,
+                        205
+                    ],
+                    [
+                        174,
+                        215
+                    ],
+                    [
+                        165,
+                        257
+                    ],
+                    [
+                        201,
+                        252
+                    ],
+                    [
+                        233,
+                        238
+                    ],
+                    [
+                        303,
+                        252
+                    ],
+                    [
+                        269,
+                        285
+                    ],
+                    [
+                        305,
+                        305
+                    ],
+                    [
+                        313,
+                        296
+                    ],
+                    [
+                        319,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670454,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:32.416Z",
+            "updatedAt": "2023-06-07T13:23:32.416Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        344
+                    ],
+                    [
+                        245,
+                        319
+                    ],
+                    [
+                        233,
+                        340
+                    ],
+                    [
+                        236,
+                        349
+                    ],
+                    [
+                        273,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670452,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:32.415Z",
+            "updatedAt": "2023-06-07T13:23:32.415Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        228
+                    ],
+                    [
+                        178,
+                        272
+                    ],
+                    [
+                        153,
+                        302
+                    ],
+                    [
+                        161,
+                        311
+                    ],
+                    [
+                        198,
+                        314
+                    ],
+                    [
+                        223,
+                        310
+                    ],
+                    [
+                        300,
+                        355
+                    ],
+                    [
+                        331,
+                        318
+                    ],
+                    [
+                        275,
+                        280
+                    ],
+                    [
+                        293,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670451,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:32.415Z",
+            "updatedAt": "2023-06-07T13:23:32.415Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        80
+                    ],
+                    [
+                        311,
+                        119
+                    ],
+                    [
+                        321,
+                        144
+                    ],
+                    [
+                        318,
+                        167
+                    ],
+                    [
+                        320,
+                        200
+                    ],
+                    [
+                        335,
+                        180
+                    ],
+                    [
+                        337,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

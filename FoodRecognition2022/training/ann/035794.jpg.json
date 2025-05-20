@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1760194,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:28.733Z",
+            "updatedAt": "2023-06-07T14:26:28.733Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        42
+                    ],
+                    [
+                        19,
+                        48
+                    ],
+                    [
+                        52,
+                        172
+                    ],
+                    [
+                        78,
+                        175
+                    ],
+                    [
+                        75,
+                        53
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760193,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:28.731Z",
+            "updatedAt": "2023-06-07T14:26:28.731Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        159
+                    ],
+                    [
+                        202,
+                        135
+                    ],
+                    [
+                        186,
+                        173
+                    ],
+                    [
+                        204,
+                        247
+                    ],
+                    [
+                        202,
+                        280
+                    ],
+                    [
+                        225,
+                        321
+                    ],
+                    [
+                        216,
+                        355
+                    ],
+                    [
+                        252,
+                        345
+                    ],
+                    [
+                        245,
+                        265
+                    ],
+                    [
+                        241,
+                        198
+                    ],
+                    [
+                        227,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760192,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:28.731Z",
+            "updatedAt": "2023-06-07T14:26:28.731Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        371
+                    ],
+                    [
+                        69,
+                        334
+                    ],
+                    [
+                        115,
+                        382
+                    ],
+                    [
+                        186,
+                        407
+                    ],
+                    [
+                        227,
+                        432
+                    ],
+                    [
+                        299,
+                        442
+                    ],
+                    [
+                        285,
+                        418
+                    ],
+                    [
+                        220,
+                        396
+                    ],
+                    [
+                        181,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

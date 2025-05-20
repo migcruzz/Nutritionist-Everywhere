@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 865
+    },
+    "objects": [
+        {
+            "id": 1667899,
+            "classId": 4011,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.395Z",
+            "updatedAt": "2023-06-07T13:21:44.395Z",
+            "tags": [],
+            "classTitle": "pasta-linguini-parpadelle-tagliatelle",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        617
+                    ],
+                    [
+                        355,
+                        658
+                    ],
+                    [
+                        411,
+                        517
+                    ],
+                    [
+                        427,
+                        372
+                    ],
+                    [
+                        401,
+                        272
+                    ],
+                    [
+                        238,
+                        225
+                    ],
+                    [
+                        158,
+                        285
+                    ],
+                    [
+                        123,
+                        433
+                    ],
+                    [
+                        147,
+                        552
+                    ],
+                    [
+                        156,
+                        569
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667897,
+            "classId": 3979,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.395Z",
+            "updatedAt": "2023-06-07T13:21:44.395Z",
+            "tags": [],
+            "classTitle": "sauce-mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        573
+                    ],
+                    [
+                        297,
+                        651
+                    ],
+                    [
+                        385,
+                        606
+                    ],
+                    [
+                        364,
+                        528
+                    ],
+                    [
+                        290,
+                        484
+                    ],
+                    [
+                        288,
+                        435
+                    ],
+                    [
+                        286,
+                        344
+                    ],
+                    [
+                        273,
+                        257
+                    ],
+                    [
+                        208,
+                        242
+                    ],
+                    [
+                        195,
+                        322
+                    ],
+                    [
+                        167,
+                        376
+                    ],
+                    [
+                        160,
+                        465
+                    ],
+                    [
+                        178,
+                        558
+                    ],
+                    [
+                        178,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

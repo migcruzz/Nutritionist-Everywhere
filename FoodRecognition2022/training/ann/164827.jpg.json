@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1649046,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:42.683Z",
+            "updatedAt": "2023-06-07T13:08:42.683Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        151
+                    ],
+                    [
+                        117,
+                        171
+                    ],
+                    [
+                        108,
+                        208
+                    ],
+                    [
+                        127,
+                        257
+                    ],
+                    [
+                        172,
+                        271
+                    ],
+                    [
+                        247,
+                        249
+                    ],
+                    [
+                        255,
+                        207
+                    ],
+                    [
+                        210,
+                        154
+                    ],
+                    [
+                        180,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649045,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:42.683Z",
+            "updatedAt": "2023-06-07T13:08:42.683Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        92
+                    ],
+                    [
+                        227,
+                        131
+                    ],
+                    [
+                        241,
+                        162
+                    ],
+                    [
+                        282,
+                        192
+                    ],
+                    [
+                        332,
+                        202
+                    ],
+                    [
+                        377,
+                        162
+                    ],
+                    [
+                        365,
+                        128
+                    ],
+                    [
+                        320,
+                        108
+                    ],
+                    [
+                        286,
+                        102
+                    ],
+                    [
+                        282,
+                        100
+                    ],
+                    [
+                        283,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

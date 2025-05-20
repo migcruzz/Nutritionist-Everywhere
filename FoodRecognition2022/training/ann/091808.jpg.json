@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1711722,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.044Z",
+            "updatedAt": "2023-06-07T13:52:42.044Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        183
+                    ],
+                    [
+                        269,
+                        151
+                    ],
+                    [
+                        270,
+                        99
+                    ],
+                    [
+                        227,
+                        59
+                    ],
+                    [
+                        189,
+                        56
+                    ],
+                    [
+                        142,
+                        77
+                    ],
+                    [
+                        131,
+                        113
+                    ],
+                    [
+                        140,
+                        145
+                    ],
+                    [
+                        154,
+                        165
+                    ],
+                    [
+                        185,
+                        186
+                    ],
+                    [
+                        226,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711721,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.044Z",
+            "updatedAt": "2023-06-07T13:52:42.044Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        191
+                    ],
+                    [
+                        234,
+                        236
+                    ],
+                    [
+                        208,
+                        306
+                    ],
+                    [
+                        280,
+                        383
+                    ],
+                    [
+                        325,
+                        371
+                    ],
+                    [
+                        354,
+                        331
+                    ],
+                    [
+                        378,
+                        272
+                    ],
+                    [
+                        363,
+                        228
+                    ],
+                    [
+                        313,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 845,
+        "width": 845
+    },
+    "objects": [
+        {
+            "id": 1800992,
+            "classId": 3719,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:56.399Z",
+            "updatedAt": "2023-06-07T14:53:56.399Z",
+            "tags": [],
+            "classTitle": "fajita-bread-only",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        143
+                    ],
+                    [
+                        280,
+                        287
+                    ],
+                    [
+                        61,
+                        403
+                    ],
+                    [
+                        16,
+                        465
+                    ],
+                    [
+                        103,
+                        627
+                    ],
+                    [
+                        287,
+                        678
+                    ],
+                    [
+                        447,
+                        682
+                    ],
+                    [
+                        561,
+                        631
+                    ],
+                    [
+                        635,
+                        538
+                    ],
+                    [
+                        679,
+                        462
+                    ],
+                    [
+                        734,
+                        376
+                    ],
+                    [
+                        768,
+                        266
+                    ],
+                    [
+                        732,
+                        156
+                    ],
+                    [
+                        644,
+                        38
+                    ],
+                    [
+                        610,
+                        25
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800990,
+            "classId": 4099,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:56.398Z",
+            "updatedAt": "2023-06-07T14:53:56.398Z",
+            "tags": [],
+            "classTitle": "beef-minced-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        653
+                    ],
+                    [
+                        544,
+                        587
+                    ],
+                    [
+                        603,
+                        500
+                    ],
+                    [
+                        654,
+                        393
+                    ],
+                    [
+                        698,
+                        287
+                    ],
+                    [
+                        709,
+                        177
+                    ],
+                    [
+                        694,
+                        120
+                    ],
+                    [
+                        625,
+                        154
+                    ],
+                    [
+                        578,
+                        283
+                    ],
+                    [
+                        502,
+                        403
+                    ],
+                    [
+                        415,
+                        503
+                    ],
+                    [
+                        413,
+                        509
+                    ],
+                    [
+                        413,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800988,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:56.397Z",
+            "updatedAt": "2023-06-07T14:53:56.397Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        625,
+                        247
+                    ],
+                    [
+                        677,
+                        255
+                    ],
+                    [
+                        686,
+                        219
+                    ],
+                    [
+                        652,
+                        173
+                    ],
+                    [
+                        608,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800987,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:56.397Z",
+            "updatedAt": "2023-06-07T14:53:56.397Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        515,
+                        350
+                    ],
+                    [
+                        580,
+                        327
+                    ],
+                    [
+                        576,
+                        268
+                    ],
+                    [
+                        532,
+                        304
+                    ],
+                    [
+                        532,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

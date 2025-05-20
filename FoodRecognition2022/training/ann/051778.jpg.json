@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1700240,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:02.208Z",
+            "updatedAt": "2023-06-07T13:44:02.208Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        68
+                    ],
+                    [
+                        132,
+                        139
+                    ],
+                    [
+                        221,
+                        195
+                    ],
+                    [
+                        285,
+                        163
+                    ],
+                    [
+                        289,
+                        130
+                    ],
+                    [
+                        253,
+                        69
+                    ],
+                    [
+                        193,
+                        66
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

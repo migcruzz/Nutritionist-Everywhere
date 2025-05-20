@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1679318,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:31.713Z",
+            "updatedAt": "2023-06-07T13:29:31.713Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        214
+                    ],
+                    [
+                        253,
+                        261
+                    ],
+                    [
+                        303,
+                        297
+                    ],
+                    [
+                        366,
+                        252
+                    ],
+                    [
+                        352,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679317,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:31.713Z",
+            "updatedAt": "2023-06-07T13:29:31.713Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        142
+                    ],
+                    [
+                        105,
+                        186
+                    ],
+                    [
+                        169,
+                        186
+                    ],
+                    [
+                        216,
+                        169
+                    ],
+                    [
+                        197,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679315,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:31.713Z",
+            "updatedAt": "2023-06-07T13:29:31.713Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        190
+                    ],
+                    [
+                        11,
+                        267
+                    ],
+                    [
+                        81,
+                        280
+                    ],
+                    [
+                        101,
+                        240
+                    ],
+                    [
+                        82,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679313,
+            "classId": 3529,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:31.712Z",
+            "updatedAt": "2023-06-07T13:29:31.712Z",
+            "tags": [],
+            "classTitle": "sausage",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        85
+                    ],
+                    [
+                        274,
+                        152
+                    ],
+                    [
+                        477,
+                        148
+                    ],
+                    [
+                        460,
+                        111
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

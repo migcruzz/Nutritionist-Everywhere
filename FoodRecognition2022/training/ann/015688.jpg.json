@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1689244,
+            "classId": 3771,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:15.072Z",
+            "updatedAt": "2023-06-07T13:36:15.072Z",
+            "tags": [],
+            "classTitle": "couscous",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        279
+                    ],
+                    [
+                        230,
+                        595
+                    ],
+                    [
+                        499,
+                        551
+                    ],
+                    [
+                        580,
+                        476
+                    ],
+                    [
+                        585,
+                        360
+                    ],
+                    [
+                        557,
+                        298
+                    ],
+                    [
+                        503,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1689242,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:15.070Z",
+            "updatedAt": "2023-06-07T13:36:15.070Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        420,
+                        158
+                    ],
+                    [
+                        94,
+                        405
+                    ],
+                    [
+                        71,
+                        311
+                    ],
+                    [
+                        90,
+                        226
+                    ],
+                    [
+                        161,
+                        113
+                    ],
+                    [
+                        338,
+                        72
+                    ],
+                    [
+                        422,
+                        127
+                    ],
+                    [
+                        415,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1689240,
+            "classId": 3929,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:15.068Z",
+            "updatedAt": "2023-06-07T13:36:15.068Z",
+            "tags": [],
+            "classTitle": "fish",
+            "points": {
+                "exterior": [
+                    [
+                        505,
+                        122
+                    ],
+                    [
+                        123,
+                        404
+                    ],
+                    [
+                        32,
+                        493
+                    ],
+                    [
+                        142,
+                        566
+                    ],
+                    [
+                        216,
+                        564
+                    ],
+                    [
+                        266,
+                        550
+                    ],
+                    [
+                        499,
+                        305
+                    ],
+                    [
+                        574,
+                        166
+                    ],
+                    [
+                        546,
+                        102
+                    ],
+                    [
+                        505,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

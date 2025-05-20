@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1787637,
+            "classId": 3913,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:36.199Z",
+            "updatedAt": "2023-06-07T14:44:36.199Z",
+            "tags": [],
+            "classTitle": "crisp-bread-wasa",
+            "points": {
+                "exterior": [
+                    [
+                        577,
+                        552
+                    ],
+                    [
+                        485,
+                        632
+                    ],
+                    [
+                        684,
+                        706
+                    ],
+                    [
+                        774,
+                        645
+                    ],
+                    [
+                        574,
+                        560
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787635,
+            "classId": 3951,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:36.199Z",
+            "updatedAt": "2023-06-07T14:44:36.199Z",
+            "tags": [],
+            "classTitle": "sesame-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        549,
+                        637
+                    ],
+                    [
+                        334,
+                        706
+                    ],
+                    [
+                        500,
+                        739
+                    ],
+                    [
+                        672,
+                        729
+                    ],
+                    [
+                        577,
+                        652
+                    ],
+                    [
+                        564,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787633,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:36.199Z",
+            "updatedAt": "2023-06-07T14:44:36.199Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        508,
+                        742
+                    ],
+                    [
+                        451,
+                        744
+                    ],
+                    [
+                        364,
+                        791
+                    ],
+                    [
+                        423,
+                        857
+                    ],
+                    [
+                        631,
+                        834
+                    ],
+                    [
+                        689,
+                        821
+                    ],
+                    [
+                        672,
+                        752
+                    ],
+                    [
+                        567,
+                        719
+                    ],
+                    [
+                        520,
+                        727
+                    ],
+                    [
+                        515,
+                        727
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

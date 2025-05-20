@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1656211,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.285Z",
+            "updatedAt": "2023-06-07T13:13:32.285Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        299,
+                        133
+                    ],
+                    [
+                        140,
+                        162
+                    ],
+                    [
+                        203,
+                        407
+                    ],
+                    [
+                        259,
+                        413
+                    ],
+                    [
+                        279,
+                        371
+                    ],
+                    [
+                        312,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656209,
+            "classId": 4211,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.285Z",
+            "updatedAt": "2023-06-07T13:13:32.285Z",
+            "tags": [],
+            "classTitle": "thickened-cream-35",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        141
+                    ],
+                    [
+                        318,
+                        65
+                    ],
+                    [
+                        261,
+                        23
+                    ],
+                    [
+                        175,
+                        8
+                    ],
+                    [
+                        126,
+                        43
+                    ],
+                    [
+                        134,
+                        119
+                    ],
+                    [
+                        153,
+                        158
+                    ],
+                    [
+                        249,
+                        180
+                    ],
+                    [
+                        286,
+                        167
+                    ],
+                    [
+                        289,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

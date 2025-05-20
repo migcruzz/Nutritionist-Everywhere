@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 866
+    },
+    "objects": [
+        {
+            "id": 1754978,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:01.027Z",
+            "updatedAt": "2023-06-07T14:23:01.027Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        666
+                    ],
+                    [
+                        520,
+                        552
+                    ],
+                    [
+                        507,
+                        437
+                    ],
+                    [
+                        366,
+                        350
+                    ],
+                    [
+                        250,
+                        402
+                    ],
+                    [
+                        200,
+                        480
+                    ],
+                    [
+                        208,
+                        556
+                    ],
+                    [
+                        302,
+                        647
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754976,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:01.027Z",
+            "updatedAt": "2023-06-07T14:23:01.027Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        463
+                    ],
+                    [
+                        606,
+                        465
+                    ],
+                    [
+                        641,
+                        333
+                    ],
+                    [
+                        561,
+                        253
+                    ],
+                    [
+                        431,
+                        263
+                    ],
+                    [
+                        409,
+                        330
+                    ],
+                    [
+                        429,
+                        365
+                    ],
+                    [
+                        429,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754974,
+            "classId": 4373,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:01.024Z",
+            "updatedAt": "2023-06-07T14:23:01.024Z",
+            "tags": [],
+            "classTitle": "shoots",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        510
+                    ],
+                    [
+                        533,
+                        489
+                    ],
+                    [
+                        486,
+                        398
+                    ],
+                    [
+                        377,
+                        352
+                    ],
+                    [
+                        319,
+                        372
+                    ],
+                    [
+                        325,
+                        454
+                    ],
+                    [
+                        343,
+                        484
+                    ],
+                    [
+                        343,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

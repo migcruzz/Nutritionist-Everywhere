@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1776245,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.947Z",
+            "updatedAt": "2023-06-07T14:36:46.947Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        165
+                    ],
+                    [
+                        246,
+                        249
+                    ],
+                    [
+                        196,
+                        307
+                    ],
+                    [
+                        183,
+                        383
+                    ],
+                    [
+                        258,
+                        403
+                    ],
+                    [
+                        303,
+                        264
+                    ],
+                    [
+                        360,
+                        244
+                    ],
+                    [
+                        436,
+                        234
+                    ],
+                    [
+                        407,
+                        184
+                    ],
+                    [
+                        382,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776243,
+            "classId": 3557,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.947Z",
+            "updatedAt": "2023-06-07T14:36:46.947Z",
+            "tags": [],
+            "classTitle": "green-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        138
+                    ],
+                    [
+                        10,
+                        111
+                    ],
+                    [
+                        52,
+                        413
+                    ],
+                    [
+                        237,
+                        468
+                    ],
+                    [
+                        150,
+                        273
+                    ],
+                    [
+                        87,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776241,
+            "classId": 4401,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.946Z",
+            "updatedAt": "2023-06-07T14:36:46.946Z",
+            "tags": [],
+            "classTitle": "white-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        88
+                    ],
+                    [
+                        57,
+                        75
+                    ],
+                    [
+                        100,
+                        187
+                    ],
+                    [
+                        117,
+                        263
+                    ],
+                    [
+                        161,
+                        379
+                    ],
+                    [
+                        195,
+                        418
+                    ],
+                    [
+                        201,
+                        305
+                    ],
+                    [
+                        162,
+                        166
+                    ],
+                    [
+                        150,
+                        108
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

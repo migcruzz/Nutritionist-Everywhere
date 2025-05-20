@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1771899,
+            "classId": 4355,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:00.597Z",
+            "updatedAt": "2023-06-07T14:34:00.597Z",
+            "tags": [],
+            "classTitle": "pasta-in-conch-form",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        36
+                    ],
+                    [
+                        229,
+                        265
+                    ],
+                    [
+                        291,
+                        385
+                    ],
+                    [
+                        310,
+                        433
+                    ],
+                    [
+                        151,
+                        462
+                    ],
+                    [
+                        57,
+                        402
+                    ],
+                    [
+                        13,
+                        300
+                    ],
+                    [
+                        17,
+                        160
+                    ],
+                    [
+                        27,
+                        59
+                    ],
+                    [
+                        117,
+                        43
+                    ],
+                    [
+                        175,
+                        49
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1771897,
+            "classId": 3715,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:00.597Z",
+            "updatedAt": "2023-06-07T14:34:00.597Z",
+            "tags": [],
+            "classTitle": "bolognaise-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        78
+                    ],
+                    [
+                        225,
+                        25
+                    ],
+                    [
+                        197,
+                        160
+                    ],
+                    [
+                        232,
+                        318
+                    ],
+                    [
+                        301,
+                        414
+                    ],
+                    [
+                        383,
+                        430
+                    ],
+                    [
+                        442,
+                        372
+                    ],
+                    [
+                        455,
+                        269
+                    ],
+                    [
+                        468,
+                        209
+                    ],
+                    [
+                        408,
+                        101
+                    ],
+                    [
+                        403,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 912,
+        "width": 912
+    },
+    "objects": [
+        {
+            "id": 1641202,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:32.053Z",
+            "updatedAt": "2023-06-07T13:03:32.053Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        885,
+                        412
+                    ],
+                    [
+                        552,
+                        551
+                    ],
+                    [
+                        475,
+                        624
+                    ],
+                    [
+                        555,
+                        656
+                    ],
+                    [
+                        671,
+                        665
+                    ],
+                    [
+                        828,
+                        629
+                    ],
+                    [
+                        876,
+                        579
+                    ],
+                    [
+                        904,
+                        572
+                    ],
+                    [
+                        899,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1641200,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:32.052Z",
+            "updatedAt": "2023-06-07T13:03:32.052Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        589,
+                        688
+                    ],
+                    [
+                        621,
+                        763
+                    ],
+                    [
+                        776,
+                        686
+                    ],
+                    [
+                        869,
+                        649
+                    ],
+                    [
+                        737,
+                        665
+                    ],
+                    [
+                        621,
+                        672
+                    ],
+                    [
+                        614,
+                        672
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

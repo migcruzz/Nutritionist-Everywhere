@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1754727,
+            "classId": 3609,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:46.531Z",
+            "updatedAt": "2023-06-07T14:22:46.531Z",
+            "tags": [],
+            "classTitle": "bread-grain",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        180
+                    ],
+                    [
+                        308,
+                        175
+                    ],
+                    [
+                        342,
+                        124
+                    ],
+                    [
+                        342,
+                        115
+                    ],
+                    [
+                        319,
+                        52
+                    ],
+                    [
+                        264,
+                        30
+                    ],
+                    [
+                        207,
+                        44
+                    ],
+                    [
+                        170,
+                        71
+                    ],
+                    [
+                        162,
+                        103
+                    ],
+                    [
+                        176,
+                        146
+                    ],
+                    [
+                        180,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754725,
+            "classId": 3561,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:46.531Z",
+            "updatedAt": "2023-06-07T14:22:46.531Z",
+            "tags": [],
+            "classTitle": "lye-pretzel-soft",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        262
+                    ],
+                    [
+                        188,
+                        260
+                    ],
+                    [
+                        140,
+                        318
+                    ],
+                    [
+                        140,
+                        322
+                    ],
+                    [
+                        154,
+                        403
+                    ],
+                    [
+                        194,
+                        472
+                    ],
+                    [
+                        196,
+                        473
+                    ],
+                    [
+                        237,
+                        475
+                    ],
+                    [
+                        249,
+                        475
+                    ],
+                    [
+                        299,
+                        477
+                    ],
+                    [
+                        360,
+                        445
+                    ],
+                    [
+                        380,
+                        400
+                    ],
+                    [
+                        392,
+                        347
+                    ],
+                    [
+                        387,
+                        306
+                    ],
+                    [
+                        373,
+                        290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754723,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:46.530Z",
+            "updatedAt": "2023-06-07T14:22:46.530Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        257
+                    ],
+                    [
+                        245,
+                        192
+                    ],
+                    [
+                        202,
+                        178
+                    ],
+                    [
+                        134,
+                        194
+                    ],
+                    [
+                        99,
+                        230
+                    ],
+                    [
+                        117,
+                        280
+                    ],
+                    [
+                        127,
+                        299
+                    ],
+                    [
+                        152,
+                        297
+                    ],
+                    [
+                        196,
+                        279
+                    ],
+                    [
+                        205,
+                        270
+                    ],
+                    [
+                        212,
+                        267
+                    ],
+                    [
+                        217,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

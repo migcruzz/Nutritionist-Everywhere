@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1728681,
+            "classId": 3557,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:44.198Z",
+            "updatedAt": "2023-06-07T14:04:44.198Z",
+            "tags": [],
+            "classTitle": "green-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        93
+                    ],
+                    [
+                        79,
+                        109
+                    ],
+                    [
+                        12,
+                        124
+                    ],
+                    [
+                        3,
+                        158
+                    ],
+                    [
+                        22,
+                        238
+                    ],
+                    [
+                        152,
+                        351
+                    ],
+                    [
+                        205,
+                        387
+                    ],
+                    [
+                        260,
+                        385
+                    ],
+                    [
+                        252,
+                        335
+                    ],
+                    [
+                        188,
+                        286
+                    ],
+                    [
+                        129,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728679,
+            "classId": 3451,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:44.198Z",
+            "updatedAt": "2023-06-07T14:04:44.198Z",
+            "tags": [],
+            "classTitle": "ham",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        147
+                    ],
+                    [
+                        133,
+                        181
+                    ],
+                    [
+                        166,
+                        258
+                    ],
+                    [
+                        248,
+                        331
+                    ],
+                    [
+                        329,
+                        354
+                    ],
+                    [
+                        320,
+                        289
+                    ],
+                    [
+                        277,
+                        273
+                    ],
+                    [
+                        292,
+                        233
+                    ],
+                    [
+                        287,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728677,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:44.198Z",
+            "updatedAt": "2023-06-07T14:04:44.198Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        78
+                    ],
+                    [
+                        197,
+                        92
+                    ],
+                    [
+                        189,
+                        134
+                    ],
+                    [
+                        242,
+                        146
+                    ],
+                    [
+                        273,
+                        126
+                    ],
+                    [
+                        267,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

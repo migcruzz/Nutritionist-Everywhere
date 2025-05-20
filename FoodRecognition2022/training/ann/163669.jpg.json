@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1700905,
+            "classId": 4359,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:27.978Z",
+            "updatedAt": "2023-06-07T13:44:27.978Z",
+            "tags": [],
+            "classTitle": "sauce-carbonara",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        221
+                    ],
+                    [
+                        244,
+                        202
+                    ],
+                    [
+                        230,
+                        248
+                    ],
+                    [
+                        160,
+                        308
+                    ],
+                    [
+                        108,
+                        297
+                    ],
+                    [
+                        149,
+                        365
+                    ],
+                    [
+                        259,
+                        403
+                    ],
+                    [
+                        280,
+                        384
+                    ],
+                    [
+                        252,
+                        321
+                    ],
+                    [
+                        305,
+                        281
+                    ],
+                    [
+                        335,
+                        261
+                    ],
+                    [
+                        331,
+                        259
+                    ],
+                    [
+                        331,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1700903,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:27.976Z",
+            "updatedAt": "2023-06-07T13:44:27.976Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        251
+                    ],
+                    [
+                        251,
+                        248
+                    ],
+                    [
+                        236,
+                        278
+                    ],
+                    [
+                        232,
+                        345
+                    ],
+                    [
+                        260,
+                        364
+                    ],
+                    [
+                        287,
+                        353
+                    ],
+                    [
+                        307,
+                        307
+                    ],
+                    [
+                        309,
+                        304
+                    ],
+                    [
+                        309,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

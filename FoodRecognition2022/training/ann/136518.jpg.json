@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 936,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1718484,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:33.304Z",
+            "updatedAt": "2023-06-07T13:57:33.304Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        336
+                    ],
+                    [
+                        248,
+                        401
+                    ],
+                    [
+                        245,
+                        507
+                    ],
+                    [
+                        311,
+                        706
+                    ],
+                    [
+                        377,
+                        752
+                    ],
+                    [
+                        400,
+                        734
+                    ],
+                    [
+                        391,
+                        348
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1718483,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:33.304Z",
+            "updatedAt": "2023-06-07T13:57:33.304Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        331
+                    ],
+                    [
+                        557,
+                        385
+                    ],
+                    [
+                        571,
+                        556
+                    ],
+                    [
+                        526,
+                        696
+                    ],
+                    [
+                        444,
+                        741
+                    ],
+                    [
+                        428,
+                        352
+                    ],
+                    [
+                        428,
+                        352
+                    ],
+                    [
+                        440,
+                        343
+                    ],
+                    [
+                        444,
+                        338
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

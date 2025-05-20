@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1798854,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:29.049Z",
+            "updatedAt": "2023-06-07T14:52:29.049Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        403
+                    ],
+                    [
+                        258,
+                        403
+                    ],
+                    [
+                        249,
+                        399
+                    ],
+                    [
+                        227,
+                        371
+                    ],
+                    [
+                        213,
+                        340
+                    ],
+                    [
+                        191,
+                        264
+                    ],
+                    [
+                        181,
+                        242
+                    ],
+                    [
+                        165,
+                        224
+                    ],
+                    [
+                        161,
+                        213
+                    ],
+                    [
+                        170,
+                        195
+                    ],
+                    [
+                        187,
+                        178
+                    ],
+                    [
+                        226,
+                        165
+                    ],
+                    [
+                        259,
+                        139
+                    ],
+                    [
+                        275,
+                        135
+                    ],
+                    [
+                        289,
+                        138
+                    ],
+                    [
+                        308,
+                        148
+                    ],
+                    [
+                        321,
+                        160
+                    ],
+                    [
+                        338,
+                        184
+                    ],
+                    [
+                        347,
+                        200
+                    ],
+                    [
+                        381,
+                        303
+                    ],
+                    [
+                        380,
+                        369
+                    ],
+                    [
+                        374,
+                        384
+                    ],
+                    [
+                        367,
+                        392
+                    ],
+                    [
+                        356,
+                        396
+                    ],
+                    [
+                        311,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798852,
+            "classId": 3499,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:29.049Z",
+            "updatedAt": "2023-06-07T14:52:29.049Z",
+            "tags": [],
+            "classTitle": "peanut-butter",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        253
+                    ],
+                    [
+                        214,
+                        253
+                    ],
+                    [
+                        214,
+                        265
+                    ],
+                    [
+                        248,
+                        268
+                    ],
+                    [
+                        249,
+                        262
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798851,
+            "classId": 3499,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:29.049Z",
+            "updatedAt": "2023-06-07T14:52:29.049Z",
+            "tags": [],
+            "classTitle": "peanut-butter",
+            "points": {
+                "exterior": [
+                    [
+                        333,
+                        304
+                    ],
+                    [
+                        314,
+                        303
+                    ],
+                    [
+                        336,
+                        331
+                    ],
+                    [
+                        336,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

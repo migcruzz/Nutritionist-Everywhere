@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1297,
+        "width": 1297
+    },
+    "objects": [
+        {
+            "id": 1678386,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:57.391Z",
+            "updatedAt": "2023-06-07T13:28:57.391Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        669,
+                        191
+                    ],
+                    [
+                        734,
+                        765
+                    ],
+                    [
+                        406,
+                        830
+                    ],
+                    [
+                        157,
+                        875
+                    ],
+                    [
+                        134,
+                        778
+                    ],
+                    [
+                        199,
+                        518
+                    ],
+                    [
+                        413,
+                        239
+                    ],
+                    [
+                        523,
+                        178
+                    ],
+                    [
+                        552,
+                        58
+                    ],
+                    [
+                        559,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1678384,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:57.390Z",
+            "updatedAt": "2023-06-07T13:28:57.390Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        932,
+                        333
+                    ],
+                    [
+                        714,
+                        324
+                    ],
+                    [
+                        669,
+                        379
+                    ],
+                    [
+                        711,
+                        567
+                    ],
+                    [
+                        727,
+                        706
+                    ],
+                    [
+                        721,
+                        804
+                    ],
+                    [
+                        857,
+                        826
+                    ],
+                    [
+                        1003,
+                        817
+                    ],
+                    [
+                        1091,
+                        742
+                    ],
+                    [
+                        1091,
+                        603
+                    ],
+                    [
+                        1006,
+                        450
+                    ],
+                    [
+                        958,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

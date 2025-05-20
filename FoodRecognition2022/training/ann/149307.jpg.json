@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 809,
+        "width": 809
+    },
+    "objects": [
+        {
+            "id": 1759897,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:09.828Z",
+            "updatedAt": "2023-06-07T14:26:09.828Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        222
+                    ],
+                    [
+                        288,
+                        410
+                    ],
+                    [
+                        288,
+                        567
+                    ],
+                    [
+                        223,
+                        667
+                    ],
+                    [
+                        405,
+                        662
+                    ],
+                    [
+                        520,
+                        513
+                    ],
+                    [
+                        454,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1759895,
+            "classId": 3693,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:09.827Z",
+            "updatedAt": "2023-06-07T14:26:09.827Z",
+            "tags": [],
+            "classTitle": "cream-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        268
+                    ],
+                    [
+                        488,
+                        464
+                    ],
+                    [
+                        476,
+                        565
+                    ],
+                    [
+                        419,
+                        667
+                    ],
+                    [
+                        692,
+                        664
+                    ],
+                    [
+                        763,
+                        586
+                    ],
+                    [
+                        739,
+                        282
+                    ],
+                    [
+                        666,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1759893,
+            "classId": 3569,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:09.826Z",
+            "updatedAt": "2023-06-07T14:26:09.826Z",
+            "tags": [],
+            "classTitle": "soup-of-lentils-dahl-dhal",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        216
+                    ],
+                    [
+                        108,
+                        213
+                    ],
+                    [
+                        27,
+                        252
+                    ],
+                    [
+                        13,
+                        610
+                    ],
+                    [
+                        98,
+                        691
+                    ],
+                    [
+                        209,
+                        679
+                    ],
+                    [
+                        296,
+                        535
+                    ],
+                    [
+                        300,
+                        466
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

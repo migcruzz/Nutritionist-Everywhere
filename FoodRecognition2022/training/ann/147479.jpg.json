@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1717109,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.930Z",
+            "updatedAt": "2023-06-07T13:56:36.930Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        256
+                    ],
+                    [
+                        166,
+                        310
+                    ],
+                    [
+                        133,
+                        414
+                    ],
+                    [
+                        255,
+                        421
+                    ],
+                    [
+                        312,
+                        518
+                    ],
+                    [
+                        368,
+                        346
+                    ],
+                    [
+                        328,
+                        254
+                    ],
+                    [
+                        272,
+                        185
+                    ],
+                    [
+                        239,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717107,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.928Z",
+            "updatedAt": "2023-06-07T13:56:36.928Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        362
+                    ],
+                    [
+                        182,
+                        282
+                    ],
+                    [
+                        95,
+                        256
+                    ],
+                    [
+                        29,
+                        313
+                    ],
+                    [
+                        48,
+                        362
+                    ],
+                    [
+                        71,
+                        386
+                    ],
+                    [
+                        90,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717105,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.928Z",
+            "updatedAt": "2023-06-07T13:56:36.928Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        571,
+                        140
+                    ],
+                    [
+                        552,
+                        202
+                    ],
+                    [
+                        562,
+                        272
+                    ],
+                    [
+                        635,
+                        310
+                    ],
+                    [
+                        753,
+                        277
+                    ],
+                    [
+                        755,
+                        188
+                    ],
+                    [
+                        706,
+                        115
+                    ],
+                    [
+                        628,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717103,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.927Z",
+            "updatedAt": "2023-06-07T13:56:36.927Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        727,
+                        296
+                    ],
+                    [
+                        449,
+                        372
+                    ],
+                    [
+                        477,
+                        428
+                    ],
+                    [
+                        475,
+                        471
+                    ],
+                    [
+                        750,
+                        584
+                    ],
+                    [
+                        899,
+                        423
+                    ],
+                    [
+                        757,
+                        364
+                    ],
+                    [
+                        748,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

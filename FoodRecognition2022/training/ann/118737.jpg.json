@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1100,
+        "width": 1101
+    },
+    "objects": [
+        {
+            "id": 1661057,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:48.794Z",
+            "updatedAt": "2023-06-07T13:16:48.794Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        875,
+                        494
+                    ],
+                    [
+                        757,
+                        430
+                    ],
+                    [
+                        605,
+                        516
+                    ],
+                    [
+                        592,
+                        381
+                    ],
+                    [
+                        520,
+                        340
+                    ],
+                    [
+                        402,
+                        367
+                    ],
+                    [
+                        275,
+                        524
+                    ],
+                    [
+                        333,
+                        651
+                    ],
+                    [
+                        470,
+                        684
+                    ],
+                    [
+                        553,
+                        631
+                    ],
+                    [
+                        561,
+                        766
+                    ],
+                    [
+                        707,
+                        794
+                    ],
+                    [
+                        872,
+                        678
+                    ],
+                    [
+                        870,
+                        554
+                    ],
+                    [
+                        870,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661055,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:48.793Z",
+            "updatedAt": "2023-06-07T13:16:48.793Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        575,
+                        408
+                    ],
+                    [
+                        437,
+                        345
+                    ],
+                    [
+                        294,
+                        538
+                    ],
+                    [
+                        322,
+                        587
+                    ],
+                    [
+                        426,
+                        615
+                    ],
+                    [
+                        487,
+                        609
+                    ],
+                    [
+                        592,
+                        529
+                    ],
+                    [
+                        605,
+                        483
+                    ],
+                    [
+                        597,
+                        408
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661054,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:48.793Z",
+            "updatedAt": "2023-06-07T13:16:48.793Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        817,
+                        463
+                    ],
+                    [
+                        740,
+                        472
+                    ],
+                    [
+                        550,
+                        631
+                    ],
+                    [
+                        603,
+                        719
+                    ],
+                    [
+                        633,
+                        755
+                    ],
+                    [
+                        707,
+                        750
+                    ],
+                    [
+                        836,
+                        678
+                    ],
+                    [
+                        839,
+                        620
+                    ],
+                    [
+                        831,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

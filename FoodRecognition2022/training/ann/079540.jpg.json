@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1087,
+        "width": 1087
+    },
+    "objects": [
+        {
+            "id": 1717804,
+            "classId": 4033,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:03.907Z",
+            "updatedAt": "2023-06-07T13:57:03.907Z",
+            "tags": [],
+            "classTitle": "chocolate-filled",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        304
+                    ],
+                    [
+                        195,
+                        301
+                    ],
+                    [
+                        108,
+                        361
+                    ],
+                    [
+                        141,
+                        500
+                    ],
+                    [
+                        247,
+                        519
+                    ],
+                    [
+                        296,
+                        502
+                    ],
+                    [
+                        336,
+                        551
+                    ],
+                    [
+                        410,
+                        548
+                    ],
+                    [
+                        478,
+                        519
+                    ],
+                    [
+                        532,
+                        480
+                    ],
+                    [
+                        565,
+                        413
+                    ],
+                    [
+                        551,
+                        345
+                    ],
+                    [
+                        448,
+                        326
+                    ],
+                    [
+                        377,
+                        380
+                    ],
+                    [
+                        336,
+                        342
+                    ],
+                    [
+                        336,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717803,
+            "classId": 4033,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:03.906Z",
+            "updatedAt": "2023-06-07T13:57:03.906Z",
+            "tags": [],
+            "classTitle": "chocolate-filled",
+            "points": {
+                "exterior": [
+                    [
+                        739,
+                        535
+                    ],
+                    [
+                        461,
+                        573
+                    ],
+                    [
+                        581,
+                        823
+                    ],
+                    [
+                        1084,
+                        779
+                    ],
+                    [
+                        1024,
+                        527
+                    ],
+                    [
+                        733,
+                        524
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

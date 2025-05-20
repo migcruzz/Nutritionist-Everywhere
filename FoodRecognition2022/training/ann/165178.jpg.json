@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1687319,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:54.711Z",
+            "updatedAt": "2023-06-07T13:34:54.711Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        187
+                    ],
+                    [
+                        159,
+                        177
+                    ],
+                    [
+                        157,
+                        121
+                    ],
+                    [
+                        112,
+                        100
+                    ],
+                    [
+                        65,
+                        137
+                    ],
+                    [
+                        66,
+                        211
+                    ],
+                    [
+                        129,
+                        248
+                    ],
+                    [
+                        182,
+                        297
+                    ],
+                    [
+                        239,
+                        272
+                    ],
+                    [
+                        245,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1687317,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:54.710Z",
+            "updatedAt": "2023-06-07T13:34:54.710Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        115
+                    ],
+                    [
+                        160,
+                        100
+                    ],
+                    [
+                        158,
+                        143
+                    ],
+                    [
+                        169,
+                        164
+                    ],
+                    [
+                        195,
+                        178
+                    ],
+                    [
+                        249,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

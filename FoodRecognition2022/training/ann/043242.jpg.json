@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 600,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 1652243,
+            "classId": 3613,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:45.352Z",
+            "updatedAt": "2023-06-07T13:10:45.352Z",
+            "tags": [],
+            "classTitle": "cheese-for-raclette",
+            "points": {
+                "exterior": [
+                    [
+                        537,
+                        338
+                    ],
+                    [
+                        444,
+                        214
+                    ],
+                    [
+                        186,
+                        141
+                    ],
+                    [
+                        68,
+                        205
+                    ],
+                    [
+                        68,
+                        337
+                    ],
+                    [
+                        150,
+                        496
+                    ],
+                    [
+                        266,
+                        573
+                    ],
+                    [
+                        410,
+                        552
+                    ],
+                    [
+                        515,
+                        442
+                    ],
+                    [
+                        515,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652241,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:45.352Z",
+            "updatedAt": "2023-06-07T13:10:45.352Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        124
+                    ],
+                    [
+                        389,
+                        175
+                    ],
+                    [
+                        180,
+                        139
+                    ],
+                    [
+                        194,
+                        91
+                    ],
+                    [
+                        356,
+                        84
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652239,
+            "classId": 4273,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:45.351Z",
+            "updatedAt": "2023-06-07T13:10:45.351Z",
+            "tags": [],
+            "classTitle": "pearl-onions",
+            "points": {
+                "exterior": [
+                    [
+                        557,
+                        177
+                    ],
+                    [
+                        480,
+                        196
+                    ],
+                    [
+                        485,
+                        310
+                    ],
+                    [
+                        539,
+                        295
+                    ],
+                    [
+                        561,
+                        259
+                    ],
+                    [
+                        569,
+                        198
+                    ],
+                    [
+                        567,
+                        195
+                    ],
+                    [
+                        558,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

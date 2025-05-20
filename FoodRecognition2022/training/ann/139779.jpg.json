@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1735033,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:09:10.011Z",
+            "updatedAt": "2023-06-07T14:09:10.011Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        122
+                    ],
+                    [
+                        214,
+                        96
+                    ],
+                    [
+                        175,
+                        75
+                    ],
+                    [
+                        138,
+                        75
+                    ],
+                    [
+                        113,
+                        143
+                    ],
+                    [
+                        52,
+                        213
+                    ],
+                    [
+                        45,
+                        283
+                    ],
+                    [
+                        165,
+                        310
+                    ],
+                    [
+                        281,
+                        351
+                    ],
+                    [
+                        310,
+                        336
+                    ],
+                    [
+                        322,
+                        246
+                    ],
+                    [
+                        364,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1735031,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:09:10.010Z",
+            "updatedAt": "2023-06-07T14:09:10.010Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        333
+                    ],
+                    [
+                        188,
+                        321
+                    ],
+                    [
+                        158,
+                        315
+                    ],
+                    [
+                        115,
+                        305
+                    ],
+                    [
+                        120,
+                        311
+                    ],
+                    [
+                        175,
+                        330
+                    ],
+                    [
+                        213,
+                        338
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

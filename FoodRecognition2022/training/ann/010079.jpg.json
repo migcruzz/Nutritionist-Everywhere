@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1716254,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:03.716Z",
+            "updatedAt": "2023-06-07T13:56:03.716Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        554
+                    ],
+                    [
+                        254,
+                        709
+                    ],
+                    [
+                        381,
+                        761
+                    ],
+                    [
+                        511,
+                        752
+                    ],
+                    [
+                        561,
+                        704
+                    ],
+                    [
+                        598,
+                        674
+                    ],
+                    [
+                        591,
+                        530
+                    ],
+                    [
+                        537,
+                        454
+                    ],
+                    [
+                        365,
+                        433
+                    ],
+                    [
+                        240,
+                        473
+                    ],
+                    [
+                        221,
+                        528
+                    ],
+                    [
+                        221,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1716252,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:03.715Z",
+            "updatedAt": "2023-06-07T13:56:03.715Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        495,
+                        509
+                    ],
+                    [
+                        339,
+                        450
+                    ],
+                    [
+                        245,
+                        466
+                    ],
+                    [
+                        273,
+                        544
+                    ],
+                    [
+                        419,
+                        601
+                    ],
+                    [
+                        483,
+                        558
+                    ],
+                    [
+                        483,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

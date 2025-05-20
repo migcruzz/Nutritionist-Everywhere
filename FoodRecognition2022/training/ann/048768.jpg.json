@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 784,
+        "width": 785
+    },
+    "objects": [
+        {
+            "id": 1748560,
+            "classId": 3747,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:35.682Z",
+            "updatedAt": "2023-06-07T14:18:35.682Z",
+            "tags": [],
+            "classTitle": "ratatouille",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        138
+                    ],
+                    [
+                        195,
+                        187
+                    ],
+                    [
+                        101,
+                        231
+                    ],
+                    [
+                        230,
+                        291
+                    ],
+                    [
+                        269,
+                        411
+                    ],
+                    [
+                        344,
+                        417
+                    ],
+                    [
+                        417,
+                        374
+                    ],
+                    [
+                        417,
+                        293
+                    ],
+                    [
+                        405,
+                        209
+                    ],
+                    [
+                        393,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1748558,
+            "classId": 3629,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:35.682Z",
+            "updatedAt": "2023-06-07T14:18:35.682Z",
+            "tags": [],
+            "classTitle": "beef-sirloin-steak",
+            "points": {
+                "exterior": [
+                    [
+                        625,
+                        592
+                    ],
+                    [
+                        470,
+                        476
+                    ],
+                    [
+                        320,
+                        452
+                    ],
+                    [
+                        106,
+                        401
+                    ],
+                    [
+                        69,
+                        556
+                    ],
+                    [
+                        140,
+                        674
+                    ],
+                    [
+                        436,
+                        707
+                    ],
+                    [
+                        513,
+                        702
+                    ],
+                    [
+                        515,
+                        700
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1748556,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:35.681Z",
+            "updatedAt": "2023-06-07T14:18:35.681Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        595,
+                        127
+                    ],
+                    [
+                        422,
+                        127
+                    ],
+                    [
+                        411,
+                        317
+                    ],
+                    [
+                        373,
+                        435
+                    ],
+                    [
+                        526,
+                        470
+                    ],
+                    [
+                        648,
+                        501
+                    ],
+                    [
+                        683,
+                        411
+                    ],
+                    [
+                        634,
+                        244
+                    ],
+                    [
+                        577,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1748554,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:35.680Z",
+            "updatedAt": "2023-06-07T14:18:35.680Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        319
+                    ],
+                    [
+                        163,
+                        258
+                    ],
+                    [
+                        63,
+                        287
+                    ],
+                    [
+                        97,
+                        376
+                    ],
+                    [
+                        201,
+                        360
+                    ],
+                    [
+                        214,
+                        335
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 809,
+        "width": 809
+    },
+    "objects": [
+        {
+            "id": 1723348,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:00.186Z",
+            "updatedAt": "2023-06-07T14:01:00.186Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        757,
+                        487
+                    ],
+                    [
+                        634,
+                        298
+                    ],
+                    [
+                        443,
+                        240
+                    ],
+                    [
+                        316,
+                        272
+                    ],
+                    [
+                        136,
+                        373
+                    ],
+                    [
+                        73,
+                        489
+                    ],
+                    [
+                        79,
+                        699
+                    ],
+                    [
+                        178,
+                        774
+                    ],
+                    [
+                        389,
+                        735
+                    ],
+                    [
+                        625,
+                        620
+                    ],
+                    [
+                        716,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723346,
+            "classId": 4123,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:00.186Z",
+            "updatedAt": "2023-06-07T14:01:00.186Z",
+            "tags": [],
+            "classTitle": "curd",
+            "points": {
+                "exterior": [
+                    [
+                        575,
+                        302
+                    ],
+                    [
+                        494,
+                        284
+                    ],
+                    [
+                        401,
+                        278
+                    ],
+                    [
+                        272,
+                        321
+                    ],
+                    [
+                        170,
+                        418
+                    ],
+                    [
+                        96,
+                        501
+                    ],
+                    [
+                        41,
+                        571
+                    ],
+                    [
+                        57,
+                        644
+                    ],
+                    [
+                        138,
+                        697
+                    ],
+                    [
+                        203,
+                        721
+                    ],
+                    [
+                        215,
+                        642
+                    ],
+                    [
+                        160,
+                        561
+                    ],
+                    [
+                        189,
+                        454
+                    ],
+                    [
+                        278,
+                        371
+                    ],
+                    [
+                        419,
+                        325
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723345,
+            "classId": 4123,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:00.185Z",
+            "updatedAt": "2023-06-07T14:01:00.185Z",
+            "tags": [],
+            "classTitle": "curd",
+            "points": {
+                "exterior": [
+                    [
+                        662,
+                        438
+                    ],
+                    [
+                        575,
+                        499
+                    ],
+                    [
+                        522,
+                        578
+                    ],
+                    [
+                        482,
+                        600
+                    ],
+                    [
+                        466,
+                        664
+                    ],
+                    [
+                        532,
+                        640
+                    ],
+                    [
+                        621,
+                        553
+                    ],
+                    [
+                        716,
+                        497
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

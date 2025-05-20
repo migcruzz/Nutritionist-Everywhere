@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1767107,
+            "classId": 3765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:45.613Z",
+            "updatedAt": "2023-06-07T14:30:45.613Z",
+            "tags": [],
+            "classTitle": "pasta-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        389
+                    ],
+                    [
+                        238,
+                        388
+                    ],
+                    [
+                        225,
+                        383
+                    ],
+                    [
+                        206,
+                        372
+                    ],
+                    [
+                        180,
+                        363
+                    ],
+                    [
+                        168,
+                        351
+                    ],
+                    [
+                        161,
+                        334
+                    ],
+                    [
+                        145,
+                        313
+                    ],
+                    [
+                        134,
+                        291
+                    ],
+                    [
+                        132,
+                        232
+                    ],
+                    [
+                        139,
+                        214
+                    ],
+                    [
+                        173,
+                        195
+                    ],
+                    [
+                        197,
+                        170
+                    ],
+                    [
+                        216,
+                        161
+                    ],
+                    [
+                        263,
+                        153
+                    ],
+                    [
+                        342,
+                        170
+                    ],
+                    [
+                        385,
+                        216
+                    ],
+                    [
+                        429,
+                        278
+                    ],
+                    [
+                        432,
+                        299
+                    ],
+                    [
+                        420,
+                        318
+                    ],
+                    [
+                        394,
+                        345
+                    ],
+                    [
+                        352,
+                        371
+                    ],
+                    [
+                        326,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767105,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:45.612Z",
+            "updatedAt": "2023-06-07T14:30:45.612Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        242
+                    ],
+                    [
+                        258,
+                        292
+                    ],
+                    [
+                        397,
+                        256
+                    ],
+                    [
+                        339,
+                        184
+                    ],
+                    [
+                        224,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767103,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:45.612Z",
+            "updatedAt": "2023-06-07T14:30:45.612Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        278
+                    ],
+                    [
+                        308,
+                        255
+                    ],
+                    [
+                        304,
+                        211
+                    ],
+                    [
+                        298,
+                        189
+                    ],
+                    [
+                        226,
+                        190
+                    ],
+                    [
+                        231,
+                        229
+                    ],
+                    [
+                        235,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

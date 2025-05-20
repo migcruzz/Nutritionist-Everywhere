@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 607,
+        "width": 607
+    },
+    "objects": [
+        {
+            "id": 1670834,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:50.348Z",
+            "updatedAt": "2023-06-07T13:23:50.348Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        91,
+                        118
+                    ],
+                    [
+                        28,
+                        179
+                    ],
+                    [
+                        32,
+                        264
+                    ],
+                    [
+                        410,
+                        449
+                    ],
+                    [
+                        474,
+                        496
+                    ],
+                    [
+                        569,
+                        326
+                    ],
+                    [
+                        557,
+                        311
+                    ],
+                    [
+                        487,
+                        383
+                    ],
+                    [
+                        296,
+                        352
+                    ],
+                    [
+                        152,
+                        229
+                    ],
+                    [
+                        73,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670832,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:50.347Z",
+            "updatedAt": "2023-06-07T13:23:50.347Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        45
+                    ],
+                    [
+                        61,
+                        138
+                    ],
+                    [
+                        214,
+                        282
+                    ],
+                    [
+                        380,
+                        391
+                    ],
+                    [
+                        519,
+                        374
+                    ],
+                    [
+                        556,
+                        309
+                    ],
+                    [
+                        490,
+                        204
+                    ],
+                    [
+                        313,
+                        77
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 624,
+        "width": 624
+    },
+    "objects": [
+        {
+            "id": 1727664,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:01.860Z",
+            "updatedAt": "2023-06-07T14:04:01.860Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        266
+                    ],
+                    [
+                        240,
+                        374
+                    ],
+                    [
+                        99,
+                        262
+                    ],
+                    [
+                        99,
+                        163
+                    ],
+                    [
+                        168,
+                        151
+                    ],
+                    [
+                        169,
+                        79
+                    ],
+                    [
+                        277,
+                        65
+                    ],
+                    [
+                        336,
+                        88
+                    ],
+                    [
+                        394,
+                        145
+                    ],
+                    [
+                        389,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1727662,
+            "classId": 3581,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:01.860Z",
+            "updatedAt": "2023-06-07T14:04:01.860Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        243
+                    ],
+                    [
+                        307,
+                        325
+                    ],
+                    [
+                        300,
+                        411
+                    ],
+                    [
+                        355,
+                        458
+                    ],
+                    [
+                        463,
+                        432
+                    ],
+                    [
+                        522,
+                        374
+                    ],
+                    [
+                        561,
+                        235
+                    ],
+                    [
+                        531,
+                        204
+                    ],
+                    [
+                        444,
+                        194
+                    ],
+                    [
+                        442,
+                        196
+                    ],
+                    [
+                        391,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

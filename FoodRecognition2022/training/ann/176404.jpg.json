@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 840,
+        "width": 840
+    },
+    "objects": [
+        {
+            "id": 1668613,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:18.583Z",
+            "updatedAt": "2023-06-07T13:22:18.583Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        569
+                    ],
+                    [
+                        442,
+                        495
+                    ],
+                    [
+                        353,
+                        510
+                    ],
+                    [
+                        374,
+                        594
+                    ],
+                    [
+                        444,
+                        619
+                    ],
+                    [
+                        511,
+                        594
+                    ],
+                    [
+                        511,
+                        592
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668611,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:18.582Z",
+            "updatedAt": "2023-06-07T13:22:18.582Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        738,
+                        615
+                    ],
+                    [
+                        645,
+                        506
+                    ],
+                    [
+                        574,
+                        628
+                    ],
+                    [
+                        534,
+                        588
+                    ],
+                    [
+                        442,
+                        615
+                    ],
+                    [
+                        355,
+                        548
+                    ],
+                    [
+                        225,
+                        521
+                    ],
+                    [
+                        271,
+                        621
+                    ],
+                    [
+                        397,
+                        680
+                    ],
+                    [
+                        733,
+                        647
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668609,
+            "classId": 4191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:18.581Z",
+            "updatedAt": "2023-06-07T13:22:18.581Z",
+            "tags": [],
+            "classTitle": "sugar-melon",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        319
+                    ],
+                    [
+                        303,
+                        355
+                    ],
+                    [
+                        353,
+                        426
+                    ],
+                    [
+                        425,
+                        382
+                    ],
+                    [
+                        406,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

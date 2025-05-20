@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1178,
+        "width": 1178
+    },
+    "objects": [
+        {
+            "id": 1787242,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:27.001Z",
+            "updatedAt": "2023-06-07T14:44:27.001Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        1045,
+                        327
+                    ],
+                    [
+                        1022,
+                        442
+                    ],
+                    [
+                        1160,
+                        433
+                    ],
+                    [
+                        1116,
+                        362
+                    ],
+                    [
+                        1024,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787240,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:27.001Z",
+            "updatedAt": "2023-06-07T14:44:27.001Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        886,
+                        1004
+                    ],
+                    [
+                        1080,
+                        1122
+                    ],
+                    [
+                        995,
+                        1157
+                    ],
+                    [
+                        627,
+                        1143
+                    ],
+                    [
+                        742,
+                        1104
+                    ],
+                    [
+                        857,
+                        1043
+                    ],
+                    [
+                        851,
+                        1004
+                    ],
+                    [
+                        880,
+                        998
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787238,
+            "classId": 3837,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:26.999Z",
+            "updatedAt": "2023-06-07T14:44:26.999Z",
+            "tags": [],
+            "classTitle": "red-cabbage",
+            "points": {
+                "exterior": [
+                    [
+                        768,
+                        925
+                    ],
+                    [
+                        415,
+                        960
+                    ],
+                    [
+                        592,
+                        1169
+                    ],
+                    [
+                        630,
+                        1072
+                    ],
+                    [
+                        748,
+                        1137
+                    ],
+                    [
+                        892,
+                        987
+                    ],
+                    [
+                        783,
+                        987
+                    ],
+                    [
+                        774,
+                        937
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787236,
+            "classId": 4179,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:26.999Z",
+            "updatedAt": "2023-06-07T14:44:26.999Z",
+            "tags": [],
+            "classTitle": "coriander",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        215
+                    ],
+                    [
+                        114,
+                        286
+                    ],
+                    [
+                        188,
+                        356
+                    ],
+                    [
+                        324,
+                        398
+                    ],
+                    [
+                        350,
+                        330
+                    ],
+                    [
+                        229,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

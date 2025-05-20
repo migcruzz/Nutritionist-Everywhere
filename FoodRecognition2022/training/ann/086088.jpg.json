@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1780432,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.071Z",
+            "updatedAt": "2023-06-07T14:39:54.071Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        66
+                    ],
+                    [
+                        72,
+                        159
+                    ],
+                    [
+                        135,
+                        247
+                    ],
+                    [
+                        185,
+                        294
+                    ],
+                    [
+                        207,
+                        358
+                    ],
+                    [
+                        240,
+                        334
+                    ],
+                    [
+                        267,
+                        272
+                    ],
+                    [
+                        270,
+                        131
+                    ],
+                    [
+                        224,
+                        75
+                    ],
+                    [
+                        180,
+                        62
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780430,
+            "classId": 4275,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.071Z",
+            "updatedAt": "2023-06-07T14:39:54.071Z",
+            "tags": [],
+            "classTitle": "buckwheat-pancake",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        1
+                    ],
+                    [
+                        117,
+                        384
+                    ],
+                    [
+                        324,
+                        385
+                    ],
+                    [
+                        278,
+                        228
+                    ],
+                    [
+                        220,
+                        1
+                    ],
+                    [
+                        88,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780428,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.069Z",
+            "updatedAt": "2023-06-07T14:39:54.069Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        358
+                    ],
+                    [
+                        251,
+                        367
+                    ],
+                    [
+                        214,
+                        368
+                    ],
+                    [
+                        174,
+                        357
+                    ],
+                    [
+                        179,
+                        339
+                    ],
+                    [
+                        187,
+                        329
+                    ],
+                    [
+                        203,
+                        360
+                    ],
+                    [
+                        229,
+                        347
+                    ],
+                    [
+                        240,
+                        336
+                    ],
+                    [
+                        291,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1113,
+        "width": 1112
+    },
+    "objects": [
+        {
+            "id": 1695817,
+            "classId": 4295,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:41.174Z",
+            "updatedAt": "2023-06-07T13:40:41.174Z",
+            "tags": [],
+            "classTitle": "rice-whole-grain",
+            "points": {
+                "exterior": [
+                    [
+                        1040,
+                        553
+                    ],
+                    [
+                        795,
+                        720
+                    ],
+                    [
+                        873,
+                        1018
+                    ],
+                    [
+                        1090,
+                        985
+                    ],
+                    [
+                        1098,
+                        868
+                    ],
+                    [
+                        1104,
+                        590
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695815,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:41.174Z",
+            "updatedAt": "2023-06-07T13:40:41.174Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        714,
+                        434
+                    ],
+                    [
+                        800,
+                        303
+                    ],
+                    [
+                        670,
+                        169
+                    ],
+                    [
+                        547,
+                        139
+                    ],
+                    [
+                        436,
+                        194
+                    ],
+                    [
+                        472,
+                        311
+                    ],
+                    [
+                        472,
+                        459
+                    ],
+                    [
+                        600,
+                        442
+                    ],
+                    [
+                        709,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695813,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:41.173Z",
+            "updatedAt": "2023-06-07T13:40:41.173Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        536,
+                        737
+                    ],
+                    [
+                        325,
+                        756
+                    ],
+                    [
+                        124,
+                        801
+                    ],
+                    [
+                        46,
+                        957
+                    ],
+                    [
+                        119,
+                        1074
+                    ],
+                    [
+                        311,
+                        1099
+                    ],
+                    [
+                        759,
+                        1104
+                    ],
+                    [
+                        875,
+                        1046
+                    ],
+                    [
+                        853,
+                        979
+                    ],
+                    [
+                        742,
+                        868
+                    ],
+                    [
+                        642,
+                        801
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695811,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:41.172Z",
+            "updatedAt": "2023-06-07T13:40:41.172Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        534
+                    ],
+                    [
+                        110,
+                        548
+                    ],
+                    [
+                        55,
+                        475
+                    ],
+                    [
+                        44,
+                        526
+                    ],
+                    [
+                        141,
+                        609
+                    ],
+                    [
+                        183,
+                        729
+                    ],
+                    [
+                        230,
+                        715
+                    ],
+                    [
+                        191,
+                        531
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695809,
+            "classId": 3669,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:41.172Z",
+            "updatedAt": "2023-06-07T13:40:41.172Z",
+            "tags": [],
+            "classTitle": "tuna",
+            "points": {
+                "exterior": [
+                    [
+                        828,
+                        601
+                    ],
+                    [
+                        720,
+                        492
+                    ],
+                    [
+                        469,
+                        436
+                    ],
+                    [
+                        483,
+                        503
+                    ],
+                    [
+                        589,
+                        695
+                    ],
+                    [
+                        667,
+                        787
+                    ],
+                    [
+                        792,
+                        765
+                    ],
+                    [
+                        862,
+                        676
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

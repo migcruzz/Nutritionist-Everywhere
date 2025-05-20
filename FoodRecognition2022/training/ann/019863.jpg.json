@@ -1,0 +1,290 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1753111,
+            "classId": 4069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:39.441Z",
+            "updatedAt": "2023-06-07T14:21:39.441Z",
+            "tags": [],
+            "classTitle": "blue-mould-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        229
+                    ],
+                    [
+                        246,
+                        297
+                    ],
+                    [
+                        202,
+                        267
+                    ],
+                    [
+                        211,
+                        215
+                    ],
+                    [
+                        249,
+                        207
+                    ],
+                    [
+                        280,
+                        217
+                    ],
+                    [
+                        293,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753109,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:39.441Z",
+            "updatedAt": "2023-06-07T14:21:39.441Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        390,
+                        128
+                    ],
+                    [
+                        348,
+                        164
+                    ],
+                    [
+                        422,
+                        221
+                    ],
+                    [
+                        459,
+                        178
+                    ],
+                    [
+                        420,
+                        139
+                    ],
+                    [
+                        401,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753107,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:39.440Z",
+            "updatedAt": "2023-06-07T14:21:39.440Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        236
+                    ],
+                    [
+                        340,
+                        284
+                    ],
+                    [
+                        385,
+                        347
+                    ],
+                    [
+                        451,
+                        328
+                    ],
+                    [
+                        464,
+                        288
+                    ],
+                    [
+                        434,
+                        251
+                    ],
+                    [
+                        422,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753105,
+            "classId": 3973,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:39.439Z",
+            "updatedAt": "2023-06-07T14:21:39.439Z",
+            "tags": [],
+            "classTitle": "mixed-nuts",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        202
+                    ],
+                    [
+                        357,
+                        172
+                    ],
+                    [
+                        327,
+                        139
+                    ],
+                    [
+                        253,
+                        158
+                    ],
+                    [
+                        253,
+                        188
+                    ],
+                    [
+                        304,
+                        214
+                    ],
+                    [
+                        327,
+                        222
+                    ],
+                    [
+                        321,
+                        252
+                    ],
+                    [
+                        326,
+                        277
+                    ],
+                    [
+                        341,
+                        279
+                    ],
+                    [
+                        374,
+                        263
+                    ],
+                    [
+                        389,
+                        247
+                    ],
+                    [
+                        428,
+                        251
+                    ],
+                    [
+                        461,
+                        271
+                    ],
+                    [
+                        492,
+                        276
+                    ],
+                    [
+                        505,
+                        235
+                    ],
+                    [
+                        497,
+                        205
+                    ],
+                    [
+                        472,
+                        192
+                    ],
+                    [
+                        440,
+                        194
+                    ],
+                    [
+                        423,
+                        214
+                    ],
+                    [
+                        422,
+                        233
+                    ],
+                    [
+                        381,
+                        233
+                    ],
+                    [
+                        376,
+                        213
+                    ],
+                    [
+                        367,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753104,
+            "classId": 3973,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:39.439Z",
+            "updatedAt": "2023-06-07T14:21:39.439Z",
+            "tags": [],
+            "classTitle": "mixed-nuts",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        279
+                    ],
+                    [
+                        356,
+                        357
+                    ],
+                    [
+                        302,
+                        373
+                    ],
+                    [
+                        274,
+                        327
+                    ],
+                    [
+                        283,
+                        272
+                    ],
+                    [
+                        312,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

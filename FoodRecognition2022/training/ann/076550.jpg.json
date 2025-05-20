@@ -1,0 +1,286 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1789563,
+            "classId": 3811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:03.158Z",
+            "updatedAt": "2023-06-07T14:46:03.158Z",
+            "tags": [],
+            "classTitle": "bacon-raw",
+            "points": {
+                "exterior": [
+                    [
+                        123,
+                        233
+                    ],
+                    [
+                        64,
+                        223
+                    ],
+                    [
+                        24,
+                        224
+                    ],
+                    [
+                        13,
+                        221
+                    ],
+                    [
+                        8,
+                        217
+                    ],
+                    [
+                        3,
+                        190
+                    ],
+                    [
+                        5,
+                        142
+                    ],
+                    [
+                        21,
+                        132
+                    ],
+                    [
+                        82,
+                        121
+                    ],
+                    [
+                        106,
+                        123
+                    ],
+                    [
+                        122,
+                        132
+                    ],
+                    [
+                        139,
+                        158
+                    ],
+                    [
+                        128,
+                        190
+                    ],
+                    [
+                        132,
+                        200
+                    ],
+                    [
+                        145,
+                        216
+                    ],
+                    [
+                        145,
+                        222
+                    ],
+                    [
+                        142,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789561,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:03.157Z",
+            "updatedAt": "2023-06-07T14:46:03.157Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        384
+                    ],
+                    [
+                        19,
+                        380
+                    ],
+                    [
+                        10,
+                        372
+                    ],
+                    [
+                        7,
+                        362
+                    ],
+                    [
+                        5,
+                        326
+                    ],
+                    [
+                        8,
+                        235
+                    ],
+                    [
+                        13,
+                        227
+                    ],
+                    [
+                        39,
+                        220
+                    ],
+                    [
+                        98,
+                        223
+                    ],
+                    [
+                        117,
+                        238
+                    ],
+                    [
+                        138,
+                        244
+                    ],
+                    [
+                        151,
+                        274
+                    ],
+                    [
+                        161,
+                        312
+                    ],
+                    [
+                        170,
+                        333
+                    ],
+                    [
+                        167,
+                        361
+                    ],
+                    [
+                        157,
+                        371
+                    ],
+                    [
+                        120,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789559,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:03.157Z",
+            "updatedAt": "2023-06-07T14:46:03.157Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        288
+                    ],
+                    [
+                        298,
+                        272
+                    ],
+                    [
+                        263,
+                        209
+                    ],
+                    [
+                        195,
+                        255
+                    ],
+                    [
+                        202,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789558,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:03.157Z",
+            "updatedAt": "2023-06-07T14:46:03.157Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        281
+                    ],
+                    [
+                        180,
+                        366
+                    ],
+                    [
+                        273,
+                        394
+                    ],
+                    [
+                        262,
+                        301
+                    ],
+                    [
+                        249,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789557,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:03.156Z",
+            "updatedAt": "2023-06-07T14:46:03.156Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        297,
+                        301
+                    ],
+                    [
+                        332,
+                        396
+                    ],
+                    [
+                        390,
+                        336
+                    ],
+                    [
+                        346,
+                        299
+                    ],
+                    [
+                        299,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

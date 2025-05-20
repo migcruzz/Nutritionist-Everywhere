@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 425,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1743965,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.719Z",
+            "updatedAt": "2023-06-07T14:15:22.719Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        152
+                    ],
+                    [
+                        240,
+                        62
+                    ],
+                    [
+                        210,
+                        175
+                    ],
+                    [
+                        53,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743963,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.718Z",
+            "updatedAt": "2023-06-07T14:15:22.718Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        172
+                    ],
+                    [
+                        158,
+                        166
+                    ],
+                    [
+                        246,
+                        261
+                    ],
+                    [
+                        193,
+                        340
+                    ],
+                    [
+                        141,
+                        358
+                    ],
+                    [
+                        12,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743961,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.717Z",
+            "updatedAt": "2023-06-07T14:15:22.717Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        188
+                    ],
+                    [
+                        269,
+                        26
+                    ],
+                    [
+                        280,
+                        76
+                    ],
+                    [
+                        392,
+                        119
+                    ],
+                    [
+                        421,
+                        215
+                    ],
+                    [
+                        363,
+                        345
+                    ],
+                    [
+                        200,
+                        386
+                    ],
+                    [
+                        202,
+                        316
+                    ],
+                    [
+                        258,
+                        273
+                    ],
+                    [
+                        227,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

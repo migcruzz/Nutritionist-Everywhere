@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1715126,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:15.664Z",
+            "updatedAt": "2023-06-07T13:55:15.664Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        68
+                    ],
+                    [
+                        259,
+                        54
+                    ],
+                    [
+                        307,
+                        57
+                    ],
+                    [
+                        325,
+                        86
+                    ],
+                    [
+                        313,
+                        116
+                    ],
+                    [
+                        272,
+                        120
+                    ],
+                    [
+                        242,
+                        115
+                    ],
+                    [
+                        239,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1715124,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:15.663Z",
+            "updatedAt": "2023-06-07T13:55:15.663Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        87
+                    ],
+                    [
+                        104,
+                        85
+                    ],
+                    [
+                        83,
+                        116
+                    ],
+                    [
+                        42,
+                        136
+                    ],
+                    [
+                        58,
+                        179
+                    ],
+                    [
+                        31,
+                        202
+                    ],
+                    [
+                        15,
+                        202
+                    ],
+                    [
+                        11,
+                        242
+                    ],
+                    [
+                        68,
+                        258
+                    ],
+                    [
+                        100,
+                        253
+                    ],
+                    [
+                        102,
+                        219
+                    ],
+                    [
+                        158,
+                        184
+                    ],
+                    [
+                        181,
+                        136
+                    ],
+                    [
+                        210,
+                        136
+                    ],
+                    [
+                        219,
+                        108
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1715122,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:15.663Z",
+            "updatedAt": "2023-06-07T13:55:15.663Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        264
+                    ],
+                    [
+                        37,
+                        272
+                    ],
+                    [
+                        33,
+                        303
+                    ],
+                    [
+                        76,
+                        333
+                    ],
+                    [
+                        111,
+                        290
+                    ],
+                    [
+                        103,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1641074,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:26.804Z",
+            "updatedAt": "2023-06-07T13:03:26.804Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        211
+                    ],
+                    [
+                        135,
+                        194
+                    ],
+                    [
+                        116,
+                        222
+                    ],
+                    [
+                        95,
+                        243
+                    ],
+                    [
+                        100,
+                        260
+                    ],
+                    [
+                        125,
+                        275
+                    ],
+                    [
+                        165,
+                        285
+                    ],
+                    [
+                        177,
+                        279
+                    ],
+                    [
+                        188,
+                        262
+                    ],
+                    [
+                        194,
+                        236
+                    ],
+                    [
+                        191,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1641072,
+            "classId": 3995,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:26.803Z",
+            "updatedAt": "2023-06-07T13:03:26.803Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal-toast",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        102
+                    ],
+                    [
+                        208,
+                        212
+                    ],
+                    [
+                        235,
+                        115
+                    ],
+                    [
+                        208,
+                        100
+                    ],
+                    [
+                        155,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1641070,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:26.803Z",
+            "updatedAt": "2023-06-07T13:03:26.803Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        112
+                    ],
+                    [
+                        135,
+                        153
+                    ],
+                    [
+                        154,
+                        150
+                    ],
+                    [
+                        154,
+                        133
+                    ],
+                    [
+                        135,
+                        98
+                    ],
+                    [
+                        117,
+                        94
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

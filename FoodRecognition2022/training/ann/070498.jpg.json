@@ -1,0 +1,406 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1673077,
+            "classId": 4249,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:13.813Z",
+            "updatedAt": "2023-06-07T13:25:13.813Z",
+            "tags": [],
+            "classTitle": "cooked-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        182
+                    ],
+                    [
+                        134,
+                        164
+                    ],
+                    [
+                        127,
+                        117
+                    ],
+                    [
+                        95,
+                        113
+                    ],
+                    [
+                        64,
+                        138
+                    ],
+                    [
+                        64,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673076,
+            "classId": 4249,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:13.812Z",
+            "updatedAt": "2023-06-07T13:25:13.812Z",
+            "tags": [],
+            "classTitle": "cooked-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        244
+                    ],
+                    [
+                        46,
+                        226
+                    ],
+                    [
+                        6,
+                        239
+                    ],
+                    [
+                        28,
+                        283
+                    ],
+                    [
+                        85,
+                        282
+                    ],
+                    [
+                        110,
+                        265
+                    ],
+                    [
+                        112,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673074,
+            "classId": 3583,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:13.812Z",
+            "updatedAt": "2023-06-07T13:25:13.812Z",
+            "tags": [],
+            "classTitle": "pasta-noodles",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        230
+                    ],
+                    [
+                        302,
+                        198
+                    ],
+                    [
+                        255,
+                        151
+                    ],
+                    [
+                        319,
+                        136
+                    ],
+                    [
+                        306,
+                        111
+                    ],
+                    [
+                        249,
+                        94
+                    ],
+                    [
+                        172,
+                        87
+                    ],
+                    [
+                        165,
+                        126
+                    ],
+                    [
+                        115,
+                        157
+                    ],
+                    [
+                        95,
+                        179
+                    ],
+                    [
+                        99,
+                        229
+                    ],
+                    [
+                        132,
+                        232
+                    ],
+                    [
+                        178,
+                        217
+                    ],
+                    [
+                        203,
+                        204
+                    ],
+                    [
+                        236,
+                        210
+                    ],
+                    [
+                        254,
+                        222
+                    ],
+                    [
+                        254,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673072,
+            "classId": 3603,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:13.811Z",
+            "updatedAt": "2023-06-07T13:25:13.811Z",
+            "tags": [],
+            "classTitle": "white-cabbage",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        183
+                    ],
+                    [
+                        344,
+                        257
+                    ],
+                    [
+                        342,
+                        311
+                    ],
+                    [
+                        328,
+                        337
+                    ],
+                    [
+                        271,
+                        334
+                    ],
+                    [
+                        211,
+                        317
+                    ],
+                    [
+                        155,
+                        302
+                    ],
+                    [
+                        141,
+                        281
+                    ],
+                    [
+                        171,
+                        253
+                    ],
+                    [
+                        204,
+                        233
+                    ],
+                    [
+                        243,
+                        215
+                    ],
+                    [
+                        269,
+                        212
+                    ],
+                    [
+                        304,
+                        181
+                    ],
+                    [
+                        317,
+                        173
+                    ],
+                    [
+                        320,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673070,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:13.810Z",
+            "updatedAt": "2023-06-07T13:25:13.810Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        200
+                    ],
+                    [
+                        114,
+                        227
+                    ],
+                    [
+                        121,
+                        261
+                    ],
+                    [
+                        169,
+                        254
+                    ],
+                    [
+                        228,
+                        229
+                    ],
+                    [
+                        237,
+                        216
+                    ],
+                    [
+                        236,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673068,
+            "classId": 3953,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:13.809Z",
+            "updatedAt": "2023-06-07T13:25:13.809Z",
+            "tags": [],
+            "classTitle": "bouillon",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        82
+                    ],
+                    [
+                        108,
+                        84
+                    ],
+                    [
+                        118,
+                        115
+                    ],
+                    [
+                        134,
+                        141
+                    ],
+                    [
+                        144,
+                        141
+                    ],
+                    [
+                        162,
+                        139
+                    ],
+                    [
+                        174,
+                        117
+                    ],
+                    [
+                        171,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673067,
+            "classId": 3953,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:13.809Z",
+            "updatedAt": "2023-06-07T13:25:13.809Z",
+            "tags": [],
+            "classTitle": "bouillon",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        92
+                    ],
+                    [
+                        378,
+                        109
+                    ],
+                    [
+                        367,
+                        161
+                    ],
+                    [
+                        322,
+                        171
+                    ],
+                    [
+                        290,
+                        174
+                    ],
+                    [
+                        281,
+                        158
+                    ],
+                    [
+                        310,
+                        141
+                    ],
+                    [
+                        316,
+                        134
+                    ],
+                    [
+                        303,
+                        115
+                    ],
+                    [
+                        265,
+                        103
+                    ],
+                    [
+                        269,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

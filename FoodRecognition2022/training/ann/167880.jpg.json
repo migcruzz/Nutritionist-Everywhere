@@ -1,0 +1,370 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1776084,
+            "classId": 4083,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:42.887Z",
+            "updatedAt": "2023-06-07T14:36:42.887Z",
+            "tags": [],
+            "classTitle": "quinoa",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        104
+                    ],
+                    [
+                        287,
+                        45
+                    ],
+                    [
+                        231,
+                        23
+                    ],
+                    [
+                        164,
+                        22
+                    ],
+                    [
+                        101,
+                        60
+                    ],
+                    [
+                        78,
+                        124
+                    ],
+                    [
+                        101,
+                        178
+                    ],
+                    [
+                        166,
+                        220
+                    ],
+                    [
+                        186,
+                        213
+                    ],
+                    [
+                        226,
+                        184
+                    ],
+                    [
+                        237,
+                        162
+                    ],
+                    [
+                        251,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776082,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:42.886Z",
+            "updatedAt": "2023-06-07T14:36:42.886Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        84
+                    ],
+                    [
+                        284,
+                        122
+                    ],
+                    [
+                        242,
+                        158
+                    ],
+                    [
+                        228,
+                        191
+                    ],
+                    [
+                        260,
+                        235
+                    ],
+                    [
+                        343,
+                        250
+                    ],
+                    [
+                        386,
+                        199
+                    ],
+                    [
+                        386,
+                        180
+                    ],
+                    [
+                        388,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776080,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:42.886Z",
+            "updatedAt": "2023-06-07T14:36:42.886Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        119
+                    ],
+                    [
+                        260,
+                        152
+                    ],
+                    [
+                        263,
+                        170
+                    ],
+                    [
+                        298,
+                        175
+                    ],
+                    [
+                        299,
+                        153
+                    ],
+                    [
+                        299,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776078,
+            "classId": 3859,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:42.885Z",
+            "updatedAt": "2023-06-07T14:36:42.885Z",
+            "tags": [],
+            "classTitle": "parsley",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        99
+                    ],
+                    [
+                        298,
+                        128
+                    ],
+                    [
+                        285,
+                        159
+                    ],
+                    [
+                        346,
+                        190
+                    ],
+                    [
+                        385,
+                        186
+                    ],
+                    [
+                        368,
+                        175
+                    ],
+                    [
+                        368,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776076,
+            "classId": 3967,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:42.884Z",
+            "updatedAt": "2023-06-07T14:36:42.884Z",
+            "tags": [],
+            "classTitle": "mushroom-average-stewed-without-addition-of-fat-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        192
+                    ],
+                    [
+                        174,
+                        230
+                    ],
+                    [
+                        167,
+                        302
+                    ],
+                    [
+                        175,
+                        334
+                    ],
+                    [
+                        212,
+                        355
+                    ],
+                    [
+                        280,
+                        367
+                    ],
+                    [
+                        339,
+                        318
+                    ],
+                    [
+                        334,
+                        256
+                    ],
+                    [
+                        324,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776074,
+            "classId": 4367,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:42.884Z",
+            "updatedAt": "2023-06-07T14:36:42.884Z",
+            "tags": [],
+            "classTitle": "carrot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        244
+                    ],
+                    [
+                        119,
+                        258
+                    ],
+                    [
+                        131,
+                        271
+                    ],
+                    [
+                        148,
+                        269
+                    ],
+                    [
+                        156,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776073,
+            "classId": 4367,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:42.884Z",
+            "updatedAt": "2023-06-07T14:36:42.884Z",
+            "tags": [],
+            "classTitle": "carrot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        283
+                    ],
+                    [
+                        111,
+                        270
+                    ],
+                    [
+                        93,
+                        283
+                    ],
+                    [
+                        104,
+                        298
+                    ],
+                    [
+                        122,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776072,
+            "classId": 4367,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:42.883Z",
+            "updatedAt": "2023-06-07T14:36:42.883Z",
+            "tags": [],
+            "classTitle": "carrot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        169
+                    ],
+                    [
+                        66,
+                        169
+                    ],
+                    [
+                        58,
+                        186
+                    ],
+                    [
+                        70,
+                        197
+                    ],
+                    [
+                        70,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

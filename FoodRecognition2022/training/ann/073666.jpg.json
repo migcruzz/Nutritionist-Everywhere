@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 952
+    },
+    "objects": [
+        {
+            "id": 1733445,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:04.758Z",
+            "updatedAt": "2023-06-07T14:08:04.758Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        670,
+                        407
+                    ],
+                    [
+                        365,
+                        145
+                    ],
+                    [
+                        267,
+                        235
+                    ],
+                    [
+                        331,
+                        421
+                    ],
+                    [
+                        434,
+                        455
+                    ],
+                    [
+                        641,
+                        455
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733444,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:04.757Z",
+            "updatedAt": "2023-06-07T14:08:04.757Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        596,
+                        650
+                    ],
+                    [
+                        403,
+                        459
+                    ],
+                    [
+                        200,
+                        409
+                    ],
+                    [
+                        312,
+                        664
+                    ],
+                    [
+                        393,
+                        767
+                    ],
+                    [
+                        529,
+                        712
+                    ],
+                    [
+                        531,
+                        709
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1801062,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:01.121Z",
+            "updatedAt": "2023-06-07T14:54:01.121Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        43
+                    ],
+                    [
+                        97,
+                        172
+                    ],
+                    [
+                        118,
+                        183
+                    ],
+                    [
+                        140,
+                        170
+                    ],
+                    [
+                        159,
+                        129
+                    ],
+                    [
+                        174,
+                        90
+                    ],
+                    [
+                        163,
+                        52
+                    ],
+                    [
+                        131,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801061,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:01.120Z",
+            "updatedAt": "2023-06-07T14:54:01.120Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        93
+                    ],
+                    [
+                        139,
+                        213
+                    ],
+                    [
+                        176,
+                        232
+                    ],
+                    [
+                        209,
+                        211
+                    ],
+                    [
+                        229,
+                        164
+                    ],
+                    [
+                        236,
+                        118
+                    ],
+                    [
+                        231,
+                        98
+                    ],
+                    [
+                        206,
+                        96
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801060,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:01.120Z",
+            "updatedAt": "2023-06-07T14:54:01.120Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        145
+                    ],
+                    [
+                        246,
+                        189
+                    ],
+                    [
+                        221,
+                        253
+                    ],
+                    [
+                        254,
+                        272
+                    ],
+                    [
+                        282,
+                        236
+                    ],
+                    [
+                        308,
+                        184
+                    ],
+                    [
+                        321,
+                        154
+                    ],
+                    [
+                        294,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

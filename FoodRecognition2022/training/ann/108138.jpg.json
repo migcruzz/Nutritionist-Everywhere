@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1795800,
+            "classId": 3829,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:12.577Z",
+            "updatedAt": "2023-06-07T14:50:12.577Z",
+            "tags": [],
+            "classTitle": "mashed-potatoes-prepared-with-full-fat-milk-with-butter",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        204
+                    ],
+                    [
+                        111,
+                        228
+                    ],
+                    [
+                        136,
+                        298
+                    ],
+                    [
+                        184,
+                        306
+                    ],
+                    [
+                        265,
+                        277
+                    ],
+                    [
+                        274,
+                        253
+                    ],
+                    [
+                        267,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1795798,
+            "classId": 4219,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:12.576Z",
+            "updatedAt": "2023-06-07T14:50:12.576Z",
+            "tags": [],
+            "classTitle": "beef",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        129
+                    ],
+                    [
+                        145,
+                        111
+                    ],
+                    [
+                        118,
+                        135
+                    ],
+                    [
+                        94,
+                        177
+                    ],
+                    [
+                        121,
+                        203
+                    ],
+                    [
+                        160,
+                        208
+                    ],
+                    [
+                        232,
+                        202
+                    ],
+                    [
+                        232,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

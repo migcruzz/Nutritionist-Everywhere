@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1644276,
+            "classId": 3823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:42.366Z",
+            "updatedAt": "2023-06-07T13:05:42.366Z",
+            "tags": [],
+            "classTitle": "beef-filet",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        310
+                    ],
+                    [
+                        288,
+                        292
+                    ],
+                    [
+                        301,
+                        203
+                    ],
+                    [
+                        259,
+                        147
+                    ],
+                    [
+                        171,
+                        124
+                    ],
+                    [
+                        101,
+                        184
+                    ],
+                    [
+                        83,
+                        267
+                    ],
+                    [
+                        102,
+                        317
+                    ],
+                    [
+                        162,
+                        222
+                    ],
+                    [
+                        192,
+                        265
+                    ],
+                    [
+                        204,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1644274,
+            "classId": 3421,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:42.365Z",
+            "updatedAt": "2023-06-07T13:05:42.365Z",
+            "tags": [],
+            "classTitle": "bread-sourdough",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        215
+                    ],
+                    [
+                        247,
+                        306
+                    ],
+                    [
+                        271,
+                        435
+                    ],
+                    [
+                        351,
+                        466
+                    ],
+                    [
+                        433,
+                        394
+                    ],
+                    [
+                        469,
+                        289
+                    ],
+                    [
+                        469,
+                        183
+                    ],
+                    [
+                        399,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

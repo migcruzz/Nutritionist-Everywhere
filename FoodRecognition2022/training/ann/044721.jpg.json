@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1808610,
+            "classId": 3523,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:59:10.279Z",
+            "updatedAt": "2023-06-07T14:59:10.279Z",
+            "tags": [],
+            "classTitle": "wine-red",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        375
+                    ],
+                    [
+                        424,
+                        317
+                    ],
+                    [
+                        599,
+                        327
+                    ],
+                    [
+                        750,
+                        434
+                    ],
+                    [
+                        760,
+                        534
+                    ],
+                    [
+                        677,
+                        665
+                    ],
+                    [
+                        504,
+                        743
+                    ],
+                    [
+                        315,
+                        723
+                    ],
+                    [
+                        222,
+                        604
+                    ],
+                    [
+                        203,
+                        507
+                    ],
+                    [
+                        251,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1808608,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:59:10.277Z",
+            "updatedAt": "2023-06-07T14:59:10.277Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        594,
+                        298
+                    ],
+                    [
+                        767,
+                        249
+                    ],
+                    [
+                        879,
+                        319
+                    ],
+                    [
+                        869,
+                        478
+                    ],
+                    [
+                        784,
+                        514
+                    ],
+                    [
+                        769,
+                        424
+                    ],
+                    [
+                        597,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

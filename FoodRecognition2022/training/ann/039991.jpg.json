@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1704042,
+            "classId": 3669,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:40.378Z",
+            "updatedAt": "2023-06-07T13:46:40.378Z",
+            "tags": [],
+            "classTitle": "tuna",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        250
+                    ],
+                    [
+                        258,
+                        376
+                    ],
+                    [
+                        335,
+                        305
+                    ],
+                    [
+                        351,
+                        207
+                    ],
+                    [
+                        316,
+                        177
+                    ],
+                    [
+                        211,
+                        177
+                    ],
+                    [
+                        126,
+                        198
+                    ],
+                    [
+                        92,
+                        231
+                    ],
+                    [
+                        94,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704040,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:40.378Z",
+            "updatedAt": "2023-06-07T13:46:40.378Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        251
+                    ],
+                    [
+                        117,
+                        370
+                    ],
+                    [
+                        355,
+                        347
+                    ],
+                    [
+                        347,
+                        271
+                    ],
+                    [
+                        338,
+                        310
+                    ],
+                    [
+                        297,
+                        329
+                    ],
+                    [
+                        274,
+                        336
+                    ],
+                    [
+                        216,
+                        332
+                    ],
+                    [
+                        189,
+                        298
+                    ],
+                    [
+                        105,
+                        274
+                    ],
+                    [
+                        91,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

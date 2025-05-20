@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1775486,
+            "classId": 3439,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:20.329Z",
+            "updatedAt": "2023-06-07T14:36:20.329Z",
+            "tags": [],
+            "classTitle": "pancakes",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        93
+                    ],
+                    [
+                        285,
+                        81
+                    ],
+                    [
+                        224,
+                        142
+                    ],
+                    [
+                        234,
+                        228
+                    ],
+                    [
+                        334,
+                        259
+                    ],
+                    [
+                        380,
+                        226
+                    ],
+                    [
+                        390,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1775485,
+            "classId": 3439,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:20.329Z",
+            "updatedAt": "2023-06-07T14:36:20.329Z",
+            "tags": [],
+            "classTitle": "pancakes",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        116
+                    ],
+                    [
+                        30,
+                        118
+                    ],
+                    [
+                        4,
+                        182
+                    ],
+                    [
+                        34,
+                        233
+                    ],
+                    [
+                        83,
+                        302
+                    ],
+                    [
+                        147,
+                        301
+                    ],
+                    [
+                        200,
+                        243
+                    ],
+                    [
+                        206,
+                        194
+                    ],
+                    [
+                        128,
+                        117
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1747809,
+            "classId": 4271,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:07.768Z",
+            "updatedAt": "2023-06-07T14:18:07.768Z",
+            "tags": [],
+            "classTitle": "gluten-free-bread",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        403
+                    ],
+                    [
+                        365,
+                        275
+                    ],
+                    [
+                        280,
+                        217
+                    ],
+                    [
+                        62,
+                        219
+                    ],
+                    [
+                        7,
+                        304
+                    ],
+                    [
+                        43,
+                        400
+                    ],
+                    [
+                        77,
+                        426
+                    ],
+                    [
+                        180,
+                        426
+                    ],
+                    [
+                        105,
+                        458
+                    ],
+                    [
+                        60,
+                        539
+                    ],
+                    [
+                        97,
+                        720
+                    ],
+                    [
+                        278,
+                        750
+                    ],
+                    [
+                        369,
+                        669
+                    ],
+                    [
+                        372,
+                        588
+                    ],
+                    [
+                        338,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747807,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:07.767Z",
+            "updatedAt": "2023-06-07T14:18:07.767Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        578,
+                        136
+                    ],
+                    [
+                        457,
+                        181
+                    ],
+                    [
+                        465,
+                        296
+                    ],
+                    [
+                        525,
+                        383
+                    ],
+                    [
+                        685,
+                        377
+                    ],
+                    [
+                        743,
+                        268
+                    ],
+                    [
+                        702,
+                        208
+                    ],
+                    [
+                        651,
+                        243
+                    ],
+                    [
+                        651,
+                        213
+                    ],
+                    [
+                        670,
+                        187
+                    ],
+                    [
+                        645,
+                        145
+                    ],
+                    [
+                        591,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

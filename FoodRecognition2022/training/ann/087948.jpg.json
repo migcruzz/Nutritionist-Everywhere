@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 909,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1776066,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:42.887Z",
+            "updatedAt": "2023-06-07T14:36:42.887Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        318
+                    ],
+                    [
+                        284,
+                        189
+                    ],
+                    [
+                        81,
+                        145
+                    ],
+                    [
+                        72,
+                        273
+                    ],
+                    [
+                        211,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

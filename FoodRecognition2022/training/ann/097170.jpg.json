@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1642691,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:31.733Z",
+            "updatedAt": "2023-06-07T13:04:31.733Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        407
+                    ],
+                    [
+                        164,
+                        409
+                    ],
+                    [
+                        232,
+                        354
+                    ],
+                    [
+                        244,
+                        290
+                    ],
+                    [
+                        219,
+                        215
+                    ],
+                    [
+                        151,
+                        124
+                    ],
+                    [
+                        79,
+                        110
+                    ],
+                    [
+                        42,
+                        162
+                    ],
+                    [
+                        2,
+                        241
+                    ],
+                    [
+                        12,
+                        348
+                    ],
+                    [
+                        27,
+                        366
+                    ],
+                    [
+                        36,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1642689,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:31.732Z",
+            "updatedAt": "2023-06-07T13:04:31.732Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        392
+                    ],
+                    [
+                        80,
+                        451
+                    ],
+                    [
+                        389,
+                        430
+                    ],
+                    [
+                        435,
+                        404
+                    ],
+                    [
+                        463,
+                        213
+                    ],
+                    [
+                        347,
+                        221
+                    ],
+                    [
+                        291,
+                        261
+                    ],
+                    [
+                        270,
+                        278
+                    ],
+                    [
+                        251,
+                        325
+                    ],
+                    [
+                        208,
+                        351
+                    ],
+                    [
+                        183,
+                        352
+                    ],
+                    [
+                        182,
+                        360
+                    ],
+                    [
+                        174,
+                        370
+                    ],
+                    [
+                        173,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1642687,
+            "classId": 3811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:31.732Z",
+            "updatedAt": "2023-06-07T13:04:31.732Z",
+            "tags": [],
+            "classTitle": "bacon-raw",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        82
+                    ],
+                    [
+                        161,
+                        107
+                    ],
+                    [
+                        291,
+                        218
+                    ],
+                    [
+                        451,
+                        216
+                    ],
+                    [
+                        456,
+                        85
+                    ],
+                    [
+                        379,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

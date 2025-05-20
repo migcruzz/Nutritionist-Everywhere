@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1754651,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:46.525Z",
+            "updatedAt": "2023-06-07T14:22:46.525Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        718,
+                        191
+                    ],
+                    [
+                        636,
+                        124
+                    ],
+                    [
+                        569,
+                        199
+                    ],
+                    [
+                        595,
+                        296
+                    ],
+                    [
+                        659,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754650,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:46.525Z",
+            "updatedAt": "2023-06-07T14:22:46.525Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        569,
+                        636
+                    ],
+                    [
+                        490,
+                        608
+                    ],
+                    [
+                        436,
+                        567
+                    ],
+                    [
+                        357,
+                        606
+                    ],
+                    [
+                        336,
+                        654
+                    ],
+                    [
+                        451,
+                        708
+                    ],
+                    [
+                        561,
+                        706
+                    ],
+                    [
+                        587,
+                        690
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754648,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:46.525Z",
+            "updatedAt": "2023-06-07T14:22:46.525Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        574,
+                        199
+                    ],
+                    [
+                        464,
+                        214
+                    ],
+                    [
+                        311,
+                        314
+                    ],
+                    [
+                        326,
+                        393
+                    ],
+                    [
+                        492,
+                        319
+                    ],
+                    [
+                        556,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754647,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:46.524Z",
+            "updatedAt": "2023-06-07T14:22:46.524Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        405,
+                        493
+                    ],
+                    [
+                        318,
+                        457
+                    ],
+                    [
+                        270,
+                        529
+                    ],
+                    [
+                        328,
+                        601
+                    ],
+                    [
+                        416,
+                        583
+                    ],
+                    [
+                        421,
+                        578
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

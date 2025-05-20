@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1716825,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:22.376Z",
+            "updatedAt": "2023-06-07T13:56:22.376Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        180
+                    ],
+                    [
+                        331,
+                        193
+                    ],
+                    [
+                        114,
+                        404
+                    ],
+                    [
+                        24,
+                        367
+                    ],
+                    [
+                        12,
+                        291
+                    ],
+                    [
+                        16,
+                        211
+                    ],
+                    [
+                        118,
+                        117
+                    ],
+                    [
+                        113,
+                        82
+                    ],
+                    [
+                        201,
+                        85
+                    ],
+                    [
+                        210,
+                        162
+                    ],
+                    [
+                        297,
+                        129
+                    ],
+                    [
+                        454,
+                        110
+                    ],
+                    [
+                        477,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1716823,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:22.375Z",
+            "updatedAt": "2023-06-07T13:56:22.375Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        255
+                    ],
+                    [
+                        375,
+                        452
+                    ],
+                    [
+                        469,
+                        456
+                    ],
+                    [
+                        471,
+                        181
+                    ],
+                    [
+                        385,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

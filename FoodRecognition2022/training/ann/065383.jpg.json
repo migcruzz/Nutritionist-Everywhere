@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 682,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1706005,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:04.711Z",
+            "updatedAt": "2023-06-07T13:48:04.711Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        341
+                    ],
+                    [
+                        261,
+                        437
+                    ],
+                    [
+                        310,
+                        437
+                    ],
+                    [
+                        308,
+                        398
+                    ],
+                    [
+                        363,
+                        382
+                    ],
+                    [
+                        361,
+                        353
+                    ],
+                    [
+                        368,
+                        353
+                    ],
+                    [
+                        388,
+                        374
+                    ],
+                    [
+                        431,
+                        350
+                    ],
+                    [
+                        404,
+                        302
+                    ],
+                    [
+                        399,
+                        265
+                    ],
+                    [
+                        315,
+                        268
+                    ],
+                    [
+                        310,
+                        338
+                    ],
+                    [
+                        261,
+                        348
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1706003,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:04.709Z",
+            "updatedAt": "2023-06-07T13:48:04.709Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        413
+                    ],
+                    [
+                        165,
+                        454
+                    ],
+                    [
+                        165,
+                        502
+                    ],
+                    [
+                        296,
+                        527
+                    ],
+                    [
+                        377,
+                        522
+                    ],
+                    [
+                        344,
+                        495
+                    ],
+                    [
+                        424,
+                        382
+                    ],
+                    [
+                        387,
+                        375
+                    ],
+                    [
+                        342,
+                        384
+                    ],
+                    [
+                        322,
+                        427
+                    ],
+                    [
+                        269,
+                        411
+                    ],
+                    [
+                        218,
+                        442
+                    ],
+                    [
+                        184,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1645609,
+            "classId": 4133,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:40.921Z",
+            "updatedAt": "2023-06-07T13:06:40.921Z",
+            "tags": [],
+            "classTitle": "sour-cream",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        175
+                    ],
+                    [
+                        139,
+                        206
+                    ],
+                    [
+                        181,
+                        258
+                    ],
+                    [
+                        303,
+                        247
+                    ],
+                    [
+                        352,
+                        189
+                    ],
+                    [
+                        303,
+                        163
+                    ],
+                    [
+                        205,
+                        160
+                    ],
+                    [
+                        181,
+                        174
+                    ],
+                    [
+                        181,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645607,
+            "classId": 3835,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:40.920Z",
+            "updatedAt": "2023-06-07T13:06:40.920Z",
+            "tags": [],
+            "classTitle": "swiss-chard",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        193
+                    ],
+                    [
+                        454,
+                        234
+                    ],
+                    [
+                        443,
+                        355
+                    ],
+                    [
+                        93,
+                        422
+                    ],
+                    [
+                        25,
+                        344
+                    ],
+                    [
+                        30,
+                        225
+                    ],
+                    [
+                        90,
+                        156
+                    ],
+                    [
+                        133,
+                        154
+                    ],
+                    [
+                        102,
+                        285
+                    ],
+                    [
+                        149,
+                        338
+                    ],
+                    [
+                        376,
+                        322
+                    ],
+                    [
+                        396,
+                        267
+                    ],
+                    [
+                        383,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

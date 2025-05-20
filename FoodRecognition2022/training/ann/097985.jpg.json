@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1040,
+        "width": 1040
+    },
+    "objects": [
+        {
+            "id": 1652446,
+            "classId": 3623,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:50.057Z",
+            "updatedAt": "2023-06-07T13:10:50.057Z",
+            "tags": [],
+            "classTitle": "quiche-with-cheese-baked-with-puff-pastry",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        270
+                    ],
+                    [
+                        143,
+                        320
+                    ],
+                    [
+                        2,
+                        471
+                    ],
+                    [
+                        62,
+                        567
+                    ],
+                    [
+                        566,
+                        941
+                    ],
+                    [
+                        517,
+                        588
+                    ],
+                    [
+                        491,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652445,
+            "classId": 3623,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:50.056Z",
+            "updatedAt": "2023-06-07T13:10:50.056Z",
+            "tags": [],
+            "classTitle": "quiche-with-cheese-baked-with-puff-pastry",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        224
+                    ],
+                    [
+                        629,
+                        926
+                    ],
+                    [
+                        1024,
+                        476
+                    ],
+                    [
+                        1029,
+                        307
+                    ],
+                    [
+                        897,
+                        218
+                    ],
+                    [
+                        577,
+                        187
+                    ],
+                    [
+                        585,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

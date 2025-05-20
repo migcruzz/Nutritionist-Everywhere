@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 603,
+        "width": 603
+    },
+    "objects": [
+        {
+            "id": 1736746,
+            "classId": 4191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.536Z",
+            "updatedAt": "2023-06-07T14:10:22.536Z",
+            "tags": [],
+            "classTitle": "sugar-melon",
+            "points": {
+                "exterior": [
+                    [
+                        546,
+                        88
+                    ],
+                    [
+                        393,
+                        165
+                    ],
+                    [
+                        310,
+                        216
+                    ],
+                    [
+                        301,
+                        182
+                    ],
+                    [
+                        258,
+                        22
+                    ],
+                    [
+                        209,
+                        233
+                    ],
+                    [
+                        243,
+                        270
+                    ],
+                    [
+                        289,
+                        269
+                    ],
+                    [
+                        292,
+                        237
+                    ],
+                    [
+                        374,
+                        258
+                    ],
+                    [
+                        457,
+                        218
+                    ],
+                    [
+                        538,
+                        130
+                    ],
+                    [
+                        550,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736744,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.536Z",
+            "updatedAt": "2023-06-07T14:10:22.536Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        251
+                    ],
+                    [
+                        321,
+                        352
+                    ],
+                    [
+                        416,
+                        432
+                    ],
+                    [
+                        503,
+                        450
+                    ],
+                    [
+                        500,
+                        308
+                    ],
+                    [
+                        439,
+                        301
+                    ],
+                    [
+                        413,
+                        251
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736743,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.535Z",
+            "updatedAt": "2023-06-07T14:10:22.535Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        261
+                    ],
+                    [
+                        71,
+                        269
+                    ],
+                    [
+                        69,
+                        319
+                    ],
+                    [
+                        98,
+                        346
+                    ],
+                    [
+                        145,
+                        355
+                    ],
+                    [
+                        185,
+                        373
+                    ],
+                    [
+                        231,
+                        352
+                    ],
+                    [
+                        249,
+                        314
+                    ],
+                    [
+                        223,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

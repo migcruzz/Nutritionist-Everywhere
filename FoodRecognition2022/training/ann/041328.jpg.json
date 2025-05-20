@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1799755,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:05.261Z",
+            "updatedAt": "2023-06-07T14:53:05.261Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        63
+                    ],
+                    [
+                        263,
+                        175
+                    ],
+                    [
+                        167,
+                        164
+                    ],
+                    [
+                        143,
+                        100
+                    ],
+                    [
+                        209,
+                        28
+                    ],
+                    [
+                        240,
+                        31
+                    ],
+                    [
+                        274,
+                        44
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799753,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:05.260Z",
+            "updatedAt": "2023-06-07T14:53:05.260Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        162
+                    ],
+                    [
+                        411,
+                        97
+                    ],
+                    [
+                        348,
+                        52
+                    ],
+                    [
+                        279,
+                        108
+                    ],
+                    [
+                        226,
+                        280
+                    ],
+                    [
+                        189,
+                        385
+                    ],
+                    [
+                        277,
+                        427
+                    ],
+                    [
+                        376,
+                        400
+                    ],
+                    [
+                        396,
+                        358
+                    ],
+                    [
+                        415,
+                        255
+                    ],
+                    [
+                        409,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

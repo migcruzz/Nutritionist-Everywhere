@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1796976,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:02.332Z",
+            "updatedAt": "2023-06-07T14:51:02.332Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        107
+                    ],
+                    [
+                        191,
+                        19
+                    ],
+                    [
+                        94,
+                        77
+                    ],
+                    [
+                        98,
+                        174
+                    ],
+                    [
+                        360,
+                        267
+                    ],
+                    [
+                        445,
+                        287
+                    ],
+                    [
+                        470,
+                        281
+                    ],
+                    [
+                        477,
+                        182
+                    ],
+                    [
+                        404,
+                        108
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1796974,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:02.332Z",
+            "updatedAt": "2023-06-07T14:51:02.332Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        111
+                    ],
+                    [
+                        12,
+                        326
+                    ],
+                    [
+                        227,
+                        429
+                    ],
+                    [
+                        306,
+                        341
+                    ],
+                    [
+                        379,
+                        397
+                    ],
+                    [
+                        433,
+                        313
+                    ],
+                    [
+                        400,
+                        246
+                    ],
+                    [
+                        343,
+                        210
+                    ],
+                    [
+                        261,
+                        232
+                    ],
+                    [
+                        228,
+                        171
+                    ],
+                    [
+                        123,
+                        141
+                    ],
+                    [
+                        28,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

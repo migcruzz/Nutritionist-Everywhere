@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1672850,
+            "classId": 3861,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:10.314Z",
+            "updatedAt": "2023-06-07T13:25:10.314Z",
+            "tags": [],
+            "classTitle": "brownie",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        48
+                    ],
+                    [
+                        293,
+                        139
+                    ],
+                    [
+                        302,
+                        181
+                    ],
+                    [
+                        169,
+                        178
+                    ],
+                    [
+                        167,
+                        50
+                    ],
+                    [
+                        304,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1672848,
+            "classId": 3863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:10.313Z",
+            "updatedAt": "2023-06-07T13:25:10.313Z",
+            "tags": [],
+            "classTitle": "dairy-ice-cream",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        304
+                    ],
+                    [
+                        239,
+                        185
+                    ],
+                    [
+                        157,
+                        236
+                    ],
+                    [
+                        199,
+                        383
+                    ],
+                    [
+                        308,
+                        455
+                    ],
+                    [
+                        381,
+                        444
+                    ],
+                    [
+                        462,
+                        341
+                    ],
+                    [
+                        474,
+                        131
+                    ],
+                    [
+                        425,
+                        123
+                    ],
+                    [
+                        415,
+                        283
+                    ],
+                    [
+                        362,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

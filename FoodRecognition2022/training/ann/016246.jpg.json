@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 784,
+        "width": 785
+    },
+    "objects": [
+        {
+            "id": 1662528,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:54.156Z",
+            "updatedAt": "2023-06-07T13:17:54.156Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        755,
+                        295
+                    ],
+                    [
+                        649,
+                        507
+                    ],
+                    [
+                        416,
+                        297
+                    ],
+                    [
+                        451,
+                        201
+                    ],
+                    [
+                        710,
+                        280
+                    ],
+                    [
+                        741,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1662526,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:54.154Z",
+            "updatedAt": "2023-06-07T13:17:54.154Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        309
+                    ],
+                    [
+                        70,
+                        264
+                    ],
+                    [
+                        29,
+                        335
+                    ],
+                    [
+                        9,
+                        454
+                    ],
+                    [
+                        404,
+                        723
+                    ],
+                    [
+                        455,
+                        564
+                    ],
+                    [
+                        327,
+                        456
+                    ],
+                    [
+                        416,
+                        358
+                    ],
+                    [
+                        423,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

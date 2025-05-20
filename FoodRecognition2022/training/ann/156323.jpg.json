@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2048,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 1786963,
+            "classId": 3995,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:11.097Z",
+            "updatedAt": "2023-06-07T14:44:11.097Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal-toast",
+            "points": {
+                "exterior": [
+                    [
+                        1673,
+                        727
+                    ],
+                    [
+                        1612,
+                        1040
+                    ],
+                    [
+                        1217,
+                        1070
+                    ],
+                    [
+                        1217,
+                        814
+                    ],
+                    [
+                        972,
+                        814
+                    ],
+                    [
+                        885,
+                        1075
+                    ],
+                    [
+                        403,
+                        1086
+                    ],
+                    [
+                        373,
+                        743
+                    ],
+                    [
+                        1555,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786961,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:11.097Z",
+            "updatedAt": "2023-06-07T14:44:11.097Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        905,
+                        901
+                    ],
+                    [
+                        726,
+                        922
+                    ],
+                    [
+                        496,
+                        988
+                    ],
+                    [
+                        398,
+                        1004
+                    ],
+                    [
+                        490,
+                        1121
+                    ],
+                    [
+                        700,
+                        1111
+                    ],
+                    [
+                        808,
+                        1060
+                    ],
+                    [
+                        926,
+                        1014
+                    ],
+                    [
+                        905,
+                        927
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786960,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:11.096Z",
+            "updatedAt": "2023-06-07T14:44:11.096Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        1253,
+                        876
+                    ],
+                    [
+                        1484,
+                        876
+                    ],
+                    [
+                        1591,
+                        830
+                    ],
+                    [
+                        1637,
+                        748
+                    ],
+                    [
+                        1596,
+                        886
+                    ],
+                    [
+                        1386,
+                        937
+                    ],
+                    [
+                        1202,
+                        958
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

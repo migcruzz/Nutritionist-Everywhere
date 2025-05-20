@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1676033,
+            "classId": 3609,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:20.364Z",
+            "updatedAt": "2023-06-07T13:27:20.364Z",
+            "tags": [],
+            "classTitle": "bread-grain",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        40
+                    ],
+                    [
+                        64,
+                        40
+                    ],
+                    [
+                        63,
+                        159
+                    ],
+                    [
+                        151,
+                        137
+                    ],
+                    [
+                        125,
+                        35
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1676032,
+            "classId": 3609,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:20.364Z",
+            "updatedAt": "2023-06-07T13:27:20.364Z",
+            "tags": [],
+            "classTitle": "bread-grain",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        255
+                    ],
+                    [
+                        28,
+                        362
+                    ],
+                    [
+                        60,
+                        387
+                    ],
+                    [
+                        188,
+                        381
+                    ],
+                    [
+                        231,
+                        326
+                    ],
+                    [
+                        73,
+                        351
+                    ],
+                    [
+                        31,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

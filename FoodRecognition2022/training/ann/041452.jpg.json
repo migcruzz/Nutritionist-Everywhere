@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1680679,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:22.548Z",
+            "updatedAt": "2023-06-07T13:30:22.548Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        460
+                    ],
+                    [
+                        232,
+                        409
+                    ],
+                    [
+                        153,
+                        282
+                    ],
+                    [
+                        127,
+                        165
+                    ],
+                    [
+                        112,
+                        147
+                    ],
+                    [
+                        55,
+                        177
+                    ],
+                    [
+                        25,
+                        374
+                    ],
+                    [
+                        154,
+                        468
+                    ],
+                    [
+                        192,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1680677,
+            "classId": 3685,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:22.548Z",
+            "updatedAt": "2023-06-07T13:30:22.548Z",
+            "tags": [],
+            "classTitle": "crepe-plain",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        306
+                    ],
+                    [
+                        325,
+                        459
+                    ],
+                    [
+                        307,
+                        402
+                    ],
+                    [
+                        240,
+                        310
+                    ],
+                    [
+                        219,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1680676,
+            "classId": 3685,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:22.547Z",
+            "updatedAt": "2023-06-07T13:30:22.547Z",
+            "tags": [],
+            "classTitle": "crepe-plain",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        304
+                    ],
+                    [
+                        325,
+                        385
+                    ],
+                    [
+                        385,
+                        331
+                    ],
+                    [
+                        429,
+                        242
+                    ],
+                    [
+                        418,
+                        105
+                    ],
+                    [
+                        359,
+                        26
+                    ],
+                    [
+                        151,
+                        56
+                    ],
+                    [
+                        121,
+                        156
+                    ],
+                    [
+                        147,
+                        189
+                    ],
+                    [
+                        168,
+                        146
+                    ],
+                    [
+                        184,
+                        133
+                    ],
+                    [
+                        256,
+                        223
+                    ],
+                    [
+                        263,
+                        271
+                    ],
+                    [
+                        268,
+                        283
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

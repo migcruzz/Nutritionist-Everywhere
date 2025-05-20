@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1644692,
+            "classId": 3441,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:58.584Z",
+            "updatedAt": "2023-06-07T13:05:58.584Z",
+            "tags": [],
+            "classTitle": "tea",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        14
+                    ],
+                    [
+                        141,
+                        53
+                    ],
+                    [
+                        151,
+                        94
+                    ],
+                    [
+                        197,
+                        95
+                    ],
+                    [
+                        261,
+                        81
+                    ],
+                    [
+                        253,
+                        41
+                    ],
+                    [
+                        223,
+                        27
+                    ],
+                    [
+                        180,
+                        10
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1644690,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:58.582Z",
+            "updatedAt": "2023-06-07T13:05:58.582Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        334
+                    ],
+                    [
+                        228,
+                        388
+                    ],
+                    [
+                        284,
+                        383
+                    ],
+                    [
+                        332,
+                        353
+                    ],
+                    [
+                        338,
+                        313
+                    ],
+                    [
+                        315,
+                        297
+                    ],
+                    [
+                        210,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1644688,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:58.581Z",
+            "updatedAt": "2023-06-07T13:05:58.581Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        336
+                    ],
+                    [
+                        224,
+                        369
+                    ],
+                    [
+                        296,
+                        384
+                    ],
+                    [
+                        320,
+                        342
+                    ],
+                    [
+                        321,
+                        292
+                    ],
+                    [
+                        222,
+                        336
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

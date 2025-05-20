@@ -1,0 +1,330 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 886,
+        "width": 886
+    },
+    "objects": [
+        {
+            "id": 1713210,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:47.687Z",
+            "updatedAt": "2023-06-07T13:53:47.687Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        660,
+                        555
+                    ],
+                    [
+                        338,
+                        552
+                    ],
+                    [
+                        320,
+                        549
+                    ],
+                    [
+                        276,
+                        534
+                    ],
+                    [
+                        231,
+                        506
+                    ],
+                    [
+                        217,
+                        492
+                    ],
+                    [
+                        205,
+                        485
+                    ],
+                    [
+                        172,
+                        451
+                    ],
+                    [
+                        144,
+                        401
+                    ],
+                    [
+                        118,
+                        334
+                    ],
+                    [
+                        112,
+                        296
+                    ],
+                    [
+                        114,
+                        257
+                    ],
+                    [
+                        121,
+                        231
+                    ],
+                    [
+                        144,
+                        179
+                    ],
+                    [
+                        170,
+                        156
+                    ],
+                    [
+                        204,
+                        132
+                    ],
+                    [
+                        231,
+                        123
+                    ],
+                    [
+                        333,
+                        110
+                    ],
+                    [
+                        497,
+                        108
+                    ],
+                    [
+                        528,
+                        111
+                    ],
+                    [
+                        581,
+                        126
+                    ],
+                    [
+                        645,
+                        159
+                    ],
+                    [
+                        669,
+                        173
+                    ],
+                    [
+                        681,
+                        184
+                    ],
+                    [
+                        698,
+                        192
+                    ],
+                    [
+                        751,
+                        235
+                    ],
+                    [
+                        780,
+                        264
+                    ],
+                    [
+                        801,
+                        309
+                    ],
+                    [
+                        788,
+                        327
+                    ],
+                    [
+                        726,
+                        353
+                    ],
+                    [
+                        709,
+                        372
+                    ],
+                    [
+                        712,
+                        403
+                    ],
+                    [
+                        729,
+                        428
+                    ],
+                    [
+                        748,
+                        483
+                    ],
+                    [
+                        745,
+                        515
+                    ],
+                    [
+                        732,
+                        539
+                    ],
+                    [
+                        727,
+                        547
+                    ],
+                    [
+                        718,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713208,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:47.687Z",
+            "updatedAt": "2023-06-07T13:53:47.687Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        736,
+                        331
+                    ],
+                    [
+                        147,
+                        336
+                    ],
+                    [
+                        147,
+                        387
+                    ],
+                    [
+                        754,
+                        393
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713206,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:47.686Z",
+            "updatedAt": "2023-06-07T13:53:47.686Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        396
+                    ],
+                    [
+                        388,
+                        528
+                    ],
+                    [
+                        430,
+                        504
+                    ],
+                    [
+                        424,
+                        418
+                    ],
+                    [
+                        537,
+                        427
+                    ],
+                    [
+                        712,
+                        500
+                    ],
+                    [
+                        703,
+                        415
+                    ],
+                    [
+                        670,
+                        396
+                    ],
+                    [
+                        348,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713204,
+            "classId": 3559,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:47.684Z",
+            "updatedAt": "2023-06-07T13:53:47.684Z",
+            "tags": [],
+            "classTitle": "tartar-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        623,
+                        489
+                    ],
+                    [
+                        472,
+                        400
+                    ],
+                    [
+                        441,
+                        404
+                    ],
+                    [
+                        450,
+                        440
+                    ],
+                    [
+                        552,
+                        489
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713203,
+            "classId": 3559,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:47.683Z",
+            "updatedAt": "2023-06-07T13:53:47.683Z",
+            "tags": [],
+            "classTitle": "tartar-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        451
+                    ],
+                    [
+                        282,
+                        389
+                    ],
+                    [
+                        184,
+                        396
+                    ],
+                    [
+                        275,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

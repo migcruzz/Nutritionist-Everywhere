@@ -1,0 +1,486 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1695575,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.348Z",
+            "updatedAt": "2023-06-07T13:40:30.348Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        29
+                    ],
+                    [
+                        163,
+                        15
+                    ],
+                    [
+                        77,
+                        36
+                    ],
+                    [
+                        16,
+                        82
+                    ],
+                    [
+                        15,
+                        122
+                    ],
+                    [
+                        41,
+                        131
+                    ],
+                    [
+                        115,
+                        145
+                    ],
+                    [
+                        155,
+                        135
+                    ],
+                    [
+                        158,
+                        91
+                    ],
+                    [
+                        224,
+                        91
+                    ],
+                    [
+                        256,
+                        110
+                    ],
+                    [
+                        280,
+                        81
+                    ],
+                    [
+                        274,
+                        70
+                    ],
+                    [
+                        200,
+                        65
+                    ],
+                    [
+                        199,
+                        32
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695574,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.347Z",
+            "updatedAt": "2023-06-07T13:40:30.347Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        123,
+                        148
+                    ],
+                    [
+                        69,
+                        179
+                    ],
+                    [
+                        42,
+                        263
+                    ],
+                    [
+                        60,
+                        330
+                    ],
+                    [
+                        107,
+                        358
+                    ],
+                    [
+                        113,
+                        259
+                    ],
+                    [
+                        137,
+                        161
+                    ],
+                    [
+                        137,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695572,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.346Z",
+            "updatedAt": "2023-06-07T13:40:30.346Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        166
+                    ],
+                    [
+                        341,
+                        128
+                    ],
+                    [
+                        293,
+                        128
+                    ],
+                    [
+                        285,
+                        180
+                    ],
+                    [
+                        362,
+                        176
+                    ],
+                    [
+                        358,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695571,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.346Z",
+            "updatedAt": "2023-06-07T13:40:30.346Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        235
+                    ],
+                    [
+                        206,
+                        242
+                    ],
+                    [
+                        192,
+                        296
+                    ],
+                    [
+                        224,
+                        312
+                    ],
+                    [
+                        228,
+                        374
+                    ],
+                    [
+                        286,
+                        389
+                    ],
+                    [
+                        305,
+                        365
+                    ],
+                    [
+                        280,
+                        311
+                    ],
+                    [
+                        268,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695569,
+            "classId": 4367,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.345Z",
+            "updatedAt": "2023-06-07T13:40:30.345Z",
+            "tags": [],
+            "classTitle": "carrot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        184
+                    ],
+                    [
+                        254,
+                        179
+                    ],
+                    [
+                        239,
+                        229
+                    ],
+                    [
+                        270,
+                        252
+                    ],
+                    [
+                        279,
+                        290
+                    ],
+                    [
+                        285,
+                        252
+                    ],
+                    [
+                        280,
+                        237
+                    ],
+                    [
+                        362,
+                        226
+                    ],
+                    [
+                        359,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695568,
+            "classId": 4367,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.345Z",
+            "updatedAt": "2023-06-07T13:40:30.345Z",
+            "tags": [],
+            "classTitle": "carrot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        222
+                    ],
+                    [
+                        147,
+                        218
+                    ],
+                    [
+                        150,
+                        246
+                    ],
+                    [
+                        171,
+                        278
+                    ],
+                    [
+                        206,
+                        249
+                    ],
+                    [
+                        206,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695567,
+            "classId": 4367,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.345Z",
+            "updatedAt": "2023-06-07T13:40:30.345Z",
+            "tags": [],
+            "classTitle": "carrot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        299
+                    ],
+                    [
+                        302,
+                        290
+                    ],
+                    [
+                        286,
+                        310
+                    ],
+                    [
+                        311,
+                        329
+                    ],
+                    [
+                        331,
+                        333
+                    ],
+                    [
+                        340,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695565,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.344Z",
+            "updatedAt": "2023-06-07T13:40:30.344Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        109
+                    ],
+                    [
+                        141,
+                        90
+                    ],
+                    [
+                        152,
+                        197
+                    ],
+                    [
+                        213,
+                        217
+                    ],
+                    [
+                        276,
+                        146
+                    ],
+                    [
+                        284,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695564,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.344Z",
+            "updatedAt": "2023-06-07T13:40:30.344Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        299
+                    ],
+                    [
+                        111,
+                        318
+                    ],
+                    [
+                        103,
+                        383
+                    ],
+                    [
+                        212,
+                        386
+                    ],
+                    [
+                        192,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695563,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:30.344Z",
+            "updatedAt": "2023-06-07T13:40:30.344Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        237
+                    ],
+                    [
+                        284,
+                        206
+                    ],
+                    [
+                        288,
+                        245
+                    ],
+                    [
+                        286,
+                        321
+                    ],
+                    [
+                        306,
+                        318
+                    ],
+                    [
+                        319,
+                        288
+                    ],
+                    [
+                        349,
+                        293
+                    ],
+                    [
+                        384,
+                        258
+                    ],
+                    [
+                        387,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

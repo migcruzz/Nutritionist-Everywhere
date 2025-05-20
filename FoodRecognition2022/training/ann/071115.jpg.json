@@ -1,0 +1,278 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1761140,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:52.971Z",
+            "updatedAt": "2023-06-07T14:26:52.971Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        156
+                    ],
+                    [
+                        159,
+                        244
+                    ],
+                    [
+                        101,
+                        271
+                    ],
+                    [
+                        24,
+                        290
+                    ],
+                    [
+                        7,
+                        280
+                    ],
+                    [
+                        4,
+                        192
+                    ],
+                    [
+                        0,
+                        146
+                    ],
+                    [
+                        7,
+                        122
+                    ],
+                    [
+                        58,
+                        141
+                    ],
+                    [
+                        89,
+                        151
+                    ],
+                    [
+                        119,
+                        144
+                    ],
+                    [
+                        143,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1761138,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:52.970Z",
+            "updatedAt": "2023-06-07T14:26:52.970Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        221
+                    ],
+                    [
+                        306,
+                        227
+                    ],
+                    [
+                        252,
+                        233
+                    ],
+                    [
+                        225,
+                        210
+                    ],
+                    [
+                        173,
+                        240
+                    ],
+                    [
+                        126,
+                        255
+                    ],
+                    [
+                        142,
+                        306
+                    ],
+                    [
+                        178,
+                        354
+                    ],
+                    [
+                        220,
+                        366
+                    ],
+                    [
+                        273,
+                        354
+                    ],
+                    [
+                        321,
+                        333
+                    ],
+                    [
+                        348,
+                        317
+                    ],
+                    [
+                        371,
+                        289
+                    ],
+                    [
+                        380,
+                        276
+                    ],
+                    [
+                        386,
+                        249
+                    ],
+                    [
+                        373,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1761136,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:52.970Z",
+            "updatedAt": "2023-06-07T14:26:52.970Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        139
+                    ],
+                    [
+                        207,
+                        115
+                    ],
+                    [
+                        220,
+                        66
+                    ],
+                    [
+                        190,
+                        39
+                    ],
+                    [
+                        163,
+                        62
+                    ],
+                    [
+                        146,
+                        90
+                    ],
+                    [
+                        128,
+                        97
+                    ],
+                    [
+                        95,
+                        90
+                    ],
+                    [
+                        32,
+                        94
+                    ],
+                    [
+                        61,
+                        137
+                    ],
+                    [
+                        79,
+                        143
+                    ],
+                    [
+                        120,
+                        124
+                    ],
+                    [
+                        151,
+                        125
+                    ],
+                    [
+                        168,
+                        141
+                    ],
+                    [
+                        173,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1761135,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:52.970Z",
+            "updatedAt": "2023-06-07T14:26:52.970Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        164
+                    ],
+                    [
+                        243,
+                        129
+                    ],
+                    [
+                        220,
+                        129
+                    ],
+                    [
+                        214,
+                        141
+                    ],
+                    [
+                        220,
+                        159
+                    ],
+                    [
+                        224,
+                        165
+                    ],
+                    [
+                        232,
+                        166
+                    ],
+                    [
+                        234,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

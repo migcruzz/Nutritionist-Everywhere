@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1731954,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:58.795Z",
+            "updatedAt": "2023-06-07T14:06:58.795Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        237
+                    ],
+                    [
+                        107,
+                        199
+                    ],
+                    [
+                        156,
+                        254
+                    ],
+                    [
+                        174,
+                        285
+                    ],
+                    [
+                        169,
+                        439
+                    ],
+                    [
+                        282,
+                        440
+                    ],
+                    [
+                        376,
+                        415
+                    ],
+                    [
+                        469,
+                        332
+                    ],
+                    [
+                        473,
+                        187
+                    ],
+                    [
+                        423,
+                        114
+                    ],
+                    [
+                        309,
+                        61
+                    ],
+                    [
+                        161,
+                        66
+                    ],
+                    [
+                        36,
+                        136
+                    ],
+                    [
+                        1,
+                        177
+                    ],
+                    [
+                        12,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1731952,
+            "classId": 4339,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:58.794Z",
+            "updatedAt": "2023-06-07T14:06:58.794Z",
+            "tags": [],
+            "classTitle": "mousse",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        242
+                    ],
+                    [
+                        171,
+                        294
+                    ],
+                    [
+                        160,
+                        409
+                    ],
+                    [
+                        47,
+                        418
+                    ],
+                    [
+                        6,
+                        322
+                    ],
+                    [
+                        81,
+                        277
+                    ],
+                    [
+                        155,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

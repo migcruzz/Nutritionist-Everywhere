@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 827,
+        "width": 827
+    },
+    "objects": [
+        {
+            "id": 1728021,
+            "classId": 3809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:18.459Z",
+            "updatedAt": "2023-06-07T14:04:18.459Z",
+            "tags": [],
+            "classTitle": "hazelnut",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        372
+                    ],
+                    [
+                        574,
+                        333
+                    ],
+                    [
+                        679,
+                        310
+                    ],
+                    [
+                        626,
+                        240
+                    ],
+                    [
+                        415,
+                        194
+                    ],
+                    [
+                        245,
+                        159
+                    ],
+                    [
+                        181,
+                        200
+                    ],
+                    [
+                        158,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728020,
+            "classId": 3809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:18.459Z",
+            "updatedAt": "2023-06-07T14:04:18.459Z",
+            "tags": [],
+            "classTitle": "hazelnut",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        417
+                    ],
+                    [
+                        150,
+                        407
+                    ],
+                    [
+                        167,
+                        415
+                    ],
+                    [
+                        196,
+                        475
+                    ],
+                    [
+                        365,
+                        440
+                    ],
+                    [
+                        504,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

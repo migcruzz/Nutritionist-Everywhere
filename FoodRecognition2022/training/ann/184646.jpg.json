@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1679633,
+            "classId": 3703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:45.466Z",
+            "updatedAt": "2023-06-07T13:29:45.466Z",
+            "tags": [],
+            "classTitle": "sushi",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        623
+                    ],
+                    [
+                        285,
+                        654
+                    ],
+                    [
+                        433,
+                        656
+                    ],
+                    [
+                        497,
+                        513
+                    ],
+                    [
+                        454,
+                        362
+                    ],
+                    [
+                        190,
+                        357
+                    ],
+                    [
+                        34,
+                        357
+                    ],
+                    [
+                        16,
+                        449
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

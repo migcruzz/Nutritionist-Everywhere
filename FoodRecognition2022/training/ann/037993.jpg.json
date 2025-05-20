@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1691880,
+            "classId": 3887,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:01.609Z",
+            "updatedAt": "2023-06-07T13:38:01.609Z",
+            "tags": [],
+            "classTitle": "potato-salad-with-mayonnaise-yogurt-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        365
+                    ],
+                    [
+                        268,
+                        300
+                    ],
+                    [
+                        205,
+                        263
+                    ],
+                    [
+                        84,
+                        275
+                    ],
+                    [
+                        36,
+                        310
+                    ],
+                    [
+                        32,
+                        376
+                    ],
+                    [
+                        80,
+                        426
+                    ],
+                    [
+                        139,
+                        447
+                    ],
+                    [
+                        195,
+                        455
+                    ],
+                    [
+                        253,
+                        439
+                    ],
+                    [
+                        290,
+                        405
+                    ],
+                    [
+                        293,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1691878,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:01.608Z",
+            "updatedAt": "2023-06-07T13:38:01.608Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        258
+                    ],
+                    [
+                        319,
+                        251
+                    ],
+                    [
+                        243,
+                        275
+                    ],
+                    [
+                        283,
+                        302
+                    ],
+                    [
+                        313,
+                        356
+                    ],
+                    [
+                        321,
+                        378
+                    ],
+                    [
+                        356,
+                        387
+                    ],
+                    [
+                        411,
+                        379
+                    ],
+                    [
+                        424,
+                        344
+                    ],
+                    [
+                        401,
+                        295
+                    ],
+                    [
+                        381,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

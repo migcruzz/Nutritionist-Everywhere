@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 840,
+        "width": 840
+    },
+    "objects": [
+        {
+            "id": 1746261,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:56.843Z",
+            "updatedAt": "2023-06-07T14:16:56.843Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        104
+                    ],
+                    [
+                        473,
+                        341
+                    ],
+                    [
+                        78,
+                        472
+                    ],
+                    [
+                        45,
+                        602
+                    ],
+                    [
+                        330,
+                        778
+                    ],
+                    [
+                        643,
+                        795
+                    ],
+                    [
+                        830,
+                        692
+                    ],
+                    [
+                        809,
+                        635
+                    ],
+                    [
+                        498,
+                        308
+                    ],
+                    [
+                        832,
+                        241
+                    ],
+                    [
+                        727,
+                        163
+                    ],
+                    [
+                        565,
+                        112
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1746259,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:56.843Z",
+            "updatedAt": "2023-06-07T14:16:56.843Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        534,
+                        394
+                    ],
+                    [
+                        425,
+                        501
+                    ],
+                    [
+                        465,
+                        574
+                    ],
+                    [
+                        649,
+                        616
+                    ],
+                    [
+                        643,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

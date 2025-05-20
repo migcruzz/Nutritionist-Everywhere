@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1803014,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:21.298Z",
+            "updatedAt": "2023-06-07T14:55:21.298Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        73
+                    ],
+                    [
+                        315,
+                        185
+                    ],
+                    [
+                        261,
+                        267
+                    ],
+                    [
+                        166,
+                        287
+                    ],
+                    [
+                        112,
+                        270
+                    ],
+                    [
+                        71,
+                        235
+                    ],
+                    [
+                        63,
+                        192
+                    ],
+                    [
+                        244,
+                        96
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1803012,
+            "classId": 4297,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:21.296Z",
+            "updatedAt": "2023-06-07T14:55:21.296Z",
+            "tags": [],
+            "classTitle": "veal-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        318
+                    ],
+                    [
+                        174,
+                        318
+                    ],
+                    [
+                        102,
+                        311
+                    ],
+                    [
+                        37,
+                        342
+                    ],
+                    [
+                        132,
+                        385
+                    ],
+                    [
+                        263,
+                        399
+                    ],
+                    [
+                        324,
+                        378
+                    ],
+                    [
+                        341,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

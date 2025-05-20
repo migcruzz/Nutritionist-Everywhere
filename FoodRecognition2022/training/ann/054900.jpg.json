@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 784,
+        "width": 785
+    },
+    "objects": [
+        {
+            "id": 1795920,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:17.734Z",
+            "updatedAt": "2023-06-07T14:50:17.734Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        536,
+                        23
+                    ],
+                    [
+                        230,
+                        211
+                    ],
+                    [
+                        104,
+                        346
+                    ],
+                    [
+                        126,
+                        405
+                    ],
+                    [
+                        212,
+                        395
+                    ],
+                    [
+                        326,
+                        319
+                    ],
+                    [
+                        438,
+                        233
+                    ],
+                    [
+                        552,
+                        162
+                    ],
+                    [
+                        617,
+                        121
+                    ],
+                    [
+                        634,
+                        85
+                    ],
+                    [
+                        595,
+                        42
+                    ],
+                    [
+                        562,
+                        32
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1795919,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:17.733Z",
+            "updatedAt": "2023-06-07T14:50:17.733Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        623,
+                        189
+                    ],
+                    [
+                        265,
+                        456
+                    ],
+                    [
+                        214,
+                        543
+                    ],
+                    [
+                        340,
+                        515
+                    ],
+                    [
+                        548,
+                        313
+                    ],
+                    [
+                        660,
+                        213
+                    ],
+                    [
+                        666,
+                        183
+                    ],
+                    [
+                        640,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1795917,
+            "classId": 4161,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:17.732Z",
+            "updatedAt": "2023-06-07T14:50:17.732Z",
+            "tags": [],
+            "classTitle": "wienerli-swiss-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        681,
+                        99
+                    ],
+                    [
+                        623,
+                        95
+                    ],
+                    [
+                        487,
+                        185
+                    ],
+                    [
+                        309,
+                        309
+                    ],
+                    [
+                        146,
+                        450
+                    ],
+                    [
+                        75,
+                        562
+                    ],
+                    [
+                        142,
+                        596
+                    ],
+                    [
+                        244,
+                        490
+                    ],
+                    [
+                        350,
+                        395
+                    ],
+                    [
+                        468,
+                        319
+                    ],
+                    [
+                        703,
+                        183
+                    ],
+                    [
+                        685,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

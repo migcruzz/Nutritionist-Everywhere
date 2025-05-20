@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1675072,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:39.360Z",
+            "updatedAt": "2023-06-07T13:26:39.360Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        847,
+                        302
+                    ],
+                    [
+                        660,
+                        267
+                    ],
+                    [
+                        522,
+                        280
+                    ],
+                    [
+                        498,
+                        388
+                    ],
+                    [
+                        571,
+                        488
+                    ],
+                    [
+                        671,
+                        561
+                    ],
+                    [
+                        747,
+                        645
+                    ],
+                    [
+                        882,
+                        610
+                    ],
+                    [
+                        920,
+                        531
+                    ],
+                    [
+                        887,
+                        402
+                    ],
+                    [
+                        863,
+                        340
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675070,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:39.360Z",
+            "updatedAt": "2023-06-07T13:26:39.360Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        420,
+                        426
+                    ],
+                    [
+                        9,
+                        445
+                    ],
+                    [
+                        14,
+                        656
+                    ],
+                    [
+                        198,
+                        902
+                    ],
+                    [
+                        631,
+                        950
+                    ],
+                    [
+                        798,
+                        826
+                    ],
+                    [
+                        760,
+                        588
+                    ],
+                    [
+                        439,
+                        445
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

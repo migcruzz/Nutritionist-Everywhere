@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 852,
+        "width": 852
+    },
+    "objects": [
+        {
+            "id": 1738618,
+            "classId": 3719,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:40.385Z",
+            "updatedAt": "2023-06-07T14:11:40.385Z",
+            "tags": [],
+            "classTitle": "fajita-bread-only",
+            "points": {
+                "exterior": [
+                    [
+                        423,
+                        236
+                    ],
+                    [
+                        189,
+                        357
+                    ],
+                    [
+                        85,
+                        549
+                    ],
+                    [
+                        55,
+                        681
+                    ],
+                    [
+                        132,
+                        651
+                    ],
+                    [
+                        317,
+                        653
+                    ],
+                    [
+                        575,
+                        679
+                    ],
+                    [
+                        834,
+                        728
+                    ],
+                    [
+                        824,
+                        598
+                    ],
+                    [
+                        813,
+                        387
+                    ],
+                    [
+                        666,
+                        268
+                    ],
+                    [
+                        485,
+                        240
+                    ],
+                    [
+                        443,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738616,
+            "classId": 4145,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:40.384Z",
+            "updatedAt": "2023-06-07T14:11:40.384Z",
+            "tags": [],
+            "classTitle": "sauce-cocktail",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        377
+                    ],
+                    [
+                        284,
+                        423
+                    ],
+                    [
+                        273,
+                        434
+                    ],
+                    [
+                        252,
+                        434
+                    ],
+                    [
+                        179,
+                        428
+                    ],
+                    [
+                        133,
+                        449
+                    ],
+                    [
+                        145,
+                        498
+                    ],
+                    [
+                        194,
+                        530
+                    ],
+                    [
+                        248,
+                        536
+                    ],
+                    [
+                        303,
+                        530
+                    ],
+                    [
+                        358,
+                        500
+                    ],
+                    [
+                        390,
+                        432
+                    ],
+                    [
+                        395,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1808384,
+            "classId": 4045,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:58.335Z",
+            "updatedAt": "2023-06-07T14:58:58.335Z",
+            "tags": [],
+            "classTitle": "dates",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        137
+                    ],
+                    [
+                        115,
+                        173
+                    ],
+                    [
+                        113,
+                        203
+                    ],
+                    [
+                        115,
+                        244
+                    ],
+                    [
+                        142,
+                        290
+                    ],
+                    [
+                        153,
+                        304
+                    ],
+                    [
+                        177,
+                        285
+                    ],
+                    [
+                        163,
+                        240
+                    ],
+                    [
+                        177,
+                        222
+                    ],
+                    [
+                        169,
+                        185
+                    ],
+                    [
+                        185,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1808382,
+            "classId": 3499,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:58.334Z",
+            "updatedAt": "2023-06-07T14:58:58.334Z",
+            "tags": [],
+            "classTitle": "peanut-butter",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        153
+                    ],
+                    [
+                        184,
+                        153
+                    ],
+                    [
+                        172,
+                        191
+                    ],
+                    [
+                        174,
+                        228
+                    ],
+                    [
+                        166,
+                        248
+                    ],
+                    [
+                        188,
+                        287
+                    ],
+                    [
+                        206,
+                        244
+                    ],
+                    [
+                        207,
+                        208
+                    ],
+                    [
+                        217,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

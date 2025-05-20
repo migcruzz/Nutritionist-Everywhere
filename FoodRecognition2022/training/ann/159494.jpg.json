@@ -1,0 +1,286 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1696732,
+            "classId": 4197,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:23.914Z",
+            "updatedAt": "2023-06-07T13:41:23.914Z",
+            "tags": [],
+            "classTitle": "hamburger-bun",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        128
+                    ],
+                    [
+                        328,
+                        52
+                    ],
+                    [
+                        274,
+                        44
+                    ],
+                    [
+                        145,
+                        55
+                    ],
+                    [
+                        66,
+                        121
+                    ],
+                    [
+                        66,
+                        176
+                    ],
+                    [
+                        377,
+                        153
+                    ],
+                    [
+                        377,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696730,
+            "classId": 4195,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:23.914Z",
+            "updatedAt": "2023-06-07T13:41:23.914Z",
+            "tags": [],
+            "classTitle": "hamburger",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        274
+                    ],
+                    [
+                        315,
+                        272
+                    ],
+                    [
+                        220,
+                        261
+                    ],
+                    [
+                        123,
+                        189
+                    ],
+                    [
+                        199,
+                        292
+                    ],
+                    [
+                        362,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696728,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:23.914Z",
+            "updatedAt": "2023-06-07T13:41:23.914Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        355,
+                        187
+                    ],
+                    [
+                        305,
+                        212
+                    ],
+                    [
+                        188,
+                        215
+                    ],
+                    [
+                        249,
+                        273
+                    ],
+                    [
+                        406,
+                        276
+                    ],
+                    [
+                        384,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696726,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:23.914Z",
+            "updatedAt": "2023-06-07T13:41:23.914Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        153
+                    ],
+                    [
+                        272,
+                        179
+                    ],
+                    [
+                        142,
+                        184
+                    ],
+                    [
+                        170,
+                        218
+                    ],
+                    [
+                        347,
+                        215
+                    ],
+                    [
+                        372,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696724,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:23.913Z",
+            "updatedAt": "2023-06-07T13:41:23.913Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        285
+                    ],
+                    [
+                        140,
+                        269
+                    ],
+                    [
+                        78,
+                        225
+                    ],
+                    [
+                        94,
+                        290
+                    ],
+                    [
+                        205,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696722,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:23.913Z",
+            "updatedAt": "2023-06-07T13:41:23.913Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        287
+                    ],
+                    [
+                        236,
+                        291
+                    ],
+                    [
+                        220,
+                        361
+                    ],
+                    [
+                        264,
+                        368
+                    ],
+                    [
+                        308,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696721,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:23.913Z",
+            "updatedAt": "2023-06-07T13:41:23.913Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        269
+                    ],
+                    [
+                        111,
+                        190
+                    ],
+                    [
+                        86,
+                        225
+                    ],
+                    [
+                        105,
+                        258
+                    ],
+                    [
+                        146,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

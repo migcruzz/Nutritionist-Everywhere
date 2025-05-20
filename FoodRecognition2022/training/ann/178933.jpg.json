@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 872,
+        "width": 872
+    },
+    "objects": [
+        {
+            "id": 1712758,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:26.002Z",
+            "updatedAt": "2023-06-07T13:53:26.002Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        761,
+                        398
+                    ],
+                    [
+                        665,
+                        324
+                    ],
+                    [
+                        216,
+                        209
+                    ],
+                    [
+                        183,
+                        366
+                    ],
+                    [
+                        717,
+                        520
+                    ],
+                    [
+                        763,
+                        483
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1712756,
+            "classId": 4249,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:26.001Z",
+            "updatedAt": "2023-06-07T13:53:26.001Z",
+            "tags": [],
+            "classTitle": "cooked-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        595,
+                        492
+                    ],
+                    [
+                        477,
+                        464
+                    ],
+                    [
+                        423,
+                        533
+                    ],
+                    [
+                        357,
+                        503
+                    ],
+                    [
+                        279,
+                        392
+                    ],
+                    [
+                        96,
+                        431
+                    ],
+                    [
+                        74,
+                        568
+                    ],
+                    [
+                        198,
+                        632
+                    ],
+                    [
+                        314,
+                        629
+                    ],
+                    [
+                        482,
+                        734
+                    ],
+                    [
+                        606,
+                        728
+                    ],
+                    [
+                        636,
+                        682
+                    ],
+                    [
+                        654,
+                        581
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

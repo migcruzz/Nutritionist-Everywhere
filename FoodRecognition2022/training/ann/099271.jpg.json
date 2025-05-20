@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1713255,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:47.692Z",
+            "updatedAt": "2023-06-07T13:53:47.692Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        0
+                    ],
+                    [
+                        165,
+                        26
+                    ],
+                    [
+                        60,
+                        142
+                    ],
+                    [
+                        61,
+                        276
+                    ],
+                    [
+                        157,
+                        401
+                    ],
+                    [
+                        299,
+                        473
+                    ],
+                    [
+                        360,
+                        477
+                    ],
+                    [
+                        337,
+                        10
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713254,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:47.692Z",
+            "updatedAt": "2023-06-07T13:53:47.692Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        392,
+                        14
+                    ],
+                    [
+                        440,
+                        473
+                    ],
+                    [
+                        476,
+                        452
+                    ],
+                    [
+                        475,
+                        4
+                    ],
+                    [
+                        387,
+                        5
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

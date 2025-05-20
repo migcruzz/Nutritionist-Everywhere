@@ -1,0 +1,242 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 970
+    },
+    "objects": [
+        {
+            "id": 1728166,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:23.465Z",
+            "updatedAt": "2023-06-07T14:04:23.465Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        661,
+                        274
+                    ],
+                    [
+                        381,
+                        313
+                    ],
+                    [
+                        282,
+                        391
+                    ],
+                    [
+                        328,
+                        466
+                    ],
+                    [
+                        362,
+                        512
+                    ],
+                    [
+                        342,
+                        656
+                    ],
+                    [
+                        352,
+                        763
+                    ],
+                    [
+                        546,
+                        765
+                    ],
+                    [
+                        673,
+                        743
+                    ],
+                    [
+                        731,
+                        711
+                    ],
+                    [
+                        741,
+                        607
+                    ],
+                    [
+                        683,
+                        558
+                    ],
+                    [
+                        500,
+                        566
+                    ],
+                    [
+                        444,
+                        544
+                    ],
+                    [
+                        634,
+                        466
+                    ],
+                    [
+                        690,
+                        447
+                    ],
+                    [
+                        683,
+                        369
+                    ],
+                    [
+                        661,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728164,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:23.465Z",
+            "updatedAt": "2023-06-07T14:04:23.465Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        277
+                    ],
+                    [
+                        90,
+                        308
+                    ],
+                    [
+                        175,
+                        714
+                    ],
+                    [
+                        272,
+                        692
+                    ],
+                    [
+                        223,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728162,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:23.464Z",
+            "updatedAt": "2023-06-07T14:04:23.464Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        299,
+                        199
+                    ],
+                    [
+                        362,
+                        272
+                    ],
+                    [
+                        563,
+                        257
+                    ],
+                    [
+                        627,
+                        165
+                    ],
+                    [
+                        610,
+                        80
+                    ],
+                    [
+                        449,
+                        102
+                    ],
+                    [
+                        277,
+                        123
+                    ],
+                    [
+                        274,
+                        148
+                    ],
+                    [
+                        279,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728160,
+            "classId": 4349,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:23.463Z",
+            "updatedAt": "2023-06-07T14:04:23.463Z",
+            "tags": [],
+            "classTitle": "rusk-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        423,
+                        277
+                    ],
+                    [
+                        231,
+                        330
+                    ],
+                    [
+                        279,
+                        573
+                    ],
+                    [
+                        260,
+                        590
+                    ],
+                    [
+                        320,
+                        840
+                    ],
+                    [
+                        804,
+                        719
+                    ],
+                    [
+                        746,
+                        476
+                    ],
+                    [
+                        770,
+                        464
+                    ],
+                    [
+                        704,
+                        196
+                    ],
+                    [
+                        464,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

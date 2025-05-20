@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1708557,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:14.431Z",
+            "updatedAt": "2023-06-07T13:50:14.431Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        412
+                    ],
+                    [
+                        424,
+                        410
+                    ],
+                    [
+                        396,
+                        132
+                    ],
+                    [
+                        291,
+                        94
+                    ],
+                    [
+                        132,
+                        96
+                    ],
+                    [
+                        93,
+                        147
+                    ],
+                    [
+                        67,
+                        288
+                    ],
+                    [
+                        79,
+                        364
+                    ],
+                    [
+                        223,
+                        402
+                    ],
+                    [
+                        235,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

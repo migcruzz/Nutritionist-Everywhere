@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1764017,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:40.545Z",
+            "updatedAt": "2023-06-07T14:28:40.545Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        156,
+                        108
+                    ],
+                    [
+                        89,
+                        147
+                    ],
+                    [
+                        61,
+                        268
+                    ],
+                    [
+                        113,
+                        337
+                    ],
+                    [
+                        186,
+                        285
+                    ],
+                    [
+                        204,
+                        230
+                    ],
+                    [
+                        240,
+                        210
+                    ],
+                    [
+                        300,
+                        248
+                    ],
+                    [
+                        341,
+                        258
+                    ],
+                    [
+                        364,
+                        193
+                    ],
+                    [
+                        353,
+                        91
+                    ],
+                    [
+                        310,
+                        52
+                    ],
+                    [
+                        225,
+                        70
+                    ],
+                    [
+                        208,
+                        126
+                    ],
+                    [
+                        143,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1764015,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:40.543Z",
+            "updatedAt": "2023-06-07T14:28:40.543Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        261
+                    ],
+                    [
+                        239,
+                        212
+                    ],
+                    [
+                        155,
+                        364
+                    ],
+                    [
+                        283,
+                        429
+                    ],
+                    [
+                        310,
+                        295
+                    ],
+                    [
+                        295,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 781,
+        "width": 781
+    },
+    "objects": [
+        {
+            "id": 1753227,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:44.075Z",
+            "updatedAt": "2023-06-07T14:21:44.075Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        169
+                    ],
+                    [
+                        420,
+                        99
+                    ],
+                    [
+                        698,
+                        366
+                    ],
+                    [
+                        475,
+                        452
+                    ],
+                    [
+                        670,
+                        591
+                    ],
+                    [
+                        313,
+                        743
+                    ],
+                    [
+                        36,
+                        546
+                    ],
+                    [
+                        295,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753225,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:44.075Z",
+            "updatedAt": "2023-06-07T14:21:44.075Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        500,
+                        579
+                    ],
+                    [
+                        368,
+                        573
+                    ],
+                    [
+                        500,
+                        626
+                    ],
+                    [
+                        500,
+                        626
+                    ],
+                    [
+                        518,
+                        618
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753223,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:44.074Z",
+            "updatedAt": "2023-06-07T14:21:44.074Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        580,
+                        317
+                    ],
+                    [
+                        399,
+                        192
+                    ],
+                    [
+                        264,
+                        257
+                    ],
+                    [
+                        280,
+                        353
+                    ],
+                    [
+                        328,
+                        409
+                    ],
+                    [
+                        307,
+                        450
+                    ],
+                    [
+                        209,
+                        481
+                    ],
+                    [
+                        204,
+                        569
+                    ],
+                    [
+                        278,
+                        665
+                    ],
+                    [
+                        352,
+                        677
+                    ],
+                    [
+                        453,
+                        632
+                    ],
+                    [
+                        576,
+                        600
+                    ],
+                    [
+                        576,
+                        571
+                    ],
+                    [
+                        459,
+                        501
+                    ],
+                    [
+                        397,
+                        472
+                    ],
+                    [
+                        465,
+                        401
+                    ],
+                    [
+                        576,
+                        360
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

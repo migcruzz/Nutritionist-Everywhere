@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 839,
+        "width": 838
+    },
+    "objects": [
+        {
+            "id": 1666506,
+            "classId": 4313,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:55.891Z",
+            "updatedAt": "2023-06-07T13:20:55.891Z",
+            "tags": [],
+            "classTitle": "apricots",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        222
+                    ],
+                    [
+                        131,
+                        245
+                    ],
+                    [
+                        108,
+                        373
+                    ],
+                    [
+                        213,
+                        509
+                    ],
+                    [
+                        238,
+                        679
+                    ],
+                    [
+                        350,
+                        725
+                    ],
+                    [
+                        478,
+                        679
+                    ],
+                    [
+                        503,
+                        541
+                    ],
+                    [
+                        446,
+                        488
+                    ],
+                    [
+                        343,
+                        385
+                    ],
+                    [
+                        350,
+                        301
+                    ],
+                    [
+                        312,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666505,
+            "classId": 4313,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:55.890Z",
+            "updatedAt": "2023-06-07T13:20:55.890Z",
+            "tags": [],
+            "classTitle": "apricots",
+            "points": {
+                "exterior": [
+                    [
+                        608,
+                        209
+                    ],
+                    [
+                        499,
+                        289
+                    ],
+                    [
+                        484,
+                        352
+                    ],
+                    [
+                        541,
+                        429
+                    ],
+                    [
+                        645,
+                        455
+                    ],
+                    [
+                        729,
+                        396
+                    ],
+                    [
+                        725,
+                        291
+                    ],
+                    [
+                        689,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

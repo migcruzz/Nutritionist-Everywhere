@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1762972,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:00.491Z",
+            "updatedAt": "2023-06-07T14:28:00.491Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        76
+                    ],
+                    [
+                        62,
+                        129
+                    ],
+                    [
+                        117,
+                        213
+                    ],
+                    [
+                        306,
+                        249
+                    ],
+                    [
+                        388,
+                        216
+                    ],
+                    [
+                        409,
+                        133
+                    ],
+                    [
+                        350,
+                        64
+                    ],
+                    [
+                        267,
+                        40
+                    ],
+                    [
+                        156,
+                        49
+                    ],
+                    [
+                        106,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1762970,
+            "classId": 4339,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:00.490Z",
+            "updatedAt": "2023-06-07T14:28:00.490Z",
+            "tags": [],
+            "classTitle": "mousse",
+            "points": {
+                "exterior": [
+                    [
+                        74,
+                        162
+                    ],
+                    [
+                        112,
+                        328
+                    ],
+                    [
+                        266,
+                        357
+                    ],
+                    [
+                        364,
+                        343
+                    ],
+                    [
+                        385,
+                        264
+                    ],
+                    [
+                        414,
+                        171
+                    ],
+                    [
+                        343,
+                        236
+                    ],
+                    [
+                        168,
+                        220
+                    ],
+                    [
+                        114,
+                        198
+                    ],
+                    [
+                        81,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

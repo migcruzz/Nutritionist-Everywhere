@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 936,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1721252,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:36.094Z",
+            "updatedAt": "2023-06-07T13:59:36.094Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        474
+                    ],
+                    [
+                        351,
+                        481
+                    ],
+                    [
+                        328,
+                        570
+                    ],
+                    [
+                        335,
+                        633
+                    ],
+                    [
+                        412,
+                        650
+                    ],
+                    [
+                        475,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721250,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:36.093Z",
+            "updatedAt": "2023-06-07T13:59:36.093Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        472
+                    ],
+                    [
+                        368,
+                        500
+                    ],
+                    [
+                        337,
+                        554
+                    ],
+                    [
+                        370,
+                        596
+                    ],
+                    [
+                        424,
+                        577
+                    ],
+                    [
+                        473,
+                        563
+                    ],
+                    [
+                        471,
+                        533
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

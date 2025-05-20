@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1650765,
+            "classId": 4133,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:46.076Z",
+            "updatedAt": "2023-06-07T13:09:46.076Z",
+            "tags": [],
+            "classTitle": "sour-cream",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        207
+                    ],
+                    [
+                        339,
+                        212
+                    ],
+                    [
+                        371,
+                        201
+                    ],
+                    [
+                        362,
+                        177
+                    ],
+                    [
+                        339,
+                        156
+                    ],
+                    [
+                        303,
+                        177
+                    ],
+                    [
+                        299,
+                        189
+                    ],
+                    [
+                        303,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650763,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:46.076Z",
+            "updatedAt": "2023-06-07T13:09:46.076Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        33,
+                        206
+                    ],
+                    [
+                        93,
+                        207
+                    ],
+                    [
+                        120,
+                        172
+                    ],
+                    [
+                        101,
+                        147
+                    ],
+                    [
+                        71,
+                        163
+                    ],
+                    [
+                        41,
+                        170
+                    ],
+                    [
+                        34,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650761,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:46.075Z",
+            "updatedAt": "2023-06-07T13:09:46.075Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        142
+                    ],
+                    [
+                        219,
+                        161
+                    ],
+                    [
+                        289,
+                        138
+                    ],
+                    [
+                        316,
+                        95
+                    ],
+                    [
+                        279,
+                        61
+                    ],
+                    [
+                        220,
+                        56
+                    ],
+                    [
+                        199,
+                        61
+                    ],
+                    [
+                        162,
+                        108
+                    ],
+                    [
+                        162,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

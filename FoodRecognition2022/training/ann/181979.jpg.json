@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1146,
+        "width": 1146
+    },
+    "objects": [
+        {
+            "id": 1709521,
+            "classId": 3585,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:56.869Z",
+            "updatedAt": "2023-06-07T13:50:56.869Z",
+            "tags": [],
+            "classTitle": "cream",
+            "points": {
+                "exterior": [
+                    [
+                        931,
+                        409
+                    ],
+                    [
+                        853,
+                        437
+                    ],
+                    [
+                        816,
+                        529
+                    ],
+                    [
+                        853,
+                        598
+                    ],
+                    [
+                        974,
+                        629
+                    ],
+                    [
+                        1031,
+                        575
+                    ],
+                    [
+                        1039,
+                        489
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709519,
+            "classId": 4353,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:56.868Z",
+            "updatedAt": "2023-06-07T13:50:56.868Z",
+            "tags": [],
+            "classTitle": "vanille-cream-cooked-custard-creme-dessert",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        546
+                    ],
+                    [
+                        220,
+                        623
+                    ],
+                    [
+                        306,
+                        672
+                    ],
+                    [
+                        524,
+                        687
+                    ],
+                    [
+                        627,
+                        695
+                    ],
+                    [
+                        796,
+                        661
+                    ],
+                    [
+                        822,
+                        606
+                    ],
+                    [
+                        530,
+                        606
+                    ],
+                    [
+                        306,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

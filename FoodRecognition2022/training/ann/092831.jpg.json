@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 603,
+        "width": 603
+    },
+    "objects": [
+        {
+            "id": 1800918,
+            "classId": 3517,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:56.389Z",
+            "updatedAt": "2023-06-07T14:53:56.389Z",
+            "tags": [],
+            "classTitle": "herbal-tea",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        203
+                    ],
+                    [
+                        295,
+                        214
+                    ],
+                    [
+                        269,
+                        239
+                    ],
+                    [
+                        304,
+                        268
+                    ],
+                    [
+                        390,
+                        276
+                    ],
+                    [
+                        458,
+                        261
+                    ],
+                    [
+                        458,
+                        235
+                    ],
+                    [
+                        407,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

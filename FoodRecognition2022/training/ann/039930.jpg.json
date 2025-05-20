@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1671853,
+            "classId": 3787,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:28.577Z",
+            "updatedAt": "2023-06-07T13:24:28.577Z",
+            "tags": [],
+            "classTitle": "water-with-lemon-juice",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        198
+                    ],
+                    [
+                        135,
+                        370
+                    ],
+                    [
+                        277,
+                        418
+                    ],
+                    [
+                        383,
+                        313
+                    ],
+                    [
+                        378,
+                        183
+                    ],
+                    [
+                        313,
+                        139
+                    ],
+                    [
+                        184,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1671851,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:28.576Z",
+            "updatedAt": "2023-06-07T13:24:28.576Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        340,
+                        299
+                    ],
+                    [
+                        348,
+                        189
+                    ],
+                    [
+                        268,
+                        129
+                    ],
+                    [
+                        173,
+                        149
+                    ],
+                    [
+                        136,
+                        205
+                    ],
+                    [
+                        150,
+                        271
+                    ],
+                    [
+                        175,
+                        352
+                    ],
+                    [
+                        267,
+                        355
+                    ],
+                    [
+                        291,
+                        311
+                    ],
+                    [
+                        342,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

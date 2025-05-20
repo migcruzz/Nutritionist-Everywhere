@@ -1,0 +1,266 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1296,
+        "width": 1297
+    },
+    "objects": [
+        {
+            "id": 1659072,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:25.154Z",
+            "updatedAt": "2023-06-07T13:15:25.154Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        378
+                    ],
+                    [
+                        594,
+                        1046
+                    ],
+                    [
+                        1074,
+                        715
+                    ],
+                    [
+                        513,
+                        157
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659070,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:25.153Z",
+            "updatedAt": "2023-06-07T13:15:25.153Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        666,
+                        553
+                    ],
+                    [
+                        617,
+                        381
+                    ],
+                    [
+                        588,
+                        303
+                    ],
+                    [
+                        497,
+                        222
+                    ],
+                    [
+                        371,
+                        232
+                    ],
+                    [
+                        283,
+                        297
+                    ],
+                    [
+                        358,
+                        433
+                    ],
+                    [
+                        513,
+                        566
+                    ],
+                    [
+                        436,
+                        731
+                    ],
+                    [
+                        491,
+                        851
+                    ],
+                    [
+                        591,
+                        948
+                    ],
+                    [
+                        760,
+                        900
+                    ],
+                    [
+                        737,
+                        683
+                    ],
+                    [
+                        711,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659069,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:25.153Z",
+            "updatedAt": "2023-06-07T13:15:25.153Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        1107,
+                        595
+                    ],
+                    [
+                        860,
+                        459
+                    ],
+                    [
+                        880,
+                        637
+                    ],
+                    [
+                        932,
+                        770
+                    ],
+                    [
+                        1048,
+                        692
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659067,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:25.152Z",
+            "updatedAt": "2023-06-07T13:15:25.152Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        601,
+                        219
+                    ],
+                    [
+                        426,
+                        235
+                    ],
+                    [
+                        254,
+                        397
+                    ],
+                    [
+                        442,
+                        352
+                    ],
+                    [
+                        465,
+                        397
+                    ],
+                    [
+                        312,
+                        494
+                    ],
+                    [
+                        355,
+                        676
+                    ],
+                    [
+                        565,
+                        559
+                    ],
+                    [
+                        708,
+                        572
+                    ],
+                    [
+                        753,
+                        754
+                    ],
+                    [
+                        799,
+                        802
+                    ],
+                    [
+                        919,
+                        712
+                    ],
+                    [
+                        867,
+                        621
+                    ],
+                    [
+                        883,
+                        504
+                    ],
+                    [
+                        906,
+                        436
+                    ],
+                    [
+                        740,
+                        384
+                    ],
+                    [
+                        711,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659065,
+            "classId": 3769,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:25.152Z",
+            "updatedAt": "2023-06-07T13:15:25.152Z",
+            "tags": [],
+            "classTitle": "oil",
+            "points": {
+                "exterior": [
+                    [
+                        705,
+                        637
+                    ],
+                    [
+                        646,
+                        663
+                    ],
+                    [
+                        604,
+                        835
+                    ],
+                    [
+                        656,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

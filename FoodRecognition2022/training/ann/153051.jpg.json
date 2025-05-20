@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1276,
+        "width": 1276
+    },
+    "objects": [
+        {
+            "id": 1652115,
+            "classId": 3583,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:41.584Z",
+            "updatedAt": "2023-06-07T13:10:41.584Z",
+            "tags": [],
+            "classTitle": "pasta-noodles",
+            "points": {
+                "exterior": [
+                    [
+                        853,
+                        551
+                    ],
+                    [
+                        735,
+                        440
+                    ],
+                    [
+                        502,
+                        363
+                    ],
+                    [
+                        301,
+                        424
+                    ],
+                    [
+                        307,
+                        500
+                    ],
+                    [
+                        196,
+                        628
+                    ],
+                    [
+                        346,
+                        893
+                    ],
+                    [
+                        505,
+                        1020
+                    ],
+                    [
+                        671,
+                        928
+                    ],
+                    [
+                        901,
+                        854
+                    ],
+                    [
+                        1016,
+                        676
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652113,
+            "classId": 3585,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:41.583Z",
+            "updatedAt": "2023-06-07T13:10:41.583Z",
+            "tags": [],
+            "classTitle": "cream",
+            "points": {
+                "exterior": [
+                    [
+                        1035,
+                        596
+                    ],
+                    [
+                        974,
+                        452
+                    ],
+                    [
+                        786,
+                        424
+                    ],
+                    [
+                        665,
+                        417
+                    ],
+                    [
+                        645,
+                        459
+                    ],
+                    [
+                        929,
+                        605
+                    ],
+                    [
+                        980,
+                        688
+                    ],
+                    [
+                        894,
+                        800
+                    ],
+                    [
+                        933,
+                        838
+                    ],
+                    [
+                        1000,
+                        781
+                    ],
+                    [
+                        1041,
+                        621
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652111,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:41.582Z",
+            "updatedAt": "2023-06-07T13:10:41.582Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        765
+                    ],
+                    [
+                        425,
+                        701
+                    ],
+                    [
+                        413,
+                        781
+                    ],
+                    [
+                        419,
+                        838
+                    ],
+                    [
+                        460,
+                        784
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

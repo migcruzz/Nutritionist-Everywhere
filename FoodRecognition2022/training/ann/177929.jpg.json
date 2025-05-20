@@ -1,0 +1,250 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1669304,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.827Z",
+            "updatedAt": "2023-06-07T13:22:42.827Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        450
+                    ],
+                    [
+                        130,
+                        450
+                    ],
+                    [
+                        232,
+                        429
+                    ],
+                    [
+                        236,
+                        322
+                    ],
+                    [
+                        227,
+                        243
+                    ],
+                    [
+                        140,
+                        182
+                    ],
+                    [
+                        69,
+                        196
+                    ],
+                    [
+                        33,
+                        228
+                    ],
+                    [
+                        5,
+                        259
+                    ],
+                    [
+                        9,
+                        308
+                    ],
+                    [
+                        0,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669302,
+            "classId": 4007,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.827Z",
+            "updatedAt": "2023-06-07T13:22:42.827Z",
+            "tags": [],
+            "classTitle": "country-fries",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        399
+                    ],
+                    [
+                        333,
+                        431
+                    ],
+                    [
+                        398,
+                        433
+                    ],
+                    [
+                        453,
+                        385
+                    ],
+                    [
+                        444,
+                        308
+                    ],
+                    [
+                        379,
+                        228
+                    ],
+                    [
+                        320,
+                        228
+                    ],
+                    [
+                        261,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669300,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.827Z",
+            "updatedAt": "2023-06-07T13:22:42.827Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        658
+                    ],
+                    [
+                        337,
+                        665
+                    ],
+                    [
+                        350,
+                        563
+                    ],
+                    [
+                        311,
+                        469
+                    ],
+                    [
+                        297,
+                        513
+                    ],
+                    [
+                        243,
+                        499
+                    ],
+                    [
+                        176,
+                        477
+                    ],
+                    [
+                        154,
+                        508
+                    ],
+                    [
+                        150,
+                        537
+                    ],
+                    [
+                        150,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669298,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.826Z",
+            "updatedAt": "2023-06-07T13:22:42.826Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        537
+                    ],
+                    [
+                        328,
+                        522
+                    ],
+                    [
+                        309,
+                        488
+                    ],
+                    [
+                        268,
+                        464
+                    ],
+                    [
+                        244,
+                        481
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669296,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.825Z",
+            "updatedAt": "2023-06-07T13:22:42.825Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        546
+                    ],
+                    [
+                        417,
+                        540
+                    ],
+                    [
+                        436,
+                        506
+                    ],
+                    [
+                        412,
+                        452
+                    ],
+                    [
+                        355,
+                        455
+                    ],
+                    [
+                        333,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

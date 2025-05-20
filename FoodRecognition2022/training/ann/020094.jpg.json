@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1641966,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:00.619Z",
+            "updatedAt": "2023-06-07T13:04:00.619Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        199
+                    ],
+                    [
+                        139,
+                        362
+                    ],
+                    [
+                        163,
+                        357
+                    ],
+                    [
+                        424,
+                        243
+                    ],
+                    [
+                        429,
+                        216
+                    ],
+                    [
+                        289,
+                        141
+                    ],
+                    [
+                        74,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1641964,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:00.618Z",
+            "updatedAt": "2023-06-07T13:04:00.618Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        366
+                    ],
+                    [
+                        437,
+                        237
+                    ],
+                    [
+                        356,
+                        158
+                    ],
+                    [
+                        253,
+                        146
+                    ],
+                    [
+                        99,
+                        184
+                    ],
+                    [
+                        99,
+                        287
+                    ],
+                    [
+                        115,
+                        335
+                    ],
+                    [
+                        136,
+                        366
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

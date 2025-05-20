@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1670838,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:50.348Z",
+            "updatedAt": "2023-06-07T13:23:50.348Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        119
+                    ],
+                    [
+                        51,
+                        125
+                    ],
+                    [
+                        44,
+                        183
+                    ],
+                    [
+                        62,
+                        240
+                    ],
+                    [
+                        103,
+                        255
+                    ],
+                    [
+                        124,
+                        253
+                    ],
+                    [
+                        138,
+                        222
+                    ],
+                    [
+                        155,
+                        173
+                    ],
+                    [
+                        147,
+                        136
+                    ],
+                    [
+                        131,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670836,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:50.347Z",
+            "updatedAt": "2023-06-07T13:23:50.347Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        7
+                    ],
+                    [
+                        167,
+                        32
+                    ],
+                    [
+                        46,
+                        55
+                    ],
+                    [
+                        27,
+                        121
+                    ],
+                    [
+                        52,
+                        129
+                    ],
+                    [
+                        87,
+                        126
+                    ],
+                    [
+                        168,
+                        126
+                    ],
+                    [
+                        254,
+                        105
+                    ],
+                    [
+                        285,
+                        85
+                    ],
+                    [
+                        306,
+                        91
+                    ],
+                    [
+                        306,
+                        58
+                    ],
+                    [
+                        295,
+                        31
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

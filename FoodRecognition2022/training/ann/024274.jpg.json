@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1753328,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:48.100Z",
+            "updatedAt": "2023-06-07T14:21:48.100Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        201
+                    ],
+                    [
+                        55,
+                        161
+                    ],
+                    [
+                        70,
+                        331
+                    ],
+                    [
+                        144,
+                        452
+                    ],
+                    [
+                        248,
+                        514
+                    ],
+                    [
+                        284,
+                        481
+                    ],
+                    [
+                        275,
+                        391
+                    ],
+                    [
+                        218,
+                        331
+                    ],
+                    [
+                        198,
+                        240
+                    ],
+                    [
+                        191,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753326,
+            "classId": 3651,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:48.099Z",
+            "updatedAt": "2023-06-07T14:21:48.099Z",
+            "tags": [],
+            "classTitle": "french-beans",
+            "points": {
+                "exterior": [
+                    [
+                        457,
+                        92
+                    ],
+                    [
+                        210,
+                        103
+                    ],
+                    [
+                        194,
+                        234
+                    ],
+                    [
+                        316,
+                        423
+                    ],
+                    [
+                        457,
+                        550
+                    ],
+                    [
+                        559,
+                        382
+                    ],
+                    [
+                        551,
+                        209
+                    ],
+                    [
+                        509,
+                        127
+                    ],
+                    [
+                        451,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753324,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:48.099Z",
+            "updatedAt": "2023-06-07T14:21:48.099Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        520
+                    ],
+                    [
+                        443,
+                        509
+                    ],
+                    [
+                        408,
+                        437
+                    ],
+                    [
+                        312,
+                        380
+                    ],
+                    [
+                        273,
+                        448
+                    ],
+                    [
+                        298,
+                        498
+                    ],
+                    [
+                        327,
+                        517
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

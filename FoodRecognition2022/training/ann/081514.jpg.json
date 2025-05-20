@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1677874,
+            "classId": 4095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:35.723Z",
+            "updatedAt": "2023-06-07T13:28:35.723Z",
+            "tags": [],
+            "classTitle": "fruit-coulis",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        249
+                    ],
+                    [
+                        134,
+                        249
+                    ],
+                    [
+                        105,
+                        244
+                    ],
+                    [
+                        88,
+                        237
+                    ],
+                    [
+                        70,
+                        223
+                    ],
+                    [
+                        66,
+                        209
+                    ],
+                    [
+                        70,
+                        188
+                    ],
+                    [
+                        93,
+                        158
+                    ],
+                    [
+                        140,
+                        135
+                    ],
+                    [
+                        175,
+                        128
+                    ],
+                    [
+                        216,
+                        129
+                    ],
+                    [
+                        233,
+                        134
+                    ],
+                    [
+                        253,
+                        144
+                    ],
+                    [
+                        268,
+                        158
+                    ],
+                    [
+                        273,
+                        172
+                    ],
+                    [
+                        273,
+                        195
+                    ],
+                    [
+                        271,
+                        202
+                    ],
+                    [
+                        262,
+                        211
+                    ],
+                    [
+                        213,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1677872,
+            "classId": 3783,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:35.722Z",
+            "updatedAt": "2023-06-07T13:28:35.722Z",
+            "tags": [],
+            "classTitle": "panna-cotta",
+            "points": {
+                "exterior": [
+                    [
+                        93,
+                        273
+                    ],
+                    [
+                        156,
+                        371
+                    ],
+                    [
+                        262,
+                        356
+                    ],
+                    [
+                        287,
+                        233
+                    ],
+                    [
+                        253,
+                        277
+                    ],
+                    [
+                        177,
+                        290
+                    ],
+                    [
+                        120,
+                        288
+                    ],
+                    [
+                        96,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

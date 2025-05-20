@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1784862,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:53.539Z",
+            "updatedAt": "2023-06-07T14:42:53.539Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        143
+                    ],
+                    [
+                        367,
+                        334
+                    ],
+                    [
+                        280,
+                        327
+                    ],
+                    [
+                        253,
+                        266
+                    ],
+                    [
+                        225,
+                        290
+                    ],
+                    [
+                        214,
+                        339
+                    ],
+                    [
+                        193,
+                        325
+                    ],
+                    [
+                        120,
+                        242
+                    ],
+                    [
+                        165,
+                        193
+                    ],
+                    [
+                        254,
+                        254
+                    ],
+                    [
+                        241,
+                        149
+                    ],
+                    [
+                        328,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784860,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:53.538Z",
+            "updatedAt": "2023-06-07T14:42:53.538Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        164
+                    ],
+                    [
+                        234,
+                        169
+                    ],
+                    [
+                        280,
+                        296
+                    ],
+                    [
+                        305,
+                        315
+                    ],
+                    [
+                        323,
+                        309
+                    ],
+                    [
+                        333,
+                        276
+                    ],
+                    [
+                        336,
+                        219
+                    ],
+                    [
+                        320,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784859,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:53.538Z",
+            "updatedAt": "2023-06-07T14:42:53.538Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        194
+                    ],
+                    [
+                        130,
+                        254
+                    ],
+                    [
+                        203,
+                        323
+                    ],
+                    [
+                        241,
+                        262
+                    ],
+                    [
+                        189,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

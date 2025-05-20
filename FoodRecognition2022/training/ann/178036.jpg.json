@@ -1,0 +1,326 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1776209,
+            "classId": 4197,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.944Z",
+            "updatedAt": "2023-06-07T14:36:46.944Z",
+            "tags": [],
+            "classTitle": "hamburger-bun",
+            "points": {
+                "exterior": [
+                    [
+                        812,
+                        245
+                    ],
+                    [
+                        590,
+                        168
+                    ],
+                    [
+                        444,
+                        160
+                    ],
+                    [
+                        328,
+                        155
+                    ],
+                    [
+                        224,
+                        201
+                    ],
+                    [
+                        206,
+                        319
+                    ],
+                    [
+                        216,
+                        580
+                    ],
+                    [
+                        272,
+                        726
+                    ],
+                    [
+                        428,
+                        795
+                    ],
+                    [
+                        648,
+                        752
+                    ],
+                    [
+                        753,
+                        639
+                    ],
+                    [
+                        820,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776207,
+            "classId": 3687,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.944Z",
+            "updatedAt": "2023-06-07T14:36:46.944Z",
+            "tags": [],
+            "classTitle": "chicken-nuggets",
+            "points": {
+                "exterior": [
+                    [
+                        871,
+                        511
+                    ],
+                    [
+                        689,
+                        437
+                    ],
+                    [
+                        482,
+                        391
+                    ],
+                    [
+                        244,
+                        350
+                    ],
+                    [
+                        177,
+                        434
+                    ],
+                    [
+                        198,
+                        557
+                    ],
+                    [
+                        290,
+                        593
+                    ],
+                    [
+                        462,
+                        580
+                    ],
+                    [
+                        536,
+                        665
+                    ],
+                    [
+                        695,
+                        706
+                    ],
+                    [
+                        858,
+                        588
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776205,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.943Z",
+            "updatedAt": "2023-06-07T14:36:46.943Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        800,
+                        380
+                    ],
+                    [
+                        684,
+                        363
+                    ],
+                    [
+                        784,
+                        444
+                    ],
+                    [
+                        823,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776204,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.943Z",
+            "updatedAt": "2023-06-07T14:36:46.943Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        293
+                    ],
+                    [
+                        177,
+                        337
+                    ],
+                    [
+                        162,
+                        388
+                    ],
+                    [
+                        282,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776202,
+            "classId": 4179,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.942Z",
+            "updatedAt": "2023-06-07T14:36:46.942Z",
+            "tags": [],
+            "classTitle": "coriander",
+            "points": {
+                "exterior": [
+                    [
+                        774,
+                        401
+                    ],
+                    [
+                        715,
+                        360
+                    ],
+                    [
+                        600,
+                        368
+                    ],
+                    [
+                        554,
+                        444
+                    ],
+                    [
+                        753,
+                        460
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776201,
+            "classId": 4179,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.942Z",
+            "updatedAt": "2023-06-07T14:36:46.942Z",
+            "tags": [],
+            "classTitle": "coriander",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        524
+                    ],
+                    [
+                        221,
+                        462
+                    ],
+                    [
+                        236,
+                        552
+                    ],
+                    [
+                        267,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776199,
+            "classId": 3997,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.941Z",
+            "updatedAt": "2023-06-07T14:36:46.941Z",
+            "tags": [],
+            "classTitle": "red-radish",
+            "points": {
+                "exterior": [
+                    [
+                        367,
+                        352
+                    ],
+                    [
+                        293,
+                        299
+                    ],
+                    [
+                        293,
+                        370
+                    ],
+                    [
+                        321,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776198,
+            "classId": 3997,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:36:46.941Z",
+            "updatedAt": "2023-06-07T14:36:46.941Z",
+            "tags": [],
+            "classTitle": "red-radish",
+            "points": {
+                "exterior": [
+                    [
+                        776,
+                        391
+                    ],
+                    [
+                        730,
+                        378
+                    ],
+                    [
+                        738,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

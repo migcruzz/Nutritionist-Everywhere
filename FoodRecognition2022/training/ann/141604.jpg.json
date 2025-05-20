@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 770,
+        "width": 770
+    },
+    "objects": [
+        {
+            "id": 1745061,
+            "classId": 4369,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:11.348Z",
+            "updatedAt": "2023-06-07T14:16:11.348Z",
+            "tags": [],
+            "classTitle": "ebly",
+            "points": {
+                "exterior": [
+                    [
+                        400,
+                        427
+                    ],
+                    [
+                        504,
+                        392
+                    ],
+                    [
+                        575,
+                        392
+                    ],
+                    [
+                        600,
+                        319
+                    ],
+                    [
+                        559,
+                        213
+                    ],
+                    [
+                        469,
+                        152
+                    ],
+                    [
+                        342,
+                        165
+                    ],
+                    [
+                        257,
+                        254
+                    ],
+                    [
+                        286,
+                        273
+                    ],
+                    [
+                        332,
+                        287
+                    ],
+                    [
+                        379,
+                        319
+                    ],
+                    [
+                        392,
+                        360
+                    ],
+                    [
+                        392,
+                        375
+                    ],
+                    [
+                        394,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745059,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:11.347Z",
+            "updatedAt": "2023-06-07T14:16:11.347Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        444
+                    ],
+                    [
+                        250,
+                        533
+                    ],
+                    [
+                        250,
+                        622
+                    ],
+                    [
+                        332,
+                        660
+                    ],
+                    [
+                        384,
+                        700
+                    ],
+                    [
+                        438,
+                        662
+                    ],
+                    [
+                        490,
+                        610
+                    ],
+                    [
+                        496,
+                        568
+                    ],
+                    [
+                        444,
+                        512
+                    ],
+                    [
+                        423,
+                        502
+                    ],
+                    [
+                        421,
+                        498
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

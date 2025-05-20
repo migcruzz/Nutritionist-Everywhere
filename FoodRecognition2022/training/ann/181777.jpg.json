@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 624,
+        "width": 624
+    },
+    "objects": [
+        {
+            "id": 1706123,
+            "classId": 3603,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:15.676Z",
+            "updatedAt": "2023-06-07T13:48:15.676Z",
+            "tags": [],
+            "classTitle": "white-cabbage",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        192
+                    ],
+                    [
+                        322,
+                        209
+                    ],
+                    [
+                        303,
+                        117
+                    ],
+                    [
+                        251,
+                        120
+                    ],
+                    [
+                        206,
+                        214
+                    ],
+                    [
+                        231,
+                        342
+                    ],
+                    [
+                        173,
+                        356
+                    ],
+                    [
+                        167,
+                        434
+                    ],
+                    [
+                        225,
+                        545
+                    ],
+                    [
+                        384,
+                        518
+                    ],
+                    [
+                        446,
+                        496
+                    ],
+                    [
+                        509,
+                        396
+                    ],
+                    [
+                        528,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1706121,
+            "classId": 3697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:15.675Z",
+            "updatedAt": "2023-06-07T13:48:15.675Z",
+            "tags": [],
+            "classTitle": "chinese-cabbage",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        75
+                    ],
+                    [
+                        94,
+                        183
+                    ],
+                    [
+                        66,
+                        358
+                    ],
+                    [
+                        83,
+                        454
+                    ],
+                    [
+                        176,
+                        532
+                    ],
+                    [
+                        311,
+                        568
+                    ],
+                    [
+                        451,
+                        529
+                    ],
+                    [
+                        526,
+                        364
+                    ],
+                    [
+                        449,
+                        213
+                    ],
+                    [
+                        364,
+                        178
+                    ],
+                    [
+                        354,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

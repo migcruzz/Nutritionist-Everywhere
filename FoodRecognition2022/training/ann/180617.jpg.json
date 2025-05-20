@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1805195,
+            "classId": 3889,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:45.552Z",
+            "updatedAt": "2023-06-07T14:56:45.552Z",
+            "tags": [],
+            "classTitle": "kebab-in-pita-bread",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        396
+                    ],
+                    [
+                        390,
+                        442
+                    ],
+                    [
+                        264,
+                        562
+                    ],
+                    [
+                        326,
+                        795
+                    ],
+                    [
+                        531,
+                        790
+                    ],
+                    [
+                        564,
+                        762
+                    ],
+                    [
+                        608,
+                        606
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

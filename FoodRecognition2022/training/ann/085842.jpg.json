@@ -1,0 +1,234 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 852,
+        "width": 852
+    },
+    "objects": [
+        {
+            "id": 1722680,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:38.130Z",
+            "updatedAt": "2023-06-07T14:00:38.130Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        430,
+                        423
+                    ],
+                    [
+                        400,
+                        525
+                    ],
+                    [
+                        317,
+                        538
+                    ],
+                    [
+                        230,
+                        576
+                    ],
+                    [
+                        147,
+                        587
+                    ],
+                    [
+                        134,
+                        508
+                    ],
+                    [
+                        115,
+                        459
+                    ],
+                    [
+                        77,
+                        412
+                    ],
+                    [
+                        38,
+                        393
+                    ],
+                    [
+                        38,
+                        325
+                    ],
+                    [
+                        26,
+                        280
+                    ],
+                    [
+                        43,
+                        237
+                    ],
+                    [
+                        156,
+                        227
+                    ],
+                    [
+                        228,
+                        150
+                    ],
+                    [
+                        326,
+                        154
+                    ],
+                    [
+                        381,
+                        240
+                    ],
+                    [
+                        358,
+                        310
+                    ],
+                    [
+                        351,
+                        412
+                    ],
+                    [
+                        437,
+                        419
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1722678,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:38.128Z",
+            "updatedAt": "2023-06-07T14:00:38.128Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        770
+                    ],
+                    [
+                        332,
+                        717
+                    ],
+                    [
+                        345,
+                        634
+                    ],
+                    [
+                        343,
+                        553
+                    ],
+                    [
+                        486,
+                        497
+                    ],
+                    [
+                        582,
+                        629
+                    ],
+                    [
+                        571,
+                        706
+                    ],
+                    [
+                        407,
+                        779
+                    ],
+                    [
+                        377,
+                        770
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1722676,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:38.127Z",
+            "updatedAt": "2023-06-07T14:00:38.127Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        422,
+                        768
+                    ],
+                    [
+                        358,
+                        764
+                    ],
+                    [
+                        358,
+                        704
+                    ],
+                    [
+                        409,
+                        678
+                    ],
+                    [
+                        428,
+                        698
+                    ],
+                    [
+                        422,
+                        764
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1722675,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:38.127Z",
+            "updatedAt": "2023-06-07T14:00:38.127Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        636
+                    ],
+                    [
+                        488,
+                        661
+                    ],
+                    [
+                        524,
+                        668
+                    ],
+                    [
+                        569,
+                        627
+                    ],
+                    [
+                        515,
+                        612
+                    ],
+                    [
+                        486,
+                        636
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

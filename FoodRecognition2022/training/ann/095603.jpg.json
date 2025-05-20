@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1680686,
+            "classId": 3509,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:22.549Z",
+            "updatedAt": "2023-06-07T13:30:22.549Z",
+            "tags": [],
+            "classTitle": "greek-yaourt-yahourt-yogourt-ou-yoghourt",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        168
+                    ],
+                    [
+                        225,
+                        56
+                    ],
+                    [
+                        143,
+                        15
+                    ],
+                    [
+                        57,
+                        40
+                    ],
+                    [
+                        37,
+                        116
+                    ],
+                    [
+                        64,
+                        202
+                    ],
+                    [
+                        129,
+                        218
+                    ],
+                    [
+                        186,
+                        207
+                    ],
+                    [
+                        220,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1680685,
+            "classId": 3509,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:22.549Z",
+            "updatedAt": "2023-06-07T13:30:22.549Z",
+            "tags": [],
+            "classTitle": "greek-yaourt-yahourt-yogourt-ou-yoghourt",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        214
+                    ],
+                    [
+                        130,
+                        290
+                    ],
+                    [
+                        161,
+                        380
+                    ],
+                    [
+                        289,
+                        385
+                    ],
+                    [
+                        349,
+                        319
+                    ],
+                    [
+                        347,
+                        245
+                    ],
+                    [
+                        304,
+                        212
+                    ],
+                    [
+                        235,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1660127,
+            "classId": 4211,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:09.503Z",
+            "updatedAt": "2023-06-07T13:16:09.503Z",
+            "tags": [],
+            "classTitle": "thickened-cream-35",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        175
+                    ],
+                    [
+                        287,
+                        177
+                    ],
+                    [
+                        285,
+                        69
+                    ],
+                    [
+                        245,
+                        4
+                    ],
+                    [
+                        181,
+                        6
+                    ],
+                    [
+                        138,
+                        33
+                    ],
+                    [
+                        108,
+                        54
+                    ],
+                    [
+                        112,
+                        105
+                    ],
+                    [
+                        131,
+                        135
+                    ],
+                    [
+                        136,
+                        145
+                    ],
+                    [
+                        137,
+                        146
+                    ],
+                    [
+                        160,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1660125,
+            "classId": 3847,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:09.503Z",
+            "updatedAt": "2023-06-07T13:16:09.503Z",
+            "tags": [],
+            "classTitle": "biscuits",
+            "points": {
+                "exterior": [
+                    [
+                        137,
+                        6
+                    ],
+                    [
+                        138,
+                        45
+                    ],
+                    [
+                        119,
+                        40
+                    ],
+                    [
+                        114,
+                        9
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1660124,
+            "classId": 3847,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:09.502Z",
+            "updatedAt": "2023-06-07T13:16:09.502Z",
+            "tags": [],
+            "classTitle": "biscuits",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        7
+                    ],
+                    [
+                        293,
+                        96
+                    ],
+                    [
+                        307,
+                        104
+                    ],
+                    [
+                        323,
+                        26
+                    ],
+                    [
+                        315,
+                        7
+                    ],
+                    [
+                        289,
+                        7
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

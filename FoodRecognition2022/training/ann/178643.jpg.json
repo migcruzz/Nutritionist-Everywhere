@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1760944,
+            "classId": 4285,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:47.189Z",
+            "updatedAt": "2023-06-07T14:26:47.189Z",
+            "tags": [],
+            "classTitle": "butter-herb",
+            "points": {
+                "exterior": [
+                    [
+                        738,
+                        573
+                    ],
+                    [
+                        648,
+                        502
+                    ],
+                    [
+                        579,
+                        527
+                    ],
+                    [
+                        559,
+                        566
+                    ],
+                    [
+                        636,
+                        645
+                    ],
+                    [
+                        697,
+                        676
+                    ],
+                    [
+                        733,
+                        614
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

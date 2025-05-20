@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1666528,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:55.893Z",
+            "updatedAt": "2023-06-07T13:20:55.893Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        533,
+                        121
+                    ],
+                    [
+                        423,
+                        77
+                    ],
+                    [
+                        321,
+                        188
+                    ],
+                    [
+                        271,
+                        270
+                    ],
+                    [
+                        436,
+                        388
+                    ],
+                    [
+                        530,
+                        407
+                    ],
+                    [
+                        577,
+                        355
+                    ],
+                    [
+                        610,
+                        305
+                    ],
+                    [
+                        584,
+                        221
+                    ],
+                    [
+                        526,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666526,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:55.892Z",
+            "updatedAt": "2023-06-07T13:20:55.892Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        53
+                    ],
+                    [
+                        143,
+                        113
+                    ],
+                    [
+                        109,
+                        182
+                    ],
+                    [
+                        43,
+                        476
+                    ],
+                    [
+                        82,
+                        622
+                    ],
+                    [
+                        279,
+                        622
+                    ],
+                    [
+                        277,
+                        536
+                    ],
+                    [
+                        231,
+                        369
+                    ],
+                    [
+                        286,
+                        143
+                    ],
+                    [
+                        286,
+                        100
+                    ],
+                    [
+                        239,
+                        55
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666524,
+            "classId": 3691,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:55.891Z",
+            "updatedAt": "2023-06-07T13:20:55.891Z",
+            "tags": [],
+            "classTitle": "veggie-burger",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        138
+                    ],
+                    [
+                        189,
+                        86
+                    ],
+                    [
+                        73,
+                        157
+                    ],
+                    [
+                        69,
+                        352
+                    ],
+                    [
+                        76,
+                        545
+                    ],
+                    [
+                        109,
+                        614
+                    ],
+                    [
+                        225,
+                        617
+                    ],
+                    [
+                        255,
+                        580
+                    ],
+                    [
+                        241,
+                        434
+                    ],
+                    [
+                        242,
+                        278
+                    ],
+                    [
+                        268,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

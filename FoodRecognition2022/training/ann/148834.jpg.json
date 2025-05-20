@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 904,
+        "width": 905
+    },
+    "objects": [
+        {
+            "id": 1683504,
+            "classId": 3595,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:15.615Z",
+            "updatedAt": "2023-06-07T13:32:15.615Z",
+            "tags": [],
+            "classTitle": "spaetzle",
+            "points": {
+                "exterior": [
+                    [
+                        434,
+                        479
+                    ],
+                    [
+                        637,
+                        542
+                    ],
+                    [
+                        766,
+                        554
+                    ],
+                    [
+                        852,
+                        440
+                    ],
+                    [
+                        825,
+                        284
+                    ],
+                    [
+                        696,
+                        192
+                    ],
+                    [
+                        497,
+                        174
+                    ],
+                    [
+                        377,
+                        352
+                    ],
+                    [
+                        388,
+                        391
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683502,
+            "classId": 4285,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:15.614Z",
+            "updatedAt": "2023-06-07T13:32:15.614Z",
+            "tags": [],
+            "classTitle": "butter-herb",
+            "points": {
+                "exterior": [
+                    [
+                        33,
+                        468
+                    ],
+                    [
+                        146,
+                        567
+                    ],
+                    [
+                        230,
+                        533
+                    ],
+                    [
+                        178,
+                        495
+                    ],
+                    [
+                        164,
+                        474
+                    ],
+                    [
+                        160,
+                        393
+                    ],
+                    [
+                        72,
+                        355
+                    ],
+                    [
+                        47,
+                        409
+                    ],
+                    [
+                        47,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

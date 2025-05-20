@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1669327,
+            "classId": 4177,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:48.519Z",
+            "updatedAt": "2023-06-07T13:22:48.519Z",
+            "tags": [],
+            "classTitle": "meat-terrine-pate",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        189
+                    ],
+                    [
+                        163,
+                        339
+                    ],
+                    [
+                        391,
+                        318
+                    ],
+                    [
+                        394,
+                        168
+                    ],
+                    [
+                        263,
+                        164
+                    ],
+                    [
+                        213,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669325,
+            "classId": 4193,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:48.519Z",
+            "updatedAt": "2023-06-07T13:22:48.519Z",
+            "tags": [],
+            "classTitle": "mixed-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        204
+                    ],
+                    [
+                        165,
+                        294
+                    ],
+                    [
+                        135,
+                        303
+                    ],
+                    [
+                        82,
+                        282
+                    ],
+                    [
+                        59,
+                        210
+                    ],
+                    [
+                        60,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 866
+    },
+    "objects": [
+        {
+            "id": 1681055,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:36.860Z",
+            "updatedAt": "2023-06-07T13:30:36.860Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        558
+                    ],
+                    [
+                        343,
+                        573
+                    ],
+                    [
+                        384,
+                        573
+                    ],
+                    [
+                        380,
+                        460
+                    ],
+                    [
+                        328,
+                        350
+                    ],
+                    [
+                        267,
+                        317
+                    ],
+                    [
+                        148,
+                        352
+                    ],
+                    [
+                        90,
+                        415
+                    ],
+                    [
+                        77,
+                        495
+                    ],
+                    [
+                        144,
+                        532
+                    ],
+                    [
+                        202,
+                        562
+                    ],
+                    [
+                        202,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1681053,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:36.860Z",
+            "updatedAt": "2023-06-07T13:30:36.860Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        216
+                    ],
+                    [
+                        244,
+                        298
+                    ],
+                    [
+                        417,
+                        300
+                    ],
+                    [
+                        438,
+                        237
+                    ],
+                    [
+                        473,
+                        235
+                    ],
+                    [
+                        542,
+                        252
+                    ],
+                    [
+                        581,
+                        306
+                    ],
+                    [
+                        655,
+                        380
+                    ],
+                    [
+                        705,
+                        358
+                    ],
+                    [
+                        718,
+                        324
+                    ],
+                    [
+                        577,
+                        226
+                    ],
+                    [
+                        415,
+                        203
+                    ],
+                    [
+                        293,
+                        205
+                    ],
+                    [
+                        283,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1681051,
+            "classId": 4305,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:36.859Z",
+            "updatedAt": "2023-06-07T13:30:36.859Z",
+            "tags": [],
+            "classTitle": "dips",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        631
+                    ],
+                    [
+                        265,
+                        700
+                    ],
+                    [
+                        345,
+                        726
+                    ],
+                    [
+                        374,
+                        700
+                    ],
+                    [
+                        382,
+                        638
+                    ],
+                    [
+                        374,
+                        599
+                    ],
+                    [
+                        345,
+                        586
+                    ],
+                    [
+                        276,
+                        581
+                    ],
+                    [
+                        237,
+                        588
+                    ],
+                    [
+                        220,
+                        607
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1731790,
+            "classId": 3581,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:53.444Z",
+            "updatedAt": "2023-06-07T14:06:53.444Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        259
+                    ],
+                    [
+                        344,
+                        147
+                    ],
+                    [
+                        142,
+                        149
+                    ],
+                    [
+                        42,
+                        276
+                    ],
+                    [
+                        66,
+                        444
+                    ],
+                    [
+                        217,
+                        492
+                    ],
+                    [
+                        385,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1731789,
+            "classId": 3581,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:53.444Z",
+            "updatedAt": "2023-06-07T14:06:53.444Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        602,
+                        115
+                    ],
+                    [
+                        497,
+                        317
+                    ],
+                    [
+                        672,
+                        526
+                    ],
+                    [
+                        784,
+                        475
+                    ],
+                    [
+                        862,
+                        363
+                    ],
+                    [
+                        847,
+                        217
+                    ],
+                    [
+                        723,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

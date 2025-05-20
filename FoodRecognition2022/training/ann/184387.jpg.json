@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 820,
+        "width": 820
+    },
+    "objects": [
+        {
+            "id": 1687655,
+            "classId": 3987,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:35:07.522Z",
+            "updatedAt": "2023-06-07T13:35:07.522Z",
+            "tags": [],
+            "classTitle": "pie-plum-baked-with-cake-dough",
+            "points": {
+                "exterior": [
+                    [
+                        654,
+                        140
+                    ],
+                    [
+                        201,
+                        95
+                    ],
+                    [
+                        128,
+                        199
+                    ],
+                    [
+                        152,
+                        451
+                    ],
+                    [
+                        378,
+                        751
+                    ],
+                    [
+                        462,
+                        704
+                    ],
+                    [
+                        734,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

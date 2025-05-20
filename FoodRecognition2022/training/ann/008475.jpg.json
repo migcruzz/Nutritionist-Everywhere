@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 310,
+        "width": 311
+    },
+    "objects": [
+        {
+            "id": 1792171,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:41.988Z",
+            "updatedAt": "2023-06-07T14:47:41.988Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        252
+                    ],
+                    [
+                        298,
+                        242
+                    ],
+                    [
+                        295,
+                        306
+                    ],
+                    [
+                        69,
+                        301
+                    ],
+                    [
+                        80,
+                        252
+                    ],
+                    [
+                        78,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1792169,
+            "classId": 3857,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:41.987Z",
+            "updatedAt": "2023-06-07T14:47:41.987Z",
+            "tags": [],
+            "classTitle": "vegetable-mix-peas-and-carrots",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        7
+                    ],
+                    [
+                        305,
+                        3
+                    ],
+                    [
+                        302,
+                        283
+                    ],
+                    [
+                        0,
+                        250
+                    ],
+                    [
+                        67,
+                        5
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

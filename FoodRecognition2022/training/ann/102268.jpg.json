@@ -1,0 +1,326 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1701626,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:59.202Z",
+            "updatedAt": "2023-06-07T13:44:59.202Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        385
+                    ],
+                    [
+                        337,
+                        319
+                    ],
+                    [
+                        376,
+                        232
+                    ],
+                    [
+                        345,
+                        158
+                    ],
+                    [
+                        303,
+                        125
+                    ],
+                    [
+                        228,
+                        123
+                    ],
+                    [
+                        170,
+                        126
+                    ],
+                    [
+                        133,
+                        127
+                    ],
+                    [
+                        92,
+                        124
+                    ],
+                    [
+                        60,
+                        111
+                    ],
+                    [
+                        31,
+                        104
+                    ],
+                    [
+                        5,
+                        172
+                    ],
+                    [
+                        34,
+                        213
+                    ],
+                    [
+                        100,
+                        214
+                    ],
+                    [
+                        123,
+                        242
+                    ],
+                    [
+                        77,
+                        251
+                    ],
+                    [
+                        27,
+                        234
+                    ],
+                    [
+                        7,
+                        250
+                    ],
+                    [
+                        27,
+                        269
+                    ],
+                    [
+                        110,
+                        263
+                    ],
+                    [
+                        137,
+                        279
+                    ],
+                    [
+                        108,
+                        327
+                    ],
+                    [
+                        95,
+                        357
+                    ],
+                    [
+                        135,
+                        379
+                    ],
+                    [
+                        194,
+                        385
+                    ],
+                    [
+                        244,
+                        384
+                    ],
+                    [
+                        244,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1701624,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:59.201Z",
+            "updatedAt": "2023-06-07T13:44:59.201Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        253
+                    ],
+                    [
+                        119,
+                        237
+                    ],
+                    [
+                        125,
+                        219
+                    ],
+                    [
+                        112,
+                        204
+                    ],
+                    [
+                        74,
+                        203
+                    ],
+                    [
+                        53,
+                        218
+                    ],
+                    [
+                        59,
+                        240
+                    ],
+                    [
+                        60,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1701622,
+            "classId": 4127,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:59.201Z",
+            "updatedAt": "2023-06-07T13:44:59.201Z",
+            "tags": [],
+            "classTitle": "sweet-potato",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        322
+                    ],
+                    [
+                        108,
+                        326
+                    ],
+                    [
+                        126,
+                        312
+                    ],
+                    [
+                        121,
+                        304
+                    ],
+                    [
+                        99,
+                        307
+                    ],
+                    [
+                        84,
+                        316
+                    ],
+                    [
+                        84,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1701620,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:59.199Z",
+            "updatedAt": "2023-06-07T13:44:59.199Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        61
+                    ],
+                    [
+                        283,
+                        39
+                    ],
+                    [
+                        269,
+                        17
+                    ],
+                    [
+                        197,
+                        36
+                    ],
+                    [
+                        131,
+                        65
+                    ],
+                    [
+                        117,
+                        70
+                    ],
+                    [
+                        169,
+                        79
+                    ],
+                    [
+                        187,
+                        77
+                    ],
+                    [
+                        224,
+                        61
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1701618,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:59.199Z",
+            "updatedAt": "2023-06-07T13:44:59.199Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        327
+                    ],
+                    [
+                        138,
+                        288
+                    ],
+                    [
+                        120,
+                        246
+                    ],
+                    [
+                        94,
+                        256
+                    ],
+                    [
+                        72,
+                        282
+                    ],
+                    [
+                        32,
+                        276
+                    ],
+                    [
+                        34,
+                        308
+                    ],
+                    [
+                        34,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

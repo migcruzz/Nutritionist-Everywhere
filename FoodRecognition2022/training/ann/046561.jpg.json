@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1689773,
+            "classId": 3529,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:33.938Z",
+            "updatedAt": "2023-06-07T13:36:33.938Z",
+            "tags": [],
+            "classTitle": "sausage",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        396
+                    ],
+                    [
+                        105,
+                        182
+                    ],
+                    [
+                        144,
+                        94
+                    ],
+                    [
+                        280,
+                        11
+                    ],
+                    [
+                        114,
+                        2
+                    ],
+                    [
+                        4,
+                        132
+                    ],
+                    [
+                        1,
+                        388
+                    ],
+                    [
+                        37,
+                        410
+                    ],
+                    [
+                        73,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1689771,
+            "classId": 3891,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:33.937Z",
+            "updatedAt": "2023-06-07T13:36:33.937Z",
+            "tags": [],
+            "classTitle": "kolhrabi",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        374
+                    ],
+                    [
+                        243,
+                        248
+                    ],
+                    [
+                        384,
+                        236
+                    ],
+                    [
+                        462,
+                        266
+                    ],
+                    [
+                        475,
+                        288
+                    ],
+                    [
+                        474,
+                        400
+                    ],
+                    [
+                        436,
+                        381
+                    ],
+                    [
+                        325,
+                        479
+                    ],
+                    [
+                        169,
+                        464
+                    ],
+                    [
+                        94,
+                        444
+                    ],
+                    [
+                        75,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1689769,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:33.936Z",
+            "updatedAt": "2023-06-07T13:36:33.936Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        179
+                    ],
+                    [
+                        198,
+                        297
+                    ],
+                    [
+                        235,
+                        240
+                    ],
+                    [
+                        472,
+                        246
+                    ],
+                    [
+                        465,
+                        142
+                    ],
+                    [
+                        391,
+                        86
+                    ],
+                    [
+                        221,
+                        56
+                    ],
+                    [
+                        137,
+                        105
+                    ],
+                    [
+                        102,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

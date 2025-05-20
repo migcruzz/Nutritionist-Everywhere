@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 683
+    },
+    "objects": [
+        {
+            "id": 1754491,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:32.636Z",
+            "updatedAt": "2023-06-07T14:22:32.636Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        475
+                    ],
+                    [
+                        355,
+                        473
+                    ],
+                    [
+                        343,
+                        459
+                    ],
+                    [
+                        343,
+                        442
+                    ],
+                    [
+                        349,
+                        424
+                    ],
+                    [
+                        349,
+                        373
+                    ],
+                    [
+                        361,
+                        337
+                    ],
+                    [
+                        370,
+                        322
+                    ],
+                    [
+                        404,
+                        289
+                    ],
+                    [
+                        433,
+                        273
+                    ],
+                    [
+                        457,
+                        265
+                    ],
+                    [
+                        544,
+                        264
+                    ],
+                    [
+                        553,
+                        265
+                    ],
+                    [
+                        589,
+                        282
+                    ],
+                    [
+                        611,
+                        303
+                    ],
+                    [
+                        614,
+                        313
+                    ],
+                    [
+                        614,
+                        351
+                    ],
+                    [
+                        609,
+                        361
+                    ],
+                    [
+                        581,
+                        377
+                    ],
+                    [
+                        567,
+                        379
+                    ],
+                    [
+                        528,
+                        393
+                    ],
+                    [
+                        469,
+                        424
+                    ],
+                    [
+                        415,
+                        461
+                    ],
+                    [
+                        392,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754489,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:32.635Z",
+            "updatedAt": "2023-06-07T14:22:32.635Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        65
+                    ],
+                    [
+                        120,
+                        282
+                    ],
+                    [
+                        147,
+                        291
+                    ],
+                    [
+                        272,
+                        86
+                    ],
+                    [
+                        272,
+                        69
+                    ],
+                    [
+                        245,
+                        65
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754487,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:32.634Z",
+            "updatedAt": "2023-06-07T14:22:32.634Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        296
+                    ],
+                    [
+                        188,
+                        357
+                    ],
+                    [
+                        195,
+                        395
+                    ],
+                    [
+                        224,
+                        453
+                    ],
+                    [
+                        275,
+                        463
+                    ],
+                    [
+                        318,
+                        453
+                    ],
+                    [
+                        342,
+                        401
+                    ],
+                    [
+                        342,
+                        376
+                    ],
+                    [
+                        298,
+                        355
+                    ],
+                    [
+                        332,
+                        308
+                    ],
+                    [
+                        310,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754485,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:32.632Z",
+            "updatedAt": "2023-06-07T14:22:32.632Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        195
+                    ],
+                    [
+                        165,
+                        275
+                    ],
+                    [
+                        142,
+                        338
+                    ],
+                    [
+                        188,
+                        384
+                    ],
+                    [
+                        255,
+                        299
+                    ],
+                    [
+                        255,
+                        272
+                    ],
+                    [
+                        253,
+                        222
+                    ],
+                    [
+                        219,
+                        197
+                    ],
+                    [
+                        219,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

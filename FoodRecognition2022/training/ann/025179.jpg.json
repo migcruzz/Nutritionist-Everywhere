@@ -1,0 +1,266 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1726234,
+            "classId": 4079,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.638Z",
+            "updatedAt": "2023-06-07T14:02:59.638Z",
+            "tags": [],
+            "classTitle": "cordon-bleu-from-pork-schnitzel-fried",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        704
+                    ],
+                    [
+                        332,
+                        528
+                    ],
+                    [
+                        143,
+                        492
+                    ],
+                    [
+                        14,
+                        511
+                    ],
+                    [
+                        28,
+                        686
+                    ],
+                    [
+                        176,
+                        825
+                    ],
+                    [
+                        353,
+                        855
+                    ],
+                    [
+                        431,
+                        851
+                    ],
+                    [
+                        452,
+                        768
+                    ],
+                    [
+                        447,
+                        716
+                    ],
+                    [
+                        445,
+                        711
+                    ],
+                    [
+                        445,
+                        711
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726232,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.638Z",
+            "updatedAt": "2023-06-07T14:02:59.638Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        570,
+                        160
+                    ],
+                    [
+                        226,
+                        249
+                    ],
+                    [
+                        320,
+                        518
+                    ],
+                    [
+                        440,
+                        803
+                    ],
+                    [
+                        504,
+                        841
+                    ],
+                    [
+                        594,
+                        709
+                    ],
+                    [
+                        657,
+                        575
+                    ],
+                    [
+                        799,
+                        464
+                    ],
+                    [
+                        858,
+                        367
+                    ],
+                    [
+                        693,
+                        150
+                    ],
+                    [
+                        615,
+                        87
+                    ],
+                    [
+                        591,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726230,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.637Z",
+            "updatedAt": "2023-06-07T14:02:59.637Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        754,
+                        695
+                    ],
+                    [
+                        620,
+                        667
+                    ],
+                    [
+                        603,
+                        780
+                    ],
+                    [
+                        662,
+                        839
+                    ],
+                    [
+                        766,
+                        820
+                    ],
+                    [
+                        792,
+                        761
+                    ],
+                    [
+                        766,
+                        688
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726228,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.635Z",
+            "updatedAt": "2023-06-07T14:02:59.635Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        841,
+                        502
+                    ],
+                    [
+                        650,
+                        521
+                    ],
+                    [
+                        636,
+                        634
+                    ],
+                    [
+                        742,
+                        697
+                    ],
+                    [
+                        853,
+                        690
+                    ],
+                    [
+                        902,
+                        584
+                    ],
+                    [
+                        869,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726226,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.635Z",
+            "updatedAt": "2023-06-07T14:02:59.635Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        714,
+                        9
+                    ],
+                    [
+                        686,
+                        207
+                    ],
+                    [
+                        851,
+                        249
+                    ],
+                    [
+                        935,
+                        14
+                    ],
+                    [
+                        858,
+                        7
+                    ],
+                    [
+                        723,
+                        7
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

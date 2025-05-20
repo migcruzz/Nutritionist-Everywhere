@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1800524,
+            "classId": 4353,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:39.565Z",
+            "updatedAt": "2023-06-07T14:53:39.565Z",
+            "tags": [],
+            "classTitle": "vanille-cream-cooked-custard-creme-dessert",
+            "points": {
+                "exterior": [
+                    [
+                        103,
+                        249
+                    ],
+                    [
+                        140,
+                        321
+                    ],
+                    [
+                        208,
+                        336
+                    ],
+                    [
+                        237,
+                        328
+                    ],
+                    [
+                        252,
+                        320
+                    ],
+                    [
+                        268,
+                        239
+                    ],
+                    [
+                        204,
+                        270
+                    ],
+                    [
+                        144,
+                        268
+                    ],
+                    [
+                        107,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800522,
+            "classId": 4095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:39.565Z",
+            "updatedAt": "2023-06-07T14:53:39.565Z",
+            "tags": [],
+            "classTitle": "fruit-coulis",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        136
+                    ],
+                    [
+                        93,
+                        179
+                    ],
+                    [
+                        100,
+                        224
+                    ],
+                    [
+                        126,
+                        263
+                    ],
+                    [
+                        191,
+                        279
+                    ],
+                    [
+                        252,
+                        258
+                    ],
+                    [
+                        281,
+                        203
+                    ],
+                    [
+                        262,
+                        163
+                    ],
+                    [
+                        200,
+                        139
+                    ],
+                    [
+                        180,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800521,
+            "classId": 4095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:39.565Z",
+            "updatedAt": "2023-06-07T14:53:39.565Z",
+            "tags": [],
+            "classTitle": "fruit-coulis",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        276
+                    ],
+                    [
+                        121,
+                        304
+                    ],
+                    [
+                        206,
+                        315
+                    ],
+                    [
+                        266,
+                        298
+                    ],
+                    [
+                        261,
+                        266
+                    ],
+                    [
+                        204,
+                        286
+                    ],
+                    [
+                        155,
+                        281
+                    ],
+                    [
+                        118,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 600,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 1694258,
+            "classId": 3811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:39:36.216Z",
+            "updatedAt": "2023-06-07T13:39:36.216Z",
+            "tags": [],
+            "classTitle": "bacon-raw",
+            "points": {
+                "exterior": [
+                    [
+                        275,
+                        313
+                    ],
+                    [
+                        213,
+                        522
+                    ],
+                    [
+                        134,
+                        491
+                    ],
+                    [
+                        128,
+                        426
+                    ],
+                    [
+                        95,
+                        346
+                    ],
+                    [
+                        141,
+                        255
+                    ],
+                    [
+                        216,
+                        253
+                    ],
+                    [
+                        270,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1694256,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:39:36.216Z",
+            "updatedAt": "2023-06-07T13:39:36.216Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        408
+                    ],
+                    [
+                        519,
+                        245
+                    ],
+                    [
+                        419,
+                        184
+                    ],
+                    [
+                        272,
+                        313
+                    ],
+                    [
+                        528,
+                        468
+                    ],
+                    [
+                        575,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1694254,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:39:36.215Z",
+            "updatedAt": "2023-06-07T13:39:36.215Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        303
+                    ],
+                    [
+                        384,
+                        202
+                    ],
+                    [
+                        260,
+                        154
+                    ],
+                    [
+                        108,
+                        159
+                    ],
+                    [
+                        39,
+                        286
+                    ],
+                    [
+                        56,
+                        354
+                    ],
+                    [
+                        96,
+                        355
+                    ],
+                    [
+                        119,
+                        288
+                    ],
+                    [
+                        162,
+                        252
+                    ],
+                    [
+                        192,
+                        255
+                    ],
+                    [
+                        215,
+                        262
+                    ],
+                    [
+                        272,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1694252,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:39:36.214Z",
+            "updatedAt": "2023-06-07T13:39:36.214Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        420,
+                        166
+                    ],
+                    [
+                        266,
+                        186
+                    ],
+                    [
+                        314,
+                        216
+                    ],
+                    [
+                        383,
+                        216
+                    ],
+                    [
+                        428,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

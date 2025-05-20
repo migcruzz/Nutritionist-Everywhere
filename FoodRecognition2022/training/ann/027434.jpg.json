@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1761072,
+            "classId": 3827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:52.965Z",
+            "updatedAt": "2023-06-07T14:26:52.965Z",
+            "tags": [],
+            "classTitle": "rice-basmati",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        312
+                    ],
+                    [
+                        264,
+                        463
+                    ],
+                    [
+                        297,
+                        591
+                    ],
+                    [
+                        360,
+                        613
+                    ],
+                    [
+                        512,
+                        621
+                    ],
+                    [
+                        526,
+                        463
+                    ],
+                    [
+                        459,
+                        298
+                    ],
+                    [
+                        312,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1761070,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:52.964Z",
+            "updatedAt": "2023-06-07T14:26:52.964Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        103
+                    ],
+                    [
+                        283,
+                        303
+                    ],
+                    [
+                        467,
+                        305
+                    ],
+                    [
+                        500,
+                        374
+                    ],
+                    [
+                        625,
+                        341
+                    ],
+                    [
+                        606,
+                        194
+                    ],
+                    [
+                        484,
+                        91
+                    ],
+                    [
+                        345,
+                        55
+                    ],
+                    [
+                        253,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1761068,
+            "classId": 3567,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:52.964Z",
+            "updatedAt": "2023-06-07T14:26:52.964Z",
+            "tags": [],
+            "classTitle": "yaourt-yahourt-yogourt-ou-yoghourt-natural",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        202
+                    ],
+                    [
+                        84,
+                        342
+                    ],
+                    [
+                        191,
+                        364
+                    ],
+                    [
+                        278,
+                        284
+                    ],
+                    [
+                        168,
+                        161
+                    ],
+                    [
+                        106,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

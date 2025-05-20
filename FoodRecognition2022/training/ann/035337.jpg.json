@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1785197,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:04.028Z",
+            "updatedAt": "2023-06-07T14:43:04.028Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        198
+                    ],
+                    [
+                        389,
+                        138
+                    ],
+                    [
+                        298,
+                        79
+                    ],
+                    [
+                        265,
+                        85
+                    ],
+                    [
+                        213,
+                        122
+                    ],
+                    [
+                        161,
+                        180
+                    ],
+                    [
+                        132,
+                        170
+                    ],
+                    [
+                        72,
+                        220
+                    ],
+                    [
+                        137,
+                        297
+                    ],
+                    [
+                        211,
+                        372
+                    ],
+                    [
+                        288,
+                        448
+                    ],
+                    [
+                        361,
+                        439
+                    ],
+                    [
+                        419,
+                        354
+                    ],
+                    [
+                        427,
+                        307
+                    ],
+                    [
+                        406,
+                        229
+                    ],
+                    [
+                        387,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1785195,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:04.027Z",
+            "updatedAt": "2023-06-07T14:43:04.027Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        157
+                    ],
+                    [
+                        95,
+                        168
+                    ],
+                    [
+                        159,
+                        176
+                    ],
+                    [
+                        209,
+                        153
+                    ],
+                    [
+                        247,
+                        106
+                    ],
+                    [
+                        257,
+                        75
+                    ],
+                    [
+                        171,
+                        51
+                    ],
+                    [
+                        106,
+                        87
+                    ],
+                    [
+                        95,
+                        117
+                    ],
+                    [
+                        61,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1785193,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:04.027Z",
+            "updatedAt": "2023-06-07T14:43:04.027Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        202
+                    ],
+                    [
+                        59,
+                        285
+                    ],
+                    [
+                        18,
+                        249
+                    ],
+                    [
+                        0,
+                        198
+                    ],
+                    [
+                        12,
+                        169
+                    ],
+                    [
+                        91,
+                        156
+                    ],
+                    [
+                        109,
+                        168
+                    ],
+                    [
+                        106,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

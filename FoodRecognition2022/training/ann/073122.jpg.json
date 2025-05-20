@@ -1,0 +1,62 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1702274,
+            "classId": 4117,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:22.863Z",
+            "updatedAt": "2023-06-07T13:45:22.863Z",
+            "tags": [],
+            "classTitle": "milk",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        189
+                    ],
+                    [
+                        133,
+                        289
+                    ],
+                    [
+                        152,
+                        332
+                    ],
+                    [
+                        187,
+                        346
+                    ],
+                    [
+                        232,
+                        315
+                    ],
+                    [
+                        275,
+                        209
+                    ],
+                    [
+                        267,
+                        162
+                    ],
+                    [
+                        187,
+                        149
+                    ],
+                    [
+                        150,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

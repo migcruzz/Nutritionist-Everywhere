@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1773156,
+            "classId": 4329,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:47.379Z",
+            "updatedAt": "2023-06-07T14:34:47.379Z",
+            "tags": [],
+            "classTitle": "sekt",
+            "points": {
+                "exterior": [
+                    [
+                        137,
+                        240
+                    ],
+                    [
+                        161,
+                        422
+                    ],
+                    [
+                        366,
+                        424
+                    ],
+                    [
+                        407,
+                        295
+                    ],
+                    [
+                        346,
+                        172
+                    ],
+                    [
+                        193,
+                        190
+                    ],
+                    [
+                        190,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

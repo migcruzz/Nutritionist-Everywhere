@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1709980,
+            "classId": 4025,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:23.311Z",
+            "updatedAt": "2023-06-07T13:51:23.311Z",
+            "tags": [],
+            "classTitle": "porridge-prepared-with-partially-skimmed-milk",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        266
+                    ],
+                    [
+                        164,
+                        345
+                    ],
+                    [
+                        229,
+                        373
+                    ],
+                    [
+                        285,
+                        356
+                    ],
+                    [
+                        314,
+                        301
+                    ],
+                    [
+                        324,
+                        295
+                    ],
+                    [
+                        343,
+                        273
+                    ],
+                    [
+                        287,
+                        259
+                    ],
+                    [
+                        268,
+                        242
+                    ],
+                    [
+                        217,
+                        240
+                    ],
+                    [
+                        171,
+                        236
+                    ],
+                    [
+                        159,
+                        242
+                    ],
+                    [
+                        148,
+                        262
+                    ],
+                    [
+                        139,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709978,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:23.308Z",
+            "updatedAt": "2023-06-07T13:51:23.308Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        231
+                    ],
+                    [
+                        287,
+                        253
+                    ],
+                    [
+                        336,
+                        278
+                    ],
+                    [
+                        294,
+                        210
+                    ],
+                    [
+                        247,
+                        188
+                    ],
+                    [
+                        176,
+                        200
+                    ],
+                    [
+                        126,
+                        225
+                    ],
+                    [
+                        106,
+                        251
+                    ],
+                    [
+                        148,
+                        248
+                    ],
+                    [
+                        173,
+                        221
+                    ],
+                    [
+                        213,
+                        218
+                    ],
+                    [
+                        214,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

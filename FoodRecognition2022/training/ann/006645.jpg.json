@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1679495,
+            "classId": 3753,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:40.349Z",
+            "updatedAt": "2023-06-07T13:29:40.349Z",
+            "tags": [],
+            "classTitle": "cauliflower",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        60
+                    ],
+                    [
+                        262,
+                        21
+                    ],
+                    [
+                        212,
+                        18
+                    ],
+                    [
+                        185,
+                        57
+                    ],
+                    [
+                        75,
+                        58
+                    ],
+                    [
+                        65,
+                        96
+                    ],
+                    [
+                        252,
+                        136
+                    ],
+                    [
+                        232,
+                        103
+                    ],
+                    [
+                        246,
+                        66
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679493,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:40.349Z",
+            "updatedAt": "2023-06-07T13:29:40.349Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        151
+                    ],
+                    [
+                        58,
+                        190
+                    ],
+                    [
+                        68,
+                        228
+                    ],
+                    [
+                        51,
+                        261
+                    ],
+                    [
+                        54,
+                        286
+                    ],
+                    [
+                        158,
+                        309
+                    ],
+                    [
+                        301,
+                        293
+                    ],
+                    [
+                        336,
+                        239
+                    ],
+                    [
+                        313,
+                        203
+                    ],
+                    [
+                        276,
+                        153
+                    ],
+                    [
+                        242,
+                        158
+                    ],
+                    [
+                        225,
+                        167
+                    ],
+                    [
+                        199,
+                        164
+                    ],
+                    [
+                        189,
+                        195
+                    ],
+                    [
+                        148,
+                        174
+                    ],
+                    [
+                        130,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679491,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:40.347Z",
+            "updatedAt": "2023-06-07T13:29:40.347Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        62,
+                        77
+                    ],
+                    [
+                        17,
+                        110
+                    ],
+                    [
+                        13,
+                        210
+                    ],
+                    [
+                        27,
+                        230
+                    ],
+                    [
+                        95,
+                        157
+                    ],
+                    [
+                        193,
+                        185
+                    ],
+                    [
+                        242,
+                        156
+                    ],
+                    [
+                        225,
+                        129
+                    ],
+                    [
+                        105,
+                        89
+                    ],
+                    [
+                        105,
+                        89
+                    ],
+                    [
+                        93,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

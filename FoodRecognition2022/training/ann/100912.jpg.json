@@ -1,0 +1,230 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 234,
+        "width": 234
+    },
+    "objects": [
+        {
+            "id": 1698671,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:42.958Z",
+            "updatedAt": "2023-06-07T13:42:42.958Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        123
+                    ],
+                    [
+                        37,
+                        119
+                    ],
+                    [
+                        20,
+                        103
+                    ],
+                    [
+                        18,
+                        87
+                    ],
+                    [
+                        34,
+                        72
+                    ],
+                    [
+                        48,
+                        67
+                    ],
+                    [
+                        64,
+                        66
+                    ],
+                    [
+                        81,
+                        71
+                    ],
+                    [
+                        88,
+                        79
+                    ],
+                    [
+                        90,
+                        103
+                    ],
+                    [
+                        87,
+                        112
+                    ],
+                    [
+                        77,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1698669,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:42.957Z",
+            "updatedAt": "2023-06-07T13:42:42.957Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        60
+                    ],
+                    [
+                        161,
+                        83
+                    ],
+                    [
+                        143,
+                        118
+                    ],
+                    [
+                        155,
+                        132
+                    ],
+                    [
+                        166,
+                        133
+                    ],
+                    [
+                        180,
+                        97
+                    ],
+                    [
+                        199,
+                        75
+                    ],
+                    [
+                        179,
+                        58
+                    ],
+                    [
+                        179,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1698667,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:42.957Z",
+            "updatedAt": "2023-06-07T13:42:42.957Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        64
+                    ],
+                    [
+                        172,
+                        120
+                    ],
+                    [
+                        166,
+                        150
+                    ],
+                    [
+                        182,
+                        156
+                    ],
+                    [
+                        186,
+                        132
+                    ],
+                    [
+                        206,
+                        118
+                    ],
+                    [
+                        221,
+                        106
+                    ],
+                    [
+                        232,
+                        73
+                    ],
+                    [
+                        212,
+                        63
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1698665,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:42.957Z",
+            "updatedAt": "2023-06-07T13:42:42.957Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        89
+                    ],
+                    [
+                        230,
+                        109
+                    ],
+                    [
+                        190,
+                        127
+                    ],
+                    [
+                        191,
+                        147
+                    ],
+                    [
+                        203,
+                        144
+                    ],
+                    [
+                        216,
+                        129
+                    ],
+                    [
+                        216,
+                        120
+                    ],
+                    [
+                        231,
+                        119
+                    ],
+                    [
+                        231,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

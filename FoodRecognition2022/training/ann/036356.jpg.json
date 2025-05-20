@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1671466,
+            "classId": 3807,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:17.633Z",
+            "updatedAt": "2023-06-07T13:24:17.633Z",
+            "tags": [],
+            "classTitle": "water-mineral",
+            "points": {
+                "exterior": [
+                    [
+                        12,
+                        213
+                    ],
+                    [
+                        43,
+                        465
+                    ],
+                    [
+                        304,
+                        472
+                    ],
+                    [
+                        396,
+                        457
+                    ],
+                    [
+                        441,
+                        156
+                    ],
+                    [
+                        387,
+                        79
+                    ],
+                    [
+                        166,
+                        79
+                    ],
+                    [
+                        159,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1671464,
+            "classId": 3807,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:17.632Z",
+            "updatedAt": "2023-06-07T13:24:17.632Z",
+            "tags": [],
+            "classTitle": "water-mineral",
+            "points": {
+                "exterior": [
+                    [
+                        29,
+                        125
+                    ],
+                    [
+                        25,
+                        360
+                    ],
+                    [
+                        117,
+                        457
+                    ],
+                    [
+                        354,
+                        465
+                    ],
+                    [
+                        466,
+                        443
+                    ],
+                    [
+                        437,
+                        139
+                    ],
+                    [
+                        226,
+                        51
+                    ],
+                    [
+                        64,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

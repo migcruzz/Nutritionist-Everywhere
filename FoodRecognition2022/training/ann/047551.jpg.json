@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1661670,
+            "classId": 4301,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.179Z",
+            "updatedAt": "2023-06-07T13:17:15.179Z",
+            "tags": [],
+            "classTitle": "sorbet",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        341
+                    ],
+                    [
+                        384,
+                        395
+                    ],
+                    [
+                        423,
+                        298
+                    ],
+                    [
+                        334,
+                        166
+                    ],
+                    [
+                        250,
+                        178
+                    ],
+                    [
+                        230,
+                        204
+                    ],
+                    [
+                        171,
+                        191
+                    ],
+                    [
+                        91,
+                        200
+                    ],
+                    [
+                        47,
+                        227
+                    ],
+                    [
+                        60,
+                        319
+                    ],
+                    [
+                        115,
+                        423
+                    ],
+                    [
+                        202,
+                        439
+                    ],
+                    [
+                        239,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661668,
+            "classId": 3493,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.179Z",
+            "updatedAt": "2023-06-07T13:17:15.179Z",
+            "tags": [],
+            "classTitle": "almonds",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        211
+                    ],
+                    [
+                        93,
+                        201
+                    ],
+                    [
+                        73,
+                        309
+                    ],
+                    [
+                        34,
+                        295
+                    ],
+                    [
+                        61,
+                        366
+                    ],
+                    [
+                        155,
+                        336
+                    ],
+                    [
+                        189,
+                        301
+                    ],
+                    [
+                        243,
+                        285
+                    ],
+                    [
+                        298,
+                        242
+                    ],
+                    [
+                        269,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661667,
+            "classId": 3493,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.178Z",
+            "updatedAt": "2023-06-07T13:17:15.178Z",
+            "tags": [],
+            "classTitle": "almonds",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        399
+                    ],
+                    [
+                        259,
+                        346
+                    ],
+                    [
+                        219,
+                        408
+                    ],
+                    [
+                        153,
+                        432
+                    ],
+                    [
+                        215,
+                        464
+                    ],
+                    [
+                        313,
+                        444
+                    ],
+                    [
+                        347,
+                        415
+                    ],
+                    [
+                        347,
+                        415
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1779608,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:04.686Z",
+            "updatedAt": "2023-06-07T14:39:04.686Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        315
+                    ],
+                    [
+                        183,
+                        290
+                    ],
+                    [
+                        122,
+                        299
+                    ],
+                    [
+                        145,
+                        313
+                    ],
+                    [
+                        203,
+                        327
+                    ],
+                    [
+                        267,
+                        336
+                    ],
+                    [
+                        268,
+                        326
+                    ],
+                    [
+                        226,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779606,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:04.685Z",
+            "updatedAt": "2023-06-07T14:39:04.685Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        393,
+                        179
+                    ],
+                    [
+                        410,
+                        182
+                    ],
+                    [
+                        441,
+                        292
+                    ],
+                    [
+                        442,
+                        316
+                    ],
+                    [
+                        330,
+                        360
+                    ],
+                    [
+                        271,
+                        374
+                    ],
+                    [
+                        256,
+                        335
+                    ],
+                    [
+                        248,
+                        318
+                    ],
+                    [
+                        218,
+                        299
+                    ],
+                    [
+                        213,
+                        282
+                    ],
+                    [
+                        354,
+                        268
+                    ],
+                    [
+                        395,
+                        249
+                    ],
+                    [
+                        400,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

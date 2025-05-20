@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 837,
+        "width": 837
+    },
+    "objects": [
+        {
+            "id": 1690093,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:46.935Z",
+            "updatedAt": "2023-06-07T13:36:46.935Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        476,
+                        732
+                    ],
+                    [
+                        691,
+                        617
+                    ],
+                    [
+                        653,
+                        403
+                    ],
+                    [
+                        302,
+                        364
+                    ],
+                    [
+                        68,
+                        512
+                    ],
+                    [
+                        118,
+                        682
+                    ],
+                    [
+                        329,
+                        721
+                    ],
+                    [
+                        436,
+                        736
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1690091,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:46.933Z",
+            "updatedAt": "2023-06-07T13:36:46.933Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        649,
+                        125
+                    ],
+                    [
+                        507,
+                        98
+                    ],
+                    [
+                        448,
+                        207
+                    ],
+                    [
+                        538,
+                        334
+                    ],
+                    [
+                        647,
+                        305
+                    ],
+                    [
+                        716,
+                        244
+                    ],
+                    [
+                        716,
+                        165
+                    ],
+                    [
+                        674,
+                        136
+                    ],
+                    [
+                        670,
+                        136
+                    ],
+                    [
+                        666,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

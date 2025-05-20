@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 513,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1769143,
+            "classId": 4191,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:09.337Z",
+            "updatedAt": "2023-06-07T14:32:09.337Z",
+            "tags": [],
+            "classTitle": "sugar-melon",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        68
+                    ],
+                    [
+                        12,
+                        131
+                    ],
+                    [
+                        15,
+                        189
+                    ],
+                    [
+                        132,
+                        511
+                    ],
+                    [
+                        155,
+                        509
+                    ],
+                    [
+                        271,
+                        448
+                    ],
+                    [
+                        177,
+                        135
+                    ],
+                    [
+                        123,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769141,
+            "classId": 3987,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:09.335Z",
+            "updatedAt": "2023-06-07T14:32:09.335Z",
+            "tags": [],
+            "classTitle": "pie-plum-baked-with-cake-dough",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        112
+                    ],
+                    [
+                        251,
+                        489
+                    ],
+                    [
+                        410,
+                        464
+                    ],
+                    [
+                        328,
+                        117
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

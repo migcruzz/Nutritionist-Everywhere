@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1744586,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:48.276Z",
+            "updatedAt": "2023-06-07T14:15:48.276Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        392
+                    ],
+                    [
+                        392,
+                        315
+                    ],
+                    [
+                        98,
+                        285
+                    ],
+                    [
+                        2,
+                        456
+                    ],
+                    [
+                        57,
+                        609
+                    ],
+                    [
+                        198,
+                        673
+                    ],
+                    [
+                        302,
+                        767
+                    ],
+                    [
+                        503,
+                        742
+                    ],
+                    [
+                        533,
+                        693
+                    ],
+                    [
+                        539,
+                        609
+                    ],
+                    [
+                        460,
+                        411
+                    ],
+                    [
+                        430,
+                        396
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744584,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:48.275Z",
+            "updatedAt": "2023-06-07T14:15:48.275Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        714,
+                        516
+                    ],
+                    [
+                        791,
+                        379
+                    ],
+                    [
+                        712,
+                        309
+                    ],
+                    [
+                        605,
+                        341
+                    ],
+                    [
+                        609,
+                        430
+                    ],
+                    [
+                        669,
+                        481
+                    ],
+                    [
+                        590,
+                        524
+                    ],
+                    [
+                        588,
+                        676
+                    ],
+                    [
+                        682,
+                        714
+                    ],
+                    [
+                        725,
+                        671
+                    ],
+                    [
+                        714,
+                        560
+                    ],
+                    [
+                        705,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744582,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:48.274Z",
+            "updatedAt": "2023-06-07T14:15:48.274Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        55
+                    ],
+                    [
+                        603,
+                        432
+                    ],
+                    [
+                        484,
+                        479
+                    ],
+                    [
+                        520,
+                        379
+                    ],
+                    [
+                        356,
+                        142
+                    ],
+                    [
+                        377,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

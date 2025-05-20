@@ -1,0 +1,242 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1653283,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:31.581Z",
+            "updatedAt": "2023-06-07T13:11:31.581Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        240
+                    ],
+                    [
+                        348,
+                        218
+                    ],
+                    [
+                        365,
+                        251
+                    ],
+                    [
+                        344,
+                        185
+                    ],
+                    [
+                        302,
+                        178
+                    ],
+                    [
+                        265,
+                        167
+                    ],
+                    [
+                        250,
+                        157
+                    ],
+                    [
+                        175,
+                        177
+                    ],
+                    [
+                        168,
+                        192
+                    ],
+                    [
+                        214,
+                        199
+                    ],
+                    [
+                        238,
+                        202
+                    ],
+                    [
+                        273,
+                        206
+                    ],
+                    [
+                        306,
+                        210
+                    ],
+                    [
+                        312,
+                        211
+                    ],
+                    [
+                        316,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653281,
+            "classId": 3921,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:31.580Z",
+            "updatedAt": "2023-06-07T13:11:31.580Z",
+            "tags": [],
+            "classTitle": "mango",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        266
+                    ],
+                    [
+                        326,
+                        301
+                    ],
+                    [
+                        343,
+                        310
+                    ],
+                    [
+                        359,
+                        300
+                    ],
+                    [
+                        364,
+                        258
+                    ],
+                    [
+                        354,
+                        228
+                    ],
+                    [
+                        343,
+                        224
+                    ],
+                    [
+                        338,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653279,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:31.580Z",
+            "updatedAt": "2023-06-07T13:11:31.580Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        286
+                    ],
+                    [
+                        263,
+                        287
+                    ],
+                    [
+                        277,
+                        263
+                    ],
+                    [
+                        262,
+                        232
+                    ],
+                    [
+                        242,
+                        228
+                    ],
+                    [
+                        229,
+                        238
+                    ],
+                    [
+                        199,
+                        261
+                    ],
+                    [
+                        196,
+                        280
+                    ],
+                    [
+                        215,
+                        306
+                    ],
+                    [
+                        217,
+                        291
+                    ],
+                    [
+                        215,
+                        277
+                    ],
+                    [
+                        217,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653277,
+            "classId": 4029,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:31.579Z",
+            "updatedAt": "2023-06-07T13:11:31.579Z",
+            "tags": [],
+            "classTitle": "juice-multifruit",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        97
+                    ],
+                    [
+                        33,
+                        129
+                    ],
+                    [
+                        89,
+                        262
+                    ],
+                    [
+                        126,
+                        275
+                    ],
+                    [
+                        144,
+                        249
+                    ],
+                    [
+                        148,
+                        163
+                    ],
+                    [
+                        122,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

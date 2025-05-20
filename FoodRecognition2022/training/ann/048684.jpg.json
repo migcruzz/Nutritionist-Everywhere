@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1786710,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:59.141Z",
+            "updatedAt": "2023-06-07T14:43:59.141Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        333
+                    ],
+                    [
+                        316,
+                        448
+                    ],
+                    [
+                        210,
+                        454
+                    ],
+                    [
+                        183,
+                        330
+                    ],
+                    [
+                        287,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786709,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:59.140Z",
+            "updatedAt": "2023-06-07T14:43:59.140Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        189
+                    ],
+                    [
+                        303,
+                        316
+                    ],
+                    [
+                        179,
+                        316
+                    ],
+                    [
+                        181,
+                        175
+                    ],
+                    [
+                        293,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786708,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:59.138Z",
+            "updatedAt": "2023-06-07T14:43:59.138Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        24
+                    ],
+                    [
+                        318,
+                        178
+                    ],
+                    [
+                        174,
+                        150
+                    ],
+                    [
+                        178,
+                        10
+                    ],
+                    [
+                        289,
+                        15
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

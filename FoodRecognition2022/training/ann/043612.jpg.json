@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1730364,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:53.757Z",
+            "updatedAt": "2023-06-07T14:05:53.757Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        298,
+                        193
+                    ],
+                    [
+                        221,
+                        430
+                    ],
+                    [
+                        114,
+                        438
+                    ],
+                    [
+                        55,
+                        282
+                    ],
+                    [
+                        85,
+                        120
+                    ],
+                    [
+                        171,
+                        50
+                    ],
+                    [
+                        263,
+                        87
+                    ],
+                    [
+                        263,
+                        91
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1730362,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:53.757Z",
+            "updatedAt": "2023-06-07T14:05:53.757Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        137,
+                        331
+                    ],
+                    [
+                        247,
+                        308
+                    ],
+                    [
+                        247,
+                        198
+                    ],
+                    [
+                        215,
+                        141
+                    ],
+                    [
+                        121,
+                        140
+                    ],
+                    [
+                        95,
+                        201
+                    ],
+                    [
+                        87,
+                        274
+                    ],
+                    [
+                        91,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1730360,
+            "classId": 3573,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:53.756Z",
+            "updatedAt": "2023-06-07T14:05:53.756Z",
+            "tags": [],
+            "classTitle": "balsamic-vinegar",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        273
+                    ],
+                    [
+                        221,
+                        247
+                    ],
+                    [
+                        220,
+                        207
+                    ],
+                    [
+                        196,
+                        189
+                    ],
+                    [
+                        159,
+                        193
+                    ],
+                    [
+                        147,
+                        217
+                    ],
+                    [
+                        157,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

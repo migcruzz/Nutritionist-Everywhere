@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1683185,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:01.750Z",
+            "updatedAt": "2023-06-07T13:32:01.750Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        353
+                    ],
+                    [
+                        332,
+                        820
+                    ],
+                    [
+                        485,
+                        853
+                    ],
+                    [
+                        568,
+                        815
+                    ],
+                    [
+                        605,
+                        775
+                    ],
+                    [
+                        686,
+                        341
+                    ],
+                    [
+                        631,
+                        259
+                    ],
+                    [
+                        471,
+                        212
+                    ],
+                    [
+                        315,
+                        259
+                    ],
+                    [
+                        268,
+                        289
+                    ],
+                    [
+                        266,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683183,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:01.750Z",
+            "updatedAt": "2023-06-07T13:32:01.750Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        348
+                    ],
+                    [
+                        330,
+                        787
+                    ],
+                    [
+                        419,
+                        846
+                    ],
+                    [
+                        532,
+                        829
+                    ],
+                    [
+                        591,
+                        792
+                    ],
+                    [
+                        681,
+                        351
+                    ],
+                    [
+                        650,
+                        256
+                    ],
+                    [
+                        518,
+                        235
+                    ],
+                    [
+                        384,
+                        219
+                    ],
+                    [
+                        264,
+                        264
+                    ],
+                    [
+                        252,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

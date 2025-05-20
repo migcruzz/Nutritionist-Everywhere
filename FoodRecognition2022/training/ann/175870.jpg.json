@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 936,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1669436,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:54.623Z",
+            "updatedAt": "2023-06-07T13:22:54.623Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        712,
+                        285
+                    ],
+                    [
+                        592,
+                        334
+                    ],
+                    [
+                        571,
+                        380
+                    ],
+                    [
+                        592,
+                        430
+                    ],
+                    [
+                        735,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669434,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:54.623Z",
+            "updatedAt": "2023-06-07T13:22:54.623Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        688,
+                        434
+                    ],
+                    [
+                        627,
+                        416
+                    ],
+                    [
+                        545,
+                        402
+                    ],
+                    [
+                        508,
+                        486
+                    ],
+                    [
+                        531,
+                        603
+                    ],
+                    [
+                        653,
+                        643
+                    ],
+                    [
+                        700,
+                        582
+                    ],
+                    [
+                        779,
+                        561
+                    ],
+                    [
+                        796,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669432,
+            "classId": 4131,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:54.622Z",
+            "updatedAt": "2023-06-07T13:22:54.622Z",
+            "tags": [],
+            "classTitle": "croissant",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        263
+                    ],
+                    [
+                        183,
+                        266
+                    ],
+                    [
+                        94,
+                        317
+                    ],
+                    [
+                        49,
+                        476
+                    ],
+                    [
+                        91,
+                        626
+                    ],
+                    [
+                        190,
+                        736
+                    ],
+                    [
+                        375,
+                        785
+                    ],
+                    [
+                        564,
+                        729
+                    ],
+                    [
+                        609,
+                        626
+                    ],
+                    [
+                        557,
+                        584
+                    ],
+                    [
+                        461,
+                        565
+                    ],
+                    [
+                        332,
+                        526
+                    ],
+                    [
+                        253,
+                        446
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669430,
+            "classId": 3797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:54.621Z",
+            "updatedAt": "2023-06-07T13:22:54.621Z",
+            "tags": [],
+            "classTitle": "braided-white-loaf",
+            "points": {
+                "exterior": [
+                    [
+                        602,
+                        228
+                    ],
+                    [
+                        517,
+                        252
+                    ],
+                    [
+                        485,
+                        193
+                    ],
+                    [
+                        368,
+                        170
+                    ],
+                    [
+                        281,
+                        231
+                    ],
+                    [
+                        262,
+                        320
+                    ],
+                    [
+                        288,
+                        392
+                    ],
+                    [
+                        311,
+                        474
+                    ],
+                    [
+                        468,
+                        575
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

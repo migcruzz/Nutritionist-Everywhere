@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1728640,
+            "classId": 3667,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:44.196Z",
+            "updatedAt": "2023-06-07T14:04:44.196Z",
+            "tags": [],
+            "classTitle": "omelette-plain",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        228
+                    ],
+                    [
+                        78,
+                        297
+                    ],
+                    [
+                        315,
+                        360
+                    ],
+                    [
+                        403,
+                        274
+                    ],
+                    [
+                        420,
+                        211
+                    ],
+                    [
+                        390,
+                        174
+                    ],
+                    [
+                        405,
+                        249
+                    ],
+                    [
+                        345,
+                        320
+                    ],
+                    [
+                        309,
+                        331
+                    ],
+                    [
+                        232,
+                        304
+                    ],
+                    [
+                        162,
+                        283
+                    ],
+                    [
+                        69,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728638,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:44.196Z",
+            "updatedAt": "2023-06-07T14:04:44.196Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        196
+                    ],
+                    [
+                        372,
+                        242
+                    ],
+                    [
+                        312,
+                        296
+                    ],
+                    [
+                        247,
+                        307
+                    ],
+                    [
+                        288,
+                        325
+                    ],
+                    [
+                        367,
+                        302
+                    ],
+                    [
+                        402,
+                        266
+                    ],
+                    [
+                        403,
+                        216
+                    ],
+                    [
+                        394,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

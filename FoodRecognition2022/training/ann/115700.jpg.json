@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1701782,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:05.350Z",
+            "updatedAt": "2023-06-07T13:45:05.350Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        394,
+                        283
+                    ],
+                    [
+                        265,
+                        204
+                    ],
+                    [
+                        145,
+                        208
+                    ],
+                    [
+                        19,
+                        307
+                    ],
+                    [
+                        13,
+                        391
+                    ],
+                    [
+                        49,
+                        406
+                    ],
+                    [
+                        233,
+                        374
+                    ],
+                    [
+                        389,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1701780,
+            "classId": 3559,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:05.349Z",
+            "updatedAt": "2023-06-07T13:45:05.349Z",
+            "tags": [],
+            "classTitle": "tartar-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        37
+                    ],
+                    [
+                        262,
+                        35
+                    ],
+                    [
+                        233,
+                        51
+                    ],
+                    [
+                        245,
+                        118
+                    ],
+                    [
+                        280,
+                        125
+                    ],
+                    [
+                        343,
+                        114
+                    ],
+                    [
+                        338,
+                        50
+                    ],
+                    [
+                        346,
+                        50
+                    ],
+                    [
+                        328,
+                        43
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

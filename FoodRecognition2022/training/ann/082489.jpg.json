@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 866
+    },
+    "objects": [
+        {
+            "id": 1732098,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:03.458Z",
+            "updatedAt": "2023-06-07T14:07:03.458Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        153
+                    ],
+                    [
+                        280,
+                        225
+                    ],
+                    [
+                        243,
+                        290
+                    ],
+                    [
+                        150,
+                        320
+                    ],
+                    [
+                        96,
+                        359
+                    ],
+                    [
+                        135,
+                        435
+                    ],
+                    [
+                        195,
+                        450
+                    ],
+                    [
+                        252,
+                        420
+                    ],
+                    [
+                        273,
+                        433
+                    ],
+                    [
+                        304,
+                        489
+                    ],
+                    [
+                        373,
+                        502
+                    ],
+                    [
+                        405,
+                        482
+                    ],
+                    [
+                        436,
+                        426
+                    ],
+                    [
+                        538,
+                        398
+                    ],
+                    [
+                        631,
+                        396
+                    ],
+                    [
+                        615,
+                        305
+                    ],
+                    [
+                        525,
+                        205
+                    ],
+                    [
+                        436,
+                        153
+                    ],
+                    [
+                        399,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732096,
+            "classId": 3951,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:03.457Z",
+            "updatedAt": "2023-06-07T14:07:03.457Z",
+            "tags": [],
+            "classTitle": "sesame-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        305
+                    ],
+                    [
+                        336,
+                        396
+                    ],
+                    [
+                        416,
+                        428
+                    ],
+                    [
+                        516,
+                        359
+                    ],
+                    [
+                        557,
+                        311
+                    ],
+                    [
+                        548,
+                        212
+                    ],
+                    [
+                        455,
+                        145
+                    ],
+                    [
+                        371,
+                        168
+                    ],
+                    [
+                        247,
+                        270
+                    ],
+                    [
+                        243,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732094,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:03.457Z",
+            "updatedAt": "2023-06-07T14:07:03.457Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        588
+                    ],
+                    [
+                        224,
+                        593
+                    ],
+                    [
+                        247,
+                        727
+                    ],
+                    [
+                        520,
+                        727
+                    ],
+                    [
+                        490,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

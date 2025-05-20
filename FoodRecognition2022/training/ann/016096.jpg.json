@@ -1,0 +1,262 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1652011,
+            "classId": 3857,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:37.432Z",
+            "updatedAt": "2023-06-07T13:10:37.432Z",
+            "tags": [],
+            "classTitle": "vegetable-mix-peas-and-carrots",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        169
+                    ],
+                    [
+                        36,
+                        265
+                    ],
+                    [
+                        95,
+                        273
+                    ],
+                    [
+                        116,
+                        246
+                    ],
+                    [
+                        104,
+                        217
+                    ],
+                    [
+                        73,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652009,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:37.431Z",
+            "updatedAt": "2023-06-07T13:10:37.431Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        293
+                    ],
+                    [
+                        392,
+                        315
+                    ],
+                    [
+                        353,
+                        430
+                    ],
+                    [
+                        176,
+                        421
+                    ],
+                    [
+                        64,
+                        366
+                    ],
+                    [
+                        28,
+                        328
+                    ],
+                    [
+                        49,
+                        255
+                    ],
+                    [
+                        116,
+                        264
+                    ],
+                    [
+                        144,
+                        299
+                    ],
+                    [
+                        206,
+                        300
+                    ],
+                    [
+                        245,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652007,
+            "classId": 3975,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:37.430Z",
+            "updatedAt": "2023-06-07T13:10:37.430Z",
+            "tags": [],
+            "classTitle": "breadcrumbs-unspiced",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        285
+                    ],
+                    [
+                        379,
+                        329
+                    ],
+                    [
+                        350,
+                        419
+                    ],
+                    [
+                        193,
+                        420
+                    ],
+                    [
+                        52,
+                        343
+                    ],
+                    [
+                        31,
+                        289
+                    ],
+                    [
+                        49,
+                        255
+                    ],
+                    [
+                        102,
+                        294
+                    ],
+                    [
+                        227,
+                        306
+                    ],
+                    [
+                        253,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652005,
+            "classId": 3919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:37.429Z",
+            "updatedAt": "2023-06-07T13:10:37.429Z",
+            "tags": [],
+            "classTitle": "rosti",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        118
+                    ],
+                    [
+                        254,
+                        213
+                    ],
+                    [
+                        275,
+                        292
+                    ],
+                    [
+                        392,
+                        325
+                    ],
+                    [
+                        430,
+                        301
+                    ],
+                    [
+                        428,
+                        225
+                    ],
+                    [
+                        426,
+                        208
+                    ],
+                    [
+                        462,
+                        180
+                    ],
+                    [
+                        466,
+                        121
+                    ],
+                    [
+                        374,
+                        82
+                    ],
+                    [
+                        301,
+                        90
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1652003,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:37.428Z",
+            "updatedAt": "2023-06-07T13:10:37.428Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        228
+                    ],
+                    [
+                        112,
+                        304
+                    ],
+                    [
+                        284,
+                        294
+                    ],
+                    [
+                        270,
+                        229
+                    ],
+                    [
+                        138,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

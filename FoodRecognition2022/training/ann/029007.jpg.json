@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1695298,
+            "classId": 3935,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.066Z",
+            "updatedAt": "2023-06-07T13:40:22.066Z",
+            "tags": [],
+            "classTitle": "cake-oblong",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        76
+                    ],
+                    [
+                        40,
+                        100
+                    ],
+                    [
+                        21,
+                        196
+                    ],
+                    [
+                        38,
+                        331
+                    ],
+                    [
+                        174,
+                        358
+                    ],
+                    [
+                        171,
+                        248
+                    ],
+                    [
+                        136,
+                        98
+                    ],
+                    [
+                        132,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695296,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.065Z",
+            "updatedAt": "2023-06-07T13:40:22.065Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        216
+                    ],
+                    [
+                        260,
+                        242
+                    ],
+                    [
+                        340,
+                        342
+                    ],
+                    [
+                        364,
+                        315
+                    ],
+                    [
+                        367,
+                        301
+                    ],
+                    [
+                        325,
+                        290
+                    ],
+                    [
+                        348,
+                        262
+                    ],
+                    [
+                        376,
+                        265
+                    ],
+                    [
+                        375,
+                        254
+                    ],
+                    [
+                        349,
+                        225
+                    ],
+                    [
+                        363,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695294,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.064Z",
+            "updatedAt": "2023-06-07T13:40:22.064Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        234
+                    ],
+                    [
+                        367,
+                        205
+                    ],
+                    [
+                        357,
+                        267
+                    ],
+                    [
+                        297,
+                        268
+                    ],
+                    [
+                        357,
+                        330
+                    ],
+                    [
+                        388,
+                        346
+                    ],
+                    [
+                        408,
+                        321
+                    ],
+                    [
+                        433,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

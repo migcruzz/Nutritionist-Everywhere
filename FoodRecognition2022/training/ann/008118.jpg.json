@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1664585,
+            "classId": 3423,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:30.500Z",
+            "updatedAt": "2023-06-07T13:19:30.500Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        148
+                    ],
+                    [
+                        66,
+                        218
+                    ],
+                    [
+                        263,
+                        196
+                    ],
+                    [
+                        409,
+                        240
+                    ],
+                    [
+                        459,
+                        284
+                    ],
+                    [
+                        477,
+                        177
+                    ],
+                    [
+                        412,
+                        123
+                    ],
+                    [
+                        281,
+                        82
+                    ],
+                    [
+                        97,
+                        79
+                    ],
+                    [
+                        43,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

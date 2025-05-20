@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1648685,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:34.041Z",
+            "updatedAt": "2023-06-07T13:08:34.041Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        175
+                    ],
+                    [
+                        245,
+                        25
+                    ],
+                    [
+                        223,
+                        8
+                    ],
+                    [
+                        184,
+                        8
+                    ],
+                    [
+                        126,
+                        68
+                    ],
+                    [
+                        90,
+                        132
+                    ],
+                    [
+                        97,
+                        161
+                    ],
+                    [
+                        139,
+                        175
+                    ],
+                    [
+                        166,
+                        195
+                    ],
+                    [
+                        178,
+                        225
+                    ],
+                    [
+                        184,
+                        248
+                    ],
+                    [
+                        163,
+                        220
+                    ],
+                    [
+                        138,
+                        208
+                    ],
+                    [
+                        93,
+                        248
+                    ],
+                    [
+                        74,
+                        277
+                    ],
+                    [
+                        140,
+                        369
+                    ],
+                    [
+                        164,
+                        328
+                    ],
+                    [
+                        194,
+                        283
+                    ],
+                    [
+                        222,
+                        252
+                    ],
+                    [
+                        279,
+                        217
+                    ],
+                    [
+                        308,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648683,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:34.041Z",
+            "updatedAt": "2023-06-07T13:08:34.041Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        308
+                    ],
+                    [
+                        186,
+                        270
+                    ],
+                    [
+                        149,
+                        239
+                    ],
+                    [
+                        129,
+                        234
+                    ],
+                    [
+                        107,
+                        247
+                    ],
+                    [
+                        85,
+                        259
+                    ],
+                    [
+                        84,
+                        283
+                    ],
+                    [
+                        98,
+                        322
+                    ],
+                    [
+                        110,
+                        338
+                    ],
+                    [
+                        155,
+                        332
+                    ],
+                    [
+                        184,
+                        329
+                    ],
+                    [
+                        185,
+                        317
+                    ],
+                    [
+                        185,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648681,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:34.039Z",
+            "updatedAt": "2023-06-07T13:08:34.039Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        273
+                    ],
+                    [
+                        315,
+                        231
+                    ],
+                    [
+                        209,
+                        369
+                    ],
+                    [
+                        262,
+                        397
+                    ],
+                    [
+                        357,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

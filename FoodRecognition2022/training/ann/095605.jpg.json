@@ -1,0 +1,534 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1040,
+        "width": 1040
+    },
+    "objects": [
+        {
+            "id": 1659837,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:54.005Z",
+            "updatedAt": "2023-06-07T13:15:54.005Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        331
+                    ],
+                    [
+                        367,
+                        328
+                    ],
+                    [
+                        346,
+                        319
+                    ],
+                    [
+                        328,
+                        300
+                    ],
+                    [
+                        320,
+                        280
+                    ],
+                    [
+                        320,
+                        240
+                    ],
+                    [
+                        325,
+                        223
+                    ],
+                    [
+                        343,
+                        201
+                    ],
+                    [
+                        365,
+                        191
+                    ],
+                    [
+                        392,
+                        191
+                    ],
+                    [
+                        416,
+                        200
+                    ],
+                    [
+                        434,
+                        220
+                    ],
+                    [
+                        448,
+                        255
+                    ],
+                    [
+                        449,
+                        285
+                    ],
+                    [
+                        441,
+                        306
+                    ],
+                    [
+                        426,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659835,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:54.005Z",
+            "updatedAt": "2023-06-07T13:15:54.005Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        971
+                    ],
+                    [
+                        231,
+                        970
+                    ],
+                    [
+                        217,
+                        955
+                    ],
+                    [
+                        215,
+                        922
+                    ],
+                    [
+                        217,
+                        917
+                    ],
+                    [
+                        229,
+                        908
+                    ],
+                    [
+                        401,
+                        848
+                    ],
+                    [
+                        568,
+                        802
+                    ],
+                    [
+                        608,
+                        796
+                    ],
+                    [
+                        620,
+                        798
+                    ],
+                    [
+                        629,
+                        805
+                    ],
+                    [
+                        634,
+                        821
+                    ],
+                    [
+                        633,
+                        840
+                    ],
+                    [
+                        638,
+                        877
+                    ],
+                    [
+                        632,
+                        891
+                    ],
+                    [
+                        621,
+                        900
+                    ],
+                    [
+                        535,
+                        907
+                    ],
+                    [
+                        438,
+                        924
+                    ],
+                    [
+                        303,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659833,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:54.005Z",
+            "updatedAt": "2023-06-07T13:15:54.005Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        784,
+                        696
+                    ],
+                    [
+                        644,
+                        777
+                    ],
+                    [
+                        711,
+                        847
+                    ],
+                    [
+                        792,
+                        881
+                    ],
+                    [
+                        826,
+                        826
+                    ],
+                    [
+                        841,
+                        735
+                    ],
+                    [
+                        797,
+                        707
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659831,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:54.005Z",
+            "updatedAt": "2023-06-07T13:15:54.005Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        239
+                    ],
+                    [
+                        207,
+                        283
+                    ],
+                    [
+                        189,
+                        462
+                    ],
+                    [
+                        230,
+                        571
+                    ],
+                    [
+                        311,
+                        610
+                    ],
+                    [
+                        373,
+                        714
+                    ],
+                    [
+                        438,
+                        774
+                    ],
+                    [
+                        519,
+                        761
+                    ],
+                    [
+                        568,
+                        582
+                    ],
+                    [
+                        521,
+                        387
+                    ],
+                    [
+                        436,
+                        421
+                    ],
+                    [
+                        373,
+                        525
+                    ],
+                    [
+                        329,
+                        345
+                    ],
+                    [
+                        303,
+                        262
+                    ],
+                    [
+                        290,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659829,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:54.004Z",
+            "updatedAt": "2023-06-07T13:15:54.004Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        369
+                    ],
+                    [
+                        7,
+                        423
+                    ],
+                    [
+                        311,
+                        785
+                    ],
+                    [
+                        365,
+                        790
+                    ],
+                    [
+                        306,
+                        694
+                    ],
+                    [
+                        189,
+                        530
+                    ],
+                    [
+                        168,
+                        426
+                    ],
+                    [
+                        137,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659827,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:54.003Z",
+            "updatedAt": "2023-06-07T13:15:54.003Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        427,
+                        785
+                    ],
+                    [
+                        547,
+                        764
+                    ],
+                    [
+                        588,
+                        572
+                    ],
+                    [
+                        544,
+                        436
+                    ],
+                    [
+                        487,
+                        377
+                    ],
+                    [
+                        393,
+                        455
+                    ],
+                    [
+                        339,
+                        296
+                    ],
+                    [
+                        269,
+                        228
+                    ],
+                    [
+                        185,
+                        301
+                    ],
+                    [
+                        183,
+                        561
+                    ],
+                    [
+                        295,
+                        634
+                    ],
+                    [
+                        357,
+                        618
+                    ],
+                    [
+                        362,
+                        686
+                    ],
+                    [
+                        391,
+                        748
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659825,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:54.003Z",
+            "updatedAt": "2023-06-07T13:15:54.003Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        807,
+                        686
+                    ],
+                    [
+                        633,
+                        785
+                    ],
+                    [
+                        817,
+                        894
+                    ],
+                    [
+                        872,
+                        785
+                    ],
+                    [
+                        815,
+                        699
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659823,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:54.003Z",
+            "updatedAt": "2023-06-07T13:15:54.003Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        351
+                    ],
+                    [
+                        24,
+                        416
+                    ],
+                    [
+                        6,
+                        452
+                    ],
+                    [
+                        331,
+                        808
+                    ],
+                    [
+                        365,
+                        800
+                    ],
+                    [
+                        237,
+                        600
+                    ],
+                    [
+                        128,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1659821,
+            "classId": 4055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:54.002Z",
+            "updatedAt": "2023-06-07T13:15:54.002Z",
+            "tags": [],
+            "classTitle": "cream-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        390
+                    ],
+                    [
+                        16,
+                        442
+                    ],
+                    [
+                        29,
+                        395
+                    ],
+                    [
+                        79,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,482 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1750573,
+            "classId": 3955,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:00.317Z",
+            "updatedAt": "2023-06-07T14:20:00.317Z",
+            "tags": [],
+            "classTitle": "baked-potato",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        180
+                    ],
+                    [
+                        103,
+                        151
+                    ],
+                    [
+                        64,
+                        194
+                    ],
+                    [
+                        77,
+                        241
+                    ],
+                    [
+                        95,
+                        268
+                    ],
+                    [
+                        161,
+                        282
+                    ],
+                    [
+                        229,
+                        284
+                    ],
+                    [
+                        260,
+                        262
+                    ],
+                    [
+                        259,
+                        235
+                    ],
+                    [
+                        224,
+                        204
+                    ],
+                    [
+                        190,
+                        184
+                    ],
+                    [
+                        183,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750571,
+            "classId": 3667,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:00.317Z",
+            "updatedAt": "2023-06-07T14:20:00.317Z",
+            "tags": [],
+            "classTitle": "omelette-plain",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        298
+                    ],
+                    [
+                        65,
+                        300
+                    ],
+                    [
+                        63,
+                        413
+                    ],
+                    [
+                        346,
+                        422
+                    ],
+                    [
+                        336,
+                        312
+                    ],
+                    [
+                        289,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750569,
+            "classId": 4225,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:00.316Z",
+            "updatedAt": "2023-06-07T14:20:00.316Z",
+            "tags": [],
+            "classTitle": "chives",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        305
+                    ],
+                    [
+                        155,
+                        290
+                    ],
+                    [
+                        90,
+                        302
+                    ],
+                    [
+                        78,
+                        323
+                    ],
+                    [
+                        74,
+                        349
+                    ],
+                    [
+                        85,
+                        360
+                    ],
+                    [
+                        96,
+                        392
+                    ],
+                    [
+                        136,
+                        384
+                    ],
+                    [
+                        142,
+                        371
+                    ],
+                    [
+                        193,
+                        414
+                    ],
+                    [
+                        209,
+                        385
+                    ],
+                    [
+                        228,
+                        376
+                    ],
+                    [
+                        263,
+                        389
+                    ],
+                    [
+                        297,
+                        396
+                    ],
+                    [
+                        332,
+                        416
+                    ],
+                    [
+                        323,
+                        382
+                    ],
+                    [
+                        318,
+                        368
+                    ],
+                    [
+                        347,
+                        350
+                    ],
+                    [
+                        338,
+                        313
+                    ],
+                    [
+                        334,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750567,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:00.316Z",
+            "updatedAt": "2023-06-07T14:20:00.316Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        20
+                    ],
+                    [
+                        150,
+                        48
+                    ],
+                    [
+                        114,
+                        78
+                    ],
+                    [
+                        141,
+                        145
+                    ],
+                    [
+                        170,
+                        162
+                    ],
+                    [
+                        225,
+                        179
+                    ],
+                    [
+                        291,
+                        172
+                    ],
+                    [
+                        292,
+                        184
+                    ],
+                    [
+                        359,
+                        158
+                    ],
+                    [
+                        347,
+                        103
+                    ],
+                    [
+                        305,
+                        70
+                    ],
+                    [
+                        257,
+                        48
+                    ],
+                    [
+                        214,
+                        20
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750566,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:00.315Z",
+            "updatedAt": "2023-06-07T14:20:00.315Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        420,
+                        186
+                    ],
+                    [
+                        376,
+                        197
+                    ],
+                    [
+                        332,
+                        207
+                    ],
+                    [
+                        378,
+                        263
+                    ],
+                    [
+                        319,
+                        298
+                    ],
+                    [
+                        355,
+                        336
+                    ],
+                    [
+                        402,
+                        353
+                    ],
+                    [
+                        453,
+                        334
+                    ],
+                    [
+                        461,
+                        290
+                    ],
+                    [
+                        497,
+                        268
+                    ],
+                    [
+                        504,
+                        236
+                    ],
+                    [
+                        493,
+                        221
+                    ],
+                    [
+                        466,
+                        190
+                    ],
+                    [
+                        430,
+                        192
+                    ],
+                    [
+                        419,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750564,
+            "classId": 3941,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:00.315Z",
+            "updatedAt": "2023-06-07T14:20:00.315Z",
+            "tags": [],
+            "classTitle": "pomegranate",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        62
+                    ],
+                    [
+                        265,
+                        66
+                    ],
+                    [
+                        321,
+                        103
+                    ],
+                    [
+                        302,
+                        160
+                    ],
+                    [
+                        342,
+                        183
+                    ],
+                    [
+                        392,
+                        189
+                    ],
+                    [
+                        408,
+                        207
+                    ],
+                    [
+                        406,
+                        253
+                    ],
+                    [
+                        419,
+                        259
+                    ],
+                    [
+                        434,
+                        213
+                    ],
+                    [
+                        430,
+                        180
+                    ],
+                    [
+                        417,
+                        161
+                    ],
+                    [
+                        378,
+                        117
+                    ],
+                    [
+                        350,
+                        87
+                    ],
+                    [
+                        330,
+                        70
+                    ],
+                    [
+                        324,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750562,
+            "classId": 4343,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:00.313Z",
+            "updatedAt": "2023-06-07T14:20:00.313Z",
+            "tags": [],
+            "classTitle": "basil",
+            "points": {
+                "exterior": [
+                    [
+                        405,
+                        207
+                    ],
+                    [
+                        329,
+                        183
+                    ],
+                    [
+                        321,
+                        218
+                    ],
+                    [
+                        350,
+                        254
+                    ],
+                    [
+                        388,
+                        261
+                    ],
+                    [
+                        421,
+                        245
+                    ],
+                    [
+                        421,
+                        197
+                    ],
+                    [
+                        420,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

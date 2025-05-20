@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1781351,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:26.377Z",
+            "updatedAt": "2023-06-07T14:40:26.377Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        192
+                    ],
+                    [
+                        297,
+                        143
+                    ],
+                    [
+                        371,
+                        126
+                    ],
+                    [
+                        327,
+                        85
+                    ],
+                    [
+                        205,
+                        112
+                    ],
+                    [
+                        141,
+                        150
+                    ],
+                    [
+                        87,
+                        166
+                    ],
+                    [
+                        15,
+                        179
+                    ],
+                    [
+                        10,
+                        205
+                    ],
+                    [
+                        90,
+                        219
+                    ],
+                    [
+                        97,
+                        167
+                    ],
+                    [
+                        129,
+                        191
+                    ],
+                    [
+                        175,
+                        201
+                    ],
+                    [
+                        204,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781349,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:26.376Z",
+            "updatedAt": "2023-06-07T14:40:26.376Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        148
+                    ],
+                    [
+                        240,
+                        165
+                    ],
+                    [
+                        227,
+                        196
+                    ],
+                    [
+                        307,
+                        209
+                    ],
+                    [
+                        324,
+                        190
+                    ],
+                    [
+                        316,
+                        157
+                    ],
+                    [
+                        313,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781347,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:26.376Z",
+            "updatedAt": "2023-06-07T14:40:26.376Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        132
+                    ],
+                    [
+                        113,
+                        120
+                    ],
+                    [
+                        69,
+                        127
+                    ],
+                    [
+                        67,
+                        150
+                    ],
+                    [
+                        97,
+                        139
+                    ],
+                    [
+                        125,
+                        139
+                    ],
+                    [
+                        126,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

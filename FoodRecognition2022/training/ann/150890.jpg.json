@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1707062,
+            "classId": 3913,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:58.912Z",
+            "updatedAt": "2023-06-07T13:48:58.912Z",
+            "tags": [],
+            "classTitle": "crisp-bread-wasa",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        117
+                    ],
+                    [
+                        169,
+                        137
+                    ],
+                    [
+                        216,
+                        185
+                    ],
+                    [
+                        220,
+                        209
+                    ],
+                    [
+                        161,
+                        253
+                    ],
+                    [
+                        97,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707060,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:58.910Z",
+            "updatedAt": "2023-06-07T13:48:58.910Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        158
+                    ],
+                    [
+                        163,
+                        135
+                    ],
+                    [
+                        127,
+                        129
+                    ],
+                    [
+                        105,
+                        210
+                    ],
+                    [
+                        168,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

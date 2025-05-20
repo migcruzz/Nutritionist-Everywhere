@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 864,
+        "width": 865
+    },
+    "objects": [
+        {
+            "id": 1763895,
+            "classId": 3847,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:35.838Z",
+            "updatedAt": "2023-06-07T14:28:35.838Z",
+            "tags": [],
+            "classTitle": "biscuits",
+            "points": {
+                "exterior": [
+                    [
+                        689,
+                        672
+                    ],
+                    [
+                        469,
+                        646
+                    ],
+                    [
+                        514,
+                        274
+                    ],
+                    [
+                        614,
+                        276
+                    ],
+                    [
+                        700,
+                        377
+                    ],
+                    [
+                        737,
+                        475
+                    ],
+                    [
+                        741,
+                        596
+                    ],
+                    [
+                        717,
+                        643
+                    ],
+                    [
+                        704,
+                        654
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763894,
+            "classId": 3847,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:35.837Z",
+            "updatedAt": "2023-06-07T14:28:35.837Z",
+            "tags": [],
+            "classTitle": "biscuits",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        587
+                    ],
+                    [
+                        382,
+                        531
+                    ],
+                    [
+                        441,
+                        373
+                    ],
+                    [
+                        220,
+                        243
+                    ],
+                    [
+                        67,
+                        330
+                    ],
+                    [
+                        47,
+                        470
+                    ],
+                    [
+                        99,
+                        566
+                    ],
+                    [
+                        168,
+                        589
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

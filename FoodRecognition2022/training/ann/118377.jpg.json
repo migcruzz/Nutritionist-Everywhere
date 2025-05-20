@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1763132,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:05.855Z",
+            "updatedAt": "2023-06-07T14:28:05.855Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        415,
+                        86
+                    ],
+                    [
+                        309,
+                        73
+                    ],
+                    [
+                        239,
+                        63
+                    ],
+                    [
+                        102,
+                        87
+                    ],
+                    [
+                        31,
+                        166
+                    ],
+                    [
+                        4,
+                        244
+                    ],
+                    [
+                        12,
+                        332
+                    ],
+                    [
+                        127,
+                        339
+                    ],
+                    [
+                        414,
+                        381
+                    ],
+                    [
+                        455,
+                        354
+                    ],
+                    [
+                        454,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1763130,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:28:05.854Z",
+            "updatedAt": "2023-06-07T14:28:05.854Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        405,
+                        111
+                    ],
+                    [
+                        249,
+                        87
+                    ],
+                    [
+                        115,
+                        107
+                    ],
+                    [
+                        37,
+                        186
+                    ],
+                    [
+                        4,
+                        241
+                    ],
+                    [
+                        24,
+                        281
+                    ],
+                    [
+                        56,
+                        310
+                    ],
+                    [
+                        137,
+                        323
+                    ],
+                    [
+                        255,
+                        327
+                    ],
+                    [
+                        379,
+                        355
+                    ],
+                    [
+                        432,
+                        347
+                    ],
+                    [
+                        443,
+                        316
+                    ],
+                    [
+                        433,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

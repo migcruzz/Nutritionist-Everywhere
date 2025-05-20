@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1668665,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:18.588Z",
+            "updatedAt": "2023-06-07T13:22:18.588Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        210
+                    ],
+                    [
+                        219,
+                        207
+                    ],
+                    [
+                        191,
+                        187
+                    ],
+                    [
+                        173,
+                        168
+                    ],
+                    [
+                        169,
+                        135
+                    ],
+                    [
+                        174,
+                        122
+                    ],
+                    [
+                        188,
+                        106
+                    ],
+                    [
+                        189,
+                        79
+                    ],
+                    [
+                        195,
+                        65
+                    ],
+                    [
+                        205,
+                        54
+                    ],
+                    [
+                        228,
+                        42
+                    ],
+                    [
+                        270,
+                        39
+                    ],
+                    [
+                        302,
+                        51
+                    ],
+                    [
+                        318,
+                        68
+                    ],
+                    [
+                        321,
+                        78
+                    ],
+                    [
+                        321,
+                        112
+                    ],
+                    [
+                        307,
+                        135
+                    ],
+                    [
+                        305,
+                        164
+                    ],
+                    [
+                        296,
+                        188
+                    ],
+                    [
+                        281,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668663,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:18.588Z",
+            "updatedAt": "2023-06-07T13:22:18.588Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        201,
+                        281
+                    ],
+                    [
+                        205,
+                        236
+                    ],
+                    [
+                        147,
+                        213
+                    ],
+                    [
+                        96,
+                        224
+                    ],
+                    [
+                        87,
+                        262
+                    ],
+                    [
+                        114,
+                        291
+                    ],
+                    [
+                        117,
+                        261
+                    ],
+                    [
+                        114,
+                        238
+                    ],
+                    [
+                        136,
+                        239
+                    ],
+                    [
+                        153,
+                        276
+                    ],
+                    [
+                        170,
+                        284
+                    ],
+                    [
+                        182,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1668661,
+            "classId": 4341,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:18.588Z",
+            "updatedAt": "2023-06-07T13:22:18.588Z",
+            "tags": [],
+            "classTitle": "sauce-sweet-sour",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        51
+                    ],
+                    [
+                        35,
+                        95
+                    ],
+                    [
+                        102,
+                        113
+                    ],
+                    [
+                        96,
+                        66
+                    ],
+                    [
+                        94,
+                        47
+                    ],
+                    [
+                        52,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

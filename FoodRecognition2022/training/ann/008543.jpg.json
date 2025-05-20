@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1703510,
+            "classId": 3807,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:12.008Z",
+            "updatedAt": "2023-06-07T13:46:12.008Z",
+            "tags": [],
+            "classTitle": "water-mineral",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        106
+                    ],
+                    [
+                        211,
+                        351
+                    ],
+                    [
+                        130,
+                        345
+                    ],
+                    [
+                        62,
+                        245
+                    ],
+                    [
+                        96,
+                        139
+                    ],
+                    [
+                        144,
+                        102
+                    ],
+                    [
+                        193,
+                        100
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

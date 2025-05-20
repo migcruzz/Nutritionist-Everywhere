@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1100,
+        "width": 1102
+    },
+    "objects": [
+        {
+            "id": 1697545,
+            "classId": 3521,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:00.718Z",
+            "updatedAt": "2023-06-07T13:42:00.718Z",
+            "tags": [],
+            "classTitle": "soup-vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        607,
+                        977
+                    ],
+                    [
+                        794,
+                        866
+                    ],
+                    [
+                        847,
+                        662
+                    ],
+                    [
+                        855,
+                        483
+                    ],
+                    [
+                        797,
+                        337
+                    ],
+                    [
+                        640,
+                        263
+                    ],
+                    [
+                        453,
+                        246
+                    ],
+                    [
+                        213,
+                        332
+                    ],
+                    [
+                        103,
+                        492
+                    ],
+                    [
+                        78,
+                        627
+                    ],
+                    [
+                        205,
+                        880
+                    ],
+                    [
+                        263,
+                        938
+                    ],
+                    [
+                        340,
+                        968
+                    ],
+                    [
+                        409,
+                        988
+                    ],
+                    [
+                        422,
+                        990
+                    ],
+                    [
+                        425,
+                        990
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1697543,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:00.718Z",
+            "updatedAt": "2023-06-07T13:42:00.718Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        287,
+                        594
+                    ],
+                    [
+                        577,
+                        500
+                    ],
+                    [
+                        615,
+                        406
+                    ],
+                    [
+                        522,
+                        362
+                    ],
+                    [
+                        298,
+                        373
+                    ],
+                    [
+                        205,
+                        428
+                    ],
+                    [
+                        210,
+                        514
+                    ],
+                    [
+                        227,
+                        522
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

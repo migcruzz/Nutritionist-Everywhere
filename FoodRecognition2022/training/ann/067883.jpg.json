@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1786311,
+            "classId": 3523,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:44.777Z",
+            "updatedAt": "2023-06-07T14:43:44.777Z",
+            "tags": [],
+            "classTitle": "wine-red",
+            "points": {
+                "exterior": [
+                    [
+                        312,
+                        195
+                    ],
+                    [
+                        121,
+                        199
+                    ],
+                    [
+                        152,
+                        262
+                    ],
+                    [
+                        195,
+                        332
+                    ],
+                    [
+                        262,
+                        326
+                    ],
+                    [
+                        308,
+                        278
+                    ],
+                    [
+                        325,
+                        234
+                    ],
+                    [
+                        323,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

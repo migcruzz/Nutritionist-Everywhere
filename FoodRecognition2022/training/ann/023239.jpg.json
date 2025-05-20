@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 864,
+        "width": 865
+    },
+    "objects": [
+        {
+            "id": 1648027,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:11.060Z",
+            "updatedAt": "2023-06-07T13:08:11.060Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        619,
+                        351
+                    ],
+                    [
+                        193,
+                        541
+                    ],
+                    [
+                        160,
+                        306
+                    ],
+                    [
+                        299,
+                        154
+                    ],
+                    [
+                        478,
+                        152
+                    ],
+                    [
+                        573,
+                        187
+                    ],
+                    [
+                        602,
+                        239
+                    ],
+                    [
+                        591,
+                        306
+                    ],
+                    [
+                        632,
+                        316
+                    ],
+                    [
+                        746,
+                        362
+                    ],
+                    [
+                        731,
+                        383
+                    ],
+                    [
+                        619,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648025,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:11.060Z",
+            "updatedAt": "2023-06-07T13:08:11.060Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        636,
+                        334
+                    ],
+                    [
+                        416,
+                        418
+                    ],
+                    [
+                        238,
+                        252
+                    ],
+                    [
+                        262,
+                        200
+                    ],
+                    [
+                        418,
+                        239
+                    ],
+                    [
+                        457,
+                        185
+                    ],
+                    [
+                        517,
+                        187
+                    ],
+                    [
+                        571,
+                        236
+                    ],
+                    [
+                        595,
+                        321
+                    ],
+                    [
+                        623,
+                        349
+                    ],
+                    [
+                        625,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648023,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:11.058Z",
+            "updatedAt": "2023-06-07T13:08:11.058Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        740
+                    ],
+                    [
+                        606,
+                        706
+                    ],
+                    [
+                        740,
+                        567
+                    ],
+                    [
+                        751,
+                        433
+                    ],
+                    [
+                        615,
+                        386
+                    ],
+                    [
+                        409,
+                        455
+                    ],
+                    [
+                        279,
+                        487
+                    ],
+                    [
+                        221,
+                        630
+                    ],
+                    [
+                        234,
+                        678
+                    ],
+                    [
+                        374,
+                        751
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

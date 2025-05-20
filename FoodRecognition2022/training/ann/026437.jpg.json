@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1674513,
+            "classId": 4249,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:15.674Z",
+            "updatedAt": "2023-06-07T13:26:15.674Z",
+            "tags": [],
+            "classTitle": "cooked-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        422
+                    ],
+                    [
+                        285,
+                        329
+                    ],
+                    [
+                        179,
+                        302
+                    ],
+                    [
+                        122,
+                        373
+                    ],
+                    [
+                        155,
+                        423
+                    ],
+                    [
+                        236,
+                        443
+                    ],
+                    [
+                        253,
+                        443
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1674512,
+            "classId": 4249,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:15.674Z",
+            "updatedAt": "2023-06-07T13:26:15.674Z",
+            "tags": [],
+            "classTitle": "cooked-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        69
+                    ],
+                    [
+                        199,
+                        124
+                    ],
+                    [
+                        246,
+                        182
+                    ],
+                    [
+                        340,
+                        207
+                    ],
+                    [
+                        377,
+                        160
+                    ],
+                    [
+                        369,
+                        113
+                    ],
+                    [
+                        309,
+                        74
+                    ],
+                    [
+                        307,
+                        74
+                    ],
+                    [
+                        304,
+                        77
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1674510,
+            "classId": 4151,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:15.673Z",
+            "updatedAt": "2023-06-07T13:26:15.673Z",
+            "tags": [],
+            "classTitle": "artichoke",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        172
+                    ],
+                    [
+                        346,
+                        193
+                    ],
+                    [
+                        349,
+                        295
+                    ],
+                    [
+                        396,
+                        347
+                    ],
+                    [
+                        453,
+                        314
+                    ],
+                    [
+                        471,
+                        261
+                    ],
+                    [
+                        465,
+                        216
+                    ],
+                    [
+                        437,
+                        197
+                    ],
+                    [
+                        399,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1674508,
+            "classId": 3557,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:15.673Z",
+            "updatedAt": "2023-06-07T13:26:15.673Z",
+            "tags": [],
+            "classTitle": "green-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        32
+                    ],
+                    [
+                        206,
+                        160
+                    ],
+                    [
+                        125,
+                        171
+                    ],
+                    [
+                        132,
+                        125
+                    ],
+                    [
+                        223,
+                        2
+                    ],
+                    [
+                        285,
+                        13
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

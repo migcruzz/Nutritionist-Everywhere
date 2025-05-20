@@ -1,0 +1,806 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1703774,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.255Z",
+            "updatedAt": "2023-06-07T13:46:24.255Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        126
+                    ],
+                    [
+                        83,
+                        251
+                    ],
+                    [
+                        0,
+                        253
+                    ],
+                    [
+                        4,
+                        140
+                    ],
+                    [
+                        76,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703772,
+            "classId": 4217,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.255Z",
+            "updatedAt": "2023-06-07T13:46:24.255Z",
+            "tags": [],
+            "classTitle": "shrimp-prawn-large",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        209
+                    ],
+                    [
+                        252,
+                        182
+                    ],
+                    [
+                        181,
+                        182
+                    ],
+                    [
+                        111,
+                        213
+                    ],
+                    [
+                        143,
+                        247
+                    ],
+                    [
+                        135,
+                        262
+                    ],
+                    [
+                        125,
+                        280
+                    ],
+                    [
+                        120,
+                        320
+                    ],
+                    [
+                        114,
+                        344
+                    ],
+                    [
+                        157,
+                        346
+                    ],
+                    [
+                        183,
+                        349
+                    ],
+                    [
+                        214,
+                        323
+                    ],
+                    [
+                        201,
+                        274
+                    ],
+                    [
+                        187,
+                        259
+                    ],
+                    [
+                        201,
+                        247
+                    ],
+                    [
+                        218,
+                        240
+                    ],
+                    [
+                        212,
+                        204
+                    ],
+                    [
+                        242,
+                        188
+                    ],
+                    [
+                        247,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703770,
+            "classId": 3495,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.255Z",
+            "updatedAt": "2023-06-07T13:46:24.255Z",
+            "tags": [],
+            "classTitle": "lentils",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        228
+                    ],
+                    [
+                        254,
+                        201
+                    ],
+                    [
+                        279,
+                        203
+                    ],
+                    [
+                        232,
+                        161
+                    ],
+                    [
+                        188,
+                        185
+                    ],
+                    [
+                        176,
+                        201
+                    ],
+                    [
+                        146,
+                        208
+                    ],
+                    [
+                        140,
+                        229
+                    ],
+                    [
+                        143,
+                        246
+                    ],
+                    [
+                        99,
+                        250
+                    ],
+                    [
+                        128,
+                        269
+                    ],
+                    [
+                        122,
+                        279
+                    ],
+                    [
+                        89,
+                        302
+                    ],
+                    [
+                        86,
+                        317
+                    ],
+                    [
+                        115,
+                        328
+                    ],
+                    [
+                        108,
+                        293
+                    ],
+                    [
+                        126,
+                        306
+                    ],
+                    [
+                        133,
+                        310
+                    ],
+                    [
+                        128,
+                        286
+                    ],
+                    [
+                        132,
+                        276
+                    ],
+                    [
+                        169,
+                        300
+                    ],
+                    [
+                        162,
+                        282
+                    ],
+                    [
+                        146,
+                        267
+                    ],
+                    [
+                        149,
+                        238
+                    ],
+                    [
+                        168,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703769,
+            "classId": 3495,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.255Z",
+            "updatedAt": "2023-06-07T13:46:24.255Z",
+            "tags": [],
+            "classTitle": "lentils",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        371
+                    ],
+                    [
+                        169,
+                        329
+                    ],
+                    [
+                        153,
+                        331
+                    ],
+                    [
+                        123,
+                        336
+                    ],
+                    [
+                        83,
+                        338
+                    ],
+                    [
+                        58,
+                        385
+                    ],
+                    [
+                        85,
+                        380
+                    ],
+                    [
+                        88,
+                        349
+                    ],
+                    [
+                        104,
+                        342
+                    ],
+                    [
+                        138,
+                        344
+                    ],
+                    [
+                        143,
+                        359
+                    ],
+                    [
+                        127,
+                        386
+                    ],
+                    [
+                        141,
+                        387
+                    ],
+                    [
+                        145,
+                        379
+                    ],
+                    [
+                        144,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703767,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.255Z",
+            "updatedAt": "2023-06-07T13:46:24.255Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        199
+                    ],
+                    [
+                        222,
+                        209
+                    ],
+                    [
+                        198,
+                        311
+                    ],
+                    [
+                        167,
+                        355
+                    ],
+                    [
+                        204,
+                        385
+                    ],
+                    [
+                        171,
+                        417
+                    ],
+                    [
+                        244,
+                        419
+                    ],
+                    [
+                        285,
+                        438
+                    ],
+                    [
+                        293,
+                        443
+                    ],
+                    [
+                        352,
+                        392
+                    ],
+                    [
+                        370,
+                        360
+                    ],
+                    [
+                        394,
+                        402
+                    ],
+                    [
+                        408,
+                        416
+                    ],
+                    [
+                        431,
+                        372
+                    ],
+                    [
+                        417,
+                        342
+                    ],
+                    [
+                        465,
+                        366
+                    ],
+                    [
+                        474,
+                        308
+                    ],
+                    [
+                        474,
+                        301
+                    ],
+                    [
+                        455,
+                        249
+                    ],
+                    [
+                        387,
+                        202
+                    ],
+                    [
+                        412,
+                        264
+                    ],
+                    [
+                        440,
+                        287
+                    ],
+                    [
+                        454,
+                        318
+                    ],
+                    [
+                        465,
+                        358
+                    ],
+                    [
+                        411,
+                        319
+                    ],
+                    [
+                        400,
+                        337
+                    ],
+                    [
+                        396,
+                        354
+                    ],
+                    [
+                        359,
+                        335
+                    ],
+                    [
+                        353,
+                        352
+                    ],
+                    [
+                        321,
+                        325
+                    ],
+                    [
+                        291,
+                        353
+                    ],
+                    [
+                        252,
+                        362
+                    ],
+                    [
+                        277,
+                        331
+                    ],
+                    [
+                        226,
+                        317
+                    ],
+                    [
+                        268,
+                        257
+                    ],
+                    [
+                        226,
+                        239
+                    ],
+                    [
+                        267,
+                        213
+                    ],
+                    [
+                        304,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703765,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.255Z",
+            "updatedAt": "2023-06-07T13:46:24.255Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        428
+                    ],
+                    [
+                        206,
+                        361
+                    ],
+                    [
+                        146,
+                        382
+                    ],
+                    [
+                        128,
+                        411
+                    ],
+                    [
+                        141,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703764,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.255Z",
+            "updatedAt": "2023-06-07T13:46:24.255Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        247
+                    ],
+                    [
+                        322,
+                        295
+                    ],
+                    [
+                        270,
+                        326
+                    ],
+                    [
+                        206,
+                        328
+                    ],
+                    [
+                        236,
+                        279
+                    ],
+                    [
+                        250,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703763,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.255Z",
+            "updatedAt": "2023-06-07T13:46:24.255Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        314
+                    ],
+                    [
+                        431,
+                        378
+                    ],
+                    [
+                        455,
+                        365
+                    ],
+                    [
+                        449,
+                        307
+                    ],
+                    [
+                        426,
+                        287
+                    ],
+                    [
+                        407,
+                        302
+                    ],
+                    [
+                        407,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703762,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.254Z",
+            "updatedAt": "2023-06-07T13:46:24.254Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        367
+                    ],
+                    [
+                        295,
+                        477
+                    ],
+                    [
+                        368,
+                        456
+                    ],
+                    [
+                        393,
+                        386
+                    ],
+                    [
+                        365,
+                        364
+                    ],
+                    [
+                        364,
+                        364
+                    ],
+                    [
+                        350,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703760,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.254Z",
+            "updatedAt": "2023-06-07T13:46:24.254Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        226
+                    ],
+                    [
+                        268,
+                        252
+                    ],
+                    [
+                        226,
+                        229
+                    ],
+                    [
+                        237,
+                        214
+                    ],
+                    [
+                        301,
+                        208
+                    ],
+                    [
+                        310,
+                        210
+                    ],
+                    [
+                        321,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703758,
+            "classId": 3879,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.253Z",
+            "updatedAt": "2023-06-07T13:46:24.253Z",
+            "tags": [],
+            "classTitle": "feta",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        453
+                    ],
+                    [
+                        231,
+                        428
+                    ],
+                    [
+                        210,
+                        411
+                    ],
+                    [
+                        189,
+                        431
+                    ],
+                    [
+                        192,
+                        449
+                    ],
+                    [
+                        200,
+                        453
+                    ],
+                    [
+                        213,
+                        451
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703757,
+            "classId": 3879,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.253Z",
+            "updatedAt": "2023-06-07T13:46:24.253Z",
+            "tags": [],
+            "classTitle": "feta",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        219
+                    ],
+                    [
+                        283,
+                        253
+                    ],
+                    [
+                        299,
+                        281
+                    ],
+                    [
+                        311,
+                        256
+                    ],
+                    [
+                        362,
+                        258
+                    ],
+                    [
+                        370,
+                        269
+                    ],
+                    [
+                        379,
+                        240
+                    ],
+                    [
+                        361,
+                        239
+                    ],
+                    [
+                        339,
+                        235
+                    ],
+                    [
+                        326,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

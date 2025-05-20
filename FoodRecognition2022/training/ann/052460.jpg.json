@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1691282,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:38.340Z",
+            "updatedAt": "2023-06-07T13:37:38.340Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        15
+                    ],
+                    [
+                        76,
+                        20
+                    ],
+                    [
+                        49,
+                        430
+                    ],
+                    [
+                        223,
+                        450
+                    ],
+                    [
+                        256,
+                        434
+                    ],
+                    [
+                        306,
+                        242
+                    ],
+                    [
+                        291,
+                        60
+                    ],
+                    [
+                        259,
+                        16
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1768918,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:02.826Z",
+            "updatedAt": "2023-06-07T14:32:02.826Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        138
+                    ],
+                    [
+                        157,
+                        235
+                    ],
+                    [
+                        292,
+                        273
+                    ],
+                    [
+                        379,
+                        225
+                    ],
+                    [
+                        222,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768917,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:02.826Z",
+            "updatedAt": "2023-06-07T14:32:02.826Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        312
+                    ],
+                    [
+                        164,
+                        372
+                    ],
+                    [
+                        283,
+                        327
+                    ],
+                    [
+                        283,
+                        303
+                    ],
+                    [
+                        279,
+                        285
+                    ],
+                    [
+                        132,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

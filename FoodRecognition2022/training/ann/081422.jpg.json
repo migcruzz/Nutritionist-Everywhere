@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1765887,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:56.324Z",
+            "updatedAt": "2023-06-07T14:29:56.324Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        302
+                    ],
+                    [
+                        407,
+                        226
+                    ],
+                    [
+                        322,
+                        214
+                    ],
+                    [
+                        270,
+                        163
+                    ],
+                    [
+                        228,
+                        107
+                    ],
+                    [
+                        147,
+                        96
+                    ],
+                    [
+                        58,
+                        171
+                    ],
+                    [
+                        26,
+                        285
+                    ],
+                    [
+                        49,
+                        432
+                    ],
+                    [
+                        306,
+                        457
+                    ],
+                    [
+                        380,
+                        444
+                    ],
+                    [
+                        415,
+                        359
+                    ],
+                    [
+                        433,
+                        335
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765885,
+            "classId": 3715,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:56.323Z",
+            "updatedAt": "2023-06-07T14:29:56.323Z",
+            "tags": [],
+            "classTitle": "bolognaise-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        22
+                    ],
+                    [
+                        178,
+                        49
+                    ],
+                    [
+                        213,
+                        116
+                    ],
+                    [
+                        287,
+                        155
+                    ],
+                    [
+                        339,
+                        201
+                    ],
+                    [
+                        389,
+                        223
+                    ],
+                    [
+                        431,
+                        189
+                    ],
+                    [
+                        462,
+                        122
+                    ],
+                    [
+                        423,
+                        12
+                    ],
+                    [
+                        325,
+                        5
+                    ],
+                    [
+                        271,
+                        12
+                    ],
+                    [
+                        267,
+                        13
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

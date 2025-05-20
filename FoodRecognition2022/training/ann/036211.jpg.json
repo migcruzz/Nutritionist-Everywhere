@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1771655,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:33:54.079Z",
+            "updatedAt": "2023-06-07T14:33:54.079Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        125
+                    ],
+                    [
+                        116,
+                        467
+                    ],
+                    [
+                        204,
+                        449
+                    ],
+                    [
+                        313,
+                        413
+                    ],
+                    [
+                        245,
+                        278
+                    ],
+                    [
+                        192,
+                        110
+                    ],
+                    [
+                        148,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

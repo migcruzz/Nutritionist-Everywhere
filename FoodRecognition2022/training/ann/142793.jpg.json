@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1770063,
+            "classId": 3825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:47.292Z",
+            "updatedAt": "2023-06-07T14:32:47.292Z",
+            "tags": [],
+            "classTitle": "mustard-dijon",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        93
+                    ],
+                    [
+                        144,
+                        261
+                    ],
+                    [
+                        188,
+                        306
+                    ],
+                    [
+                        258,
+                        240
+                    ],
+                    [
+                        345,
+                        87
+                    ],
+                    [
+                        244,
+                        51
+                    ],
+                    [
+                        110,
+                        59
+                    ],
+                    [
+                        62,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

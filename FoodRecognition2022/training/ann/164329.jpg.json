@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 798,
+        "width": 798
+    },
+    "objects": [
+        {
+            "id": 1711790,
+            "classId": 3971,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.051Z",
+            "updatedAt": "2023-06-07T13:52:42.051Z",
+            "tags": [],
+            "classTitle": "white-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        326
+                    ],
+                    [
+                        138,
+                        584
+                    ],
+                    [
+                        352,
+                        516
+                    ],
+                    [
+                        651,
+                        550
+                    ],
+                    [
+                        691,
+                        213
+                    ],
+                    [
+                        342,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711788,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.051Z",
+            "updatedAt": "2023-06-07T13:52:42.051Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        376
+                    ],
+                    [
+                        82,
+                        344
+                    ],
+                    [
+                        106,
+                        482
+                    ],
+                    [
+                        204,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

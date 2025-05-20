@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1806762,
+            "classId": 3753,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:56.823Z",
+            "updatedAt": "2023-06-07T14:57:56.823Z",
+            "tags": [],
+            "classTitle": "cauliflower",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        223
+                    ],
+                    [
+                        261,
+                        301
+                    ],
+                    [
+                        176,
+                        345
+                    ],
+                    [
+                        101,
+                        322
+                    ],
+                    [
+                        100,
+                        248
+                    ],
+                    [
+                        184,
+                        179
+                    ],
+                    [
+                        168,
+                        133
+                    ],
+                    [
+                        213,
+                        69
+                    ],
+                    [
+                        295,
+                        48
+                    ],
+                    [
+                        332,
+                        118
+                    ],
+                    [
+                        317,
+                        199
+                    ],
+                    [
+                        280,
+                        227
+                    ],
+                    [
+                        239,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1806760,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:56.822Z",
+            "updatedAt": "2023-06-07T14:57:56.822Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        254
+                    ],
+                    [
+                        332,
+                        249
+                    ],
+                    [
+                        372,
+                        421
+                    ],
+                    [
+                        277,
+                        431
+                    ],
+                    [
+                        250,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

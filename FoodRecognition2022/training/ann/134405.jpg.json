@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 792,
+        "width": 792
+    },
+    "objects": [
+        {
+            "id": 1782463,
+            "classId": 3441,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:10.369Z",
+            "updatedAt": "2023-06-07T14:41:10.369Z",
+            "tags": [],
+            "classTitle": "tea",
+            "points": {
+                "exterior": [
+                    [
+                        511,
+                        221
+                    ],
+                    [
+                        309,
+                        227
+                    ],
+                    [
+                        202,
+                        302
+                    ],
+                    [
+                        289,
+                        639
+                    ],
+                    [
+                        350,
+                        692
+                    ],
+                    [
+                        463,
+                        690
+                    ],
+                    [
+                        535,
+                        583
+                    ],
+                    [
+                        574,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1727435,
+            "classId": 3561,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:51.277Z",
+            "updatedAt": "2023-06-07T14:03:51.277Z",
+            "tags": [],
+            "classTitle": "lye-pretzel-soft",
+            "points": {
+                "exterior": [
+                    [
+                        298,
+                        144
+                    ],
+                    [
+                        245,
+                        117
+                    ],
+                    [
+                        158,
+                        108
+                    ],
+                    [
+                        93,
+                        109
+                    ],
+                    [
+                        39,
+                        132
+                    ],
+                    [
+                        16,
+                        164
+                    ],
+                    [
+                        13,
+                        234
+                    ],
+                    [
+                        70,
+                        271
+                    ],
+                    [
+                        158,
+                        296
+                    ],
+                    [
+                        239,
+                        299
+                    ],
+                    [
+                        293,
+                        299
+                    ],
+                    [
+                        340,
+                        265
+                    ],
+                    [
+                        356,
+                        204
+                    ],
+                    [
+                        317,
+                        171
+                    ],
+                    [
+                        300,
+                        146
+                    ],
+                    [
+                        298,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1727433,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:51.276Z",
+            "updatedAt": "2023-06-07T14:03:51.276Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        210
+                    ],
+                    [
+                        115,
+                        189
+                    ],
+                    [
+                        54,
+                        176
+                    ],
+                    [
+                        24,
+                        201
+                    ],
+                    [
+                        166,
+                        263
+                    ],
+                    [
+                        247,
+                        261
+                    ],
+                    [
+                        224,
+                        217
+                    ],
+                    [
+                        190,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

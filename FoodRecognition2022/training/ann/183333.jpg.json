@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1146,
+        "width": 1146
+    },
+    "objects": [
+        {
+            "id": 1772515,
+            "classId": 3823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:31.966Z",
+            "updatedAt": "2023-06-07T14:34:31.966Z",
+            "tags": [],
+            "classTitle": "beef-filet",
+            "points": {
+                "exterior": [
+                    [
+                        644,
+                        432
+                    ],
+                    [
+                        796,
+                        595
+                    ],
+                    [
+                        885,
+                        669
+                    ],
+                    [
+                        902,
+                        758
+                    ],
+                    [
+                        744,
+                        830
+                    ],
+                    [
+                        484,
+                        853
+                    ],
+                    [
+                        378,
+                        838
+                    ],
+                    [
+                        111,
+                        469
+                    ],
+                    [
+                        191,
+                        300
+                    ],
+                    [
+                        303,
+                        234
+                    ],
+                    [
+                        286,
+                        369
+                    ],
+                    [
+                        300,
+                        454
+                    ],
+                    [
+                        495,
+                        483
+                    ],
+                    [
+                        555,
+                        454
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1772513,
+            "classId": 4285,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:31.963Z",
+            "updatedAt": "2023-06-07T14:34:31.963Z",
+            "tags": [],
+            "classTitle": "butter-herb",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        174
+                    ],
+                    [
+                        346,
+                        254
+                    ],
+                    [
+                        297,
+                        386
+                    ],
+                    [
+                        295,
+                        446
+                    ],
+                    [
+                        378,
+                        454
+                    ],
+                    [
+                        432,
+                        463
+                    ],
+                    [
+                        541,
+                        423
+                    ],
+                    [
+                        624,
+                        409
+                    ],
+                    [
+                        641,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

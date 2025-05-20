@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 451,
+        "width": 450
+    },
+    "objects": [
+        {
+            "id": 1678060,
+            "classId": 3421,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:40.676Z",
+            "updatedAt": "2023-06-07T13:28:40.676Z",
+            "tags": [],
+            "classTitle": "bread-sourdough",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        155
+                    ],
+                    [
+                        327,
+                        198
+                    ],
+                    [
+                        300,
+                        239
+                    ],
+                    [
+                        177,
+                        241
+                    ],
+                    [
+                        67,
+                        248
+                    ],
+                    [
+                        29,
+                        227
+                    ],
+                    [
+                        27,
+                        187
+                    ],
+                    [
+                        33,
+                        142
+                    ],
+                    [
+                        87,
+                        129
+                    ],
+                    [
+                        124,
+                        129
+                    ],
+                    [
+                        177,
+                        139
+                    ],
+                    [
+                        214,
+                        143
+                    ],
+                    [
+                        230,
+                        143
+                    ],
+                    [
+                        235,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1678058,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:40.676Z",
+            "updatedAt": "2023-06-07T13:28:40.676Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        333,
+                        165
+                    ],
+                    [
+                        360,
+                        252
+                    ],
+                    [
+                        402,
+                        235
+                    ],
+                    [
+                        376,
+                        154
+                    ],
+                    [
+                        350,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

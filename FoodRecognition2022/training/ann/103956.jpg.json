@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1696535,
+            "classId": 4013,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:14.858Z",
+            "updatedAt": "2023-06-07T13:41:14.858Z",
+            "tags": [],
+            "classTitle": "chicken-cut-into-stripes-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        28
+                    ],
+                    [
+                        183,
+                        58
+                    ],
+                    [
+                        156,
+                        94
+                    ],
+                    [
+                        81,
+                        115
+                    ],
+                    [
+                        105,
+                        147
+                    ],
+                    [
+                        30,
+                        140
+                    ],
+                    [
+                        32,
+                        199
+                    ],
+                    [
+                        58,
+                        212
+                    ],
+                    [
+                        119,
+                        206
+                    ],
+                    [
+                        150,
+                        234
+                    ],
+                    [
+                        188,
+                        273
+                    ],
+                    [
+                        247,
+                        287
+                    ],
+                    [
+                        272,
+                        329
+                    ],
+                    [
+                        325,
+                        321
+                    ],
+                    [
+                        350,
+                        307
+                    ],
+                    [
+                        319,
+                        260
+                    ],
+                    [
+                        325,
+                        217
+                    ],
+                    [
+                        381,
+                        178
+                    ],
+                    [
+                        289,
+                        27
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696533,
+            "classId": 3583,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:14.858Z",
+            "updatedAt": "2023-06-07T13:41:14.858Z",
+            "tags": [],
+            "classTitle": "pasta-noodles",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        390
+                    ],
+                    [
+                        216,
+                        312
+                    ],
+                    [
+                        110,
+                        206
+                    ],
+                    [
+                        25,
+                        200
+                    ],
+                    [
+                        23,
+                        162
+                    ],
+                    [
+                        2,
+                        390
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696531,
+            "classId": 4083,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:14.857Z",
+            "updatedAt": "2023-06-07T13:41:14.857Z",
+            "tags": [],
+            "classTitle": "quinoa",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        76
+                    ],
+                    [
+                        1,
+                        32
+                    ],
+                    [
+                        4,
+                        145
+                    ],
+                    [
+                        29,
+                        151
+                    ],
+                    [
+                        57,
+                        127
+                    ],
+                    [
+                        73,
+                        139
+                    ],
+                    [
+                        91,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

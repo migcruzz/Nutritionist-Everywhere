@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1767079,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:45.611Z",
+            "updatedAt": "2023-06-07T14:30:45.611Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        529,
+                        160
+                    ],
+                    [
+                        99,
+                        352
+                    ],
+                    [
+                        52,
+                        99
+                    ],
+                    [
+                        209,
+                        80
+                    ],
+                    [
+                        384,
+                        119
+                    ],
+                    [
+                        426,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767077,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:45.611Z",
+            "updatedAt": "2023-06-07T14:30:45.611Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        529,
+                        160
+                    ],
+                    [
+                        140,
+                        334
+                    ],
+                    [
+                        492,
+                        616
+                    ],
+                    [
+                        548,
+                        600
+                    ],
+                    [
+                        615,
+                        539
+                    ],
+                    [
+                        628,
+                        426
+                    ],
+                    [
+                        552,
+                        356
+                    ],
+                    [
+                        540,
+                        289
+                    ],
+                    [
+                        582,
+                        239
+                    ],
+                    [
+                        552,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767075,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:45.610Z",
+            "updatedAt": "2023-06-07T14:30:45.610Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        506
+                    ],
+                    [
+                        302,
+                        606
+                    ],
+                    [
+                        172,
+                        570
+                    ],
+                    [
+                        66,
+                        463
+                    ],
+                    [
+                        148,
+                        389
+                    ],
+                    [
+                        271,
+                        408
+                    ],
+                    [
+                        312,
+                        449
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

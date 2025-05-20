@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1251,
+        "width": 1251
+    },
+    "objects": [
+        {
+            "id": 1721620,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:50.248Z",
+            "updatedAt": "2023-06-07T13:59:50.248Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        348
+                    ],
+                    [
+                        352,
+                        383
+                    ],
+                    [
+                        371,
+                        658
+                    ],
+                    [
+                        374,
+                        720
+                    ],
+                    [
+                        587,
+                        714
+                    ],
+                    [
+                        599,
+                        573
+                    ],
+                    [
+                        568,
+                        392
+                    ],
+                    [
+                        512,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721618,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:50.247Z",
+            "updatedAt": "2023-06-07T13:59:50.247Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        545
+                    ],
+                    [
+                        230,
+                        761
+                    ],
+                    [
+                        268,
+                        824
+                    ],
+                    [
+                        515,
+                        908
+                    ],
+                    [
+                        712,
+                        902
+                    ],
+                    [
+                        953,
+                        780
+                    ],
+                    [
+                        1000,
+                        683
+                    ],
+                    [
+                        962,
+                        598
+                    ],
+                    [
+                        896,
+                        639
+                    ],
+                    [
+                        924,
+                        433
+                    ],
+                    [
+                        806,
+                        414
+                    ],
+                    [
+                        599,
+                        383
+                    ],
+                    [
+                        577,
+                        714
+                    ],
+                    [
+                        365,
+                        720
+                    ],
+                    [
+                        327,
+                        533
+                    ],
+                    [
+                        252,
+                        533
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721616,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:50.247Z",
+            "updatedAt": "2023-06-07T13:59:50.247Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        746,
+                        420
+                    ],
+                    [
+                        627,
+                        433
+                    ],
+                    [
+                        615,
+                        617
+                    ],
+                    [
+                        665,
+                        758
+                    ],
+                    [
+                        768,
+                        739
+                    ],
+                    [
+                        840,
+                        602
+                    ],
+                    [
+                        812,
+                        514
+                    ],
+                    [
+                        774,
+                        411
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

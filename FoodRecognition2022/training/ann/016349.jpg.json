@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1736873,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:26.681Z",
+            "updatedAt": "2023-06-07T14:10:26.681Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        213
+                    ],
+                    [
+                        435,
+                        204
+                    ],
+                    [
+                        429,
+                        147
+                    ],
+                    [
+                        312,
+                        81
+                    ],
+                    [
+                        187,
+                        55
+                    ],
+                    [
+                        123,
+                        111
+                    ],
+                    [
+                        133,
+                        153
+                    ],
+                    [
+                        193,
+                        121
+                    ],
+                    [
+                        237,
+                        163
+                    ],
+                    [
+                        291,
+                        187
+                    ],
+                    [
+                        342,
+                        197
+                    ],
+                    [
+                        375,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736871,
+            "classId": 3843,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:26.681Z",
+            "updatedAt": "2023-06-07T14:10:26.681Z",
+            "tags": [],
+            "classTitle": "chicken-curry-cream-coconut-milk-curry-spices-paste",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        399
+                    ],
+                    [
+                        453,
+                        325
+                    ],
+                    [
+                        417,
+                        231
+                    ],
+                    [
+                        270,
+                        178
+                    ],
+                    [
+                        172,
+                        142
+                    ],
+                    [
+                        84,
+                        165
+                    ],
+                    [
+                        75,
+                        257
+                    ],
+                    [
+                        76,
+                        334
+                    ],
+                    [
+                        169,
+                        390
+                    ],
+                    [
+                        265,
+                        405
+                    ],
+                    [
+                        314,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736869,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:26.680Z",
+            "updatedAt": "2023-06-07T14:10:26.680Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        191
+                    ],
+                    [
+                        84,
+                        190
+                    ],
+                    [
+                        66,
+                        247
+                    ],
+                    [
+                        94,
+                        321
+                    ],
+                    [
+                        170,
+                        358
+                    ],
+                    [
+                        190,
+                        347
+                    ],
+                    [
+                        192,
+                        301
+                    ],
+                    [
+                        162,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1718163,
+            "classId": 3885,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:18.564Z",
+            "updatedAt": "2023-06-07T13:57:18.564Z",
+            "tags": [],
+            "classTitle": "walnut",
+            "points": {
+                "exterior": [
+                    [
+                        222,
+                        48
+                    ],
+                    [
+                        29,
+                        267
+                    ],
+                    [
+                        39,
+                        375
+                    ],
+                    [
+                        151,
+                        469
+                    ],
+                    [
+                        316,
+                        468
+                    ],
+                    [
+                        454,
+                        175
+                    ],
+                    [
+                        403,
+                        91
+                    ],
+                    [
+                        246,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

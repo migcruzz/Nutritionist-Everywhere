@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 942,
+        "width": 941
+    },
+    "objects": [
+        {
+            "id": 1656867,
+            "classId": 4195,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:55.188Z",
+            "updatedAt": "2023-06-07T13:13:55.188Z",
+            "tags": [],
+            "classTitle": "hamburger",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        426
+                    ],
+                    [
+                        344,
+                        428
+                    ],
+                    [
+                        433,
+                        402
+                    ],
+                    [
+                        459,
+                        294
+                    ],
+                    [
+                        389,
+                        202
+                    ],
+                    [
+                        295,
+                        197
+                    ],
+                    [
+                        229,
+                        235
+                    ],
+                    [
+                        205,
+                        268
+                    ],
+                    [
+                        212,
+                        324
+                    ],
+                    [
+                        214,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656865,
+            "classId": 3901,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:55.188Z",
+            "updatedAt": "2023-06-07T13:13:55.188Z",
+            "tags": [],
+            "classTitle": "bulgur",
+            "points": {
+                "exterior": [
+                    [
+                        535,
+                        845
+                    ],
+                    [
+                        615,
+                        737
+                    ],
+                    [
+                        556,
+                        614
+                    ],
+                    [
+                        426,
+                        560
+                    ],
+                    [
+                        280,
+                        600
+                    ],
+                    [
+                        257,
+                        652
+                    ],
+                    [
+                        271,
+                        779
+                    ],
+                    [
+                        250,
+                        873
+                    ],
+                    [
+                        323,
+                        913
+                    ],
+                    [
+                        422,
+                        913
+                    ],
+                    [
+                        497,
+                        909
+                    ],
+                    [
+                        502,
+                        901
+                    ],
+                    [
+                        502,
+                        899
+                    ],
+                    [
+                        502,
+                        894
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656863,
+            "classId": 3763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:55.187Z",
+            "updatedAt": "2023-06-07T13:13:55.187Z",
+            "tags": [],
+            "classTitle": "bread-pita",
+            "points": {
+                "exterior": [
+                    [
+                        629,
+                        668
+                    ],
+                    [
+                        688,
+                        744
+                    ],
+                    [
+                        817,
+                        664
+                    ],
+                    [
+                        857,
+                        527
+                    ],
+                    [
+                        876,
+                        419
+                    ],
+                    [
+                        742,
+                        341
+                    ],
+                    [
+                        537,
+                        256
+                    ],
+                    [
+                        466,
+                        313
+                    ],
+                    [
+                        483,
+                        525
+                    ],
+                    [
+                        537,
+                        631
+                    ],
+                    [
+                        568,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

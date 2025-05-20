@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1681370,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:49.114Z",
+            "updatedAt": "2023-06-07T13:30:49.114Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        305
+                    ],
+                    [
+                        97,
+                        290
+                    ],
+                    [
+                        75,
+                        345
+                    ],
+                    [
+                        78,
+                        410
+                    ],
+                    [
+                        73,
+                        474
+                    ],
+                    [
+                        157,
+                        511
+                    ],
+                    [
+                        205,
+                        470
+                    ],
+                    [
+                        215,
+                        410
+                    ],
+                    [
+                        250,
+                        463
+                    ],
+                    [
+                        303,
+                        459
+                    ],
+                    [
+                        316,
+                        407
+                    ],
+                    [
+                        301,
+                        364
+                    ],
+                    [
+                        286,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1681368,
+            "classId": 3613,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:49.114Z",
+            "updatedAt": "2023-06-07T13:30:49.114Z",
+            "tags": [],
+            "classTitle": "cheese-for-raclette",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        300
+                    ],
+                    [
+                        309,
+                        300
+                    ],
+                    [
+                        298,
+                        127
+                    ],
+                    [
+                        125,
+                        91
+                    ],
+                    [
+                        69,
+                        114
+                    ],
+                    [
+                        75,
+                        204
+                    ],
+                    [
+                        72,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1681366,
+            "classId": 3607,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:49.113Z",
+            "updatedAt": "2023-06-07T13:30:49.113Z",
+            "tags": [],
+            "classTitle": "beetroot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        490,
+                        97
+                    ],
+                    [
+                        330,
+                        97
+                    ],
+                    [
+                        294,
+                        196
+                    ],
+                    [
+                        388,
+                        322
+                    ],
+                    [
+                        526,
+                        341
+                    ],
+                    [
+                        583,
+                        257
+                    ],
+                    [
+                        588,
+                        179
+                    ],
+                    [
+                        526,
+                        119
+                    ],
+                    [
+                        485,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

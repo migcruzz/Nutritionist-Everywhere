@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1656404,
+            "classId": 4217,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:37.733Z",
+            "updatedAt": "2023-06-07T13:13:37.733Z",
+            "tags": [],
+            "classTitle": "shrimp-prawn-large",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        76
+                    ],
+                    [
+                        142,
+                        222
+                    ],
+                    [
+                        246,
+                        231
+                    ],
+                    [
+                        252,
+                        285
+                    ],
+                    [
+                        190,
+                        385
+                    ],
+                    [
+                        161,
+                        402
+                    ],
+                    [
+                        99,
+                        372
+                    ],
+                    [
+                        31,
+                        290
+                    ],
+                    [
+                        0,
+                        228
+                    ],
+                    [
+                        24,
+                        117
+                    ],
+                    [
+                        78,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656402,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:37.733Z",
+            "updatedAt": "2023-06-07T13:13:37.733Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        223
+                    ],
+                    [
+                        309,
+                        211
+                    ],
+                    [
+                        219,
+                        304
+                    ],
+                    [
+                        204,
+                        381
+                    ],
+                    [
+                        283,
+                        421
+                    ],
+                    [
+                        355,
+                        375
+                    ],
+                    [
+                        418,
+                        282
+                    ],
+                    [
+                        447,
+                        240
+                    ],
+                    [
+                        432,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656400,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:37.732Z",
+            "updatedAt": "2023-06-07T13:13:37.732Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        31
+                    ],
+                    [
+                        150,
+                        78
+                    ],
+                    [
+                        121,
+                        180
+                    ],
+                    [
+                        191,
+                        256
+                    ],
+                    [
+                        343,
+                        228
+                    ],
+                    [
+                        391,
+                        192
+                    ],
+                    [
+                        373,
+                        108
+                    ],
+                    [
+                        310,
+                        40
+                    ],
+                    [
+                        244,
+                        30
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

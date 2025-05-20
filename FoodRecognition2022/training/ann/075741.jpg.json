@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1705184,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:33.111Z",
+            "updatedAt": "2023-06-07T13:47:33.111Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        95
+                    ],
+                    [
+                        327,
+                        93
+                    ],
+                    [
+                        333,
+                        111
+                    ],
+                    [
+                        375,
+                        122
+                    ],
+                    [
+                        389,
+                        117
+                    ],
+                    [
+                        388,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705182,
+            "classId": 4271,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:33.111Z",
+            "updatedAt": "2023-06-07T13:47:33.111Z",
+            "tags": [],
+            "classTitle": "gluten-free-bread",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        227
+                    ],
+                    [
+                        232,
+                        228
+                    ],
+                    [
+                        114,
+                        265
+                    ],
+                    [
+                        51,
+                        283
+                    ],
+                    [
+                        78,
+                        351
+                    ],
+                    [
+                        95,
+                        404
+                    ],
+                    [
+                        151,
+                        401
+                    ],
+                    [
+                        216,
+                        389
+                    ],
+                    [
+                        309,
+                        375
+                    ],
+                    [
+                        338,
+                        370
+                    ],
+                    [
+                        347,
+                        338
+                    ],
+                    [
+                        332,
+                        273
+                    ],
+                    [
+                        330,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705180,
+            "classId": 3793,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:33.110Z",
+            "updatedAt": "2023-06-07T13:47:33.110Z",
+            "tags": [],
+            "classTitle": "juice-orange",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        136
+                    ],
+                    [
+                        23,
+                        148
+                    ],
+                    [
+                        11,
+                        184
+                    ],
+                    [
+                        46,
+                        221
+                    ],
+                    [
+                        93,
+                        229
+                    ],
+                    [
+                        115,
+                        211
+                    ],
+                    [
+                        108,
+                        164
+                    ],
+                    [
+                        89,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

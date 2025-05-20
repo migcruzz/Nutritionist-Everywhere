@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1746096,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:46.409Z",
+            "updatedAt": "2023-06-07T14:16:46.409Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        159
+                    ],
+                    [
+                        109,
+                        237
+                    ],
+                    [
+                        90,
+                        274
+                    ],
+                    [
+                        140,
+                        368
+                    ],
+                    [
+                        176,
+                        402
+                    ],
+                    [
+                        242,
+                        343
+                    ],
+                    [
+                        322,
+                        289
+                    ],
+                    [
+                        357,
+                        270
+                    ],
+                    [
+                        361,
+                        213
+                    ],
+                    [
+                        331,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1746094,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:46.409Z",
+            "updatedAt": "2023-06-07T14:16:46.409Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        306
+                    ],
+                    [
+                        206,
+                        356
+                    ],
+                    [
+                        311,
+                        422
+                    ],
+                    [
+                        326,
+                        444
+                    ],
+                    [
+                        371,
+                        419
+                    ],
+                    [
+                        373,
+                        371
+                    ],
+                    [
+                        370,
+                        341
+                    ],
+                    [
+                        296,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1746092,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:46.408Z",
+            "updatedAt": "2023-06-07T14:16:46.408Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        362
+                    ],
+                    [
+                        185,
+                        390
+                    ],
+                    [
+                        274,
+                        476
+                    ],
+                    [
+                        327,
+                        468
+                    ],
+                    [
+                        309,
+                        415
+                    ],
+                    [
+                        279,
+                        392
+                    ],
+                    [
+                        252,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1746091,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:46.408Z",
+            "updatedAt": "2023-06-07T14:16:46.408Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        285
+                    ],
+                    [
+                        290,
+                        306
+                    ],
+                    [
+                        361,
+                        361
+                    ],
+                    [
+                        398,
+                        395
+                    ],
+                    [
+                        396,
+                        354
+                    ],
+                    [
+                        362,
+                        307
+                    ],
+                    [
+                        338,
+                        286
+                    ],
+                    [
+                        313,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

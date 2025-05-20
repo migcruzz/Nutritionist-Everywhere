@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1649868,
+            "classId": 3807,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.262Z",
+            "updatedAt": "2023-06-07T13:09:15.262Z",
+            "tags": [],
+            "classTitle": "water-mineral",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        174
+                    ],
+                    [
+                        250,
+                        315
+                    ],
+                    [
+                        300,
+                        385
+                    ],
+                    [
+                        352,
+                        389
+                    ],
+                    [
+                        388,
+                        351
+                    ],
+                    [
+                        424,
+                        195
+                    ],
+                    [
+                        332,
+                        168
+                    ],
+                    [
+                        303,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649866,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.261Z",
+            "updatedAt": "2023-06-07T13:09:15.261Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        444
+                    ],
+                    [
+                        133,
+                        443
+                    ],
+                    [
+                        112,
+                        438
+                    ],
+                    [
+                        92,
+                        429
+                    ],
+                    [
+                        78,
+                        419
+                    ],
+                    [
+                        69,
+                        404
+                    ],
+                    [
+                        69,
+                        390
+                    ],
+                    [
+                        88,
+                        357
+                    ],
+                    [
+                        108,
+                        340
+                    ],
+                    [
+                        132,
+                        335
+                    ],
+                    [
+                        205,
+                        335
+                    ],
+                    [
+                        235,
+                        345
+                    ],
+                    [
+                        250,
+                        367
+                    ],
+                    [
+                        253,
+                        402
+                    ],
+                    [
+                        249,
+                        413
+                    ],
+                    [
+                        219,
+                        433
+                    ],
+                    [
+                        188,
+                        442
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

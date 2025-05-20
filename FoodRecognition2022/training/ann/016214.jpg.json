@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1742559,
+            "classId": 4311,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:26.494Z",
+            "updatedAt": "2023-06-07T14:14:26.494Z",
+            "tags": [],
+            "classTitle": "tiramisu",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        164
+                    ],
+                    [
+                        215,
+                        263
+                    ],
+                    [
+                        226,
+                        349
+                    ],
+                    [
+                        401,
+                        348
+                    ],
+                    [
+                        443,
+                        229
+                    ],
+                    [
+                        409,
+                        174
+                    ],
+                    [
+                        352,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1742557,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:26.494Z",
+            "updatedAt": "2023-06-07T14:14:26.494Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        138
+                    ],
+                    [
+                        134,
+                        294
+                    ],
+                    [
+                        28,
+                        225
+                    ],
+                    [
+                        68,
+                        147
+                    ],
+                    [
+                        171,
+                        86
+                    ],
+                    [
+                        234,
+                        100
+                    ],
+                    [
+                        250,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

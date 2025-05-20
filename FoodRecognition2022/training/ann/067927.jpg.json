@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1802648,
+            "classId": 3923,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:06.951Z",
+            "updatedAt": "2023-06-07T14:55:06.951Z",
+            "tags": [],
+            "classTitle": "sandwich-ham-cheese-and-butter",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        174
+                    ],
+                    [
+                        138,
+                        171
+                    ],
+                    [
+                        247,
+                        171
+                    ],
+                    [
+                        420,
+                        178
+                    ],
+                    [
+                        451,
+                        196
+                    ],
+                    [
+                        446,
+                        275
+                    ],
+                    [
+                        438,
+                        319
+                    ],
+                    [
+                        320,
+                        327
+                    ],
+                    [
+                        288,
+                        331
+                    ],
+                    [
+                        216,
+                        336
+                    ],
+                    [
+                        159,
+                        336
+                    ],
+                    [
+                        61,
+                        336
+                    ],
+                    [
+                        18,
+                        335
+                    ],
+                    [
+                        0,
+                        332
+                    ],
+                    [
+                        3,
+                        278
+                    ],
+                    [
+                        6,
+                        221
+                    ],
+                    [
+                        6,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802646,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:06.950Z",
+            "updatedAt": "2023-06-07T14:55:06.950Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        277
+                    ],
+                    [
+                        192,
+                        280
+                    ],
+                    [
+                        171,
+                        286
+                    ],
+                    [
+                        191,
+                        312
+                    ],
+                    [
+                        251,
+                        325
+                    ],
+                    [
+                        270,
+                        318
+                    ],
+                    [
+                        291,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802644,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:06.949Z",
+            "updatedAt": "2023-06-07T14:55:06.949Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        402,
+                        253
+                    ],
+                    [
+                        315,
+                        276
+                    ],
+                    [
+                        329,
+                        307
+                    ],
+                    [
+                        408,
+                        304
+                    ],
+                    [
+                        416,
+                        295
+                    ],
+                    [
+                        421,
+                        278
+                    ],
+                    [
+                        408,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

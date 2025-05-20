@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1801110,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:01.124Z",
+            "updatedAt": "2023-06-07T14:54:01.124Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        412
+                    ],
+                    [
+                        453,
+                        245
+                    ],
+                    [
+                        445,
+                        103
+                    ],
+                    [
+                        417,
+                        50
+                    ],
+                    [
+                        213,
+                        9
+                    ],
+                    [
+                        35,
+                        111
+                    ],
+                    [
+                        41,
+                        289
+                    ],
+                    [
+                        16,
+                        441
+                    ],
+                    [
+                        117,
+                        458
+                    ],
+                    [
+                        208,
+                        456
+                    ],
+                    [
+                        280,
+                        403
+                    ],
+                    [
+                        317,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801108,
+            "classId": 3673,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:01.124Z",
+            "updatedAt": "2023-06-07T14:54:01.124Z",
+            "tags": [],
+            "classTitle": "sauce-savoury",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        297
+                    ],
+                    [
+                        273,
+                        286
+                    ],
+                    [
+                        113,
+                        363
+                    ],
+                    [
+                        52,
+                        357
+                    ],
+                    [
+                        41,
+                        445
+                    ],
+                    [
+                        129,
+                        477
+                    ],
+                    [
+                        375,
+                        466
+                    ],
+                    [
+                        393,
+                        459
+                    ],
+                    [
+                        429,
+                        406
+                    ],
+                    [
+                        449,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1678181,
+            "classId": 4321,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:28:45.307Z",
+            "updatedAt": "2023-06-07T13:28:45.307Z",
+            "tags": [],
+            "classTitle": "coca-cola-zero",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        160
+                    ],
+                    [
+                        207,
+                        135
+                    ],
+                    [
+                        123,
+                        143
+                    ],
+                    [
+                        79,
+                        157
+                    ],
+                    [
+                        70,
+                        161
+                    ],
+                    [
+                        98,
+                        333
+                    ],
+                    [
+                        158,
+                        361
+                    ],
+                    [
+                        228,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
