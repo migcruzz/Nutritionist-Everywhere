@@ -1,5 +1,4 @@
 from pathlib import Path
-
 from ultralytics import YOLO
 
 PLATFORM = "mac"
@@ -8,12 +7,11 @@ YAML_PATH = BASE_PATH / "food2022.yaml"
 MODEL_NAME = "yolov8n.pt"
 RUN_NAME = f"food2022_yolov8_{PLATFORM}"
 
-EPOCHS = 10
-BATCH = 8
-IMGSZ = 640
-WORKERS = 3
+EPOCHS = 20
+BATCH = 12
+IMGSZ = 300
+WORKERS = 6
 DEVICE = "mps"
-
 
 def train():
     assert YAML_PATH.exists(), f"YAML file not found: {YAML_PATH}"
@@ -26,13 +24,12 @@ def train():
         batch=BATCH,
         workers=WORKERS,
         device=DEVICE,
-        amp=False,
-        cache=True,
+        amp=True,
+        cache='disk',
         rect=True,
         name=RUN_NAME,
         verbose=True
     )
-
 
 if __name__ == "__main__":
     train()
