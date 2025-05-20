@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1695968,
+            "classId": 3865,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:52.365Z",
+            "updatedAt": "2023-06-07T13:40:52.365Z",
+            "tags": [],
+            "classTitle": "tea-black",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        39
+                    ],
+                    [
+                        170,
+                        40
+                    ],
+                    [
+                        149,
+                        81
+                    ],
+                    [
+                        241,
+                        122
+                    ],
+                    [
+                        347,
+                        116
+                    ],
+                    [
+                        356,
+                        73
+                    ],
+                    [
+                        319,
+                        46
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

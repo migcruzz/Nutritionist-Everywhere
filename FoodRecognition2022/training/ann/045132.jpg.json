@@ -1,0 +1,234 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 600,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 1711236,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:17.618Z",
+            "updatedAt": "2023-06-07T13:52:17.618Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        223
+                    ],
+                    [
+                        146,
+                        125
+                    ],
+                    [
+                        200,
+                        143
+                    ],
+                    [
+                        245,
+                        101
+                    ],
+                    [
+                        368,
+                        134
+                    ],
+                    [
+                        377,
+                        271
+                    ],
+                    [
+                        309,
+                        302
+                    ],
+                    [
+                        204,
+                        208
+                    ],
+                    [
+                        140,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711234,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:17.618Z",
+            "updatedAt": "2023-06-07T13:52:17.618Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        80
+                    ],
+                    [
+                        374,
+                        313
+                    ],
+                    [
+                        465,
+                        334
+                    ],
+                    [
+                        533,
+                        377
+                    ],
+                    [
+                        594,
+                        361
+                    ],
+                    [
+                        563,
+                        211
+                    ],
+                    [
+                        429,
+                        85
+                    ],
+                    [
+                        363,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711232,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:17.618Z",
+            "updatedAt": "2023-06-07T13:52:17.618Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        403
+                    ],
+                    [
+                        234,
+                        334
+                    ],
+                    [
+                        324,
+                        362
+                    ],
+                    [
+                        335,
+                        289
+                    ],
+                    [
+                        380,
+                        292
+                    ],
+                    [
+                        402,
+                        331
+                    ],
+                    [
+                        432,
+                        353
+                    ],
+                    [
+                        450,
+                        326
+                    ],
+                    [
+                        516,
+                        341
+                    ],
+                    [
+                        533,
+                        368
+                    ],
+                    [
+                        473,
+                        436
+                    ],
+                    [
+                        347,
+                        451
+                    ],
+                    [
+                        194,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711230,
+            "classId": 3631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:17.618Z",
+            "updatedAt": "2023-06-07T13:52:17.618Z",
+            "tags": [],
+            "classTitle": "taboule-prepared-with-couscous",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        496
+                    ],
+                    [
+                        195,
+                        410
+                    ],
+                    [
+                        333,
+                        437
+                    ],
+                    [
+                        410,
+                        430
+                    ],
+                    [
+                        461,
+                        421
+                    ],
+                    [
+                        564,
+                        386
+                    ],
+                    [
+                        564,
+                        460
+                    ],
+                    [
+                        396,
+                        565
+                    ],
+                    [
+                        210,
+                        563
+                    ],
+                    [
+                        74,
+                        496
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1729434,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:20.402Z",
+            "updatedAt": "2023-06-07T14:05:20.402Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        252
+                    ],
+                    [
+                        330,
+                        759
+                    ],
+                    [
+                        478,
+                        825
+                    ],
+                    [
+                        617,
+                        763
+                    ],
+                    [
+                        655,
+                        594
+                    ],
+                    [
+                        695,
+                        190
+                    ],
+                    [
+                        539,
+                        124
+                    ],
+                    [
+                        348,
+                        146
+                    ],
+                    [
+                        297,
+                        209
+                    ],
+                    [
+                        285,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1729432,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:20.401Z",
+            "updatedAt": "2023-06-07T14:05:20.401Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        247
+                    ],
+                    [
+                        338,
+                        808
+                    ],
+                    [
+                        477,
+                        862
+                    ],
+                    [
+                        623,
+                        818
+                    ],
+                    [
+                        741,
+                        207
+                    ],
+                    [
+                        531,
+                        134
+                    ],
+                    [
+                        371,
+                        141
+                    ],
+                    [
+                        295,
+                        183
+                    ],
+                    [
+                        293,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1665352,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:02.464Z",
+            "updatedAt": "2023-06-07T13:20:02.464Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        295
+                    ],
+                    [
+                        331,
+                        330
+                    ],
+                    [
+                        440,
+                        317
+                    ],
+                    [
+                        452,
+                        239
+                    ],
+                    [
+                        416,
+                        179
+                    ],
+                    [
+                        371,
+                        172
+                    ],
+                    [
+                        300,
+                        185
+                    ],
+                    [
+                        209,
+                        204
+                    ],
+                    [
+                        158,
+                        220
+                    ],
+                    [
+                        168,
+                        250
+                    ],
+                    [
+                        182,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1665350,
+            "classId": 3673,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:02.464Z",
+            "updatedAt": "2023-06-07T13:20:02.464Z",
+            "tags": [],
+            "classTitle": "sauce-savoury",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        281
+                    ],
+                    [
+                        138,
+                        430
+                    ],
+                    [
+                        183,
+                        520
+                    ],
+                    [
+                        415,
+                        559
+                    ],
+                    [
+                        577,
+                        506
+                    ],
+                    [
+                        605,
+                        404
+                    ],
+                    [
+                        551,
+                        278
+                    ],
+                    [
+                        479,
+                        213
+                    ],
+                    [
+                        456,
+                        314
+                    ],
+                    [
+                        408,
+                        397
+                    ],
+                    [
+                        342,
+                        437
+                    ],
+                    [
+                        278,
+                        423
+                    ],
+                    [
+                        239,
+                        391
+                    ],
+                    [
+                        190,
+                        356
+                    ],
+                    [
+                        163,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1797840,
+            "classId": 4365,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:46.134Z",
+            "updatedAt": "2023-06-07T14:51:46.134Z",
+            "tags": [],
+            "classTitle": "minced-meat",
+            "points": {
+                "exterior": [
+                    [
+                        297,
+                        296
+                    ],
+                    [
+                        273,
+                        294
+                    ],
+                    [
+                        236,
+                        271
+                    ],
+                    [
+                        199,
+                        260
+                    ],
+                    [
+                        174,
+                        240
+                    ],
+                    [
+                        130,
+                        219
+                    ],
+                    [
+                        108,
+                        200
+                    ],
+                    [
+                        98,
+                        182
+                    ],
+                    [
+                        97,
+                        153
+                    ],
+                    [
+                        107,
+                        124
+                    ],
+                    [
+                        121,
+                        102
+                    ],
+                    [
+                        131,
+                        95
+                    ],
+                    [
+                        173,
+                        90
+                    ],
+                    [
+                        215,
+                        78
+                    ],
+                    [
+                        250,
+                        77
+                    ],
+                    [
+                        268,
+                        80
+                    ],
+                    [
+                        306,
+                        96
+                    ],
+                    [
+                        349,
+                        124
+                    ],
+                    [
+                        357,
+                        133
+                    ],
+                    [
+                        369,
+                        158
+                    ],
+                    [
+                        372,
+                        189
+                    ],
+                    [
+                        370,
+                        216
+                    ],
+                    [
+                        358,
+                        236
+                    ],
+                    [
+                        319,
+                        284
+                    ],
+                    [
+                        307,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1797838,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:46.132Z",
+            "updatedAt": "2023-06-07T14:51:46.132Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        164
+                    ],
+                    [
+                        335,
+                        128
+                    ],
+                    [
+                        264,
+                        109
+                    ],
+                    [
+                        186,
+                        86
+                    ],
+                    [
+                        227,
+                        80
+                    ],
+                    [
+                        318,
+                        91
+                    ],
+                    [
+                        348,
+                        110
+                    ],
+                    [
+                        369,
+                        149
+                    ],
+                    [
+                        372,
+                        182
+                    ],
+                    [
+                        365,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1797837,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:46.132Z",
+            "updatedAt": "2023-06-07T14:51:46.132Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        245
+                    ],
+                    [
+                        279,
+                        277
+                    ],
+                    [
+                        306,
+                        289
+                    ],
+                    [
+                        318,
+                        274
+                    ],
+                    [
+                        341,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

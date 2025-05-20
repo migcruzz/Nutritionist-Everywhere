@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1808343,
+            "classId": 3861,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:58.331Z",
+            "updatedAt": "2023-06-07T14:58:58.331Z",
+            "tags": [],
+            "classTitle": "brownie",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        121
+                    ],
+                    [
+                        316,
+                        114
+                    ],
+                    [
+                        286,
+                        222
+                    ],
+                    [
+                        377,
+                        279
+                    ],
+                    [
+                        429,
+                        219
+                    ],
+                    [
+                        431,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1808342,
+            "classId": 3861,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:58.331Z",
+            "updatedAt": "2023-06-07T14:58:58.331Z",
+            "tags": [],
+            "classTitle": "brownie",
+            "points": {
+                "exterior": [
+                    [
+                        149,
+                        175
+                    ],
+                    [
+                        17,
+                        237
+                    ],
+                    [
+                        95,
+                        361
+                    ],
+                    [
+                        199,
+                        338
+                    ],
+                    [
+                        159,
+                        237
+                    ],
+                    [
+                        148,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

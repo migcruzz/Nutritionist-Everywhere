@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 784,
+        "width": 785
+    },
+    "objects": [
+        {
+            "id": 1789753,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:06.746Z",
+            "updatedAt": "2023-06-07T14:46:06.746Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        693,
+                        276
+                    ],
+                    [
+                        408,
+                        460
+                    ],
+                    [
+                        116,
+                        443
+                    ],
+                    [
+                        71,
+                        439
+                    ],
+                    [
+                        87,
+                        254
+                    ],
+                    [
+                        195,
+                        152
+                    ],
+                    [
+                        371,
+                        117
+                    ],
+                    [
+                        546,
+                        127
+                    ],
+                    [
+                        677,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789751,
+            "classId": 3745,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:06.745Z",
+            "updatedAt": "2023-06-07T14:46:06.745Z",
+            "tags": [],
+            "classTitle": "chicken-wing",
+            "points": {
+                "exterior": [
+                    [
+                        658,
+                        289
+                    ],
+                    [
+                        434,
+                        386
+                    ],
+                    [
+                        246,
+                        450
+                    ],
+                    [
+                        73,
+                        466
+                    ],
+                    [
+                        132,
+                        584
+                    ],
+                    [
+                        304,
+                        670
+                    ],
+                    [
+                        544,
+                        656
+                    ],
+                    [
+                        677,
+                        578
+                    ],
+                    [
+                        740,
+                        482
+                    ],
+                    [
+                        750,
+                        392
+                    ],
+                    [
+                        664,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789749,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:06.745Z",
+            "updatedAt": "2023-06-07T14:46:06.745Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        774,
+                        132
+                    ],
+                    [
+                        693,
+                        129
+                    ],
+                    [
+                        685,
+                        199
+                    ],
+                    [
+                        734,
+                        246
+                    ],
+                    [
+                        777,
+                        246
+                    ],
+                    [
+                        777,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

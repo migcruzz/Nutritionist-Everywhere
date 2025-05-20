@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1708380,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:09.620Z",
+            "updatedAt": "2023-06-07T13:50:09.620Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        273
+                    ],
+                    [
+                        208,
+                        235
+                    ],
+                    [
+                        215,
+                        122
+                    ],
+                    [
+                        211,
+                        74
+                    ],
+                    [
+                        111,
+                        34
+                    ],
+                    [
+                        50,
+                        58
+                    ],
+                    [
+                        31,
+                        160
+                    ],
+                    [
+                        49,
+                        264
+                    ],
+                    [
+                        93,
+                        274
+                    ],
+                    [
+                        191,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1708378,
+            "classId": 4231,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:09.619Z",
+            "updatedAt": "2023-06-07T13:50:09.619Z",
+            "tags": [],
+            "classTitle": "fish-crunchies-battered",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        56
+                    ],
+                    [
+                        309,
+                        60
+                    ],
+                    [
+                        273,
+                        63
+                    ],
+                    [
+                        236,
+                        42
+                    ],
+                    [
+                        226,
+                        97
+                    ],
+                    [
+                        237,
+                        191
+                    ],
+                    [
+                        230,
+                        261
+                    ],
+                    [
+                        326,
+                        263
+                    ],
+                    [
+                        354,
+                        256
+                    ],
+                    [
+                        374,
+                        208
+                    ],
+                    [
+                        375,
+                        153
+                    ],
+                    [
+                        383,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

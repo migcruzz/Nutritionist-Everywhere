@@ -1,0 +1,330 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1670973,
+            "classId": 3949,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:55.593Z",
+            "updatedAt": "2023-06-07T13:23:55.593Z",
+            "tags": [],
+            "classTitle": "cantonese-fried-rice",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        313
+                    ],
+                    [
+                        282,
+                        307
+                    ],
+                    [
+                        264,
+                        279
+                    ],
+                    [
+                        222,
+                        249
+                    ],
+                    [
+                        212,
+                        235
+                    ],
+                    [
+                        210,
+                        222
+                    ],
+                    [
+                        210,
+                        174
+                    ],
+                    [
+                        218,
+                        160
+                    ],
+                    [
+                        230,
+                        149
+                    ],
+                    [
+                        261,
+                        130
+                    ],
+                    [
+                        297,
+                        119
+                    ],
+                    [
+                        311,
+                        120
+                    ],
+                    [
+                        373,
+                        141
+                    ],
+                    [
+                        383,
+                        155
+                    ],
+                    [
+                        391,
+                        213
+                    ],
+                    [
+                        383,
+                        258
+                    ],
+                    [
+                        367,
+                        288
+                    ],
+                    [
+                        347,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670971,
+            "classId": 3959,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:55.592Z",
+            "updatedAt": "2023-06-07T13:23:55.592Z",
+            "tags": [],
+            "classTitle": "meat",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        309
+                    ],
+                    [
+                        215,
+                        393
+                    ],
+                    [
+                        113,
+                        372
+                    ],
+                    [
+                        75,
+                        328
+                    ],
+                    [
+                        41,
+                        247
+                    ],
+                    [
+                        24,
+                        203
+                    ],
+                    [
+                        51,
+                        127
+                    ],
+                    [
+                        98,
+                        100
+                    ],
+                    [
+                        140,
+                        82
+                    ],
+                    [
+                        251,
+                        73
+                    ],
+                    [
+                        281,
+                        95
+                    ],
+                    [
+                        202,
+                        152
+                    ],
+                    [
+                        208,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670969,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:55.592Z",
+            "updatedAt": "2023-06-07T13:23:55.592Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        64
+                    ],
+                    [
+                        185,
+                        23
+                    ],
+                    [
+                        230,
+                        77
+                    ],
+                    [
+                        173,
+                        64
+                    ],
+                    [
+                        144,
+                        7
+                    ],
+                    [
+                        102,
+                        56
+                    ],
+                    [
+                        102,
+                        85
+                    ],
+                    [
+                        120,
+                        111
+                    ],
+                    [
+                        84,
+                        186
+                    ],
+                    [
+                        101,
+                        167
+                    ],
+                    [
+                        135,
+                        93
+                    ],
+                    [
+                        156,
+                        180
+                    ],
+                    [
+                        179,
+                        150
+                    ],
+                    [
+                        138,
+                        63
+                    ],
+                    [
+                        217,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670967,
+            "classId": 3673,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:55.591Z",
+            "updatedAt": "2023-06-07T13:23:55.591Z",
+            "tags": [],
+            "classTitle": "sauce-savoury",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        310
+                    ],
+                    [
+                        269,
+                        313
+                    ],
+                    [
+                        248,
+                        369
+                    ],
+                    [
+                        278,
+                        386
+                    ],
+                    [
+                        331,
+                        363
+                    ],
+                    [
+                        359,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670966,
+            "classId": 3673,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:55.591Z",
+            "updatedAt": "2023-06-07T13:23:55.591Z",
+            "tags": [],
+            "classTitle": "sauce-savoury",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        260
+                    ],
+                    [
+                        21,
+                        287
+                    ],
+                    [
+                        48,
+                        347
+                    ],
+                    [
+                        107,
+                        388
+                    ],
+                    [
+                        100,
+                        360
+                    ],
+                    [
+                        78,
+                        359
+                    ],
+                    [
+                        70,
+                        331
+                    ],
+                    [
+                        37,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

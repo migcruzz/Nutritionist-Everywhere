@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1747687,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.920Z",
+            "updatedAt": "2023-06-07T14:18:02.920Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        23,
+                        319
+                    ],
+                    [
+                        69,
+                        414
+                    ],
+                    [
+                        298,
+                        418
+                    ],
+                    [
+                        409,
+                        399
+                    ],
+                    [
+                        444,
+                        300
+                    ],
+                    [
+                        403,
+                        270
+                    ],
+                    [
+                        295,
+                        216
+                    ],
+                    [
+                        221,
+                        176
+                    ],
+                    [
+                        211,
+                        186
+                    ],
+                    [
+                        222,
+                        271
+                    ],
+                    [
+                        235,
+                        346
+                    ],
+                    [
+                        210,
+                        350
+                    ],
+                    [
+                        139,
+                        346
+                    ],
+                    [
+                        25,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747685,
+            "classId": 3799,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:02.919Z",
+            "updatedAt": "2023-06-07T14:18:02.919Z",
+            "tags": [],
+            "classTitle": "emmental-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        198
+                    ],
+                    [
+                        297,
+                        96
+                    ],
+                    [
+                        249,
+                        93
+                    ],
+                    [
+                        220,
+                        133
+                    ],
+                    [
+                        231,
+                        181
+                    ],
+                    [
+                        347,
+                        247
+                    ],
+                    [
+                        425,
+                        285
+                    ],
+                    [
+                        447,
+                        286
+                    ],
+                    [
+                        462,
+                        232
+                    ],
+                    [
+                        468,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

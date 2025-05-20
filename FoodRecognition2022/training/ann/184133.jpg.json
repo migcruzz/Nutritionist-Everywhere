@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1653809,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:57.144Z",
+            "updatedAt": "2023-06-07T13:11:57.144Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        480,
+                        355
+                    ],
+                    [
+                        290,
+                        332
+                    ],
+                    [
+                        152,
+                        414
+                    ],
+                    [
+                        241,
+                        514
+                    ],
+                    [
+                        239,
+                        562
+                    ],
+                    [
+                        142,
+                        683
+                    ],
+                    [
+                        321,
+                        859
+                    ],
+                    [
+                        541,
+                        903
+                    ],
+                    [
+                        648,
+                        798
+                    ],
+                    [
+                        582,
+                        665
+                    ],
+                    [
+                        664,
+                        619
+                    ],
+                    [
+                        707,
+                        552
+                    ],
+                    [
+                        610,
+                        419
+                    ],
+                    [
+                        528,
+                        355
+                    ],
+                    [
+                        513,
+                        352
+                    ],
+                    [
+                        510,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653807,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:57.143Z",
+            "updatedAt": "2023-06-07T13:11:57.143Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        324
+                    ],
+                    [
+                        308,
+                        263
+                    ],
+                    [
+                        167,
+                        327
+                    ],
+                    [
+                        162,
+                        491
+                    ],
+                    [
+                        385,
+                        534
+                    ],
+                    [
+                        515,
+                        608
+                    ],
+                    [
+                        638,
+                        626
+                    ],
+                    [
+                        723,
+                        524
+                    ],
+                    [
+                        679,
+                        460
+                    ],
+                    [
+                        610,
+                        386
+                    ],
+                    [
+                        500,
+                        350
+                    ],
+                    [
+                        472,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653806,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:57.142Z",
+            "updatedAt": "2023-06-07T13:11:57.142Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        608
+                    ],
+                    [
+                        190,
+                        560
+                    ],
+                    [
+                        116,
+                        680
+                    ],
+                    [
+                        241,
+                        877
+                    ],
+                    [
+                        451,
+                        931
+                    ],
+                    [
+                        610,
+                        859
+                    ],
+                    [
+                        672,
+                        739
+                    ],
+                    [
+                        615,
+                        675
+                    ],
+                    [
+                        398,
+                        626
+                    ],
+                    [
+                        367,
+                        598
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

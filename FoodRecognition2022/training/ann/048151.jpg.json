@@ -1,0 +1,282 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1755857,
+            "classId": 3667,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:36.988Z",
+            "updatedAt": "2023-06-07T14:23:36.988Z",
+            "tags": [],
+            "classTitle": "omelette-plain",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        465
+                    ],
+                    [
+                        266,
+                        465
+                    ],
+                    [
+                        242,
+                        461
+                    ],
+                    [
+                        221,
+                        448
+                    ],
+                    [
+                        131,
+                        365
+                    ],
+                    [
+                        122,
+                        349
+                    ],
+                    [
+                        102,
+                        276
+                    ],
+                    [
+                        95,
+                        261
+                    ],
+                    [
+                        91,
+                        230
+                    ],
+                    [
+                        92,
+                        183
+                    ],
+                    [
+                        80,
+                        147
+                    ],
+                    [
+                        75,
+                        91
+                    ],
+                    [
+                        65,
+                        65
+                    ],
+                    [
+                        64,
+                        28
+                    ],
+                    [
+                        70,
+                        12
+                    ],
+                    [
+                        81,
+                        9
+                    ],
+                    [
+                        93,
+                        11
+                    ],
+                    [
+                        140,
+                        37
+                    ],
+                    [
+                        185,
+                        41
+                    ],
+                    [
+                        210,
+                        53
+                    ],
+                    [
+                        268,
+                        59
+                    ],
+                    [
+                        302,
+                        75
+                    ],
+                    [
+                        338,
+                        100
+                    ],
+                    [
+                        365,
+                        109
+                    ],
+                    [
+                        378,
+                        119
+                    ],
+                    [
+                        395,
+                        123
+                    ],
+                    [
+                        414,
+                        135
+                    ],
+                    [
+                        438,
+                        145
+                    ],
+                    [
+                        446,
+                        178
+                    ],
+                    [
+                        441,
+                        245
+                    ],
+                    [
+                        414,
+                        311
+                    ],
+                    [
+                        412,
+                        330
+                    ],
+                    [
+                        403,
+                        359
+                    ],
+                    [
+                        395,
+                        431
+                    ],
+                    [
+                        385,
+                        458
+                    ],
+                    [
+                        378,
+                        464
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1755855,
+            "classId": 4135,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:36.987Z",
+            "updatedAt": "2023-06-07T14:23:36.987Z",
+            "tags": [],
+            "classTitle": "ham-turkey",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        208
+                    ],
+                    [
+                        371,
+                        204
+                    ],
+                    [
+                        365,
+                        159
+                    ],
+                    [
+                        353,
+                        154
+                    ],
+                    [
+                        333,
+                        190
+                    ],
+                    [
+                        330,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1755854,
+            "classId": 4135,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:36.987Z",
+            "updatedAt": "2023-06-07T14:23:36.987Z",
+            "tags": [],
+            "classTitle": "ham-turkey",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        285
+                    ],
+                    [
+                        246,
+                        333
+                    ],
+                    [
+                        283,
+                        330
+                    ],
+                    [
+                        283,
+                        303
+                    ],
+                    [
+                        273,
+                        289
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1755853,
+            "classId": 4135,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:36.987Z",
+            "updatedAt": "2023-06-07T14:23:36.987Z",
+            "tags": [],
+            "classTitle": "ham-turkey",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        325
+                    ],
+                    [
+                        77,
+                        405
+                    ],
+                    [
+                        124,
+                        433
+                    ],
+                    [
+                        138,
+                        363
+                    ],
+                    [
+                        126,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

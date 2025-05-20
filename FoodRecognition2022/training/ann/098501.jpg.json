@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1801780,
+            "classId": 4247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:30.353Z",
+            "updatedAt": "2023-06-07T14:54:30.353Z",
+            "tags": [],
+            "classTitle": "chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        297
+                    ],
+                    [
+                        175,
+                        271
+                    ],
+                    [
+                        141,
+                        245
+                    ],
+                    [
+                        109,
+                        229
+                    ],
+                    [
+                        76,
+                        217
+                    ],
+                    [
+                        24,
+                        197
+                    ],
+                    [
+                        30,
+                        244
+                    ],
+                    [
+                        37,
+                        316
+                    ],
+                    [
+                        46,
+                        337
+                    ],
+                    [
+                        98,
+                        321
+                    ],
+                    [
+                        171,
+                        313
+                    ],
+                    [
+                        186,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801779,
+            "classId": 4247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:30.353Z",
+            "updatedAt": "2023-06-07T14:54:30.353Z",
+            "tags": [],
+            "classTitle": "chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        143
+                    ],
+                    [
+                        190,
+                        154
+                    ],
+                    [
+                        194,
+                        242
+                    ],
+                    [
+                        313,
+                        242
+                    ],
+                    [
+                        360,
+                        240
+                    ],
+                    [
+                        349,
+                        203
+                    ],
+                    [
+                        331,
+                        159
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

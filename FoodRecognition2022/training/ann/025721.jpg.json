@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1773745,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:03.158Z",
+            "updatedAt": "2023-06-07T14:35:03.158Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        355
+                    ],
+                    [
+                        379,
+                        92
+                    ],
+                    [
+                        437,
+                        155
+                    ],
+                    [
+                        426,
+                        188
+                    ],
+                    [
+                        176,
+                        426
+                    ],
+                    [
+                        126,
+                        378
+                    ],
+                    [
+                        126,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1773743,
+            "classId": 4069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:03.157Z",
+            "updatedAt": "2023-06-07T14:35:03.157Z",
+            "tags": [],
+            "classTitle": "blue-mould-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        108
+                    ],
+                    [
+                        24,
+                        283
+                    ],
+                    [
+                        111,
+                        364
+                    ],
+                    [
+                        264,
+                        198
+                    ],
+                    [
+                        173,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1773741,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:03.157Z",
+            "updatedAt": "2023-06-07T14:35:03.157Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        53,
+                        314
+                    ],
+                    [
+                        76,
+                        368
+                    ],
+                    [
+                        357,
+                        386
+                    ],
+                    [
+                        436,
+                        319
+                    ],
+                    [
+                        408,
+                        205
+                    ],
+                    [
+                        229,
+                        117
+                    ],
+                    [
+                        94,
+                        138
+                    ],
+                    [
+                        68,
+                        231
+                    ],
+                    [
+                        56,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

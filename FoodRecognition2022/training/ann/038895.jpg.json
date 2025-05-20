@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1736822,
+            "classId": 3649,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.543Z",
+            "updatedAt": "2023-06-07T14:10:22.543Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        310
+                    ],
+                    [
+                        141,
+                        309
+                    ],
+                    [
+                        105,
+                        350
+                    ],
+                    [
+                        138,
+                        389
+                    ],
+                    [
+                        181,
+                        396
+                    ],
+                    [
+                        218,
+                        371
+                    ],
+                    [
+                        207,
+                        348
+                    ],
+                    [
+                        181,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736820,
+            "classId": 3439,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.542Z",
+            "updatedAt": "2023-06-07T14:10:22.542Z",
+            "tags": [],
+            "classTitle": "pancakes",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        182
+                    ],
+                    [
+                        293,
+                        166
+                    ],
+                    [
+                        305,
+                        114
+                    ],
+                    [
+                        255,
+                        72
+                    ],
+                    [
+                        200,
+                        80
+                    ],
+                    [
+                        164,
+                        132
+                    ],
+                    [
+                        195,
+                        198
+                    ],
+                    [
+                        224,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736818,
+            "classId": 3441,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.542Z",
+            "updatedAt": "2023-06-07T14:10:22.542Z",
+            "tags": [],
+            "classTitle": "tea",
+            "points": {
+                "exterior": [
+                    [
+                        404,
+                        56
+                    ],
+                    [
+                        359,
+                        83
+                    ],
+                    [
+                        365,
+                        115
+                    ],
+                    [
+                        398,
+                        131
+                    ],
+                    [
+                        443,
+                        117
+                    ],
+                    [
+                        454,
+                        100
+                    ],
+                    [
+                        458,
+                        81
+                    ],
+                    [
+                        429,
+                        65
+                    ],
+                    [
+                        409,
+                        59
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

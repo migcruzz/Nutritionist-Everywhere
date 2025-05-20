@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1050,
+        "width": 1050
+    },
+    "objects": [
+        {
+            "id": 1712136,
+            "classId": 3619,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:00.571Z",
+            "updatedAt": "2023-06-07T13:53:00.571Z",
+            "tags": [],
+            "classTitle": "curds-natural-with-at-most-10-fidm",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        794
+                    ],
+                    [
+                        418,
+                        1020
+                    ],
+                    [
+                        570,
+                        1036
+                    ],
+                    [
+                        668,
+                        970
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1712134,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:00.570Z",
+            "updatedAt": "2023-06-07T13:53:00.570Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        652,
+                        569
+                    ],
+                    [
+                        465,
+                        474
+                    ],
+                    [
+                        297,
+                        534
+                    ],
+                    [
+                        258,
+                        647
+                    ],
+                    [
+                        318,
+                        684
+                    ],
+                    [
+                        423,
+                        758
+                    ],
+                    [
+                        471,
+                        836
+                    ],
+                    [
+                        702,
+                        933
+                    ],
+                    [
+                        765,
+                        891
+                    ],
+                    [
+                        762,
+                        781
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1712132,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:00.570Z",
+            "updatedAt": "2023-06-07T13:53:00.570Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        663
+                    ],
+                    [
+                        232,
+                        821
+                    ],
+                    [
+                        368,
+                        981
+                    ],
+                    [
+                        437,
+                        962
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

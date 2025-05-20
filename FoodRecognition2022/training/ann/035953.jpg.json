@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 607,
+        "width": 607
+    },
+    "objects": [
+        {
+            "id": 1709046,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:36.217Z",
+            "updatedAt": "2023-06-07T13:50:36.217Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        65
+                    ],
+                    [
+                        279,
+                        212
+                    ],
+                    [
+                        120,
+                        271
+                    ],
+                    [
+                        44,
+                        141
+                    ],
+                    [
+                        144,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709044,
+            "classId": 4207,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:36.215Z",
+            "updatedAt": "2023-06-07T13:50:36.215Z",
+            "tags": [],
+            "classTitle": "chocolate-mousse",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        429
+                    ],
+                    [
+                        279,
+                        370
+                    ],
+                    [
+                        255,
+                        323
+                    ],
+                    [
+                        190,
+                        333
+                    ],
+                    [
+                        155,
+                        376
+                    ],
+                    [
+                        163,
+                        426
+                    ],
+                    [
+                        217,
+                        435
+                    ],
+                    [
+                        242,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709042,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:36.213Z",
+            "updatedAt": "2023-06-07T13:50:36.213Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        66
+                    ],
+                    [
+                        313,
+                        54
+                    ],
+                    [
+                        279,
+                        165
+                    ],
+                    [
+                        305,
+                        232
+                    ],
+                    [
+                        334,
+                        194
+                    ],
+                    [
+                        339,
+                        124
+                    ],
+                    [
+                        339,
+                        116
+                    ],
+                    [
+                        392,
+                        107
+                    ],
+                    [
+                        386,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709040,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:36.212Z",
+            "updatedAt": "2023-06-07T13:50:36.212Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        224
+                    ],
+                    [
+                        454,
+                        176
+                    ],
+                    [
+                        392,
+                        116
+                    ],
+                    [
+                        343,
+                        104
+                    ],
+                    [
+                        320,
+                        122
+                    ],
+                    [
+                        351,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

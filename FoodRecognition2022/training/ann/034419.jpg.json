@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1655378,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:03.446Z",
+            "updatedAt": "2023-06-07T13:13:03.446Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        372
+                    ],
+                    [
+                        419,
+                        378
+                    ],
+                    [
+                        330,
+                        142
+                    ],
+                    [
+                        220,
+                        148
+                    ],
+                    [
+                        37,
+                        137
+                    ],
+                    [
+                        11,
+                        214
+                    ],
+                    [
+                        23,
+                        327
+                    ],
+                    [
+                        45,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1655376,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:03.445Z",
+            "updatedAt": "2023-06-07T13:13:03.445Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        105
+                    ],
+                    [
+                        85,
+                        127
+                    ],
+                    [
+                        73,
+                        67
+                    ],
+                    [
+                        196,
+                        33
+                    ],
+                    [
+                        275,
+                        49
+                    ],
+                    [
+                        271,
+                        88
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1655374,
+            "classId": 4017,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:03.445Z",
+            "updatedAt": "2023-06-07T13:13:03.445Z",
+            "tags": [],
+            "classTitle": "sun-dried-tomatoe",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        183
+                    ],
+                    [
+                        354,
+                        127
+                    ],
+                    [
+                        333,
+                        168
+                    ],
+                    [
+                        357,
+                        273
+                    ],
+                    [
+                        365,
+                        341
+                    ],
+                    [
+                        431,
+                        322
+                    ],
+                    [
+                        457,
+                        234
+                    ],
+                    [
+                        457,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1655372,
+            "classId": 3613,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:03.444Z",
+            "updatedAt": "2023-06-07T13:13:03.444Z",
+            "tags": [],
+            "classTitle": "cheese-for-raclette",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        367
+                    ],
+                    [
+                        324,
+                        208
+                    ],
+                    [
+                        277,
+                        154
+                    ],
+                    [
+                        179,
+                        131
+                    ],
+                    [
+                        85,
+                        135
+                    ],
+                    [
+                        28,
+                        180
+                    ],
+                    [
+                        15,
+                        252
+                    ],
+                    [
+                        29,
+                        309
+                    ],
+                    [
+                        58,
+                        323
+                    ],
+                    [
+                        172,
+                        360
+                    ],
+                    [
+                        259,
+                        360
+                    ],
+                    [
+                        277,
+                        360
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

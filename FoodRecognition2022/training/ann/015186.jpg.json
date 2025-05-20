@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1780223,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:38.528Z",
+            "updatedAt": "2023-06-07T14:39:38.528Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        234
+                    ],
+                    [
+                        297,
+                        352
+                    ],
+                    [
+                        425,
+                        369
+                    ],
+                    [
+                        488,
+                        328
+                    ],
+                    [
+                        398,
+                        226
+                    ],
+                    [
+                        412,
+                        84
+                    ],
+                    [
+                        345,
+                        217
+                    ],
+                    [
+                        324,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780221,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:38.527Z",
+            "updatedAt": "2023-06-07T14:39:38.527Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        455,
+                        341
+                    ],
+                    [
+                        554,
+                        106
+                    ],
+                    [
+                        442,
+                        44
+                    ],
+                    [
+                        393,
+                        185
+                    ],
+                    [
+                        381,
+                        284
+                    ],
+                    [
+                        257,
+                        182
+                    ],
+                    [
+                        131,
+                        279
+                    ],
+                    [
+                        202,
+                        350
+                    ],
+                    [
+                        208,
+                        423
+                    ],
+                    [
+                        19,
+                        525
+                    ],
+                    [
+                        90,
+                        624
+                    ],
+                    [
+                        191,
+                        616
+                    ],
+                    [
+                        365,
+                        468
+                    ],
+                    [
+                        312,
+                        308
+                    ],
+                    [
+                        313,
+                        259
+                    ],
+                    [
+                        406,
+                        350
+                    ],
+                    [
+                        441,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

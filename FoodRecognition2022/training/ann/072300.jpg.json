@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1130,
+        "width": 1130
+    },
+    "objects": [
+        {
+            "id": 1645188,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:24.350Z",
+            "updatedAt": "2023-06-07T13:06:24.350Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        591,
+                        355
+                    ],
+                    [
+                        300,
+                        347
+                    ],
+                    [
+                        413,
+                        977
+                    ],
+                    [
+                        682,
+                        940
+                    ],
+                    [
+                        702,
+                        884
+                    ],
+                    [
+                        721,
+                        841
+                    ],
+                    [
+                        947,
+                        816
+                    ],
+                    [
+                        868,
+                        276
+                    ],
+                    [
+                        687,
+                        254
+                    ],
+                    [
+                        673,
+                        703
+                    ],
+                    [
+                        685,
+                        802
+                    ],
+                    [
+                        591,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645187,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:24.349Z",
+            "updatedAt": "2023-06-07T13:06:24.349Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        511
+                    ],
+                    [
+                        49,
+                        562
+                    ],
+                    [
+                        165,
+                        864
+                    ],
+                    [
+                        351,
+                        774
+                    ],
+                    [
+                        230,
+                        519
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

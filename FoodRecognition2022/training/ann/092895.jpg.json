@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1732870,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:40.179Z",
+            "updatedAt": "2023-06-07T14:07:40.179Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        272
+                    ],
+                    [
+                        66,
+                        325
+                    ],
+                    [
+                        96,
+                        365
+                    ],
+                    [
+                        81,
+                        415
+                    ],
+                    [
+                        105,
+                        434
+                    ],
+                    [
+                        120,
+                        449
+                    ],
+                    [
+                        162,
+                        473
+                    ],
+                    [
+                        266,
+                        462
+                    ],
+                    [
+                        301,
+                        389
+                    ],
+                    [
+                        187,
+                        317
+                    ],
+                    [
+                        141,
+                        265
+                    ],
+                    [
+                        123,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1732868,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:40.178Z",
+            "updatedAt": "2023-06-07T14:07:40.178Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        464
+                    ],
+                    [
+                        105,
+                        410
+                    ],
+                    [
+                        98,
+                        333
+                    ],
+                    [
+                        110,
+                        325
+                    ],
+                    [
+                        220,
+                        350
+                    ],
+                    [
+                        267,
+                        409
+                    ],
+                    [
+                        253,
+                        432
+                    ],
+                    [
+                        117,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

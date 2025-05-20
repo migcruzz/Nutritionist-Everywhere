@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1681522,
+            "classId": 4027,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:54.354Z",
+            "updatedAt": "2023-06-07T13:30:54.354Z",
+            "tags": [],
+            "classTitle": "soya-drink-soy-milk",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        136
+                    ],
+                    [
+                        156,
+                        149
+                    ],
+                    [
+                        74,
+                        206
+                    ],
+                    [
+                        69,
+                        291
+                    ],
+                    [
+                        149,
+                        335
+                    ],
+                    [
+                        244,
+                        334
+                    ],
+                    [
+                        340,
+                        319
+                    ],
+                    [
+                        403,
+                        269
+                    ],
+                    [
+                        383,
+                        197
+                    ],
+                    [
+                        321,
+                        145
+                    ],
+                    [
+                        269,
+                        141
+                    ],
+                    [
+                        266,
+                        141
+                    ],
+                    [
+                        263,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1681520,
+            "classId": 3845,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:54.354Z",
+            "updatedAt": "2023-06-07T13:30:54.354Z",
+            "tags": [],
+            "classTitle": "crunch-muesli",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        160
+                    ],
+                    [
+                        220,
+                        149
+                    ],
+                    [
+                        146,
+                        177
+                    ],
+                    [
+                        81,
+                        237
+                    ],
+                    [
+                        143,
+                        335
+                    ],
+                    [
+                        253,
+                        336
+                    ],
+                    [
+                        355,
+                        279
+                    ],
+                    [
+                        391,
+                        255
+                    ],
+                    [
+                        383,
+                        213
+                    ],
+                    [
+                        321,
+                        171
+                    ],
+                    [
+                        299,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

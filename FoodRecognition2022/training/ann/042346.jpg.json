@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1787811,
+            "classId": 4129,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:47.236Z",
+            "updatedAt": "2023-06-07T14:44:47.236Z",
+            "tags": [],
+            "classTitle": "chicken-leg",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        139
+                    ],
+                    [
+                        184,
+                        251
+                    ],
+                    [
+                        58,
+                        226
+                    ],
+                    [
+                        101,
+                        117
+                    ],
+                    [
+                        250,
+                        29
+                    ],
+                    [
+                        332,
+                        44
+                    ],
+                    [
+                        475,
+                        88
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787809,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:47.236Z",
+            "updatedAt": "2023-06-07T14:44:47.236Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        546,
+                        149
+                    ],
+                    [
+                        280,
+                        223
+                    ],
+                    [
+                        368,
+                        358
+                    ],
+                    [
+                        436,
+                        476
+                    ],
+                    [
+                        530,
+                        451
+                    ],
+                    [
+                        563,
+                        342
+                    ],
+                    [
+                        606,
+                        275
+                    ],
+                    [
+                        596,
+                        218
+                    ],
+                    [
+                        554,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787807,
+            "classId": 3747,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:47.235Z",
+            "updatedAt": "2023-06-07T14:44:47.235Z",
+            "tags": [],
+            "classTitle": "ratatouille",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        487
+                    ],
+                    [
+                        227,
+                        599
+                    ],
+                    [
+                        65,
+                        481
+                    ],
+                    [
+                        29,
+                        404
+                    ],
+                    [
+                        46,
+                        257
+                    ],
+                    [
+                        126,
+                        232
+                    ],
+                    [
+                        220,
+                        253
+                    ],
+                    [
+                        290,
+                        287
+                    ],
+                    [
+                        368,
+                        391
+                    ],
+                    [
+                        384,
+                        440
+                    ],
+                    [
+                        382,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787805,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:47.234Z",
+            "updatedAt": "2023-06-07T14:44:47.234Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        474
+                    ],
+                    [
+                        419,
+                        493
+                    ],
+                    [
+                        397,
+                        353
+                    ],
+                    [
+                        304,
+                        279
+                    ],
+                    [
+                        183,
+                        229
+                    ],
+                    [
+                        107,
+                        270
+                    ],
+                    [
+                        145,
+                        360
+                    ],
+                    [
+                        205,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

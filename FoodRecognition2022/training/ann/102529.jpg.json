@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1764762,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:10.198Z",
+            "updatedAt": "2023-06-07T14:29:10.198Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        94
+                    ],
+                    [
+                        197,
+                        105
+                    ],
+                    [
+                        133,
+                        127
+                    ],
+                    [
+                        117,
+                        196
+                    ],
+                    [
+                        127,
+                        265
+                    ],
+                    [
+                        139,
+                        356
+                    ],
+                    [
+                        241,
+                        389
+                    ],
+                    [
+                        327,
+                        374
+                    ],
+                    [
+                        372,
+                        311
+                    ],
+                    [
+                        346,
+                        146
+                    ],
+                    [
+                        264,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1764760,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:10.197Z",
+            "updatedAt": "2023-06-07T14:29:10.197Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        164
+                    ],
+                    [
+                        205,
+                        163
+                    ],
+                    [
+                        180,
+                        217
+                    ],
+                    [
+                        138,
+                        255
+                    ],
+                    [
+                        163,
+                        309
+                    ],
+                    [
+                        228,
+                        330
+                    ],
+                    [
+                        264,
+                        315
+                    ],
+                    [
+                        321,
+                        250
+                    ],
+                    [
+                        285,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

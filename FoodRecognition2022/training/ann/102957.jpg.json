@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 875,
+        "width": 876
+    },
+    "objects": [
+        {
+            "id": 1767113,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:50.087Z",
+            "updatedAt": "2023-06-07T14:30:50.087Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        849,
+                        120
+                    ],
+                    [
+                        473,
+                        199
+                    ],
+                    [
+                        433,
+                        343
+                    ],
+                    [
+                        523,
+                        396
+                    ],
+                    [
+                        622,
+                        396
+                    ],
+                    [
+                        823,
+                        225
+                    ],
+                    [
+                        867,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767111,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:50.086Z",
+            "updatedAt": "2023-06-07T14:30:50.086Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        427,
+                        94
+                    ],
+                    [
+                        271,
+                        65
+                    ],
+                    [
+                        234,
+                        115
+                    ],
+                    [
+                        357,
+                        170
+                    ],
+                    [
+                        337,
+                        212
+                    ],
+                    [
+                        385,
+                        238
+                    ],
+                    [
+                        449,
+                        225
+                    ],
+                    [
+                        449,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

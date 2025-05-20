@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 875,
+        "width": 876
+    },
+    "objects": [
+        {
+            "id": 1673777,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:50.511Z",
+            "updatedAt": "2023-06-07T13:25:50.511Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        198
+                    ],
+                    [
+                        245,
+                        303
+                    ],
+                    [
+                        322,
+                        533
+                    ],
+                    [
+                        398,
+                        535
+                    ],
+                    [
+                        519,
+                        518
+                    ],
+                    [
+                        643,
+                        478
+                    ],
+                    [
+                        652,
+                        450
+                    ],
+                    [
+                        545,
+                        376
+                    ],
+                    [
+                        488,
+                        430
+                    ],
+                    [
+                        394,
+                        459
+                    ],
+                    [
+                        433,
+                        338
+                    ],
+                    [
+                        477,
+                        330
+                    ],
+                    [
+                        431,
+                        253
+                    ],
+                    [
+                        332,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673775,
+            "classId": 4353,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:50.510Z",
+            "updatedAt": "2023-06-07T13:25:50.510Z",
+            "tags": [],
+            "classTitle": "vanille-cream-cooked-custard-creme-dessert",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        323
+                    ],
+                    [
+                        392,
+                        395
+                    ],
+                    [
+                        392,
+                        498
+                    ],
+                    [
+                        459,
+                        400
+                    ],
+                    [
+                        495,
+                        428
+                    ],
+                    [
+                        554,
+                        373
+                    ],
+                    [
+                        492,
+                        336
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

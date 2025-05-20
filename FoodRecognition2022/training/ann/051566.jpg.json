@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1738059,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:15.004Z",
+            "updatedAt": "2023-06-07T14:11:15.004Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        64
+                    ],
+                    [
+                        42,
+                        88
+                    ],
+                    [
+                        1,
+                        176
+                    ],
+                    [
+                        18,
+                        474
+                    ],
+                    [
+                        466,
+                        471
+                    ],
+                    [
+                        462,
+                        186
+                    ],
+                    [
+                        205,
+                        73
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738057,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:15.004Z",
+            "updatedAt": "2023-06-07T14:11:15.004Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        175
+                    ],
+                    [
+                        36,
+                        128
+                    ],
+                    [
+                        7,
+                        256
+                    ],
+                    [
+                        13,
+                        397
+                    ],
+                    [
+                        130,
+                        392
+                    ],
+                    [
+                        210,
+                        417
+                    ],
+                    [
+                        311,
+                        436
+                    ],
+                    [
+                        381,
+                        422
+                    ],
+                    [
+                        449,
+                        396
+                    ],
+                    [
+                        472,
+                        309
+                    ],
+                    [
+                        443,
+                        207
+                    ],
+                    [
+                        364,
+                        154
+                    ],
+                    [
+                        241,
+                        156
+                    ],
+                    [
+                        196,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1005,
+        "width": 1005
+    },
+    "objects": [
+        {
+            "id": 1672820,
+            "classId": 3823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:01.784Z",
+            "updatedAt": "2023-06-07T13:25:01.784Z",
+            "tags": [],
+            "classTitle": "beef-filet",
+            "points": {
+                "exterior": [
+                    [
+                        782,
+                        167
+                    ],
+                    [
+                        629,
+                        97
+                    ],
+                    [
+                        448,
+                        110
+                    ],
+                    [
+                        267,
+                        263
+                    ],
+                    [
+                        212,
+                        356
+                    ],
+                    [
+                        91,
+                        411
+                    ],
+                    [
+                        86,
+                        715
+                    ],
+                    [
+                        129,
+                        861
+                    ],
+                    [
+                        438,
+                        989
+                    ],
+                    [
+                        536,
+                        961
+                    ],
+                    [
+                        765,
+                        790
+                    ],
+                    [
+                        953,
+                        567
+                    ],
+                    [
+                        973,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1672818,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:01.783Z",
+            "updatedAt": "2023-06-07T13:25:01.783Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        672,
+                        190
+                    ],
+                    [
+                        591,
+                        197
+                    ],
+                    [
+                        488,
+                        218
+                    ],
+                    [
+                        305,
+                        393
+                    ],
+                    [
+                        398,
+                        494
+                    ],
+                    [
+                        634,
+                        368
+                    ],
+                    [
+                        682,
+                        285
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

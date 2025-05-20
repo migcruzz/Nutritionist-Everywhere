@@ -1,0 +1,338 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1669272,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.825Z",
+            "updatedAt": "2023-06-07T13:22:42.825Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        207
+                    ],
+                    [
+                        357,
+                        228
+                    ],
+                    [
+                        336,
+                        258
+                    ],
+                    [
+                        355,
+                        280
+                    ],
+                    [
+                        392,
+                        245
+                    ],
+                    [
+                        453,
+                        291
+                    ],
+                    [
+                        476,
+                        334
+                    ],
+                    [
+                        475,
+                        390
+                    ],
+                    [
+                        403,
+                        388
+                    ],
+                    [
+                        369,
+                        375
+                    ],
+                    [
+                        328,
+                        429
+                    ],
+                    [
+                        291,
+                        407
+                    ],
+                    [
+                        232,
+                        410
+                    ],
+                    [
+                        234,
+                        356
+                    ],
+                    [
+                        178,
+                        362
+                    ],
+                    [
+                        172,
+                        318
+                    ],
+                    [
+                        200,
+                        263
+                    ],
+                    [
+                        237,
+                        270
+                    ],
+                    [
+                        274,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669270,
+            "classId": 4019,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.825Z",
+            "updatedAt": "2023-06-07T13:22:42.825Z",
+            "tags": [],
+            "classTitle": "bread-ticino",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        137
+                    ],
+                    [
+                        153,
+                        136
+                    ],
+                    [
+                        134,
+                        132
+                    ],
+                    [
+                        115,
+                        119
+                    ],
+                    [
+                        106,
+                        95
+                    ],
+                    [
+                        106,
+                        74
+                    ],
+                    [
+                        113,
+                        50
+                    ],
+                    [
+                        122,
+                        37
+                    ],
+                    [
+                        141,
+                        20
+                    ],
+                    [
+                        177,
+                        9
+                    ],
+                    [
+                        255,
+                        8
+                    ],
+                    [
+                        299,
+                        20
+                    ],
+                    [
+                        316,
+                        29
+                    ],
+                    [
+                        331,
+                        43
+                    ],
+                    [
+                        342,
+                        59
+                    ],
+                    [
+                        348,
+                        78
+                    ],
+                    [
+                        348,
+                        92
+                    ],
+                    [
+                        340,
+                        113
+                    ],
+                    [
+                        321,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669268,
+            "classId": 3451,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.824Z",
+            "updatedAt": "2023-06-07T13:22:42.824Z",
+            "tags": [],
+            "classTitle": "ham",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        106
+                    ],
+                    [
+                        98,
+                        232
+                    ],
+                    [
+                        184,
+                        338
+                    ],
+                    [
+                        175,
+                        372
+                    ],
+                    [
+                        104,
+                        384
+                    ],
+                    [
+                        44,
+                        246
+                    ],
+                    [
+                        16,
+                        240
+                    ],
+                    [
+                        19,
+                        107
+                    ],
+                    [
+                        49,
+                        89
+                    ],
+                    [
+                        88,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669266,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.824Z",
+            "updatedAt": "2023-06-07T13:22:42.824Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        160
+                    ],
+                    [
+                        290,
+                        202
+                    ],
+                    [
+                        420,
+                        255
+                    ],
+                    [
+                        432,
+                        194
+                    ],
+                    [
+                        309,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669264,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:42.823Z",
+            "updatedAt": "2023-06-07T13:22:42.823Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        192
+                    ],
+                    [
+                        138,
+                        285
+                    ],
+                    [
+                        169,
+                        276
+                    ],
+                    [
+                        147,
+                        198
+                    ],
+                    [
+                        208,
+                        225
+                    ],
+                    [
+                        217,
+                        204
+                    ],
+                    [
+                        150,
+                        167
+                    ],
+                    [
+                        140,
+                        198
+                    ],
+                    [
+                        111,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

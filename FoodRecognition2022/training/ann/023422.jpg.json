@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1773835,
+            "classId": 3607,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:09.555Z",
+            "updatedAt": "2023-06-07T14:35:09.555Z",
+            "tags": [],
+            "classTitle": "beetroot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        287
+                    ],
+                    [
+                        112,
+                        287
+                    ],
+                    [
+                        128,
+                        572
+                    ],
+                    [
+                        403,
+                        594
+                    ],
+                    [
+                        489,
+                        562
+                    ],
+                    [
+                        499,
+                        402
+                    ],
+                    [
+                        461,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

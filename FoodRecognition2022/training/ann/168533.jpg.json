@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1745763,
+            "classId": 3745,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.055Z",
+            "updatedAt": "2023-06-07T14:16:37.055Z",
+            "tags": [],
+            "classTitle": "chicken-wing",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        96
+                    ],
+                    [
+                        155,
+                        75
+                    ],
+                    [
+                        94,
+                        79
+                    ],
+                    [
+                        65,
+                        94
+                    ],
+                    [
+                        55,
+                        118
+                    ],
+                    [
+                        70,
+                        133
+                    ],
+                    [
+                        128,
+                        157
+                    ],
+                    [
+                        231,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745761,
+            "classId": 3993,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.054Z",
+            "updatedAt": "2023-06-07T14:16:37.054Z",
+            "tags": [],
+            "classTitle": "vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        105
+                    ],
+                    [
+                        291,
+                        147
+                    ],
+                    [
+                        228,
+                        149
+                    ],
+                    [
+                        156,
+                        177
+                    ],
+                    [
+                        195,
+                        200
+                    ],
+                    [
+                        233,
+                        224
+                    ],
+                    [
+                        289,
+                        227
+                    ],
+                    [
+                        369,
+                        228
+                    ],
+                    [
+                        345,
+                        183
+                    ],
+                    [
+                        358,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745759,
+            "classId": 3871,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.054Z",
+            "updatedAt": "2023-06-07T14:16:37.054Z",
+            "tags": [],
+            "classTitle": "salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        162
+                    ],
+                    [
+                        271,
+                        146
+                    ],
+                    [
+                        256,
+                        154
+                    ],
+                    [
+                        274,
+                        171
+                    ],
+                    [
+                        293,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745757,
+            "classId": 3959,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.053Z",
+            "updatedAt": "2023-06-07T14:16:37.053Z",
+            "tags": [],
+            "classTitle": "meat",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        276
+                    ],
+                    [
+                        314,
+                        223
+                    ],
+                    [
+                        283,
+                        252
+                    ],
+                    [
+                        334,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745755,
+            "classId": 3611,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.052Z",
+            "updatedAt": "2023-06-07T14:16:37.052Z",
+            "tags": [],
+            "classTitle": "applesauce-unsweetened-canned",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        231
+                    ],
+                    [
+                        224,
+                        226
+                    ],
+                    [
+                        153,
+                        258
+                    ],
+                    [
+                        145,
+                        321
+                    ],
+                    [
+                        184,
+                        364
+                    ],
+                    [
+                        254,
+                        353
+                    ],
+                    [
+                        283,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

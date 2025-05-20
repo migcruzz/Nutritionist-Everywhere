@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 729,
+        "width": 730
+    },
+    "objects": [
+        {
+            "id": 1796196,
+            "classId": 3603,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:28.518Z",
+            "updatedAt": "2023-06-07T14:50:28.518Z",
+            "tags": [],
+            "classTitle": "white-cabbage",
+            "points": {
+                "exterior": [
+                    [
+                        506,
+                        141
+                    ],
+                    [
+                        449,
+                        104
+                    ],
+                    [
+                        389,
+                        90
+                    ],
+                    [
+                        258,
+                        75
+                    ],
+                    [
+                        110,
+                        108
+                    ],
+                    [
+                        52,
+                        212
+                    ],
+                    [
+                        72,
+                        373
+                    ],
+                    [
+                        104,
+                        378
+                    ],
+                    [
+                        130,
+                        291
+                    ],
+                    [
+                        156,
+                        159
+                    ],
+                    [
+                        194,
+                        117
+                    ],
+                    [
+                        229,
+                        245
+                    ],
+                    [
+                        245,
+                        327
+                    ],
+                    [
+                        316,
+                        364
+                    ],
+                    [
+                        398,
+                        334
+                    ],
+                    [
+                        460,
+                        322
+                    ],
+                    [
+                        486,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1796194,
+            "classId": 3951,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:28.518Z",
+            "updatedAt": "2023-06-07T14:50:28.518Z",
+            "tags": [],
+            "classTitle": "sesame-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        159
+                    ],
+                    [
+                        227,
+                        95
+                    ],
+                    [
+                        230,
+                        176
+                    ],
+                    [
+                        320,
+                        243
+                    ],
+                    [
+                        373,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

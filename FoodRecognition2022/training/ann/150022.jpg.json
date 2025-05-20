@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1766965,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:42.133Z",
+            "updatedAt": "2023-06-07T14:30:42.133Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        304
+                    ],
+                    [
+                        101,
+                        313
+                    ],
+                    [
+                        37,
+                        229
+                    ],
+                    [
+                        4,
+                        172
+                    ],
+                    [
+                        39,
+                        78
+                    ],
+                    [
+                        165,
+                        26
+                    ],
+                    [
+                        281,
+                        93
+                    ],
+                    [
+                        337,
+                        145
+                    ],
+                    [
+                        324,
+                        237
+                    ],
+                    [
+                        311,
+                        279
+                    ],
+                    [
+                        272,
+                        349
+                    ],
+                    [
+                        271,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1766963,
+            "classId": 3941,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:42.133Z",
+            "updatedAt": "2023-06-07T14:30:42.133Z",
+            "tags": [],
+            "classTitle": "pomegranate",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        140
+                    ],
+                    [
+                        176,
+                        168
+                    ],
+                    [
+                        143,
+                        240
+                    ],
+                    [
+                        135,
+                        303
+                    ],
+                    [
+                        177,
+                        256
+                    ],
+                    [
+                        223,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1766962,
+            "classId": 3941,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:42.132Z",
+            "updatedAt": "2023-06-07T14:30:42.132Z",
+            "tags": [],
+            "classTitle": "pomegranate",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        235
+                    ],
+                    [
+                        267,
+                        258
+                    ],
+                    [
+                        303,
+                        262
+                    ],
+                    [
+                        316,
+                        235
+                    ],
+                    [
+                        314,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1766960,
+            "classId": 3871,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:42.132Z",
+            "updatedAt": "2023-06-07T14:30:42.132Z",
+            "tags": [],
+            "classTitle": "salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        176
+                    ],
+                    [
+                        152,
+                        136
+                    ],
+                    [
+                        121,
+                        116
+                    ],
+                    [
+                        146,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

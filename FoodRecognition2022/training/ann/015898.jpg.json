@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1736727,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.534Z",
+            "updatedAt": "2023-06-07T14:10:22.534Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        262
+                    ],
+                    [
+                        103,
+                        315
+                    ],
+                    [
+                        73,
+                        308
+                    ],
+                    [
+                        68,
+                        241
+                    ],
+                    [
+                        153,
+                        241
+                    ],
+                    [
+                        320,
+                        232
+                    ],
+                    [
+                        338,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736725,
+            "classId": 4099,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.533Z",
+            "updatedAt": "2023-06-07T14:10:22.533Z",
+            "tags": [],
+            "classTitle": "beef-minced-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        244
+                    ],
+                    [
+                        339,
+                        206
+                    ],
+                    [
+                        272,
+                        178
+                    ],
+                    [
+                        136,
+                        174
+                    ],
+                    [
+                        104,
+                        208
+                    ],
+                    [
+                        117,
+                        237
+                    ],
+                    [
+                        308,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736723,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.532Z",
+            "updatedAt": "2023-06-07T14:10:22.532Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        340,
+                        208
+                    ],
+                    [
+                        268,
+                        172
+                    ],
+                    [
+                        126,
+                        178
+                    ],
+                    [
+                        78,
+                        220
+                    ],
+                    [
+                        176,
+                        234
+                    ],
+                    [
+                        247,
+                        226
+                    ],
+                    [
+                        255,
+                        200
+                    ],
+                    [
+                        292,
+                        216
+                    ],
+                    [
+                        328,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736721,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:22.532Z",
+            "updatedAt": "2023-06-07T14:10:22.532Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        235
+                    ],
+                    [
+                        330,
+                        127
+                    ],
+                    [
+                        152,
+                        106
+                    ],
+                    [
+                        100,
+                        207
+                    ],
+                    [
+                        146,
+                        168
+                    ],
+                    [
+                        202,
+                        180
+                    ],
+                    [
+                        223,
+                        165
+                    ],
+                    [
+                        259,
+                        168
+                    ],
+                    [
+                        292,
+                        182
+                    ],
+                    [
+                        342,
+                        205
+                    ],
+                    [
+                        356,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

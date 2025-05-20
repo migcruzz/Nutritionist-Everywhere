@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1734136,
+            "classId": 3927,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:34.634Z",
+            "updatedAt": "2023-06-07T14:08:34.634Z",
+            "tags": [],
+            "classTitle": "spinach-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        57
+                    ],
+                    [
+                        137,
+                        51
+                    ],
+                    [
+                        84,
+                        78
+                    ],
+                    [
+                        72,
+                        267
+                    ],
+                    [
+                        119,
+                        290
+                    ],
+                    [
+                        205,
+                        274
+                    ],
+                    [
+                        279,
+                        266
+                    ],
+                    [
+                        297,
+                        113
+                    ],
+                    [
+                        275,
+                        77
+                    ],
+                    [
+                        240,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734134,
+            "classId": 3559,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:34.633Z",
+            "updatedAt": "2023-06-07T14:08:34.633Z",
+            "tags": [],
+            "classTitle": "tartar-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        428,
+                        188
+                    ],
+                    [
+                        369,
+                        207
+                    ],
+                    [
+                        340,
+                        243
+                    ],
+                    [
+                        345,
+                        279
+                    ],
+                    [
+                        378,
+                        301
+                    ],
+                    [
+                        414,
+                        276
+                    ],
+                    [
+                        437,
+                        215
+                    ],
+                    [
+                        437,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

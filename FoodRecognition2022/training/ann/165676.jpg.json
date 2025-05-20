@@ -1,0 +1,238 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1782537,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:18.212Z",
+            "updatedAt": "2023-06-07T14:41:18.212Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        230
+                    ],
+                    [
+                        247,
+                        391
+                    ],
+                    [
+                        337,
+                        424
+                    ],
+                    [
+                        423,
+                        369
+                    ],
+                    [
+                        432,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1782535,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:18.211Z",
+            "updatedAt": "2023-06-07T14:41:18.211Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        63
+                    ],
+                    [
+                        262,
+                        88
+                    ],
+                    [
+                        209,
+                        94
+                    ],
+                    [
+                        184,
+                        27
+                    ],
+                    [
+                        127,
+                        55
+                    ],
+                    [
+                        109,
+                        101
+                    ],
+                    [
+                        113,
+                        121
+                    ],
+                    [
+                        168,
+                        174
+                    ],
+                    [
+                        172,
+                        214
+                    ],
+                    [
+                        164,
+                        238
+                    ],
+                    [
+                        238,
+                        248
+                    ],
+                    [
+                        254,
+                        248
+                    ],
+                    [
+                        279,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1782533,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:18.210Z",
+            "updatedAt": "2023-06-07T14:41:18.210Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        135
+                    ],
+                    [
+                        312,
+                        101
+                    ],
+                    [
+                        243,
+                        121
+                    ],
+                    [
+                        226,
+                        137
+                    ],
+                    [
+                        180,
+                        170
+                    ],
+                    [
+                        155,
+                        133
+                    ],
+                    [
+                        91,
+                        123
+                    ],
+                    [
+                        83,
+                        153
+                    ],
+                    [
+                        131,
+                        174
+                    ],
+                    [
+                        154,
+                        186
+                    ],
+                    [
+                        189,
+                        189
+                    ],
+                    [
+                        239,
+                        219
+                    ],
+                    [
+                        261,
+                        239
+                    ],
+                    [
+                        281,
+                        195
+                    ],
+                    [
+                        289,
+                        172
+                    ],
+                    [
+                        336,
+                        164
+                    ],
+                    [
+                        341,
+                        190
+                    ],
+                    [
+                        386,
+                        197
+                    ],
+                    [
+                        386,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1782531,
+            "classId": 4399,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:18.209Z",
+            "updatedAt": "2023-06-07T14:41:18.209Z",
+            "tags": [],
+            "classTitle": "italian-salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        60
+                    ],
+                    [
+                        204,
+                        39
+                    ],
+                    [
+                        198,
+                        88
+                    ],
+                    [
+                        266,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

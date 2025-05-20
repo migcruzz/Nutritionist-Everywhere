@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1739533,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:17.124Z",
+            "updatedAt": "2023-06-07T14:12:17.124Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        853
+                    ],
+                    [
+                        943,
+                        748
+                    ],
+                    [
+                        862,
+                        367
+                    ],
+                    [
+                        672,
+                        245
+                    ],
+                    [
+                        394,
+                        218
+                    ],
+                    [
+                        216,
+                        307
+                    ],
+                    [
+                        54,
+                        472
+                    ],
+                    [
+                        45,
+                        577
+                    ],
+                    [
+                        181,
+                        691
+                    ],
+                    [
+                        272,
+                        807
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1739531,
+            "classId": 4381,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:17.124Z",
+            "updatedAt": "2023-06-07T14:12:17.124Z",
+            "tags": [],
+            "classTitle": "waffle",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        391
+                    ],
+                    [
+                        45,
+                        723
+                    ],
+                    [
+                        281,
+                        1015
+                    ],
+                    [
+                        724,
+                        1042
+                    ],
+                    [
+                        897,
+                        799
+                    ],
+                    [
+                        953,
+                        591
+                    ],
+                    [
+                        953,
+                        402
+                    ],
+                    [
+                        751,
+                        229
+                    ],
+                    [
+                        472,
+                        191
+                    ],
+                    [
+                        375,
+                        194
+                    ],
+                    [
+                        275,
+                        245
+                    ],
+                    [
+                        151,
+                        356
+                    ],
+                    [
+                        118,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1766413,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:20.711Z",
+            "updatedAt": "2023-06-07T14:30:20.711Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        64
+                    ],
+                    [
+                        51,
+                        206
+                    ],
+                    [
+                        25,
+                        226
+                    ],
+                    [
+                        29,
+                        247
+                    ],
+                    [
+                        43,
+                        276
+                    ],
+                    [
+                        82,
+                        325
+                    ],
+                    [
+                        106,
+                        374
+                    ],
+                    [
+                        117,
+                        422
+                    ],
+                    [
+                        143,
+                        434
+                    ],
+                    [
+                        183,
+                        430
+                    ],
+                    [
+                        239,
+                        386
+                    ],
+                    [
+                        329,
+                        326
+                    ],
+                    [
+                        383,
+                        297
+                    ],
+                    [
+                        443,
+                        267
+                    ],
+                    [
+                        466,
+                        213
+                    ],
+                    [
+                        454,
+                        121
+                    ],
+                    [
+                        405,
+                        68
+                    ],
+                    [
+                        363,
+                        54
+                    ],
+                    [
+                        361,
+                        54
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1766411,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:20.710Z",
+            "updatedAt": "2023-06-07T14:30:20.710Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        53,
+                        282
+                    ],
+                    [
+                        51,
+                        344
+                    ],
+                    [
+                        91,
+                        436
+                    ],
+                    [
+                        135,
+                        468
+                    ],
+                    [
+                        207,
+                        476
+                    ],
+                    [
+                        262,
+                        463
+                    ],
+                    [
+                        315,
+                        403
+                    ],
+                    [
+                        345,
+                        355
+                    ],
+                    [
+                        357,
+                        315
+                    ],
+                    [
+                        283,
+                        346
+                    ],
+                    [
+                        217,
+                        390
+                    ],
+                    [
+                        184,
+                        412
+                    ],
+                    [
+                        127,
+                        409
+                    ],
+                    [
+                        95,
+                        381
+                    ],
+                    [
+                        73,
+                        331
+                    ],
+                    [
+                        65,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1766410,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:20.710Z",
+            "updatedAt": "2023-06-07T14:30:20.710Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        87
+                    ],
+                    [
+                        125,
+                        151
+                    ],
+                    [
+                        194,
+                        146
+                    ],
+                    [
+                        244,
+                        112
+                    ],
+                    [
+                        253,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

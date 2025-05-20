@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1773702,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:03.154Z",
+            "updatedAt": "2023-06-07T14:35:03.154Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        222
+                    ],
+                    [
+                        98,
+                        239
+                    ],
+                    [
+                        152,
+                        340
+                    ],
+                    [
+                        221,
+                        391
+                    ],
+                    [
+                        261,
+                        393
+                    ],
+                    [
+                        269,
+                        372
+                    ],
+                    [
+                        237,
+                        317
+                    ],
+                    [
+                        179,
+                        258
+                    ],
+                    [
+                        158,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1773701,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:03.154Z",
+            "updatedAt": "2023-06-07T14:35:03.154Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        243
+                    ],
+                    [
+                        5,
+                        254
+                    ],
+                    [
+                        0,
+                        311
+                    ],
+                    [
+                        20,
+                        362
+                    ],
+                    [
+                        102,
+                        424
+                    ],
+                    [
+                        167,
+                        390
+                    ],
+                    [
+                        100,
+                        311
+                    ],
+                    [
+                        40,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1773699,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:03.153Z",
+            "updatedAt": "2023-06-07T14:35:03.153Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        16
+                    ],
+                    [
+                        121,
+                        114
+                    ],
+                    [
+                        353,
+                        274
+                    ],
+                    [
+                        455,
+                        181
+                    ],
+                    [
+                        437,
+                        111
+                    ],
+                    [
+                        345,
+                        41
+                    ],
+                    [
+                        170,
+                        3
+                    ],
+                    [
+                        173,
+                        4
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

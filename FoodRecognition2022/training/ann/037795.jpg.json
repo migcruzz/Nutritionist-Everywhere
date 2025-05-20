@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1733923,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:24.770Z",
+            "updatedAt": "2023-06-07T14:08:24.770Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        971,
+                        642
+                    ],
+                    [
+                        774,
+                        567
+                    ],
+                    [
+                        366,
+                        656
+                    ],
+                    [
+                        295,
+                        869
+                    ],
+                    [
+                        404,
+                        1031
+                    ],
+                    [
+                        531,
+                        1056
+                    ],
+                    [
+                        739,
+                        1010
+                    ],
+                    [
+                        936,
+                        883
+                    ],
+                    [
+                        998,
+                        780
+                    ],
+                    [
+                        982,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733921,
+            "classId": 4235,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:24.769Z",
+            "updatedAt": "2023-06-07T14:08:24.769Z",
+            "tags": [],
+            "classTitle": "savoy-cabbage-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        1003,
+                        453
+                    ],
+                    [
+                        733,
+                        558
+                    ],
+                    [
+                        555,
+                        653
+                    ],
+                    [
+                        271,
+                        618
+                    ],
+                    [
+                        155,
+                        604
+                    ],
+                    [
+                        106,
+                        472
+                    ],
+                    [
+                        168,
+                        188
+                    ],
+                    [
+                        274,
+                        91
+                    ],
+                    [
+                        558,
+                        96
+                    ],
+                    [
+                        790,
+                        172
+                    ],
+                    [
+                        936,
+                        310
+                    ],
+                    [
+                        958,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733919,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:24.769Z",
+            "updatedAt": "2023-06-07T14:08:24.769Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        355,
+                        664
+                    ],
+                    [
+                        277,
+                        867
+                    ],
+                    [
+                        20,
+                        794
+                    ],
+                    [
+                        12,
+                        637
+                    ],
+                    [
+                        6,
+                        612
+                    ],
+                    [
+                        114,
+                        648
+                    ],
+                    [
+                        131,
+                        653
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

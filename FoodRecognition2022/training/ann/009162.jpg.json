@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1640387,
+            "classId": 4013,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:02.714Z",
+            "updatedAt": "2023-06-07T13:03:02.714Z",
+            "tags": [],
+            "classTitle": "chicken-cut-into-stripes-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        154
+                    ],
+                    [
+                        199,
+                        165
+                    ],
+                    [
+                        190,
+                        193
+                    ],
+                    [
+                        187,
+                        205
+                    ],
+                    [
+                        190,
+                        222
+                    ],
+                    [
+                        211,
+                        241
+                    ],
+                    [
+                        254,
+                        255
+                    ],
+                    [
+                        306,
+                        258
+                    ],
+                    [
+                        326,
+                        222
+                    ],
+                    [
+                        330,
+                        176
+                    ],
+                    [
+                        310,
+                        156
+                    ],
+                    [
+                        291,
+                        153
+                    ],
+                    [
+                        254,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640385,
+            "classId": 3719,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:02.714Z",
+            "updatedAt": "2023-06-07T13:03:02.714Z",
+            "tags": [],
+            "classTitle": "fajita-bread-only",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        264
+                    ],
+                    [
+                        370,
+                        279
+                    ],
+                    [
+                        356,
+                        312
+                    ],
+                    [
+                        380,
+                        372
+                    ],
+                    [
+                        408,
+                        396
+                    ],
+                    [
+                        447,
+                        396
+                    ],
+                    [
+                        472,
+                        381
+                    ],
+                    [
+                        476,
+                        373
+                    ],
+                    [
+                        477,
+                        296
+                    ],
+                    [
+                        427,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640383,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:02.714Z",
+            "updatedAt": "2023-06-07T13:03:02.714Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        9
+                    ],
+                    [
+                        121,
+                        2
+                    ],
+                    [
+                        97,
+                        13
+                    ],
+                    [
+                        104,
+                        34
+                    ],
+                    [
+                        129,
+                        61
+                    ],
+                    [
+                        133,
+                        85
+                    ],
+                    [
+                        245,
+                        88
+                    ],
+                    [
+                        248,
+                        18
+                    ],
+                    [
+                        195,
+                        12
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640381,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:02.713Z",
+            "updatedAt": "2023-06-07T13:03:02.713Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        96
+                    ],
+                    [
+                        150,
+                        93
+                    ],
+                    [
+                        157,
+                        152
+                    ],
+                    [
+                        165,
+                        151
+                    ],
+                    [
+                        217,
+                        128
+                    ],
+                    [
+                        208,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

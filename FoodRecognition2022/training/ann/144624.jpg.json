@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 513,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1740218,
+            "classId": 4393,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:45.576Z",
+            "updatedAt": "2023-06-07T14:12:45.576Z",
+            "tags": [],
+            "classTitle": "blackberry",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        185
+                    ],
+                    [
+                        230,
+                        132
+                    ],
+                    [
+                        167,
+                        146
+                    ],
+                    [
+                        148,
+                        210
+                    ],
+                    [
+                        178,
+                        275
+                    ],
+                    [
+                        230,
+                        303
+                    ],
+                    [
+                        318,
+                        325
+                    ],
+                    [
+                        361,
+                        291
+                    ],
+                    [
+                        327,
+                        257
+                    ],
+                    [
+                        345,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740217,
+            "classId": 4393,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:45.575Z",
+            "updatedAt": "2023-06-07T14:12:45.575Z",
+            "tags": [],
+            "classTitle": "blackberry",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        232
+                    ],
+                    [
+                        394,
+                        339
+                    ],
+                    [
+                        455,
+                        415
+                    ],
+                    [
+                        485,
+                        403
+                    ],
+                    [
+                        482,
+                        371
+                    ],
+                    [
+                        450,
+                        346
+                    ],
+                    [
+                        485,
+                        235
+                    ],
+                    [
+                        461,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

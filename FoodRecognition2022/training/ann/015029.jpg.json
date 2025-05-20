@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1662680,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:01.282Z",
+            "updatedAt": "2023-06-07T13:18:01.282Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        500,
+                        445
+                    ],
+                    [
+                        340,
+                        490
+                    ],
+                    [
+                        260,
+                        697
+                    ],
+                    [
+                        265,
+                        848
+                    ],
+                    [
+                        463,
+                        895
+                    ],
+                    [
+                        489,
+                        756
+                    ],
+                    [
+                        409,
+                        650
+                    ],
+                    [
+                        500,
+                        662
+                    ],
+                    [
+                        581,
+                        683
+                    ],
+                    [
+                        611,
+                        587
+                    ],
+                    [
+                        597,
+                        509
+                    ],
+                    [
+                        541,
+                        445
+                    ],
+                    [
+                        529,
+                        443
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1662678,
+            "classId": 3489,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:01.282Z",
+            "updatedAt": "2023-06-07T13:18:01.282Z",
+            "tags": [],
+            "classTitle": "pear",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        106
+                    ],
+                    [
+                        368,
+                        134
+                    ],
+                    [
+                        350,
+                        228
+                    ],
+                    [
+                        394,
+                        264
+                    ],
+                    [
+                        557,
+                        264
+                    ],
+                    [
+                        597,
+                        205
+                    ],
+                    [
+                        597,
+                        165
+                    ],
+                    [
+                        581,
+                        124
+                    ],
+                    [
+                        498,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 952
+    },
+    "objects": [
+        {
+            "id": 1780422,
+            "classId": 4331,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.071Z",
+            "updatedAt": "2023-06-07T14:39:54.071Z",
+            "tags": [],
+            "classTitle": "brioche",
+            "points": {
+                "exterior": [
+                    [
+                        493,
+                        293
+                    ],
+                    [
+                        398,
+                        321
+                    ],
+                    [
+                        350,
+                        333
+                    ],
+                    [
+                        262,
+                        331
+                    ],
+                    [
+                        322,
+                        552
+                    ],
+                    [
+                        462,
+                        726
+                    ],
+                    [
+                        512,
+                        793
+                    ],
+                    [
+                        689,
+                        798
+                    ],
+                    [
+                        789,
+                        769
+                    ],
+                    [
+                        775,
+                        659
+                    ],
+                    [
+                        686,
+                        457
+                    ],
+                    [
+                        593,
+                        369
+                    ],
+                    [
+                        524,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780420,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.069Z",
+            "updatedAt": "2023-06-07T14:39:54.069Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        688
+                    ],
+                    [
+                        643,
+                        609
+                    ],
+                    [
+                        651,
+                        464
+                    ],
+                    [
+                        551,
+                        374
+                    ],
+                    [
+                        377,
+                        324
+                    ],
+                    [
+                        303,
+                        450
+                    ],
+                    [
+                        341,
+                        581
+                    ],
+                    [
+                        496,
+                        607
+                    ],
+                    [
+                        496,
+                        605
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

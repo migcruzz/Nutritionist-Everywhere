@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1687907,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:35:18.892Z",
+            "updatedAt": "2023-06-07T13:35:18.892Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        266,
+                        203
+                    ],
+                    [
+                        227,
+                        163
+                    ],
+                    [
+                        193,
+                        220
+                    ],
+                    [
+                        147,
+                        234
+                    ],
+                    [
+                        132,
+                        234
+                    ],
+                    [
+                        106,
+                        283
+                    ],
+                    [
+                        82,
+                        304
+                    ],
+                    [
+                        30,
+                        345
+                    ],
+                    [
+                        80,
+                        509
+                    ],
+                    [
+                        149,
+                        482
+                    ],
+                    [
+                        164,
+                        501
+                    ],
+                    [
+                        259,
+                        503
+                    ],
+                    [
+                        286,
+                        481
+                    ],
+                    [
+                        343,
+                        449
+                    ],
+                    [
+                        346,
+                        417
+                    ],
+                    [
+                        297,
+                        377
+                    ],
+                    [
+                        297,
+                        276
+                    ],
+                    [
+                        304,
+                        254
+                    ],
+                    [
+                        274,
+                        247
+                    ],
+                    [
+                        263,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1687905,
+            "classId": 3475,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:35:18.892Z",
+            "updatedAt": "2023-06-07T13:35:18.892Z",
+            "tags": [],
+            "classTitle": "french-salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        263
+                    ],
+                    [
+                        159,
+                        242
+                    ],
+                    [
+                        138,
+                        290
+                    ],
+                    [
+                        158,
+                        340
+                    ],
+                    [
+                        197,
+                        399
+                    ],
+                    [
+                        238,
+                        398
+                    ],
+                    [
+                        268,
+                        347
+                    ],
+                    [
+                        274,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

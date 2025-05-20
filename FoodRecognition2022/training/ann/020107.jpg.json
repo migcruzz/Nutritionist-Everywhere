@@ -1,0 +1,246 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 864,
+        "width": 865
+    },
+    "objects": [
+        {
+            "id": 1802196,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:47.622Z",
+            "updatedAt": "2023-06-07T14:54:47.622Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        75,
+                        457
+                    ],
+                    [
+                        131,
+                        628
+                    ],
+                    [
+                        395,
+                        723
+                    ],
+                    [
+                        547,
+                        633
+                    ],
+                    [
+                        562,
+                        488
+                    ],
+                    [
+                        413,
+                        371
+                    ],
+                    [
+                        229,
+                        395
+                    ],
+                    [
+                        82,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802194,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:47.622Z",
+            "updatedAt": "2023-06-07T14:54:47.622Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        492
+                    ],
+                    [
+                        99,
+                        492
+                    ],
+                    [
+                        101,
+                        520
+                    ],
+                    [
+                        408,
+                        561
+                    ],
+                    [
+                        447,
+                        520
+                    ],
+                    [
+                        253,
+                        490
+                    ],
+                    [
+                        263,
+                        464
+                    ],
+                    [
+                        365,
+                        447
+                    ],
+                    [
+                        493,
+                        466
+                    ],
+                    [
+                        493,
+                        436
+                    ],
+                    [
+                        207,
+                        403
+                    ],
+                    [
+                        209,
+                        444
+                    ],
+                    [
+                        265,
+                        460
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802192,
+            "classId": 4309,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:47.620Z",
+            "updatedAt": "2023-06-07T14:54:47.620Z",
+            "tags": [],
+            "classTitle": "peas",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        406
+                    ],
+                    [
+                        434,
+                        347
+                    ],
+                    [
+                        577,
+                        105
+                    ],
+                    [
+                        369,
+                        51
+                    ],
+                    [
+                        177,
+                        150
+                    ],
+                    [
+                        105,
+                        393
+                    ],
+                    [
+                        125,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802190,
+            "classId": 4205,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:47.620Z",
+            "updatedAt": "2023-06-07T14:54:47.620Z",
+            "tags": [],
+            "classTitle": "celeriac",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        254
+                    ],
+                    [
+                        168,
+                        194
+                    ],
+                    [
+                        255,
+                        194
+                    ],
+                    [
+                        237,
+                        230
+                    ],
+                    [
+                        147,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802189,
+            "classId": 4205,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:47.619Z",
+            "updatedAt": "2023-06-07T14:54:47.619Z",
+            "tags": [],
+            "classTitle": "celeriac",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        202
+                    ],
+                    [
+                        391,
+                        124
+                    ],
+                    [
+                        460,
+                        122
+                    ],
+                    [
+                        464,
+                        148
+                    ],
+                    [
+                        460,
+                        181
+                    ],
+                    [
+                        384,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

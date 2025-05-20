@@ -1,0 +1,386 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 588,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1665011,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:51.928Z",
+            "updatedAt": "2023-06-07T13:19:51.928Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        422,
+                        95
+                    ],
+                    [
+                        190,
+                        95
+                    ],
+                    [
+                        62,
+                        91
+                    ],
+                    [
+                        47,
+                        364
+                    ],
+                    [
+                        56,
+                        513
+                    ],
+                    [
+                        147,
+                        551
+                    ],
+                    [
+                        189,
+                        518
+                    ],
+                    [
+                        239,
+                        405
+                    ],
+                    [
+                        250,
+                        147
+                    ],
+                    [
+                        265,
+                        436
+                    ],
+                    [
+                        340,
+                        524
+                    ],
+                    [
+                        402,
+                        535
+                    ],
+                    [
+                        421,
+                        467
+                    ],
+                    [
+                        433,
+                        316
+                    ],
+                    [
+                        412,
+                        101
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1665009,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:51.927Z",
+            "updatedAt": "2023-06-07T13:19:51.927Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        101
+                    ],
+                    [
+                        84,
+                        85
+                    ],
+                    [
+                        86,
+                        260
+                    ],
+                    [
+                        49,
+                        518
+                    ],
+                    [
+                        178,
+                        548
+                    ],
+                    [
+                        200,
+                        402
+                    ],
+                    [
+                        214,
+                        283
+                    ],
+                    [
+                        221,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1665007,
+            "classId": 4017,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:51.927Z",
+            "updatedAt": "2023-06-07T13:19:51.927Z",
+            "tags": [],
+            "classTitle": "sun-dried-tomatoe",
+            "points": {
+                "exterior": [
+                    [
+                        400,
+                        154
+                    ],
+                    [
+                        350,
+                        205
+                    ],
+                    [
+                        302,
+                        246
+                    ],
+                    [
+                        314,
+                        252
+                    ],
+                    [
+                        340,
+                        254
+                    ],
+                    [
+                        358,
+                        214
+                    ],
+                    [
+                        391,
+                        198
+                    ],
+                    [
+                        403,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1665006,
+            "classId": 4017,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:51.927Z",
+            "updatedAt": "2023-06-07T13:19:51.927Z",
+            "tags": [],
+            "classTitle": "sun-dried-tomatoe",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        307
+                    ],
+                    [
+                        347,
+                        311
+                    ],
+                    [
+                        318,
+                        396
+                    ],
+                    [
+                        364,
+                        388
+                    ],
+                    [
+                        375,
+                        361
+                    ],
+                    [
+                        383,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1665005,
+            "classId": 4017,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:51.926Z",
+            "updatedAt": "2023-06-07T13:19:51.926Z",
+            "tags": [],
+            "classTitle": "sun-dried-tomatoe",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        416
+                    ],
+                    [
+                        386,
+                        377
+                    ],
+                    [
+                        356,
+                        446
+                    ],
+                    [
+                        327,
+                        492
+                    ],
+                    [
+                        352,
+                        493
+                    ],
+                    [
+                        380,
+                        467
+                    ],
+                    [
+                        396,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1665003,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:51.925Z",
+            "updatedAt": "2023-06-07T13:19:51.925Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        135
+                    ],
+                    [
+                        284,
+                        269
+                    ],
+                    [
+                        321,
+                        208
+                    ],
+                    [
+                        312,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1665002,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:51.925Z",
+            "updatedAt": "2023-06-07T13:19:51.925Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        208
+                    ],
+                    [
+                        305,
+                        392
+                    ],
+                    [
+                        344,
+                        370
+                    ],
+                    [
+                        353,
+                        338
+                    ],
+                    [
+                        365,
+                        260
+                    ],
+                    [
+                        365,
+                        232
+                    ],
+                    [
+                        355,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1665001,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:51.924Z",
+            "updatedAt": "2023-06-07T13:19:51.924Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        274
+                    ],
+                    [
+                        394,
+                        280
+                    ],
+                    [
+                        330,
+                        429
+                    ],
+                    [
+                        312,
+                        463
+                    ],
+                    [
+                        364,
+                        435
+                    ],
+                    [
+                        396,
+                        326
+                    ],
+                    [
+                        397,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
