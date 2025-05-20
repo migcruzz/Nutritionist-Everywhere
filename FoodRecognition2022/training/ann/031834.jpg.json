@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1670709,
+            "classId": 4271,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:44.488Z",
+            "updatedAt": "2023-06-07T13:23:44.488Z",
+            "tags": [],
+            "classTitle": "gluten-free-bread",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        152
+                    ],
+                    [
+                        47,
+                        166
+                    ],
+                    [
+                        64,
+                        361
+                    ],
+                    [
+                        393,
+                        403
+                    ],
+                    [
+                        405,
+                        343
+                    ],
+                    [
+                        309,
+                        275
+                    ],
+                    [
+                        248,
+                        201
+                    ],
+                    [
+                        268,
+                        171
+                    ],
+                    [
+                        268,
+                        167
+                    ],
+                    [
+                        274,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670707,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:44.488Z",
+            "updatedAt": "2023-06-07T13:23:44.488Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        229
+                    ],
+                    [
+                        386,
+                        316
+                    ],
+                    [
+                        258,
+                        225
+                    ],
+                    [
+                        268,
+                        141
+                    ],
+                    [
+                        337,
+                        130
+                    ],
+                    [
+                        426,
+                        182
+                    ],
+                    [
+                        468,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

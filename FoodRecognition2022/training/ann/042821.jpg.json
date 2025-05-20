@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1652899,
+            "classId": 4313,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:12.272Z",
+            "updatedAt": "2023-06-07T13:11:12.272Z",
+            "tags": [],
+            "classTitle": "apricots",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        399
+                    ],
+                    [
+                        262,
+                        279
+                    ],
+                    [
+                        223,
+                        264
+                    ],
+                    [
+                        179,
+                        298
+                    ],
+                    [
+                        159,
+                        374
+                    ],
+                    [
+                        201,
+                        400
+                    ],
+                    [
+                        204,
+                        399
+                    ],
+                    [
+                        235,
+                        393
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

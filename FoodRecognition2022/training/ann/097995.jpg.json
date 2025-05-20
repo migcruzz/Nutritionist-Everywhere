@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1670571,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:37.938Z",
+            "updatedAt": "2023-06-07T13:23:37.938Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        240
+                    ],
+                    [
+                        118,
+                        257
+                    ],
+                    [
+                        116,
+                        311
+                    ],
+                    [
+                        118,
+                        338
+                    ],
+                    [
+                        163,
+                        362
+                    ],
+                    [
+                        185,
+                        388
+                    ],
+                    [
+                        229,
+                        381
+                    ],
+                    [
+                        234,
+                        336
+                    ],
+                    [
+                        274,
+                        311
+                    ],
+                    [
+                        262,
+                        278
+                    ],
+                    [
+                        240,
+                        241
+                    ],
+                    [
+                        228,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670569,
+            "classId": 4007,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:37.937Z",
+            "updatedAt": "2023-06-07T13:23:37.937Z",
+            "tags": [],
+            "classTitle": "country-fries",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        185
+                    ],
+                    [
+                        294,
+                        197
+                    ],
+                    [
+                        285,
+                        237
+                    ],
+                    [
+                        257,
+                        256
+                    ],
+                    [
+                        291,
+                        306
+                    ],
+                    [
+                        225,
+                        345
+                    ],
+                    [
+                        251,
+                        385
+                    ],
+                    [
+                        272,
+                        394
+                    ],
+                    [
+                        291,
+                        386
+                    ],
+                    [
+                        328,
+                        392
+                    ],
+                    [
+                        345,
+                        349
+                    ],
+                    [
+                        404,
+                        314
+                    ],
+                    [
+                        416,
+                        247
+                    ],
+                    [
+                        417,
+                        192
+                    ],
+                    [
+                        389,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 820,
+        "width": 820
+    },
+    "objects": [
+        {
+            "id": 1728644,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:44.196Z",
+            "updatedAt": "2023-06-07T14:04:44.196Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        508
+                    ],
+                    [
+                        483,
+                        321
+                    ],
+                    [
+                        419,
+                        247
+                    ],
+                    [
+                        384,
+                        172
+                    ],
+                    [
+                        165,
+                        163
+                    ],
+                    [
+                        153,
+                        352
+                    ],
+                    [
+                        173,
+                        543
+                    ],
+                    [
+                        265,
+                        582
+                    ],
+                    [
+                        321,
+                        545
+                    ],
+                    [
+                        343,
+                        495
+                    ],
+                    [
+                        423,
+                        528
+                    ],
+                    [
+                        462,
+                        524
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728642,
+            "classId": 3857,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:44.196Z",
+            "updatedAt": "2023-06-07T14:04:44.196Z",
+            "tags": [],
+            "classTitle": "vegetable-mix-peas-and-carrots",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        309
+                    ],
+                    [
+                        474,
+                        493
+                    ],
+                    [
+                        433,
+                        539
+                    ],
+                    [
+                        360,
+                        504
+                    ],
+                    [
+                        319,
+                        573
+                    ],
+                    [
+                        148,
+                        532
+                    ],
+                    [
+                        136,
+                        623
+                    ],
+                    [
+                        161,
+                        735
+                    ],
+                    [
+                        274,
+                        780
+                    ],
+                    [
+                        561,
+                        776
+                    ],
+                    [
+                        632,
+                        717
+                    ],
+                    [
+                        620,
+                        536
+                    ],
+                    [
+                        614,
+                        409
+                    ],
+                    [
+                        575,
+                        344
+                    ],
+                    [
+                        483,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

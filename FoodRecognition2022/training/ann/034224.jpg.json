@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1681555,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:54.359Z",
+            "updatedAt": "2023-06-07T13:30:54.359Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        224
+                    ],
+                    [
+                        267,
+                        74
+                    ],
+                    [
+                        211,
+                        28
+                    ],
+                    [
+                        63,
+                        74
+                    ],
+                    [
+                        12,
+                        147
+                    ],
+                    [
+                        11,
+                        279
+                    ],
+                    [
+                        49,
+                        428
+                    ],
+                    [
+                        113,
+                        416
+                    ],
+                    [
+                        291,
+                        471
+                    ],
+                    [
+                        287,
+                        370
+                    ],
+                    [
+                        301,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1681553,
+            "classId": 4263,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:54.358Z",
+            "updatedAt": "2023-06-07T13:30:54.358Z",
+            "tags": [],
+            "classTitle": "goat-average-raw",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        230
+                    ],
+                    [
+                        400,
+                        130
+                    ],
+                    [
+                        318,
+                        141
+                    ],
+                    [
+                        292,
+                        211
+                    ],
+                    [
+                        298,
+                        332
+                    ],
+                    [
+                        359,
+                        355
+                    ],
+                    [
+                        393,
+                        330
+                    ],
+                    [
+                        413,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1681551,
+            "classId": 3871,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:54.358Z",
+            "updatedAt": "2023-06-07T13:30:54.358Z",
+            "tags": [],
+            "classTitle": "salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        405,
+                        232
+                    ],
+                    [
+                        373,
+                        151
+                    ],
+                    [
+                        280,
+                        152
+                    ],
+                    [
+                        132,
+                        140
+                    ],
+                    [
+                        72,
+                        194
+                    ],
+                    [
+                        69,
+                        274
+                    ],
+                    [
+                        131,
+                        319
+                    ],
+                    [
+                        235,
+                        391
+                    ],
+                    [
+                        318,
+                        374
+                    ],
+                    [
+                        384,
+                        344
+                    ],
+                    [
+                        402,
+                        282
+                    ],
+                    [
+                        397,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

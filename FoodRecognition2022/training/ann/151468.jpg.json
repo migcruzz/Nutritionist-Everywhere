@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1671973,
+            "classId": 3431,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:32.599Z",
+            "updatedAt": "2023-06-07T13:24:32.599Z",
+            "tags": [],
+            "classTitle": "cottage-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        207
+                    ],
+                    [
+                        386,
+                        176
+                    ],
+                    [
+                        376,
+                        169
+                    ],
+                    [
+                        350,
+                        191
+                    ],
+                    [
+                        350,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1671971,
+            "classId": 3941,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:32.598Z",
+            "updatedAt": "2023-06-07T13:24:32.598Z",
+            "tags": [],
+            "classTitle": "pomegranate",
+            "points": {
+                "exterior": [
+                    [
+                        340,
+                        162
+                    ],
+                    [
+                        271,
+                        150
+                    ],
+                    [
+                        231,
+                        164
+                    ],
+                    [
+                        168,
+                        153
+                    ],
+                    [
+                        131,
+                        208
+                    ],
+                    [
+                        81,
+                        234
+                    ],
+                    [
+                        104,
+                        282
+                    ],
+                    [
+                        213,
+                        302
+                    ],
+                    [
+                        300,
+                        271
+                    ],
+                    [
+                        351,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

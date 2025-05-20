@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1706836,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:48.943Z",
+            "updatedAt": "2023-06-07T13:48:48.943Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        771,
+                        598
+                    ],
+                    [
+                        572,
+                        598
+                    ],
+                    [
+                        600,
+                        665
+                    ],
+                    [
+                        718,
+                        659
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1706835,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:48.943Z",
+            "updatedAt": "2023-06-07T13:48:48.943Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        480,
+                        731
+                    ],
+                    [
+                        285,
+                        777
+                    ],
+                    [
+                        331,
+                        818
+                    ],
+                    [
+                        395,
+                        818
+                    ],
+                    [
+                        444,
+                        782
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1706833,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:48.942Z",
+            "updatedAt": "2023-06-07T13:48:48.942Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        636,
+                        188
+                    ],
+                    [
+                        490,
+                        186
+                    ],
+                    [
+                        472,
+                        222
+                    ],
+                    [
+                        162,
+                        316
+                    ],
+                    [
+                        129,
+                        467
+                    ],
+                    [
+                        188,
+                        759
+                    ],
+                    [
+                        254,
+                        785
+                    ],
+                    [
+                        526,
+                        713
+                    ],
+                    [
+                        533,
+                        619
+                    ],
+                    [
+                        643,
+                        593
+                    ],
+                    [
+                        840,
+                        590
+                    ],
+                    [
+                        889,
+                        560
+                    ],
+                    [
+                        843,
+                        383
+                    ],
+                    [
+                        741,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

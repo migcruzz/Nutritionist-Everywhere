@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1740169,
+            "classId": 3525,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:40.719Z",
+            "updatedAt": "2023-06-07T14:12:40.719Z",
+            "tags": [],
+            "classTitle": "wine-white",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        349
+                    ],
+                    [
+                        382,
+                        452
+                    ],
+                    [
+                        470,
+                        516
+                    ],
+                    [
+                        566,
+                        507
+                    ],
+                    [
+                        645,
+                        409
+                    ],
+                    [
+                        640,
+                        334
+                    ],
+                    [
+                        570,
+                        300
+                    ],
+                    [
+                        433,
+                        283
+                    ],
+                    [
+                        399,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740167,
+            "classId": 3795,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:40.717Z",
+            "updatedAt": "2023-06-07T14:12:40.717Z",
+            "tags": [],
+            "classTitle": "ice-cubes",
+            "points": {
+                "exterior": [
+                    [
+                        521,
+                        328
+                    ],
+                    [
+                        491,
+                        300
+                    ],
+                    [
+                        414,
+                        311
+                    ],
+                    [
+                        374,
+                        353
+                    ],
+                    [
+                        399,
+                        385
+                    ],
+                    [
+                        463,
+                        411
+                    ],
+                    [
+                        521,
+                        437
+                    ],
+                    [
+                        578,
+                        467
+                    ],
+                    [
+                        630,
+                        426
+                    ],
+                    [
+                        634,
+                        385
+                    ],
+                    [
+                        591,
+                        347
+                    ],
+                    [
+                        544,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

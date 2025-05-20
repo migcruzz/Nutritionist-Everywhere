@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 820,
+        "width": 820
+    },
+    "objects": [
+        {
+            "id": 1758812,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:37.230Z",
+            "updatedAt": "2023-06-07T14:25:37.230Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        93
+                    ],
+                    [
+                        231,
+                        104
+                    ],
+                    [
+                        249,
+                        255
+                    ],
+                    [
+                        323,
+                        395
+                    ],
+                    [
+                        368,
+                        755
+                    ],
+                    [
+                        434,
+                        817
+                    ],
+                    [
+                        489,
+                        757
+                    ],
+                    [
+                        473,
+                        462
+                    ],
+                    [
+                        413,
+                        339
+                    ],
+                    [
+                        341,
+                        276
+                    ],
+                    [
+                        272,
+                        87
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1758810,
+            "classId": 3737,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:37.229Z",
+            "updatedAt": "2023-06-07T14:25:37.229Z",
+            "tags": [],
+            "classTitle": "hummus",
+            "points": {
+                "exterior": [
+                    [
+                        458,
+                        91
+                    ],
+                    [
+                        378,
+                        46
+                    ],
+                    [
+                        345,
+                        216
+                    ],
+                    [
+                        423,
+                        239
+                    ],
+                    [
+                        470,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

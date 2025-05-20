@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1204,
+        "width": 1204
+    },
+    "objects": [
+        {
+            "id": 1640750,
+            "classId": 3443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:16.555Z",
+            "updatedAt": "2023-06-07T13:03:16.555Z",
+            "tags": [],
+            "classTitle": "salmon-smoked",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        870
+                    ],
+                    [
+                        470,
+                        812
+                    ],
+                    [
+                        406,
+                        815
+                    ],
+                    [
+                        385,
+                        864
+                    ],
+                    [
+                        382,
+                        945
+                    ],
+                    [
+                        400,
+                        1029
+                    ],
+                    [
+                        409,
+                        1080
+                    ],
+                    [
+                        421,
+                        1113
+                    ],
+                    [
+                        454,
+                        1119
+                    ],
+                    [
+                        500,
+                        1122
+                    ],
+                    [
+                        515,
+                        1113
+                    ],
+                    [
+                        521,
+                        1080
+                    ],
+                    [
+                        509,
+                        1011
+                    ],
+                    [
+                        488,
+                        918
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640749,
+            "classId": 3443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:16.554Z",
+            "updatedAt": "2023-06-07T13:03:16.554Z",
+            "tags": [],
+            "classTitle": "salmon-smoked",
+            "points": {
+                "exterior": [
+                    [
+                        754,
+                        903
+                    ],
+                    [
+                        645,
+                        890
+                    ],
+                    [
+                        588,
+                        1011
+                    ],
+                    [
+                        591,
+                        1152
+                    ],
+                    [
+                        672,
+                        1185
+                    ],
+                    [
+                        711,
+                        1131
+                    ],
+                    [
+                        741,
+                        999
+                    ],
+                    [
+                        757,
+                        939
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

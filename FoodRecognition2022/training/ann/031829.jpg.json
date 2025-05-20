@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1796652,
+            "classId": 3569,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:53.484Z",
+            "updatedAt": "2023-06-07T14:50:53.484Z",
+            "tags": [],
+            "classTitle": "soup-of-lentils-dahl-dhal",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        196
+                    ],
+                    [
+                        88,
+                        155
+                    ],
+                    [
+                        32,
+                        228
+                    ],
+                    [
+                        8,
+                        354
+                    ],
+                    [
+                        170,
+                        398
+                    ],
+                    [
+                        264,
+                        358
+                    ],
+                    [
+                        236,
+                        268
+                    ],
+                    [
+                        253,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1796650,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:53.483Z",
+            "updatedAt": "2023-06-07T14:50:53.483Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        197
+                    ],
+                    [
+                        305,
+                        176
+                    ],
+                    [
+                        291,
+                        225
+                    ],
+                    [
+                        351,
+                        264
+                    ],
+                    [
+                        370,
+                        329
+                    ],
+                    [
+                        401,
+                        344
+                    ],
+                    [
+                        400,
+                        314
+                    ],
+                    [
+                        382,
+                        263
+                    ],
+                    [
+                        393,
+                        210
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

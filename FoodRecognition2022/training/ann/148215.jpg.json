@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1700511,
+            "classId": 3585,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:13.413Z",
+            "updatedAt": "2023-06-07T13:44:13.413Z",
+            "tags": [],
+            "classTitle": "cream",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        181
+                    ],
+                    [
+                        133,
+                        160
+                    ],
+                    [
+                        72,
+                        171
+                    ],
+                    [
+                        54,
+                        212
+                    ],
+                    [
+                        115,
+                        323
+                    ],
+                    [
+                        190,
+                        353
+                    ],
+                    [
+                        222,
+                        317
+                    ],
+                    [
+                        220,
+                        280
+                    ],
+                    [
+                        197,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1700509,
+            "classId": 4061,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:13.411Z",
+            "updatedAt": "2023-06-07T13:44:13.411Z",
+            "tags": [],
+            "classTitle": "apple-crumble",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        9
+                    ],
+                    [
+                        145,
+                        3
+                    ],
+                    [
+                        74,
+                        22
+                    ],
+                    [
+                        97,
+                        126
+                    ],
+                    [
+                        136,
+                        167
+                    ],
+                    [
+                        236,
+                        319
+                    ],
+                    [
+                        265,
+                        340
+                    ],
+                    [
+                        278,
+                        296
+                    ],
+                    [
+                        265,
+                        62
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

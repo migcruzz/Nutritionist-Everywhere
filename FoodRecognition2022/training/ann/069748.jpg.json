@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1738856,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:51.688Z",
+            "updatedAt": "2023-06-07T14:11:51.688Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        215,
+                        73
+                    ],
+                    [
+                        95,
+                        23
+                    ],
+                    [
+                        62,
+                        34
+                    ],
+                    [
+                        43,
+                        84
+                    ],
+                    [
+                        117,
+                        253
+                    ],
+                    [
+                        184,
+                        353
+                    ],
+                    [
+                        302,
+                        357
+                    ],
+                    [
+                        337,
+                        244
+                    ],
+                    [
+                        267,
+                        226
+                    ],
+                    [
+                        256,
+                        170
+                    ],
+                    [
+                        279,
+                        158
+                    ],
+                    [
+                        289,
+                        141
+                    ],
+                    [
+                        230,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738854,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:51.687Z",
+            "updatedAt": "2023-06-07T14:11:51.687Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        122
+                    ],
+                    [
+                        117,
+                        83
+                    ],
+                    [
+                        81,
+                        69
+                    ],
+                    [
+                        62,
+                        71
+                    ],
+                    [
+                        81,
+                        179
+                    ],
+                    [
+                        132,
+                        205
+                    ],
+                    [
+                        125,
+                        255
+                    ],
+                    [
+                        140,
+                        320
+                    ],
+                    [
+                        232,
+                        332
+                    ],
+                    [
+                        302,
+                        342
+                    ],
+                    [
+                        316,
+                        317
+                    ],
+                    [
+                        218,
+                        293
+                    ],
+                    [
+                        195,
+                        249
+                    ],
+                    [
+                        141,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

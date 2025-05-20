@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1771093,
+            "classId": 3613,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:33:27.909Z",
+            "updatedAt": "2023-06-07T14:33:27.909Z",
+            "tags": [],
+            "classTitle": "cheese-for-raclette",
+            "points": {
+                "exterior": [
+                    [
+                        555,
+                        388
+                    ],
+                    [
+                        310,
+                        375
+                    ],
+                    [
+                        145,
+                        537
+                    ],
+                    [
+                        182,
+                        701
+                    ],
+                    [
+                        450,
+                        823
+                    ],
+                    [
+                        642,
+                        750
+                    ],
+                    [
+                        757,
+                        548
+                    ],
+                    [
+                        625,
+                        403
+                    ],
+                    [
+                        555,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1771091,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:33:27.908Z",
+            "updatedAt": "2023-06-07T14:33:27.908Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        125
+                    ],
+                    [
+                        199,
+                        157
+                    ],
+                    [
+                        222,
+                        215
+                    ],
+                    [
+                        320,
+                        213
+                    ],
+                    [
+                        339,
+                        166
+                    ],
+                    [
+                        324,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1771089,
+            "classId": 4273,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:33:27.906Z",
+            "updatedAt": "2023-06-07T14:33:27.906Z",
+            "tags": [],
+            "classTitle": "pearl-onions",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        142
+                    ],
+                    [
+                        461,
+                        176
+                    ],
+                    [
+                        565,
+                        247
+                    ],
+                    [
+                        606,
+                        223
+                    ],
+                    [
+                        608,
+                        183
+                    ],
+                    [
+                        572,
+                        157
+                    ],
+                    [
+                        523,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

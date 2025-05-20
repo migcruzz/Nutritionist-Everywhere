@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1769416,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:18.459Z",
+            "updatedAt": "2023-06-07T14:32:18.459Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        167
+                    ],
+                    [
+                        35,
+                        142
+                    ],
+                    [
+                        56,
+                        99
+                    ],
+                    [
+                        86,
+                        86
+                    ],
+                    [
+                        107,
+                        77
+                    ],
+                    [
+                        114,
+                        77
+                    ],
+                    [
+                        72,
+                        143
+                    ],
+                    [
+                        66,
+                        159
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769414,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:18.459Z",
+            "updatedAt": "2023-06-07T14:32:18.459Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        220
+                    ],
+                    [
+                        240,
+                        252
+                    ],
+                    [
+                        253,
+                        271
+                    ],
+                    [
+                        272,
+                        265
+                    ],
+                    [
+                        280,
+                        256
+                    ],
+                    [
+                        268,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769413,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:18.458Z",
+            "updatedAt": "2023-06-07T14:32:18.458Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        376
+                    ],
+                    [
+                        119,
+                        334
+                    ],
+                    [
+                        98,
+                        326
+                    ],
+                    [
+                        89,
+                        346
+                    ],
+                    [
+                        109,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

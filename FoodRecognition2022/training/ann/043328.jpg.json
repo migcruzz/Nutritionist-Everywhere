@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1769215,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:13.515Z",
+            "updatedAt": "2023-06-07T14:32:13.515Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        819,
+                        441
+                    ],
+                    [
+                        647,
+                        637
+                    ],
+                    [
+                        483,
+                        560
+                    ],
+                    [
+                        376,
+                        462
+                    ],
+                    [
+                        365,
+                        349
+                    ],
+                    [
+                        340,
+                        264
+                    ],
+                    [
+                        425,
+                        59
+                    ],
+                    [
+                        625,
+                        85
+                    ],
+                    [
+                        805,
+                        232
+                    ],
+                    [
+                        813,
+                        336
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769213,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:13.515Z",
+            "updatedAt": "2023-06-07T14:32:13.515Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        555,
+                        656
+                    ],
+                    [
+                        512,
+                        573
+                    ],
+                    [
+                        436,
+                        475
+                    ],
+                    [
+                        387,
+                        371
+                    ],
+                    [
+                        350,
+                        283
+                    ],
+                    [
+                        427,
+                        185
+                    ],
+                    [
+                        425,
+                        104
+                    ],
+                    [
+                        335,
+                        44
+                    ],
+                    [
+                        239,
+                        117
+                    ],
+                    [
+                        175,
+                        228
+                    ],
+                    [
+                        41,
+                        385
+                    ],
+                    [
+                        62,
+                        601
+                    ],
+                    [
+                        124,
+                        697
+                    ],
+                    [
+                        252,
+                        729
+                    ],
+                    [
+                        444,
+                        729
+                    ],
+                    [
+                        534,
+                        684
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769211,
+            "classId": 3709,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:13.514Z",
+            "updatedAt": "2023-06-07T14:32:13.514Z",
+            "tags": [],
+            "classTitle": "sauce-soya",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        215
+                    ],
+                    [
+                        56,
+                        313
+                    ],
+                    [
+                        43,
+                        458
+                    ],
+                    [
+                        60,
+                        490
+                    ],
+                    [
+                        118,
+                        494
+                    ],
+                    [
+                        141,
+                        437
+                    ],
+                    [
+                        152,
+                        356
+                    ],
+                    [
+                        175,
+                        283
+                    ],
+                    [
+                        199,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

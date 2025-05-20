@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1808015,
+            "classId": 3863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:40.986Z",
+            "updatedAt": "2023-06-07T14:58:40.986Z",
+            "tags": [],
+            "classTitle": "dairy-ice-cream",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        241
+                    ],
+                    [
+                        193,
+                        155
+                    ],
+                    [
+                        86,
+                        241
+                    ],
+                    [
+                        177,
+                        348
+                    ],
+                    [
+                        259,
+                        330
+                    ],
+                    [
+                        300,
+                        251
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

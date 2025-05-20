@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1093,
+        "width": 1092
+    },
+    "objects": [
+        {
+            "id": 1695326,
+            "classId": 3739,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.068Z",
+            "updatedAt": "2023-06-07T13:40:22.068Z",
+            "tags": [],
+            "classTitle": "pizza-with-vegetables-baked",
+            "points": {
+                "exterior": [
+                    [
+                        711,
+                        508
+                    ],
+                    [
+                        108,
+                        587
+                    ],
+                    [
+                        176,
+                        992
+                    ],
+                    [
+                        274,
+                        1033
+                    ],
+                    [
+                        796,
+                        1019
+                    ],
+                    [
+                        750,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695324,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.067Z",
+            "updatedAt": "2023-06-07T13:40:22.067Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        1067,
+                        448
+                    ],
+                    [
+                        936,
+                        232
+                    ],
+                    [
+                        824,
+                        98
+                    ],
+                    [
+                        572,
+                        229
+                    ],
+                    [
+                        509,
+                        303
+                    ],
+                    [
+                        616,
+                        497
+                    ],
+                    [
+                        859,
+                        639
+                    ],
+                    [
+                        1061,
+                        563
+                    ],
+                    [
+                        1086,
+                        519
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695322,
+            "classId": 4297,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.067Z",
+            "updatedAt": "2023-06-07T13:40:22.067Z",
+            "tags": [],
+            "classTitle": "veal-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        1009,
+                        448
+                    ],
+                    [
+                        736,
+                        371
+                    ],
+                    [
+                        695,
+                        429
+                    ],
+                    [
+                        747,
+                        519
+                    ],
+                    [
+                        955,
+                        604
+                    ],
+                    [
+                        1023,
+                        508
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

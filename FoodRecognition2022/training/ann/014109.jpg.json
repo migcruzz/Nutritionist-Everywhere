@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1014,
+        "width": 1014
+    },
+    "objects": [
+        {
+            "id": 1661645,
+            "classId": 3655,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.175Z",
+            "updatedAt": "2023-06-07T13:17:15.175Z",
+            "tags": [],
+            "classTitle": "spring-roll-fried",
+            "points": {
+                "exterior": [
+                    [
+                        566,
+                        245
+                    ],
+                    [
+                        599,
+                        514
+                    ],
+                    [
+                        784,
+                        577
+                    ],
+                    [
+                        835,
+                        585
+                    ],
+                    [
+                        944,
+                        334
+                    ],
+                    [
+                        804,
+                        324
+                    ],
+                    [
+                        733,
+                        375
+                    ],
+                    [
+                        693,
+                        215
+                    ],
+                    [
+                        617,
+                        215
+                    ],
+                    [
+                        568,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661643,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:15.175Z",
+            "updatedAt": "2023-06-07T13:17:15.175Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        375
+                    ],
+                    [
+                        117,
+                        689
+                    ],
+                    [
+                        284,
+                        813
+                    ],
+                    [
+                        406,
+                        712
+                    ],
+                    [
+                        624,
+                        266
+                    ],
+                    [
+                        525,
+                        243
+                    ],
+                    [
+                        439,
+                        400
+                    ],
+                    [
+                        393,
+                        329
+                    ],
+                    [
+                        335,
+                        395
+                    ],
+                    [
+                        287,
+                        334
+                    ],
+                    [
+                        254,
+                        362
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

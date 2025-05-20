@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1666431,
+            "classId": 3903,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:49.037Z",
+            "updatedAt": "2023-06-07T13:20:49.037Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        135,
+                        129
+                    ],
+                    [
+                        82,
+                        173
+                    ],
+                    [
+                        84,
+                        265
+                    ],
+                    [
+                        101,
+                        330
+                    ],
+                    [
+                        147,
+                        369
+                    ],
+                    [
+                        209,
+                        375
+                    ],
+                    [
+                        175,
+                        292
+                    ],
+                    [
+                        143,
+                        221
+                    ],
+                    [
+                        159,
+                        155
+                    ],
+                    [
+                        171,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666430,
+            "classId": 3903,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:49.037Z",
+            "updatedAt": "2023-06-07T13:20:49.037Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        98
+                    ],
+                    [
+                        285,
+                        141
+                    ],
+                    [
+                        332,
+                        192
+                    ],
+                    [
+                        326,
+                        281
+                    ],
+                    [
+                        305,
+                        308
+                    ],
+                    [
+                        318,
+                        341
+                    ],
+                    [
+                        353,
+                        337
+                    ],
+                    [
+                        377,
+                        283
+                    ],
+                    [
+                        372,
+                        198
+                    ],
+                    [
+                        352,
+                        136
+                    ],
+                    [
+                        314,
+                        100
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

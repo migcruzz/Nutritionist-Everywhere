@@ -1,0 +1,414 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1799125,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:38.422Z",
+            "updatedAt": "2023-06-07T14:52:38.422Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        61
+                    ],
+                    [
+                        356,
+                        147
+                    ],
+                    [
+                        271,
+                        165
+                    ],
+                    [
+                        48,
+                        188
+                    ],
+                    [
+                        20,
+                        100
+                    ],
+                    [
+                        89,
+                        55
+                    ],
+                    [
+                        181,
+                        52
+                    ],
+                    [
+                        228,
+                        53
+                    ],
+                    [
+                        238,
+                        55
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799123,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:38.422Z",
+            "updatedAt": "2023-06-07T14:52:38.422Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        433
+                    ],
+                    [
+                        365,
+                        391
+                    ],
+                    [
+                        405,
+                        331
+                    ],
+                    [
+                        392,
+                        318
+                    ],
+                    [
+                        374,
+                        318
+                    ],
+                    [
+                        352,
+                        270
+                    ],
+                    [
+                        325,
+                        335
+                    ],
+                    [
+                        283,
+                        355
+                    ],
+                    [
+                        253,
+                        378
+                    ],
+                    [
+                        169,
+                        383
+                    ],
+                    [
+                        97,
+                        408
+                    ],
+                    [
+                        119,
+                        449
+                    ],
+                    [
+                        205,
+                        452
+                    ],
+                    [
+                        240,
+                        447
+                    ],
+                    [
+                        272,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799122,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:38.422Z",
+            "updatedAt": "2023-06-07T14:52:38.422Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        297,
+                        271
+                    ],
+                    [
+                        232,
+                        241
+                    ],
+                    [
+                        222,
+                        298
+                    ],
+                    [
+                        162,
+                        276
+                    ],
+                    [
+                        108,
+                        289
+                    ],
+                    [
+                        138,
+                        319
+                    ],
+                    [
+                        174,
+                        330
+                    ],
+                    [
+                        192,
+                        338
+                    ],
+                    [
+                        219,
+                        372
+                    ],
+                    [
+                        237,
+                        356
+                    ],
+                    [
+                        265,
+                        308
+                    ],
+                    [
+                        276,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799120,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:38.421Z",
+            "updatedAt": "2023-06-07T14:52:38.421Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        183
+                    ],
+                    [
+                        320,
+                        229
+                    ],
+                    [
+                        335,
+                        250
+                    ],
+                    [
+                        332,
+                        290
+                    ],
+                    [
+                        296,
+                        308
+                    ],
+                    [
+                        292,
+                        271
+                    ],
+                    [
+                        297,
+                        205
+                    ],
+                    [
+                        308,
+                        173
+                    ],
+                    [
+                        392,
+                        159
+                    ],
+                    [
+                        398,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799119,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:38.421Z",
+            "updatedAt": "2023-06-07T14:52:38.421Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        365
+                    ],
+                    [
+                        143,
+                        316
+                    ],
+                    [
+                        78,
+                        318
+                    ],
+                    [
+                        82,
+                        370
+                    ],
+                    [
+                        98,
+                        390
+                    ],
+                    [
+                        126,
+                        398
+                    ],
+                    [
+                        153,
+                        382
+                    ],
+                    [
+                        156,
+                        366
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799117,
+            "classId": 3491,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:38.420Z",
+            "updatedAt": "2023-06-07T14:52:38.420Z",
+            "tags": [],
+            "classTitle": "cashew-nut",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        385
+                    ],
+                    [
+                        416,
+                        359
+                    ],
+                    [
+                        412,
+                        334
+                    ],
+                    [
+                        393,
+                        326
+                    ],
+                    [
+                        401,
+                        279
+                    ],
+                    [
+                        387,
+                        270
+                    ],
+                    [
+                        350,
+                        299
+                    ],
+                    [
+                        374,
+                        318
+                    ],
+                    [
+                        383,
+                        326
+                    ],
+                    [
+                        383,
+                        336
+                    ],
+                    [
+                        356,
+                        356
+                    ],
+                    [
+                        358,
+                        370
+                    ],
+                    [
+                        373,
+                        390
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799116,
+            "classId": 3491,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:38.419Z",
+            "updatedAt": "2023-06-07T14:52:38.419Z",
+            "tags": [],
+            "classTitle": "cashew-nut",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        373
+                    ],
+                    [
+                        205,
+                        387
+                    ],
+                    [
+                        208,
+                        365
+                    ],
+                    [
+                        200,
+                        348
+                    ],
+                    [
+                        174,
+                        359
+                    ],
+                    [
+                        174,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

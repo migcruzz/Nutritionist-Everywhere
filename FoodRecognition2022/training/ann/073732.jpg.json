@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 952
+    },
+    "objects": [
+        {
+            "id": 1687103,
+            "classId": 4301,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:45.321Z",
+            "updatedAt": "2023-06-07T13:34:45.321Z",
+            "tags": [],
+            "classTitle": "sorbet",
+            "points": {
+                "exterior": [
+                    [
+                        510,
+                        674
+                    ],
+                    [
+                        729,
+                        657
+                    ],
+                    [
+                        748,
+                        547
+                    ],
+                    [
+                        643,
+                        481
+                    ],
+                    [
+                        501,
+                        471
+                    ],
+                    [
+                        410,
+                        524
+                    ],
+                    [
+                        439,
+                        586
+                    ],
+                    [
+                        455,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1687101,
+            "classId": 3863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:45.320Z",
+            "updatedAt": "2023-06-07T13:34:45.320Z",
+            "tags": [],
+            "classTitle": "dairy-ice-cream",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        307
+                    ],
+                    [
+                        362,
+                        407
+                    ],
+                    [
+                        403,
+                        495
+                    ],
+                    [
+                        441,
+                        450
+                    ],
+                    [
+                        439,
+                        335
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1687099,
+            "classId": 4211,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:45.319Z",
+            "updatedAt": "2023-06-07T13:34:45.319Z",
+            "tags": [],
+            "classTitle": "thickened-cream-35",
+            "points": {
+                "exterior": [
+                    [
+                        784,
+                        369
+                    ],
+                    [
+                        677,
+                        285
+                    ],
+                    [
+                        522,
+                        247
+                    ],
+                    [
+                        455,
+                        312
+                    ],
+                    [
+                        472,
+                        452
+                    ],
+                    [
+                        555,
+                        474
+                    ],
+                    [
+                        667,
+                        483
+                    ],
+                    [
+                        724,
+                        483
+                    ],
+                    [
+                        786,
+                        421
+                    ],
+                    [
+                        786,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

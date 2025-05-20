@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1679984,
+            "classId": 3737,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:58.297Z",
+            "updatedAt": "2023-06-07T13:29:58.297Z",
+            "tags": [],
+            "classTitle": "hummus",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        162
+                    ],
+                    [
+                        49,
+                        224
+                    ],
+                    [
+                        46,
+                        290
+                    ],
+                    [
+                        110,
+                        338
+                    ],
+                    [
+                        183,
+                        317
+                    ],
+                    [
+                        227,
+                        271
+                    ],
+                    [
+                        227,
+                        212
+                    ],
+                    [
+                        201,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679982,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:58.297Z",
+            "updatedAt": "2023-06-07T13:29:58.297Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        141
+                    ],
+                    [
+                        248,
+                        114
+                    ],
+                    [
+                        258,
+                        97
+                    ],
+                    [
+                        393,
+                        67
+                    ],
+                    [
+                        407,
+                        91
+                    ],
+                    [
+                        397,
+                        120
+                    ],
+                    [
+                        401,
+                        150
+                    ],
+                    [
+                        391,
+                        176
+                    ],
+                    [
+                        397,
+                        186
+                    ],
+                    [
+                        441,
+                        200
+                    ],
+                    [
+                        437,
+                        274
+                    ],
+                    [
+                        328,
+                        250
+                    ],
+                    [
+                        371,
+                        314
+                    ],
+                    [
+                        294,
+                        266
+                    ],
+                    [
+                        265,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

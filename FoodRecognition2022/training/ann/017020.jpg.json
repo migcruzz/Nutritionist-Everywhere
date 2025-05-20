@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1779736,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:11.251Z",
+            "updatedAt": "2023-06-07T14:39:11.251Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        21
+                    ],
+                    [
+                        148,
+                        69
+                    ],
+                    [
+                        167,
+                        164
+                    ],
+                    [
+                        228,
+                        223
+                    ],
+                    [
+                        383,
+                        234
+                    ],
+                    [
+                        440,
+                        234
+                    ],
+                    [
+                        467,
+                        186
+                    ],
+                    [
+                        421,
+                        78
+                    ],
+                    [
+                        323,
+                        50
+                    ],
+                    [
+                        278,
+                        24
+                    ],
+                    [
+                        193,
+                        19
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779734,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:11.250Z",
+            "updatedAt": "2023-06-07T14:39:11.250Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        283
+                    ],
+                    [
+                        212,
+                        142
+                    ],
+                    [
+                        126,
+                        45
+                    ],
+                    [
+                        78,
+                        40
+                    ],
+                    [
+                        38,
+                        128
+                    ],
+                    [
+                        24,
+                        169
+                    ],
+                    [
+                        16,
+                        213
+                    ],
+                    [
+                        53,
+                        256
+                    ],
+                    [
+                        100,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779732,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:11.249Z",
+            "updatedAt": "2023-06-07T14:39:11.249Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        218
+                    ],
+                    [
+                        103,
+                        311
+                    ],
+                    [
+                        164,
+                        404
+                    ],
+                    [
+                        254,
+                        421
+                    ],
+                    [
+                        308,
+                        387
+                    ],
+                    [
+                        317,
+                        313
+                    ],
+                    [
+                        299,
+                        241
+                    ],
+                    [
+                        272,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1758286,
+            "classId": 4007,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:14.498Z",
+            "updatedAt": "2023-06-07T14:25:14.498Z",
+            "tags": [],
+            "classTitle": "country-fries",
+            "points": {
+                "exterior": [
+                    [
+                        348,
+                        100
+                    ],
+                    [
+                        230,
+                        32
+                    ],
+                    [
+                        80,
+                        28
+                    ],
+                    [
+                        17,
+                        102
+                    ],
+                    [
+                        12,
+                        230
+                    ],
+                    [
+                        116,
+                        335
+                    ],
+                    [
+                        222,
+                        378
+                    ],
+                    [
+                        315,
+                        375
+                    ],
+                    [
+                        370,
+                        328
+                    ],
+                    [
+                        396,
+                        178
+                    ],
+                    [
+                        373,
+                        127
+                    ],
+                    [
+                        361,
+                        101
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1758284,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:25:14.498Z",
+            "updatedAt": "2023-06-07T14:25:14.498Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        304
+                    ],
+                    [
+                        259,
+                        231
+                    ],
+                    [
+                        279,
+                        162
+                    ],
+                    [
+                        283,
+                        102
+                    ],
+                    [
+                        163,
+                        60
+                    ],
+                    [
+                        70,
+                        79
+                    ],
+                    [
+                        35,
+                        181
+                    ],
+                    [
+                        73,
+                        281
+                    ],
+                    [
+                        141,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

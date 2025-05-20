@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1713503,
+            "classId": 3663,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:02.893Z",
+            "updatedAt": "2023-06-07T13:54:02.893Z",
+            "tags": [],
+            "classTitle": "roll-of-half-white-or-white-flour-with-large-void",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        184
+                    ],
+                    [
+                        320,
+                        89
+                    ],
+                    [
+                        242,
+                        26
+                    ],
+                    [
+                        108,
+                        33
+                    ],
+                    [
+                        12,
+                        102
+                    ],
+                    [
+                        22,
+                        185
+                    ],
+                    [
+                        82,
+                        240
+                    ],
+                    [
+                        146,
+                        247
+                    ],
+                    [
+                        235,
+                        249
+                    ],
+                    [
+                        296,
+                        216
+                    ],
+                    [
+                        318,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713501,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:02.893Z",
+            "updatedAt": "2023-06-07T13:54:02.893Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        224
+                    ],
+                    [
+                        87,
+                        353
+                    ],
+                    [
+                        213,
+                        349
+                    ],
+                    [
+                        350,
+                        303
+                    ],
+                    [
+                        375,
+                        268
+                    ],
+                    [
+                        355,
+                        173
+                    ],
+                    [
+                        311,
+                        239
+                    ],
+                    [
+                        252,
+                        257
+                    ],
+                    [
+                        172,
+                        251
+                    ],
+                    [
+                        103,
+                        238
+                    ],
+                    [
+                        51,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713499,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:02.892Z",
+            "updatedAt": "2023-06-07T13:54:02.892Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        167
+                    ],
+                    [
+                        253,
+                        240
+                    ],
+                    [
+                        201,
+                        263
+                    ],
+                    [
+                        288,
+                        280
+                    ],
+                    [
+                        336,
+                        260
+                    ],
+                    [
+                        342,
+                        215
+                    ],
+                    [
+                        339,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

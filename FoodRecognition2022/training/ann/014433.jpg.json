@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1711664,
+            "classId": 3611,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:37.457Z",
+            "updatedAt": "2023-06-07T13:52:37.457Z",
+            "tags": [],
+            "classTitle": "applesauce-unsweetened-canned",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        279
+                    ],
+                    [
+                        293,
+                        205
+                    ],
+                    [
+                        264,
+                        239
+                    ],
+                    [
+                        274,
+                        294
+                    ],
+                    [
+                        331,
+                        328
+                    ],
+                    [
+                        381,
+                        295
+                    ],
+                    [
+                        393,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711662,
+            "classId": 3651,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:37.456Z",
+            "updatedAt": "2023-06-07T13:52:37.456Z",
+            "tags": [],
+            "classTitle": "french-beans",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        103
+                    ],
+                    [
+                        138,
+                        114
+                    ],
+                    [
+                        58,
+                        216
+                    ],
+                    [
+                        100,
+                        311
+                    ],
+                    [
+                        159,
+                        313
+                    ],
+                    [
+                        233,
+                        243
+                    ],
+                    [
+                        252,
+                        217
+                    ],
+                    [
+                        253,
+                        205
+                    ],
+                    [
+                        223,
+                        186
+                    ],
+                    [
+                        205,
+                        149
+                    ],
+                    [
+                        232,
+                        137
+                    ],
+                    [
+                        265,
+                        119
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711660,
+            "classId": 3479,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:37.456Z",
+            "updatedAt": "2023-06-07T13:52:37.456Z",
+            "tags": [],
+            "classTitle": "sauce-cream",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        198
+                    ],
+                    [
+                        258,
+                        209
+                    ],
+                    [
+                        199,
+                        300
+                    ],
+                    [
+                        263,
+                        389
+                    ],
+                    [
+                        323,
+                        413
+                    ],
+                    [
+                        377,
+                        373
+                    ],
+                    [
+                        409,
+                        280
+                    ],
+                    [
+                        391,
+                        209
+                    ],
+                    [
+                        349,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

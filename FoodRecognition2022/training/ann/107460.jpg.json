@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1683725,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:26.589Z",
+            "updatedAt": "2023-06-07T13:32:26.589Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        203
+                    ],
+                    [
+                        239,
+                        188
+                    ],
+                    [
+                        209,
+                        256
+                    ],
+                    [
+                        157,
+                        251
+                    ],
+                    [
+                        172,
+                        276
+                    ],
+                    [
+                        248,
+                        306
+                    ],
+                    [
+                        274,
+                        293
+                    ],
+                    [
+                        251,
+                        202
+                    ],
+                    [
+                        251,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683723,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:26.587Z",
+            "updatedAt": "2023-06-07T13:32:26.587Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        292
+                    ],
+                    [
+                        166,
+                        267
+                    ],
+                    [
+                        146,
+                        268
+                    ],
+                    [
+                        173,
+                        297
+                    ],
+                    [
+                        204,
+                        302
+                    ],
+                    [
+                        211,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

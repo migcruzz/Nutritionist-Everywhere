@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1663975,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:55.569Z",
+            "updatedAt": "2023-06-07T13:18:55.569Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        225
+                    ],
+                    [
+                        369,
+                        137
+                    ],
+                    [
+                        473,
+                        168
+                    ],
+                    [
+                        474,
+                        465
+                    ],
+                    [
+                        234,
+                        470
+                    ],
+                    [
+                        186,
+                        416
+                    ],
+                    [
+                        3,
+                        304
+                    ],
+                    [
+                        17,
+                        225
+                    ],
+                    [
+                        121,
+                        264
+                    ],
+                    [
+                        352,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1663973,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:18:55.569Z",
+            "updatedAt": "2023-06-07T13:18:55.569Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        333,
+                        221
+                    ],
+                    [
+                        381,
+                        156
+                    ],
+                    [
+                        193,
+                        69
+                    ],
+                    [
+                        84,
+                        241
+                    ],
+                    [
+                        121,
+                        256
+                    ],
+                    [
+                        332,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

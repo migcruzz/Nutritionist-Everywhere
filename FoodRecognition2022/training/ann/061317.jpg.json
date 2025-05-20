@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1728538,
+            "classId": 4065,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:38.474Z",
+            "updatedAt": "2023-06-07T14:04:38.474Z",
+            "tags": [],
+            "classTitle": "grapefruit-pomelo",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        768
+                    ],
+                    [
+                        106,
+                        700
+                    ],
+                    [
+                        189,
+                        632
+                    ],
+                    [
+                        347,
+                        608
+                    ],
+                    [
+                        339,
+                        691
+                    ],
+                    [
+                        159,
+                        775
+                    ],
+                    [
+                        113,
+                        775
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728536,
+            "classId": 4217,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:38.473Z",
+            "updatedAt": "2023-06-07T14:04:38.473Z",
+            "tags": [],
+            "classTitle": "shrimp-prawn-large",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        419
+                    ],
+                    [
+                        388,
+                        495
+                    ],
+                    [
+                        407,
+                        553
+                    ],
+                    [
+                        501,
+                        546
+                    ],
+                    [
+                        580,
+                        487
+                    ],
+                    [
+                        629,
+                        423
+                    ],
+                    [
+                        603,
+                        404
+                    ],
+                    [
+                        535,
+                        461
+                    ],
+                    [
+                        490,
+                        487
+                    ],
+                    [
+                        460,
+                        485
+                    ],
+                    [
+                        443,
+                        419
+                    ],
+                    [
+                        392,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728534,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:38.472Z",
+            "updatedAt": "2023-06-07T14:04:38.472Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        841
+                    ],
+                    [
+                        311,
+                        775
+                    ],
+                    [
+                        364,
+                        685
+                    ],
+                    [
+                        481,
+                        655
+                    ],
+                    [
+                        381,
+                        845
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

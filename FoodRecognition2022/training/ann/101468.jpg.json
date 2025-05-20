@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1781415,
+            "classId": 3635,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:31.595Z",
+            "updatedAt": "2023-06-07T14:40:31.595Z",
+            "tags": [],
+            "classTitle": "bread",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        237
+                    ],
+                    [
+                        264,
+                        290
+                    ],
+                    [
+                        65,
+                        295
+                    ],
+                    [
+                        104,
+                        327
+                    ],
+                    [
+                        164,
+                        334
+                    ],
+                    [
+                        320,
+                        303
+                    ],
+                    [
+                        363,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781413,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:31.594Z",
+            "updatedAt": "2023-06-07T14:40:31.594Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        226
+                    ],
+                    [
+                        117,
+                        277
+                    ],
+                    [
+                        75,
+                        287
+                    ],
+                    [
+                        170,
+                        316
+                    ],
+                    [
+                        238,
+                        305
+                    ],
+                    [
+                        301,
+                        273
+                    ],
+                    [
+                        332,
+                        262
+                    ],
+                    [
+                        352,
+                        221
+                    ],
+                    [
+                        335,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

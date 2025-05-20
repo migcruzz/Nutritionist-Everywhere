@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1670055,
+            "classId": 3921,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:12.431Z",
+            "updatedAt": "2023-06-07T13:23:12.431Z",
+            "tags": [],
+            "classTitle": "mango",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        175
+                    ],
+                    [
+                        351,
+                        114
+                    ],
+                    [
+                        216,
+                        63
+                    ],
+                    [
+                        102,
+                        44
+                    ],
+                    [
+                        60,
+                        87
+                    ],
+                    [
+                        91,
+                        199
+                    ],
+                    [
+                        142,
+                        243
+                    ],
+                    [
+                        196,
+                        253
+                    ],
+                    [
+                        181,
+                        177
+                    ],
+                    [
+                        159,
+                        142
+                    ],
+                    [
+                        210,
+                        151
+                    ],
+                    [
+                        253,
+                        189
+                    ],
+                    [
+                        294,
+                        222
+                    ],
+                    [
+                        318,
+                        273
+                    ],
+                    [
+                        409,
+                        339
+                    ],
+                    [
+                        435,
+                        315
+                    ],
+                    [
+                        433,
+                        230
+                    ],
+                    [
+                        401,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670054,
+            "classId": 3921,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:12.430Z",
+            "updatedAt": "2023-06-07T13:23:12.430Z",
+            "tags": [],
+            "classTitle": "mango",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        276
+                    ],
+                    [
+                        189,
+                        354
+                    ],
+                    [
+                        201,
+                        462
+                    ],
+                    [
+                        357,
+                        474
+                    ],
+                    [
+                        258,
+                        424
+                    ],
+                    [
+                        250,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

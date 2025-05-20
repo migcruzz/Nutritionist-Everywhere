@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1753884,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:11.922Z",
+            "updatedAt": "2023-06-07T14:22:11.922Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        48,
+                        150
+                    ],
+                    [
+                        145,
+                        177
+                    ],
+                    [
+                        240,
+                        170
+                    ],
+                    [
+                        295,
+                        142
+                    ],
+                    [
+                        409,
+                        214
+                    ],
+                    [
+                        397,
+                        324
+                    ],
+                    [
+                        267,
+                        417
+                    ],
+                    [
+                        144,
+                        416
+                    ],
+                    [
+                        43,
+                        348
+                    ],
+                    [
+                        9,
+                        243
+                    ],
+                    [
+                        11,
+                        180
+                    ],
+                    [
+                        51,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753882,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:11.921Z",
+            "updatedAt": "2023-06-07T14:22:11.921Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        50
+                    ],
+                    [
+                        96,
+                        102
+                    ],
+                    [
+                        145,
+                        145
+                    ],
+                    [
+                        259,
+                        162
+                    ],
+                    [
+                        282,
+                        129
+                    ],
+                    [
+                        215,
+                        73
+                    ],
+                    [
+                        143,
+                        44
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1753880,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:11.921Z",
+            "updatedAt": "2023-06-07T14:22:11.921Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        80
+                    ],
+                    [
+                        58,
+                        146
+                    ],
+                    [
+                        163,
+                        177
+                    ],
+                    [
+                        274,
+                        164
+                    ],
+                    [
+                        292,
+                        130
+                    ],
+                    [
+                        249,
+                        66
+                    ],
+                    [
+                        166,
+                        24
+                    ],
+                    [
+                        151,
+                        48
+                    ],
+                    [
+                        203,
+                        73
+                    ],
+                    [
+                        165,
+                        145
+                    ],
+                    [
+                        121,
+                        140
+                    ],
+                    [
+                        77,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

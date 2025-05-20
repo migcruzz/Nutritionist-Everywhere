@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1639968,
+            "classId": 3931,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:43.436Z",
+            "updatedAt": "2023-06-07T13:02:43.436Z",
+            "tags": [],
+            "classTitle": "risotto-without-cheese-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        118
+                    ],
+                    [
+                        58,
+                        199
+                    ],
+                    [
+                        99,
+                        280
+                    ],
+                    [
+                        243,
+                        348
+                    ],
+                    [
+                        344,
+                        362
+                    ],
+                    [
+                        394,
+                        300
+                    ],
+                    [
+                        321,
+                        202
+                    ],
+                    [
+                        178,
+                        154
+                    ],
+                    [
+                        166,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639966,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:43.435Z",
+            "updatedAt": "2023-06-07T13:02:43.435Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        193
+                    ],
+                    [
+                        158,
+                        170
+                    ],
+                    [
+                        105,
+                        272
+                    ],
+                    [
+                        142,
+                        366
+                    ],
+                    [
+                        230,
+                        410
+                    ],
+                    [
+                        331,
+                        402
+                    ],
+                    [
+                        330,
+                        314
+                    ],
+                    [
+                        279,
+                        235
+                    ],
+                    [
+                        276,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639964,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:43.435Z",
+            "updatedAt": "2023-06-07T13:02:43.435Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        24
+                    ],
+                    [
+                        160,
+                        92
+                    ],
+                    [
+                        286,
+                        201
+                    ],
+                    [
+                        363,
+                        288
+                    ],
+                    [
+                        448,
+                        241
+                    ],
+                    [
+                        477,
+                        132
+                    ],
+                    [
+                        427,
+                        52
+                    ],
+                    [
+                        343,
+                        25
+                    ],
+                    [
+                        280,
+                        24
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639962,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:43.434Z",
+            "updatedAt": "2023-06-07T13:02:43.434Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        189
+                    ],
+                    [
+                        339,
+                        141
+                    ],
+                    [
+                        308,
+                        121
+                    ],
+                    [
+                        234,
+                        134
+                    ],
+                    [
+                        253,
+                        188
+                    ],
+                    [
+                        279,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

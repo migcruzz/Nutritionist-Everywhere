@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1754809,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:51.814Z",
+            "updatedAt": "2023-06-07T14:22:51.814Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        94
+                    ],
+                    [
+                        236,
+                        66
+                    ],
+                    [
+                        160,
+                        91
+                    ],
+                    [
+                        74,
+                        254
+                    ],
+                    [
+                        99,
+                        319
+                    ],
+                    [
+                        170,
+                        315
+                    ],
+                    [
+                        295,
+                        211
+                    ],
+                    [
+                        312,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

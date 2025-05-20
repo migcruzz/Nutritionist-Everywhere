@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1710808,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:01.669Z",
+            "updatedAt": "2023-06-07T13:52:01.669Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        144
+                    ],
+                    [
+                        168,
+                        143
+                    ],
+                    [
+                        144,
+                        137
+                    ],
+                    [
+                        129,
+                        128
+                    ],
+                    [
+                        128,
+                        112
+                    ],
+                    [
+                        136,
+                        103
+                    ],
+                    [
+                        158,
+                        87
+                    ],
+                    [
+                        207,
+                        78
+                    ],
+                    [
+                        240,
+                        78
+                    ],
+                    [
+                        252,
+                        81
+                    ],
+                    [
+                        281,
+                        101
+                    ],
+                    [
+                        288,
+                        111
+                    ],
+                    [
+                        285,
+                        119
+                    ],
+                    [
+                        264,
+                        131
+                    ],
+                    [
+                        233,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710806,
+            "classId": 3933,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:01.669Z",
+            "updatedAt": "2023-06-07T13:52:01.669Z",
+            "tags": [],
+            "classTitle": "milk-chocolate-with-hazelnuts",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        316
+                    ],
+                    [
+                        193,
+                        312
+                    ],
+                    [
+                        185,
+                        305
+                    ],
+                    [
+                        181,
+                        293
+                    ],
+                    [
+                        182,
+                        273
+                    ],
+                    [
+                        194,
+                        261
+                    ],
+                    [
+                        202,
+                        258
+                    ],
+                    [
+                        215,
+                        259
+                    ],
+                    [
+                        225,
+                        265
+                    ],
+                    [
+                        230,
+                        271
+                    ],
+                    [
+                        234,
+                        284
+                    ],
+                    [
+                        233,
+                        295
+                    ],
+                    [
+                        228,
+                        305
+                    ],
+                    [
+                        220,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

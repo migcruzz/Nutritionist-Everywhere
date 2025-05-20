@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1807800,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:33.324Z",
+            "updatedAt": "2023-06-07T14:58:33.324Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        645
+                    ],
+                    [
+                        470,
+                        750
+                    ],
+                    [
+                        755,
+                        801
+                    ],
+                    [
+                        789,
+                        697
+                    ],
+                    [
+                        609,
+                        624
+                    ],
+                    [
+                        456,
+                        650
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807798,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:33.324Z",
+            "updatedAt": "2023-06-07T14:58:33.324Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        358,
+                        424
+                    ],
+                    [
+                        482,
+                        784
+                    ],
+                    [
+                        336,
+                        891
+                    ],
+                    [
+                        27,
+                        621
+                    ],
+                    [
+                        100,
+                        502
+                    ],
+                    [
+                        181,
+                        514
+                    ],
+                    [
+                        229,
+                        453
+                    ],
+                    [
+                        363,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807796,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:33.324Z",
+            "updatedAt": "2023-06-07T14:58:33.324Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        519,
+                        329
+                    ],
+                    [
+                        640,
+                        524
+                    ],
+                    [
+                        966,
+                        385
+                    ],
+                    [
+                        850,
+                        212
+                    ],
+                    [
+                        609,
+                        118
+                    ],
+                    [
+                        524,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807794,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:33.323Z",
+            "updatedAt": "2023-06-07T14:58:33.323Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        791,
+                        650
+                    ],
+                    [
+                        891,
+                        694
+                    ],
+                    [
+                        893,
+                        616
+                    ],
+                    [
+                        774,
+                        526
+                    ],
+                    [
+                        755,
+                        558
+                    ],
+                    [
+                        786,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

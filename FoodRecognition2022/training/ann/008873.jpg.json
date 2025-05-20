@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1678876,
+            "classId": 4257,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:19.333Z",
+            "updatedAt": "2023-06-07T13:29:19.333Z",
+            "tags": [],
+            "classTitle": "coca-cola",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        252
+                    ],
+                    [
+                        157,
+                        378
+                    ],
+                    [
+                        210,
+                        406
+                    ],
+                    [
+                        270,
+                        404
+                    ],
+                    [
+                        318,
+                        384
+                    ],
+                    [
+                        337,
+                        354
+                    ],
+                    [
+                        366,
+                        236
+                    ],
+                    [
+                        331,
+                        152
+                    ],
+                    [
+                        241,
+                        129
+                    ],
+                    [
+                        160,
+                        150
+                    ],
+                    [
+                        128,
+                        178
+                    ],
+                    [
+                        104,
+                        206
+                    ],
+                    [
+                        88,
+                        241
+                    ],
+                    [
+                        90,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1678874,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:19.332Z",
+            "updatedAt": "2023-06-07T13:29:19.332Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        210
+                    ],
+                    [
+                        290,
+                        192
+                    ],
+                    [
+                        274,
+                        150
+                    ],
+                    [
+                        192,
+                        146
+                    ],
+                    [
+                        130,
+                        172
+                    ],
+                    [
+                        132,
+                        202
+                    ],
+                    [
+                        164,
+                        208
+                    ],
+                    [
+                        169,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

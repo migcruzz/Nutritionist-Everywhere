@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1704007,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:40.376Z",
+            "updatedAt": "2023-06-07T13:46:40.376Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        384
+                    ],
+                    [
+                        177,
+                        384
+                    ],
+                    [
+                        145,
+                        380
+                    ],
+                    [
+                        131,
+                        372
+                    ],
+                    [
+                        103,
+                        338
+                    ],
+                    [
+                        89,
+                        303
+                    ],
+                    [
+                        87,
+                        245
+                    ],
+                    [
+                        90,
+                        231
+                    ],
+                    [
+                        99,
+                        216
+                    ],
+                    [
+                        96,
+                        177
+                    ],
+                    [
+                        102,
+                        159
+                    ],
+                    [
+                        155,
+                        133
+                    ],
+                    [
+                        205,
+                        121
+                    ],
+                    [
+                        215,
+                        113
+                    ],
+                    [
+                        228,
+                        108
+                    ],
+                    [
+                        243,
+                        111
+                    ],
+                    [
+                        266,
+                        131
+                    ],
+                    [
+                        287,
+                        140
+                    ],
+                    [
+                        312,
+                        146
+                    ],
+                    [
+                        345,
+                        162
+                    ],
+                    [
+                        385,
+                        176
+                    ],
+                    [
+                        405,
+                        188
+                    ],
+                    [
+                        411,
+                        197
+                    ],
+                    [
+                        412,
+                        207
+                    ],
+                    [
+                        410,
+                        244
+                    ],
+                    [
+                        406,
+                        250
+                    ],
+                    [
+                        403,
+                        273
+                    ],
+                    [
+                        401,
+                        355
+                    ],
+                    [
+                        385,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704005,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:40.375Z",
+            "updatedAt": "2023-06-07T13:46:40.375Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        104
+                    ],
+                    [
+                        97,
+                        161
+                    ],
+                    [
+                        100,
+                        227
+                    ],
+                    [
+                        169,
+                        356
+                    ],
+                    [
+                        403,
+                        337
+                    ],
+                    [
+                        405,
+                        285
+                    ],
+                    [
+                        366,
+                        219
+                    ],
+                    [
+                        152,
+                        278
+                    ],
+                    [
+                        133,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704003,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:40.375Z",
+            "updatedAt": "2023-06-07T13:46:40.375Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        341
+                    ],
+                    [
+                        270,
+                        323
+                    ],
+                    [
+                        161,
+                        350
+                    ],
+                    [
+                        206,
+                        365
+                    ],
+                    [
+                        227,
+                        363
+                    ],
+                    [
+                        283,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704001,
+            "classId": 4225,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:40.374Z",
+            "updatedAt": "2023-06-07T13:46:40.374Z",
+            "tags": [],
+            "classTitle": "chives",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        126
+                    ],
+                    [
+                        142,
+                        198
+                    ],
+                    [
+                        172,
+                        297
+                    ],
+                    [
+                        287,
+                        228
+                    ],
+                    [
+                        379,
+                        194
+                    ],
+                    [
+                        319,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

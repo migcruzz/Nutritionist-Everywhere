@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1689373,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:20.816Z",
+            "updatedAt": "2023-06-07T13:36:20.816Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        94
+                    ],
+                    [
+                        294,
+                        133
+                    ],
+                    [
+                        268,
+                        118
+                    ],
+                    [
+                        263,
+                        103
+                    ],
+                    [
+                        275,
+                        70
+                    ],
+                    [
+                        334,
+                        45
+                    ],
+                    [
+                        350,
+                        47
+                    ],
+                    [
+                        375,
+                        65
+                    ],
+                    [
+                        376,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1689371,
+            "classId": 3995,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:20.813Z",
+            "updatedAt": "2023-06-07T13:36:20.813Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal-toast",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        273
+                    ],
+                    [
+                        145,
+                        270
+                    ],
+                    [
+                        84,
+                        258
+                    ],
+                    [
+                        76,
+                        254
+                    ],
+                    [
+                        71,
+                        247
+                    ],
+                    [
+                        71,
+                        229
+                    ],
+                    [
+                        78,
+                        213
+                    ],
+                    [
+                        97,
+                        190
+                    ],
+                    [
+                        110,
+                        182
+                    ],
+                    [
+                        121,
+                        179
+                    ],
+                    [
+                        174,
+                        171
+                    ],
+                    [
+                        190,
+                        174
+                    ],
+                    [
+                        207,
+                        182
+                    ],
+                    [
+                        215,
+                        193
+                    ],
+                    [
+                        215,
+                        206
+                    ],
+                    [
+                        189,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1689369,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:20.812Z",
+            "updatedAt": "2023-06-07T13:36:20.812Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        165,
+                        90
+                    ],
+                    [
+                        114,
+                        87
+                    ],
+                    [
+                        83,
+                        100
+                    ],
+                    [
+                        75,
+                        118
+                    ],
+                    [
+                        81,
+                        143
+                    ],
+                    [
+                        127,
+                        147
+                    ],
+                    [
+                        163,
+                        145
+                    ],
+                    [
+                        174,
+                        117
+                    ],
+                    [
+                        174,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

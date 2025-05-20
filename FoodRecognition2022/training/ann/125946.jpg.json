@@ -1,0 +1,270 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1695958,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:52.363Z",
+            "updatedAt": "2023-06-07T13:40:52.363Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        166
+                    ],
+                    [
+                        222,
+                        138
+                    ],
+                    [
+                        130,
+                        112
+                    ],
+                    [
+                        84,
+                        212
+                    ],
+                    [
+                        101,
+                        267
+                    ],
+                    [
+                        166,
+                        301
+                    ],
+                    [
+                        241,
+                        286
+                    ],
+                    [
+                        259,
+                        256
+                    ],
+                    [
+                        259,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695956,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:52.361Z",
+            "updatedAt": "2023-06-07T13:40:52.361Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        135
+                    ],
+                    [
+                        287,
+                        132
+                    ],
+                    [
+                        245,
+                        149
+                    ],
+                    [
+                        259,
+                        249
+                    ],
+                    [
+                        235,
+                        293
+                    ],
+                    [
+                        335,
+                        298
+                    ],
+                    [
+                        369,
+                        299
+                    ],
+                    [
+                        377,
+                        231
+                    ],
+                    [
+                        395,
+                        212
+                    ],
+                    [
+                        397,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695954,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:52.360Z",
+            "updatedAt": "2023-06-07T13:40:52.360Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        45
+                    ],
+                    [
+                        158,
+                        8
+                    ],
+                    [
+                        127,
+                        42
+                    ],
+                    [
+                        154,
+                        103
+                    ],
+                    [
+                        194,
+                        128
+                    ],
+                    [
+                        197,
+                        97
+                    ],
+                    [
+                        235,
+                        82
+                    ],
+                    [
+                        297,
+                        82
+                    ],
+                    [
+                        297,
+                        64
+                    ],
+                    [
+                        282,
+                        50
+                    ],
+                    [
+                        281,
+                        38
+                    ],
+                    [
+                        281,
+                        42
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695952,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:52.360Z",
+            "updatedAt": "2023-06-07T13:40:52.360Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        100
+                    ],
+                    [
+                        265,
+                        101
+                    ],
+                    [
+                        254,
+                        138
+                    ],
+                    [
+                        333,
+                        121
+                    ],
+                    [
+                        327,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695950,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:52.358Z",
+            "updatedAt": "2023-06-07T13:40:52.358Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        62
+                    ],
+                    [
+                        304,
+                        72
+                    ],
+                    [
+                        258,
+                        74
+                    ],
+                    [
+                        203,
+                        88
+                    ],
+                    [
+                        199,
+                        119
+                    ],
+                    [
+                        248,
+                        124
+                    ],
+                    [
+                        275,
+                        100
+                    ],
+                    [
+                        320,
+                        94
+                    ],
+                    [
+                        336,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

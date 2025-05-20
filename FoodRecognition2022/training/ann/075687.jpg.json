@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1642661,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:25.700Z",
+            "updatedAt": "2023-06-07T13:04:25.700Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        96
+                    ],
+                    [
+                        247,
+                        8
+                    ],
+                    [
+                        151,
+                        12
+                    ],
+                    [
+                        47,
+                        40
+                    ],
+                    [
+                        15,
+                        138
+                    ],
+                    [
+                        12,
+                        281
+                    ],
+                    [
+                        59,
+                        360
+                    ],
+                    [
+                        146,
+                        396
+                    ],
+                    [
+                        253,
+                        394
+                    ],
+                    [
+                        317,
+                        383
+                    ],
+                    [
+                        351,
+                        340
+                    ],
+                    [
+                        376,
+                        253
+                    ],
+                    [
+                        382,
+                        177
+                    ],
+                    [
+                        368,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1642659,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:25.699Z",
+            "updatedAt": "2023-06-07T13:04:25.699Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        141
+                    ],
+                    [
+                        163,
+                        133
+                    ],
+                    [
+                        174,
+                        104
+                    ],
+                    [
+                        147,
+                        81
+                    ],
+                    [
+                        137,
+                        33
+                    ],
+                    [
+                        126,
+                        20
+                    ],
+                    [
+                        82,
+                        30
+                    ],
+                    [
+                        38,
+                        54
+                    ],
+                    [
+                        61,
+                        96
+                    ],
+                    [
+                        81,
+                        109
+                    ],
+                    [
+                        92,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

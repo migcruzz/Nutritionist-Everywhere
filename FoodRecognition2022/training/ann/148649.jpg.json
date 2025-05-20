@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1005,
+        "width": 1006
+    },
+    "objects": [
+        {
+            "id": 1672629,
+            "classId": 3995,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:57.109Z",
+            "updatedAt": "2023-06-07T13:24:57.109Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal-toast",
+            "points": {
+                "exterior": [
+                    [
+                        952,
+                        177
+                    ],
+                    [
+                        602,
+                        114
+                    ],
+                    [
+                        464,
+                        190
+                    ],
+                    [
+                        474,
+                        436
+                    ],
+                    [
+                        856,
+                        547
+                    ],
+                    [
+                        909,
+                        461
+                    ],
+                    [
+                        977,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1672627,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:57.109Z",
+            "updatedAt": "2023-06-07T13:24:57.109Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        869,
+                        567
+                    ],
+                    [
+                        560,
+                        471
+                    ],
+                    [
+                        379,
+                        419
+                    ],
+                    [
+                        404,
+                        275
+                    ],
+                    [
+                        348,
+                        180
+                    ],
+                    [
+                        215,
+                        187
+                    ],
+                    [
+                        110,
+                        424
+                    ],
+                    [
+                        177,
+                        582
+                    ],
+                    [
+                        323,
+                        612
+                    ],
+                    [
+                        494,
+                        957
+                    ],
+                    [
+                        703,
+                        967
+                    ],
+                    [
+                        872,
+                        813
+                    ],
+                    [
+                        919,
+                        602
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

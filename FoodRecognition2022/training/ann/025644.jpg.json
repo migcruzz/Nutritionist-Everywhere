@@ -1,0 +1,230 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1806618,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:44.956Z",
+            "updatedAt": "2023-06-07T14:57:44.956Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        781,
+                        292
+                    ],
+                    [
+                        680,
+                        110
+                    ],
+                    [
+                        416,
+                        205
+                    ],
+                    [
+                        74,
+                        327
+                    ],
+                    [
+                        8,
+                        528
+                    ],
+                    [
+                        76,
+                        825
+                    ],
+                    [
+                        430,
+                        862
+                    ],
+                    [
+                        691,
+                        858
+                    ],
+                    [
+                        736,
+                        671
+                    ],
+                    [
+                        918,
+                        563
+                    ],
+                    [
+                        795,
+                        91
+                    ],
+                    [
+                        689,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1806616,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:44.956Z",
+            "updatedAt": "2023-06-07T14:57:44.956Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        575
+                    ],
+                    [
+                        215,
+                        596
+                    ],
+                    [
+                        310,
+                        921
+                    ],
+                    [
+                        555,
+                        893
+                    ],
+                    [
+                        522,
+                        657
+                    ],
+                    [
+                        404,
+                        591
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1806615,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:44.955Z",
+            "updatedAt": "2023-06-07T14:57:44.955Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        706,
+                        412
+                    ],
+                    [
+                        564,
+                        544
+                    ],
+                    [
+                        793,
+                        688
+                    ],
+                    [
+                        930,
+                        539
+                    ],
+                    [
+                        906,
+                        457
+                    ],
+                    [
+                        713,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1806613,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:44.955Z",
+            "updatedAt": "2023-06-07T14:57:44.955Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        440
+                    ],
+                    [
+                        215,
+                        530
+                    ],
+                    [
+                        533,
+                        702
+                    ],
+                    [
+                        621,
+                        462
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1806612,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:44.954Z",
+            "updatedAt": "2023-06-07T14:57:44.954Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        513
+                    ],
+                    [
+                        147,
+                        690
+                    ],
+                    [
+                        258,
+                        695
+                    ],
+                    [
+                        241,
+                        584
+                    ],
+                    [
+                        262,
+                        582
+                    ],
+                    [
+                        244,
+                        546
+                    ],
+                    [
+                        156,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

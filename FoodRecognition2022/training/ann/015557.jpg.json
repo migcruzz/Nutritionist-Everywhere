@@ -1,0 +1,402 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1776923,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:14.092Z",
+            "updatedAt": "2023-06-07T14:37:14.092Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        663,
+                        480
+                    ],
+                    [
+                        566,
+                        405
+                    ],
+                    [
+                        524,
+                        495
+                    ],
+                    [
+                        510,
+                        546
+                    ],
+                    [
+                        389,
+                        631
+                    ],
+                    [
+                        283,
+                        733
+                    ],
+                    [
+                        312,
+                        782
+                    ],
+                    [
+                        446,
+                        702
+                    ],
+                    [
+                        533,
+                        645
+                    ],
+                    [
+                        573,
+                        702
+                    ],
+                    [
+                        606,
+                        664
+                    ],
+                    [
+                        587,
+                        634
+                    ],
+                    [
+                        559,
+                        582
+                    ],
+                    [
+                        550,
+                        537
+                    ],
+                    [
+                        653,
+                        506
+                    ],
+                    [
+                        665,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776921,
+            "classId": 4013,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:14.091Z",
+            "updatedAt": "2023-06-07T14:37:14.091Z",
+            "tags": [],
+            "classTitle": "chicken-cut-into-stripes-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        882,
+                        587
+                    ],
+                    [
+                        745,
+                        466
+                    ],
+                    [
+                        677,
+                        506
+                    ],
+                    [
+                        592,
+                        518
+                    ],
+                    [
+                        458,
+                        466
+                    ],
+                    [
+                        413,
+                        591
+                    ],
+                    [
+                        411,
+                        636
+                    ],
+                    [
+                        618,
+                        563
+                    ],
+                    [
+                        651,
+                        622
+                    ],
+                    [
+                        762,
+                        721
+                    ],
+                    [
+                        913,
+                        693
+                    ],
+                    [
+                        889,
+                        617
+                    ],
+                    [
+                        885,
+                        584
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776919,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:14.091Z",
+            "updatedAt": "2023-06-07T14:37:14.091Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        672,
+                        438
+                    ],
+                    [
+                        375,
+                        525
+                    ],
+                    [
+                        208,
+                        747
+                    ],
+                    [
+                        26,
+                        636
+                    ],
+                    [
+                        33,
+                        322
+                    ],
+                    [
+                        38,
+                        202
+                    ],
+                    [
+                        239,
+                        240
+                    ],
+                    [
+                        255,
+                        266
+                    ],
+                    [
+                        354,
+                        209
+                    ],
+                    [
+                        465,
+                        193
+                    ],
+                    [
+                        580,
+                        226
+                    ],
+                    [
+                        656,
+                        315
+                    ],
+                    [
+                        701,
+                        396
+                    ],
+                    [
+                        670,
+                        443
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776917,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:14.090Z",
+            "updatedAt": "2023-06-07T14:37:14.090Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        741,
+                        693
+                    ],
+                    [
+                        595,
+                        558
+                    ],
+                    [
+                        564,
+                        497
+                    ],
+                    [
+                        540,
+                        579
+                    ],
+                    [
+                        552,
+                        641
+                    ],
+                    [
+                        463,
+                        622
+                    ],
+                    [
+                        425,
+                        688
+                    ],
+                    [
+                        458,
+                        733
+                    ],
+                    [
+                        562,
+                        744
+                    ],
+                    [
+                        609,
+                        841
+                    ],
+                    [
+                        689,
+                        815
+                    ],
+                    [
+                        682,
+                        768
+                    ],
+                    [
+                        729,
+                        707
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776915,
+            "classId": 3711,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:14.089Z",
+            "updatedAt": "2023-06-07T14:37:14.089Z",
+            "tags": [],
+            "classTitle": "balsamic-salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        223
+                    ],
+                    [
+                        107,
+                        339
+                    ],
+                    [
+                        55,
+                        532
+                    ],
+                    [
+                        31,
+                        610
+                    ],
+                    [
+                        163,
+                        674
+                    ],
+                    [
+                        356,
+                        554
+                    ],
+                    [
+                        394,
+                        485
+                    ],
+                    [
+                        470,
+                        424
+                    ],
+                    [
+                        635,
+                        379
+                    ],
+                    [
+                        611,
+                        297
+                    ],
+                    [
+                        496,
+                        306
+                    ],
+                    [
+                        441,
+                        322
+                    ],
+                    [
+                        345,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776913,
+            "classId": 4289,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:14.088Z",
+            "updatedAt": "2023-06-07T14:37:14.088Z",
+            "tags": [],
+            "classTitle": "corn-crisps",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        233
+                    ],
+                    [
+                        757,
+                        513
+                    ],
+                    [
+                        896,
+                        228
+                    ],
+                    [
+                        842,
+                        179
+                    ],
+                    [
+                        623,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

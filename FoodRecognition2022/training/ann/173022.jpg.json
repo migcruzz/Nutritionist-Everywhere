@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 977,
+        "width": 977
+    },
+    "objects": [
+        {
+            "id": 1645694,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:48.694Z",
+            "updatedAt": "2023-06-07T13:06:48.694Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        707,
+                        124
+                    ],
+                    [
+                        457,
+                        150
+                    ],
+                    [
+                        401,
+                        263
+                    ],
+                    [
+                        455,
+                        439
+                    ],
+                    [
+                        541,
+                        448
+                    ],
+                    [
+                        680,
+                        380
+                    ],
+                    [
+                        807,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645692,
+            "classId": 4393,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:48.694Z",
+            "updatedAt": "2023-06-07T13:06:48.694Z",
+            "tags": [],
+            "classTitle": "blackberry",
+            "points": {
+                "exterior": [
+                    [
+                        479,
+                        385
+                    ],
+                    [
+                        401,
+                        282
+                    ],
+                    [
+                        345,
+                        246
+                    ],
+                    [
+                        289,
+                        321
+                    ],
+                    [
+                        289,
+                        407
+                    ],
+                    [
+                        399,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645691,
+            "classId": 4393,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:48.693Z",
+            "updatedAt": "2023-06-07T13:06:48.693Z",
+            "tags": [],
+            "classTitle": "blackberry",
+            "points": {
+                "exterior": [
+                    [
+                        643,
+                        180
+                    ],
+                    [
+                        584,
+                        141
+                    ],
+                    [
+                        594,
+                        177
+                    ],
+                    [
+                        616,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645689,
+            "classId": 3503,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:48.693Z",
+            "updatedAt": "2023-06-07T13:06:48.693Z",
+            "tags": [],
+            "classTitle": "blueberries",
+            "points": {
+                "exterior": [
+                    [
+                        753,
+                        312
+                    ],
+                    [
+                        711,
+                        382
+                    ],
+                    [
+                        648,
+                        424
+                    ],
+                    [
+                        567,
+                        451
+                    ],
+                    [
+                        475,
+                        466
+                    ],
+                    [
+                        387,
+                        463
+                    ],
+                    [
+                        355,
+                        500
+                    ],
+                    [
+                        445,
+                        527
+                    ],
+                    [
+                        543,
+                        531
+                    ],
+                    [
+                        682,
+                        492
+                    ],
+                    [
+                        775,
+                        390
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645688,
+            "classId": 3503,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:48.692Z",
+            "updatedAt": "2023-06-07T13:06:48.692Z",
+            "tags": [],
+            "classTitle": "blueberries",
+            "points": {
+                "exterior": [
+                    [
+                        431,
+                        194
+                    ],
+                    [
+                        348,
+                        229
+                    ],
+                    [
+                        396,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

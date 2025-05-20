@@ -1,0 +1,346 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 799
+    },
+    "objects": [
+        {
+            "id": 1767894,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.581Z",
+            "updatedAt": "2023-06-07T14:31:17.581Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        663,
+                        114
+                    ],
+                    [
+                        423,
+                        42
+                    ],
+                    [
+                        101,
+                        84
+                    ],
+                    [
+                        7,
+                        272
+                    ],
+                    [
+                        7,
+                        562
+                    ],
+                    [
+                        319,
+                        774
+                    ],
+                    [
+                        477,
+                        782
+                    ],
+                    [
+                        695,
+                        742
+                    ],
+                    [
+                        765,
+                        558
+                    ],
+                    [
+                        789,
+                        326
+                    ],
+                    [
+                        753,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767892,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.580Z",
+            "updatedAt": "2023-06-07T14:31:17.580Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        106
+                    ],
+                    [
+                        199,
+                        136
+                    ],
+                    [
+                        233,
+                        328
+                    ],
+                    [
+                        67,
+                        476
+                    ],
+                    [
+                        171,
+                        564
+                    ],
+                    [
+                        327,
+                        440
+                    ],
+                    [
+                        393,
+                        362
+                    ],
+                    [
+                        345,
+                        468
+                    ],
+                    [
+                        635,
+                        540
+                    ],
+                    [
+                        697,
+                        422
+                    ],
+                    [
+                        523,
+                        324
+                    ],
+                    [
+                        677,
+                        176
+                    ],
+                    [
+                        577,
+                        116
+                    ],
+                    [
+                        559,
+                        124
+                    ],
+                    [
+                        387,
+                        274
+                    ],
+                    [
+                        367,
+                        290
+                    ],
+                    [
+                        329,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767890,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.579Z",
+            "updatedAt": "2023-06-07T14:31:17.579Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        212
+                    ],
+                    [
+                        139,
+                        308
+                    ],
+                    [
+                        191,
+                        340
+                    ],
+                    [
+                        233,
+                        316
+                    ],
+                    [
+                        201,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767889,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.579Z",
+            "updatedAt": "2023-06-07T14:31:17.579Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        64
+                    ],
+                    [
+                        347,
+                        168
+                    ],
+                    [
+                        383,
+                        326
+                    ],
+                    [
+                        413,
+                        316
+                    ],
+                    [
+                        385,
+                        252
+                    ],
+                    [
+                        479,
+                        188
+                    ],
+                    [
+                        525,
+                        116
+                    ],
+                    [
+                        405,
+                        156
+                    ],
+                    [
+                        409,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767888,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.578Z",
+            "updatedAt": "2023-06-07T14:31:17.578Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        386
+                    ],
+                    [
+                        215,
+                        570
+                    ],
+                    [
+                        357,
+                        628
+                    ],
+                    [
+                        403,
+                        572
+                    ],
+                    [
+                        553,
+                        592
+                    ],
+                    [
+                        569,
+                        560
+                    ],
+                    [
+                        485,
+                        502
+                    ],
+                    [
+                        359,
+                        480
+                    ],
+                    [
+                        381,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767887,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.578Z",
+            "updatedAt": "2023-06-07T14:31:17.578Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        651,
+                        234
+                    ],
+                    [
+                        515,
+                        350
+                    ],
+                    [
+                        615,
+                        390
+                    ],
+                    [
+                        711,
+                        382
+                    ],
+                    [
+                        753,
+                        272
+                    ],
+                    [
+                        687,
+                        360
+                    ],
+                    [
+                        641,
+                        336
+                    ],
+                    [
+                        649,
+                        270
+                    ],
+                    [
+                        657,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

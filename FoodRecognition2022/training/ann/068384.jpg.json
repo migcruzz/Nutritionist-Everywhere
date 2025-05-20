@@ -1,0 +1,302 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 912,
+        "width": 912
+    },
+    "objects": [
+        {
+            "id": 1781039,
+            "classId": 3609,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:12.082Z",
+            "updatedAt": "2023-06-07T14:40:12.082Z",
+            "tags": [],
+            "classTitle": "bread-grain",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        563
+                    ],
+                    [
+                        313,
+                        638
+                    ],
+                    [
+                        308,
+                        743
+                    ],
+                    [
+                        445,
+                        829
+                    ],
+                    [
+                        555,
+                        845
+                    ],
+                    [
+                        641,
+                        818
+                    ],
+                    [
+                        641,
+                        695
+                    ],
+                    [
+                        623,
+                        640
+                    ],
+                    [
+                        468,
+                        574
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781037,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:12.082Z",
+            "updatedAt": "2023-06-07T14:40:12.082Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        392
+                    ],
+                    [
+                        518,
+                        531
+                    ],
+                    [
+                        580,
+                        604
+                    ],
+                    [
+                        687,
+                        622
+                    ],
+                    [
+                        828,
+                        513
+                    ],
+                    [
+                        790,
+                        428
+                    ],
+                    [
+                        746,
+                        355
+                    ],
+                    [
+                        625,
+                        355
+                    ],
+                    [
+                        566,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781035,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:12.082Z",
+            "updatedAt": "2023-06-07T14:40:12.082Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        541,
+                        369
+                    ],
+                    [
+                        491,
+                        424
+                    ],
+                    [
+                        479,
+                        503
+                    ],
+                    [
+                        505,
+                        558
+                    ],
+                    [
+                        555,
+                        585
+                    ],
+                    [
+                        641,
+                        620
+                    ],
+                    [
+                        701,
+                        627
+                    ],
+                    [
+                        685,
+                        611
+                    ],
+                    [
+                        573,
+                        585
+                    ],
+                    [
+                        548,
+                        560
+                    ],
+                    [
+                        502,
+                        476
+                    ],
+                    [
+                        534,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781033,
+            "classId": 4181,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:12.082Z",
+            "updatedAt": "2023-06-07T14:40:12.082Z",
+            "tags": [],
+            "classTitle": "falafel-balls",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        458
+                    ],
+                    [
+                        311,
+                        294
+                    ],
+                    [
+                        137,
+                        342
+                    ],
+                    [
+                        201,
+                        433
+                    ],
+                    [
+                        283,
+                        453
+                    ],
+                    [
+                        347,
+                        469
+                    ],
+                    [
+                        365,
+                        481
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781031,
+            "classId": 4017,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:12.081Z",
+            "updatedAt": "2023-06-07T14:40:12.081Z",
+            "tags": [],
+            "classTitle": "sun-dried-tomatoe",
+            "points": {
+                "exterior": [
+                    [
+                        532,
+                        75
+                    ],
+                    [
+                        459,
+                        166
+                    ],
+                    [
+                        580,
+                        221
+                    ],
+                    [
+                        650,
+                        225
+                    ],
+                    [
+                        641,
+                        155
+                    ],
+                    [
+                        603,
+                        102
+                    ],
+                    [
+                        564,
+                        84
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781029,
+            "classId": 4103,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:12.081Z",
+            "updatedAt": "2023-06-07T14:40:12.081Z",
+            "tags": [],
+            "classTitle": "pineapple",
+            "points": {
+                "exterior": [
+                    [
+                        450,
+                        198
+                    ],
+                    [
+                        384,
+                        319
+                    ],
+                    [
+                        587,
+                        371
+                    ],
+                    [
+                        632,
+                        264
+                    ],
+                    [
+                        468,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

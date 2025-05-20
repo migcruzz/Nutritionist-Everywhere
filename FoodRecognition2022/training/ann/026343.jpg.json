@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1653120,
+            "classId": 3973,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:21.744Z",
+            "updatedAt": "2023-06-07T13:11:21.744Z",
+            "tags": [],
+            "classTitle": "mixed-nuts",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        350
+                    ],
+                    [
+                        444,
+                        158
+                    ],
+                    [
+                        234,
+                        97
+                    ],
+                    [
+                        29,
+                        176
+                    ],
+                    [
+                        21,
+                        276
+                    ],
+                    [
+                        159,
+                        374
+                    ],
+                    [
+                        252,
+                        372
+                    ],
+                    [
+                        268,
+                        360
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

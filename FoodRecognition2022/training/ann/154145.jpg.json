@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1726772,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:25.386Z",
+            "updatedAt": "2023-06-07T14:03:25.386Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        155
+                    ],
+                    [
+                        168,
+                        101
+                    ],
+                    [
+                        120,
+                        68
+                    ],
+                    [
+                        83,
+                        139
+                    ],
+                    [
+                        65,
+                        196
+                    ],
+                    [
+                        77,
+                        229
+                    ],
+                    [
+                        113,
+                        267
+                    ],
+                    [
+                        157,
+                        231
+                    ],
+                    [
+                        181,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726770,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:25.385Z",
+            "updatedAt": "2023-06-07T14:03:25.385Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        57
+                    ],
+                    [
+                        209,
+                        125
+                    ],
+                    [
+                        211,
+                        246
+                    ],
+                    [
+                        224,
+                        321
+                    ],
+                    [
+                        224,
+                        342
+                    ],
+                    [
+                        287,
+                        314
+                    ],
+                    [
+                        345,
+                        302
+                    ],
+                    [
+                        374,
+                        240
+                    ],
+                    [
+                        385,
+                        172
+                    ],
+                    [
+                        367,
+                        72
+                    ],
+                    [
+                        329,
+                        55
+                    ],
+                    [
+                        261,
+                        72
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

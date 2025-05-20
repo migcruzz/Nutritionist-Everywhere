@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 883,
+        "width": 884
+    },
+    "objects": [
+        {
+            "id": 1776808,
+            "classId": 3547,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:07.133Z",
+            "updatedAt": "2023-06-07T14:37:07.133Z",
+            "tags": [],
+            "classTitle": "linseeds",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        197
+                    ],
+                    [
+                        189,
+                        226
+                    ],
+                    [
+                        85,
+                        318
+                    ],
+                    [
+                        85,
+                        416
+                    ],
+                    [
+                        122,
+                        542
+                    ],
+                    [
+                        262,
+                        453
+                    ],
+                    [
+                        290,
+                        363
+                    ],
+                    [
+                        339,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776806,
+            "classId": 3549,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:07.133Z",
+            "updatedAt": "2023-06-07T14:37:07.133Z",
+            "tags": [],
+            "classTitle": "sunflower-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        715,
+                        502
+                    ],
+                    [
+                        487,
+                        380
+                    ],
+                    [
+                        416,
+                        449
+                    ],
+                    [
+                        388,
+                        544
+                    ],
+                    [
+                        432,
+                        645
+                    ],
+                    [
+                        496,
+                        767
+                    ],
+                    [
+                        575,
+                        749
+                    ],
+                    [
+                        693,
+                        614
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776804,
+            "classId": 3675,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:07.132Z",
+            "updatedAt": "2023-06-07T14:37:07.132Z",
+            "tags": [],
+            "classTitle": "dried-raisins",
+            "points": {
+                "exterior": [
+                    [
+                        706,
+                        455
+                    ],
+                    [
+                        529,
+                        345
+                    ],
+                    [
+                        472,
+                        283
+                    ],
+                    [
+                        412,
+                        256
+                    ],
+                    [
+                        467,
+                        226
+                    ],
+                    [
+                        454,
+                        179
+                    ],
+                    [
+                        476,
+                        168
+                    ],
+                    [
+                        560,
+                        179
+                    ],
+                    [
+                        659,
+                        203
+                    ],
+                    [
+                        710,
+                        248
+                    ],
+                    [
+                        726,
+                        433
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

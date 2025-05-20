@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 432,
+        "width": 433
+    },
+    "objects": [
+        {
+            "id": 1768446,
+            "classId": 3477,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:42.809Z",
+            "updatedAt": "2023-06-07T14:31:42.809Z",
+            "tags": [],
+            "classTitle": "pasta-hornli",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        337
+                    ],
+                    [
+                        215,
+                        335
+                    ],
+                    [
+                        206,
+                        320
+                    ],
+                    [
+                        182,
+                        305
+                    ],
+                    [
+                        175,
+                        302
+                    ],
+                    [
+                        152,
+                        301
+                    ],
+                    [
+                        140,
+                        291
+                    ],
+                    [
+                        139,
+                        274
+                    ],
+                    [
+                        142,
+                        266
+                    ],
+                    [
+                        179,
+                        228
+                    ],
+                    [
+                        199,
+                        225
+                    ],
+                    [
+                        276,
+                        233
+                    ],
+                    [
+                        285,
+                        238
+                    ],
+                    [
+                        298,
+                        254
+                    ],
+                    [
+                        306,
+                        258
+                    ],
+                    [
+                        322,
+                        258
+                    ],
+                    [
+                        330,
+                        262
+                    ],
+                    [
+                        333,
+                        268
+                    ],
+                    [
+                        333,
+                        307
+                    ],
+                    [
+                        330,
+                        314
+                    ],
+                    [
+                        322,
+                        318
+                    ],
+                    [
+                        295,
+                        321
+                    ],
+                    [
+                        263,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768444,
+            "classId": 3993,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:42.808Z",
+            "updatedAt": "2023-06-07T14:31:42.808Z",
+            "tags": [],
+            "classTitle": "vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        294
+                    ],
+                    [
+                        270,
+                        302
+                    ],
+                    [
+                        270,
+                        316
+                    ],
+                    [
+                        287,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768443,
+            "classId": 3993,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:42.808Z",
+            "updatedAt": "2023-06-07T14:31:42.808Z",
+            "tags": [],
+            "classTitle": "vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        250
+                    ],
+                    [
+                        165,
+                        280
+                    ],
+                    [
+                        185,
+                        289
+                    ],
+                    [
+                        196,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

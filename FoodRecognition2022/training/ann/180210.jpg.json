@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1797106,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:15.661Z",
+            "updatedAt": "2023-06-07T14:51:15.661Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        439
+                    ],
+                    [
+                        277,
+                        424
+                    ],
+                    [
+                        162,
+                        462
+                    ],
+                    [
+                        170,
+                        542
+                    ],
+                    [
+                        364,
+                        465
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1797105,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:15.661Z",
+            "updatedAt": "2023-06-07T14:51:15.661Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        588
+                    ],
+                    [
+                        252,
+                        639
+                    ],
+                    [
+                        298,
+                        723
+                    ],
+                    [
+                        364,
+                        744
+                    ],
+                    [
+                        431,
+                        688
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1797103,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:15.660Z",
+            "updatedAt": "2023-06-07T14:51:15.660Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        462
+                    ],
+                    [
+                        162,
+                        580
+                    ],
+                    [
+                        226,
+                        662
+                    ],
+                    [
+                        392,
+                        572
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1797101,
+            "classId": 4343,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:15.659Z",
+            "updatedAt": "2023-06-07T14:51:15.659Z",
+            "tags": [],
+            "classTitle": "basil",
+            "points": {
+                "exterior": [
+                    [
+                        843,
+                        493
+                    ],
+                    [
+                        677,
+                        437
+                    ],
+                    [
+                        597,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

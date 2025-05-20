@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 737,
+        "width": 736
+    },
+    "objects": [
+        {
+            "id": 1728094,
+            "classId": 3903,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:18.466Z",
+            "updatedAt": "2023-06-07T14:04:18.466Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        307
+                    ],
+                    [
+                        192,
+                        333
+                    ],
+                    [
+                        166,
+                        475
+                    ],
+                    [
+                        225,
+                        711
+                    ],
+                    [
+                        486,
+                        707
+                    ],
+                    [
+                        518,
+                        665
+                    ],
+                    [
+                        444,
+                        525
+                    ],
+                    [
+                        512,
+                        456
+                    ],
+                    [
+                        553,
+                        440
+                    ],
+                    [
+                        569,
+                        370
+                    ],
+                    [
+                        490,
+                        307
+                    ],
+                    [
+                        416,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728093,
+            "classId": 3903,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:18.466Z",
+            "updatedAt": "2023-06-07T14:04:18.466Z",
+            "tags": [],
+            "classTitle": "grapes",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        116
+                    ],
+                    [
+                        267,
+                        241
+                    ],
+                    [
+                        378,
+                        296
+                    ],
+                    [
+                        429,
+                        239
+                    ],
+                    [
+                        396,
+                        158
+                    ],
+                    [
+                        363,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1728000,
+            "classId": 3861,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:18.456Z",
+            "updatedAt": "2023-06-07T14:04:18.456Z",
+            "tags": [],
+            "classTitle": "brownie",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        185
+                    ],
+                    [
+                        323,
+                        236
+                    ],
+                    [
+                        316,
+                        303
+                    ],
+                    [
+                        264,
+                        330
+                    ],
+                    [
+                        180,
+                        330
+                    ],
+                    [
+                        120,
+                        296
+                    ],
+                    [
+                        120,
+                        213
+                    ],
+                    [
+                        130,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

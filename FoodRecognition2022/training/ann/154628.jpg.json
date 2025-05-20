@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1700544,
+            "classId": 3827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:13.417Z",
+            "updatedAt": "2023-06-07T13:44:13.417Z",
+            "tags": [],
+            "classTitle": "rice-basmati",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        301
+                    ],
+                    [
+                        179,
+                        277
+                    ],
+                    [
+                        229,
+                        284
+                    ],
+                    [
+                        255,
+                        295
+                    ],
+                    [
+                        272,
+                        304
+                    ],
+                    [
+                        295,
+                        291
+                    ],
+                    [
+                        297,
+                        300
+                    ],
+                    [
+                        323,
+                        295
+                    ],
+                    [
+                        351,
+                        282
+                    ],
+                    [
+                        362,
+                        283
+                    ],
+                    [
+                        386,
+                        211
+                    ],
+                    [
+                        389,
+                        98
+                    ],
+                    [
+                        364,
+                        44
+                    ],
+                    [
+                        265,
+                        12
+                    ],
+                    [
+                        159,
+                        2
+                    ],
+                    [
+                        121,
+                        14
+                    ],
+                    [
+                        126,
+                        66
+                    ],
+                    [
+                        117,
+                        152
+                    ],
+                    [
+                        114,
+                        244
+                    ],
+                    [
+                        114,
+                        247
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1700542,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:13.416Z",
+            "updatedAt": "2023-06-07T13:44:13.416Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        168
+                    ],
+                    [
+                        252,
+                        213
+                    ],
+                    [
+                        302,
+                        204
+                    ],
+                    [
+                        308,
+                        159
+                    ],
+                    [
+                        317,
+                        90
+                    ],
+                    [
+                        316,
+                        58
+                    ],
+                    [
+                        284,
+                        51
+                    ],
+                    [
+                        267,
+                        89
+                    ],
+                    [
+                        235,
+                        91
+                    ],
+                    [
+                        209,
+                        96
+                    ],
+                    [
+                        212,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1700541,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:13.416Z",
+            "updatedAt": "2023-06-07T13:44:13.416Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        73
+                    ],
+                    [
+                        195,
+                        91
+                    ],
+                    [
+                        194,
+                        47
+                    ],
+                    [
+                        168,
+                        27
+                    ],
+                    [
+                        149,
+                        38
+                    ],
+                    [
+                        142,
+                        47
+                    ],
+                    [
+                        143,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

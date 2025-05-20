@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1772056,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:12.507Z",
+            "updatedAt": "2023-06-07T14:34:12.507Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        718,
+                        811
+                    ],
+                    [
+                        710,
+                        783
+                    ],
+                    [
+                        774,
+                        724
+                    ],
+                    [
+                        710,
+                        691
+                    ],
+                    [
+                        602,
+                        688
+                    ],
+                    [
+                        551,
+                        760
+                    ],
+                    [
+                        613,
+                        845
+                    ],
+                    [
+                        679,
+                        914
+                    ],
+                    [
+                        761,
+                        901
+                    ],
+                    [
+                        771,
+                        845
+                    ],
+                    [
+                        756,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1772054,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:12.506Z",
+            "updatedAt": "2023-06-07T14:34:12.506Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        766,
+                        115
+                    ],
+                    [
+                        618,
+                        31
+                    ],
+                    [
+                        462,
+                        71
+                    ],
+                    [
+                        480,
+                        212
+                    ],
+                    [
+                        654,
+                        299
+                    ],
+                    [
+                        569,
+                        322
+                    ],
+                    [
+                        405,
+                        381
+                    ],
+                    [
+                        387,
+                        461
+                    ],
+                    [
+                        646,
+                        553
+                    ],
+                    [
+                        687,
+                        507
+                    ],
+                    [
+                        700,
+                        391
+                    ],
+                    [
+                        761,
+                        363
+                    ],
+                    [
+                        695,
+                        271
+                    ],
+                    [
+                        741,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1772052,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:12.506Z",
+            "updatedAt": "2023-06-07T14:34:12.506Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        508,
+                        486
+                    ],
+                    [
+                        398,
+                        453
+                    ],
+                    [
+                        288,
+                        427
+                    ],
+                    [
+                        326,
+                        973
+                    ],
+                    [
+                        413,
+                        1003
+                    ],
+                    [
+                        474,
+                        906
+                    ],
+                    [
+                        541,
+                        909
+                    ],
+                    [
+                        579,
+                        717
+                    ],
+                    [
+                        584,
+                        573
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

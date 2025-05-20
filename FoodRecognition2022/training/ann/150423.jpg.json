@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1801198,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:05.035Z",
+            "updatedAt": "2023-06-07T14:54:05.035Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        342
+                    ],
+                    [
+                        271,
+                        324
+                    ],
+                    [
+                        317,
+                        336
+                    ],
+                    [
+                        335,
+                        304
+                    ],
+                    [
+                        349,
+                        278
+                    ],
+                    [
+                        368,
+                        233
+                    ],
+                    [
+                        363,
+                        197
+                    ],
+                    [
+                        317,
+                        230
+                    ],
+                    [
+                        288,
+                        249
+                    ],
+                    [
+                        278,
+                        232
+                    ],
+                    [
+                        268,
+                        196
+                    ],
+                    [
+                        219,
+                        181
+                    ],
+                    [
+                        224,
+                        248
+                    ],
+                    [
+                        227,
+                        261
+                    ],
+                    [
+                        198,
+                        272
+                    ],
+                    [
+                        195,
+                        295
+                    ],
+                    [
+                        204,
+                        309
+                    ],
+                    [
+                        204,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801196,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:05.034Z",
+            "updatedAt": "2023-06-07T14:54:05.034Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        306
+                    ],
+                    [
+                        228,
+                        350
+                    ],
+                    [
+                        233,
+                        380
+                    ],
+                    [
+                        296,
+                        369
+                    ],
+                    [
+                        333,
+                        349
+                    ],
+                    [
+                        349,
+                        333
+                    ],
+                    [
+                        337,
+                        305
+                    ],
+                    [
+                        319,
+                        306
+                    ],
+                    [
+                        301,
+                        307
+                    ],
+                    [
+                        296,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801194,
+            "classId": 3549,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:05.033Z",
+            "updatedAt": "2023-06-07T14:54:05.033Z",
+            "tags": [],
+            "classTitle": "sunflower-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        244
+                    ],
+                    [
+                        125,
+                        262
+                    ],
+                    [
+                        153,
+                        224
+                    ],
+                    [
+                        127,
+                        164
+                    ],
+                    [
+                        69,
+                        143
+                    ],
+                    [
+                        54,
+                        162
+                    ],
+                    [
+                        52,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

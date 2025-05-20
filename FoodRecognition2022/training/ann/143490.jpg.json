@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1643606,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:06.855Z",
+            "updatedAt": "2023-06-07T13:05:06.855Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        335
+                    ],
+                    [
+                        451,
+                        315
+                    ],
+                    [
+                        404,
+                        178
+                    ],
+                    [
+                        329,
+                        206
+                    ],
+                    [
+                        315,
+                        257
+                    ],
+                    [
+                        349,
+                        344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1643605,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:06.855Z",
+            "updatedAt": "2023-06-07T13:05:06.855Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        159
+                    ],
+                    [
+                        160,
+                        211
+                    ],
+                    [
+                        178,
+                        265
+                    ],
+                    [
+                        74,
+                        231
+                    ],
+                    [
+                        52,
+                        302
+                    ],
+                    [
+                        40,
+                        389
+                    ],
+                    [
+                        83,
+                        403
+                    ],
+                    [
+                        196,
+                        399
+                    ],
+                    [
+                        235,
+                        391
+                    ],
+                    [
+                        229,
+                        339
+                    ],
+                    [
+                        283,
+                        327
+                    ],
+                    [
+                        278,
+                        275
+                    ],
+                    [
+                        226,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

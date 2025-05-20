@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1744996,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:06.875Z",
+            "updatedAt": "2023-06-07T14:16:06.875Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        200
+                    ],
+                    [
+                        272,
+                        245
+                    ],
+                    [
+                        288,
+                        223
+                    ],
+                    [
+                        294,
+                        198
+                    ],
+                    [
+                        283,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744995,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:06.875Z",
+            "updatedAt": "2023-06-07T14:16:06.875Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        156
+                    ],
+                    [
+                        310,
+                        179
+                    ],
+                    [
+                        323,
+                        185
+                    ],
+                    [
+                        339,
+                        167
+                    ],
+                    [
+                        331,
+                        159
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744993,
+            "classId": 3945,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:06.874Z",
+            "updatedAt": "2023-06-07T14:16:06.874Z",
+            "tags": [],
+            "classTitle": "flakes-oat",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        336
+                    ],
+                    [
+                        114,
+                        308
+                    ],
+                    [
+                        150,
+                        354
+                    ],
+                    [
+                        200,
+                        373
+                    ],
+                    [
+                        208,
+                        355
+                    ],
+                    [
+                        240,
+                        341
+                    ],
+                    [
+                        224,
+                        302
+                    ],
+                    [
+                        174,
+                        300
+                    ],
+                    [
+                        187,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744992,
+            "classId": 3945,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:06.874Z",
+            "updatedAt": "2023-06-07T14:16:06.874Z",
+            "tags": [],
+            "classTitle": "flakes-oat",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        302
+                    ],
+                    [
+                        268,
+                        289
+                    ],
+                    [
+                        258,
+                        260
+                    ],
+                    [
+                        270,
+                        243
+                    ],
+                    [
+                        309,
+                        243
+                    ],
+                    [
+                        338,
+                        270
+                    ],
+                    [
+                        302,
+                        294
+                    ],
+                    [
+                        304,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

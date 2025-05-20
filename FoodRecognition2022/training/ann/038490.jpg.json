@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1702888,
+            "classId": 3433,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:47.854Z",
+            "updatedAt": "2023-06-07T13:45:47.854Z",
+            "tags": [],
+            "classTitle": "bread-half-white",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        89
+                    ],
+                    [
+                        172,
+                        229
+                    ],
+                    [
+                        500,
+                        250
+                    ],
+                    [
+                        450,
+                        72
+                    ],
+                    [
+                        304,
+                        42
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702886,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:47.854Z",
+            "updatedAt": "2023-06-07T13:45:47.854Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        270
+                    ],
+                    [
+                        29,
+                        270
+                    ],
+                    [
+                        74,
+                        438
+                    ],
+                    [
+                        280,
+                        534
+                    ],
+                    [
+                        455,
+                        529
+                    ],
+                    [
+                        563,
+                        456
+                    ],
+                    [
+                        596,
+                        339
+                    ],
+                    [
+                        581,
+                        253
+                    ],
+                    [
+                        541,
+                        237
+                    ],
+                    [
+                        423,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

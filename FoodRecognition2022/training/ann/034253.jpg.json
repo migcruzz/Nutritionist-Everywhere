@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1722957,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:46.310Z",
+            "updatedAt": "2023-06-07T14:00:46.310Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        367,
+                        360
+                    ],
+                    [
+                        327,
+                        440
+                    ],
+                    [
+                        20,
+                        456
+                    ],
+                    [
+                        43,
+                        401
+                    ],
+                    [
+                        158,
+                        346
+                    ],
+                    [
+                        236,
+                        323
+                    ],
+                    [
+                        288,
+                        328
+                    ],
+                    [
+                        346,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1722955,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:46.309Z",
+            "updatedAt": "2023-06-07T14:00:46.309Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        402,
+                        359
+                    ],
+                    [
+                        271,
+                        299
+                    ],
+                    [
+                        170,
+                        281
+                    ],
+                    [
+                        140,
+                        372
+                    ],
+                    [
+                        33,
+                        382
+                    ],
+                    [
+                        75,
+                        294
+                    ],
+                    [
+                        99,
+                        249
+                    ],
+                    [
+                        42,
+                        244
+                    ],
+                    [
+                        14,
+                        192
+                    ],
+                    [
+                        46,
+                        65
+                    ],
+                    [
+                        322,
+                        22
+                    ],
+                    [
+                        413,
+                        93
+                    ],
+                    [
+                        458,
+                        205
+                    ],
+                    [
+                        453,
+                        258
+                    ],
+                    [
+                        409,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1722953,
+            "classId": 3475,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:46.309Z",
+            "updatedAt": "2023-06-07T14:00:46.309Z",
+            "tags": [],
+            "classTitle": "french-salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        68
+                    ],
+                    [
+                        65,
+                        73
+                    ],
+                    [
+                        39,
+                        124
+                    ],
+                    [
+                        113,
+                        234
+                    ],
+                    [
+                        194,
+                        154
+                    ],
+                    [
+                        244,
+                        162
+                    ],
+                    [
+                        279,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

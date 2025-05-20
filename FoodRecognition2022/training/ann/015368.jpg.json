@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1805115,
+            "classId": 3765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:41.546Z",
+            "updatedAt": "2023-06-07T14:56:41.546Z",
+            "tags": [],
+            "classTitle": "pasta-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        691,
+                        822
+                    ],
+                    [
+                        823,
+                        407
+                    ],
+                    [
+                        706,
+                        176
+                    ],
+                    [
+                        392,
+                        21
+                    ],
+                    [
+                        170,
+                        155
+                    ],
+                    [
+                        8,
+                        429
+                    ],
+                    [
+                        71,
+                        763
+                    ],
+                    [
+                        592,
+                        848
+                    ],
+                    [
+                        670,
+                        846
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805113,
+            "classId": 3673,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:41.545Z",
+            "updatedAt": "2023-06-07T14:56:41.545Z",
+            "tags": [],
+            "classTitle": "sauce-savoury",
+            "points": {
+                "exterior": [
+                    [
+                        828,
+                        483
+                    ],
+                    [
+                        885,
+                        268
+                    ],
+                    [
+                        510,
+                        200
+                    ],
+                    [
+                        489,
+                        311
+                    ],
+                    [
+                        373,
+                        358
+                    ],
+                    [
+                        321,
+                        504
+                    ],
+                    [
+                        409,
+                        587
+                    ],
+                    [
+                        192,
+                        716
+                    ],
+                    [
+                        366,
+                        808
+                    ],
+                    [
+                        571,
+                        832
+                    ],
+                    [
+                        668,
+                        704
+                    ],
+                    [
+                        724,
+                        551
+                    ],
+                    [
+                        819,
+                        480
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1802140,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:39.707Z",
+            "updatedAt": "2023-06-07T14:54:39.707Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        320
+                    ],
+                    [
+                        220,
+                        361
+                    ],
+                    [
+                        251,
+                        344
+                    ],
+                    [
+                        246,
+                        299
+                    ],
+                    [
+                        171,
+                        280
+                    ],
+                    [
+                        156,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802138,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:39.706Z",
+            "updatedAt": "2023-06-07T14:54:39.706Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        90
+                    ],
+                    [
+                        292,
+                        104
+                    ],
+                    [
+                        289,
+                        149
+                    ],
+                    [
+                        257,
+                        161
+                    ],
+                    [
+                        235,
+                        145
+                    ],
+                    [
+                        241,
+                        92
+                    ],
+                    [
+                        275,
+                        91
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802136,
+            "classId": 4343,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:39.706Z",
+            "updatedAt": "2023-06-07T14:54:39.706Z",
+            "tags": [],
+            "classTitle": "basil",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        176
+                    ],
+                    [
+                        103,
+                        208
+                    ],
+                    [
+                        124,
+                        208
+                    ],
+                    [
+                        120,
+                        167
+                    ],
+                    [
+                        85,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

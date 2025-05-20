@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1702825,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:47.846Z",
+            "updatedAt": "2023-06-07T13:45:47.846Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        93
+                    ],
+                    [
+                        269,
+                        69
+                    ],
+                    [
+                        181,
+                        48
+                    ],
+                    [
+                        48,
+                        388
+                    ],
+                    [
+                        82,
+                        418
+                    ],
+                    [
+                        192,
+                        448
+                    ],
+                    [
+                        300,
+                        468
+                    ],
+                    [
+                        340,
+                        449
+                    ],
+                    [
+                        365,
+                        268
+                    ],
+                    [
+                        397,
+                        100
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

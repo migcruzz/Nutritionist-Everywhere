@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 804,
+        "width": 805
+    },
+    "objects": [
+        {
+            "id": 1733108,
+            "classId": 3745,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:49.798Z",
+            "updatedAt": "2023-06-07T14:07:49.798Z",
+            "tags": [],
+            "classTitle": "chicken-wing",
+            "points": {
+                "exterior": [
+                    [
+                        797,
+                        381
+                    ],
+                    [
+                        647,
+                        313
+                    ],
+                    [
+                        576,
+                        516
+                    ],
+                    [
+                        532,
+                        564
+                    ],
+                    [
+                        407,
+                        436
+                    ],
+                    [
+                        300,
+                        387
+                    ],
+                    [
+                        292,
+                        206
+                    ],
+                    [
+                        129,
+                        238
+                    ],
+                    [
+                        27,
+                        460
+                    ],
+                    [
+                        127,
+                        562
+                    ],
+                    [
+                        228,
+                        744
+                    ],
+                    [
+                        339,
+                        744
+                    ],
+                    [
+                        405,
+                        735
+                    ],
+                    [
+                        522,
+                        599
+                    ],
+                    [
+                        773,
+                        572
+                    ],
+                    [
+                        799,
+                        506
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733106,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:49.797Z",
+            "updatedAt": "2023-06-07T14:07:49.797Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        693,
+                        252
+                    ],
+                    [
+                        552,
+                        222
+                    ],
+                    [
+                        449,
+                        124
+                    ],
+                    [
+                        391,
+                        31
+                    ],
+                    [
+                        240,
+                        104
+                    ],
+                    [
+                        27,
+                        250
+                    ],
+                    [
+                        5,
+                        343
+                    ],
+                    [
+                        75,
+                        325
+                    ],
+                    [
+                        168,
+                        246
+                    ],
+                    [
+                        308,
+                        200
+                    ],
+                    [
+                        318,
+                        283
+                    ],
+                    [
+                        302,
+                        387
+                    ],
+                    [
+                        506,
+                        482
+                    ],
+                    [
+                        568,
+                        528
+                    ],
+                    [
+                        683,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733104,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:49.797Z",
+            "updatedAt": "2023-06-07T14:07:49.797Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        701,
+                        190
+                    ],
+                    [
+                        655,
+                        91
+                    ],
+                    [
+                        548,
+                        93
+                    ],
+                    [
+                        500,
+                        154
+                    ],
+                    [
+                        576,
+                        224
+                    ],
+                    [
+                        620,
+                        256
+                    ],
+                    [
+                        657,
+                        252
+                    ],
+                    [
+                        693,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

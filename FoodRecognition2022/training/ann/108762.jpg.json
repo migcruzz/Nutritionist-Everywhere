@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1764822,
+            "classId": 3493,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:10.203Z",
+            "updatedAt": "2023-06-07T14:29:10.203Z",
+            "tags": [],
+            "classTitle": "almonds",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        184
+                    ],
+                    [
+                        277,
+                        134
+                    ],
+                    [
+                        189,
+                        139
+                    ],
+                    [
+                        131,
+                        176
+                    ],
+                    [
+                        151,
+                        215
+                    ],
+                    [
+                        169,
+                        259
+                    ],
+                    [
+                        225,
+                        313
+                    ],
+                    [
+                        239,
+                        286
+                    ],
+                    [
+                        211,
+                        197
+                    ],
+                    [
+                        289,
+                        201
+                    ],
+                    [
+                        333,
+                        222
+                    ],
+                    [
+                        354,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1764821,
+            "classId": 3493,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:10.203Z",
+            "updatedAt": "2023-06-07T14:29:10.203Z",
+            "tags": [],
+            "classTitle": "almonds",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        301
+                    ],
+                    [
+                        136,
+                        295
+                    ],
+                    [
+                        102,
+                        317
+                    ],
+                    [
+                        94,
+                        350
+                    ],
+                    [
+                        95,
+                        374
+                    ],
+                    [
+                        129,
+                        372
+                    ],
+                    [
+                        176,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

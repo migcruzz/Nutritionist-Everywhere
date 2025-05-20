@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1717628,
+            "classId": 4293,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:59.068Z",
+            "updatedAt": "2023-06-07T13:56:59.068Z",
+            "tags": [],
+            "classTitle": "cocktail",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        525
+                    ],
+                    [
+                        343,
+                        773
+                    ],
+                    [
+                        505,
+                        785
+                    ],
+                    [
+                        588,
+                        556
+                    ],
+                    [
+                        505,
+                        454
+                    ],
+                    [
+                        310,
+                        485
+                    ],
+                    [
+                        284,
+                        528
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

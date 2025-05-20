@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 919,
+        "width": 920
+    },
+    "objects": [
+        {
+            "id": 1725783,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:40.693Z",
+            "updatedAt": "2023-06-07T14:02:40.693Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        829
+                    ],
+                    [
+                        539,
+                        770
+                    ],
+                    [
+                        311,
+                        234
+                    ],
+                    [
+                        35,
+                        300
+                    ],
+                    [
+                        49,
+                        565
+                    ],
+                    [
+                        90,
+                        705
+                    ],
+                    [
+                        173,
+                        770
+                    ],
+                    [
+                        228,
+                        815
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1725781,
+            "classId": 4347,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:40.692Z",
+            "updatedAt": "2023-06-07T14:02:40.692Z",
+            "tags": [],
+            "classTitle": "pie-apricot-baked-with-cake-dough",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        169
+                    ],
+                    [
+                        658,
+                        868
+                    ],
+                    [
+                        879,
+                        243
+                    ],
+                    [
+                        907,
+                        75
+                    ],
+                    [
+                        599,
+                        40
+                    ],
+                    [
+                        350,
+                        123
+                    ],
+                    [
+                        277,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

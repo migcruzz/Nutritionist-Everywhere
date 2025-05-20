@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1785205,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:04.029Z",
+            "updatedAt": "2023-06-07T14:43:04.029Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        118
+                    ],
+                    [
+                        353,
+                        84
+                    ],
+                    [
+                        350,
+                        50
+                    ],
+                    [
+                        326,
+                        20
+                    ],
+                    [
+                        253,
+                        23
+                    ],
+                    [
+                        255,
+                        33
+                    ],
+                    [
+                        274,
+                        88
+                    ],
+                    [
+                        274,
+                        100
+                    ],
+                    [
+                        273,
+                        101
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1785203,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:04.028Z",
+            "updatedAt": "2023-06-07T14:43:04.028Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        357
+                    ],
+                    [
+                        219,
+                        356
+                    ],
+                    [
+                        197,
+                        341
+                    ],
+                    [
+                        189,
+                        329
+                    ],
+                    [
+                        182,
+                        306
+                    ],
+                    [
+                        181,
+                        249
+                    ],
+                    [
+                        184,
+                        239
+                    ],
+                    [
+                        220,
+                        209
+                    ],
+                    [
+                        284,
+                        201
+                    ],
+                    [
+                        310,
+                        208
+                    ],
+                    [
+                        331,
+                        229
+                    ],
+                    [
+                        339,
+                        251
+                    ],
+                    [
+                        340,
+                        296
+                    ],
+                    [
+                        336,
+                        317
+                    ],
+                    [
+                        330,
+                        331
+                    ],
+                    [
+                        323,
+                        339
+                    ],
+                    [
+                        301,
+                        351
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1785201,
+            "classId": 4119,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:04.027Z",
+            "updatedAt": "2023-06-07T14:43:04.027Z",
+            "tags": [],
+            "classTitle": "coleslaw-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        455
+                    ],
+                    [
+                        309,
+                        443
+                    ],
+                    [
+                        304,
+                        400
+                    ],
+                    [
+                        285,
+                        389
+                    ],
+                    [
+                        267,
+                        390
+                    ],
+                    [
+                        268,
+                        408
+                    ],
+                    [
+                        272,
+                        433
+                    ],
+                    [
+                        271,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 870,
+        "width": 870
+    },
+    "objects": [
+        {
+            "id": 1683017,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:57.066Z",
+            "updatedAt": "2023-06-07T13:31:57.066Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        199
+                    ],
+                    [
+                        386,
+                        121
+                    ],
+                    [
+                        299,
+                        101
+                    ],
+                    [
+                        170,
+                        127
+                    ],
+                    [
+                        70,
+                        210
+                    ],
+                    [
+                        51,
+                        327
+                    ],
+                    [
+                        51,
+                        447
+                    ],
+                    [
+                        107,
+                        538
+                    ],
+                    [
+                        185,
+                        562
+                    ],
+                    [
+                        286,
+                        556
+                    ],
+                    [
+                        399,
+                        360
+                    ],
+                    [
+                        423,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683015,
+            "classId": 3797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:57.065Z",
+            "updatedAt": "2023-06-07T13:31:57.065Z",
+            "tags": [],
+            "classTitle": "braided-white-loaf",
+            "points": {
+                "exterior": [
+                    [
+                        188,
+                        582
+                    ],
+                    [
+                        540,
+                        543
+                    ],
+                    [
+                        579,
+                        615
+                    ],
+                    [
+                        542,
+                        741
+                    ],
+                    [
+                        490,
+                        804
+                    ],
+                    [
+                        418,
+                        806
+                    ],
+                    [
+                        394,
+                        860
+                    ],
+                    [
+                        235,
+                        856
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

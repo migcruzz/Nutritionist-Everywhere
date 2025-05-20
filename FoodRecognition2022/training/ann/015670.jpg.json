@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1705959,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:04.704Z",
+            "updatedAt": "2023-06-07T13:48:04.704Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        866,
+                        398
+                    ],
+                    [
+                        129,
+                        296
+                    ],
+                    [
+                        100,
+                        410
+                    ],
+                    [
+                        404,
+                        512
+                    ],
+                    [
+                        616,
+                        517
+                    ],
+                    [
+                        808,
+                        503
+                    ],
+                    [
+                        888,
+                        454
+                    ],
+                    [
+                        888,
+                        403
+                    ],
+                    [
+                        876,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705957,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:04.704Z",
+            "updatedAt": "2023-06-07T13:48:04.704Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        103,
+                        383
+                    ],
+                    [
+                        180,
+                        507
+                    ],
+                    [
+                        475,
+                        534
+                    ],
+                    [
+                        879,
+                        500
+                    ],
+                    [
+                        922,
+                        405
+                    ],
+                    [
+                        898,
+                        374
+                    ],
+                    [
+                        830,
+                        481
+                    ],
+                    [
+                        528,
+                        520
+                    ],
+                    [
+                        339,
+                        476
+                    ],
+                    [
+                        295,
+                        405
+                    ],
+                    [
+                        222,
+                        461
+                    ],
+                    [
+                        125,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

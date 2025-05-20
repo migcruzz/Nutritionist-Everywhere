@@ -1,0 +1,302 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 977,
+        "width": 977
+    },
+    "objects": [
+        {
+            "id": 1711836,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.053Z",
+            "updatedAt": "2023-06-07T13:52:42.053Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        523,
+                        417
+                    ],
+                    [
+                        499,
+                        299
+                    ],
+                    [
+                        455,
+                        180
+                    ],
+                    [
+                        277,
+                        153
+                    ],
+                    [
+                        69,
+                        243
+                    ],
+                    [
+                        72,
+                        419
+                    ],
+                    [
+                        120,
+                        534
+                    ],
+                    [
+                        250,
+                        588
+                    ],
+                    [
+                        423,
+                        563
+                    ],
+                    [
+                        492,
+                        512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711834,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.053Z",
+            "updatedAt": "2023-06-07T13:52:42.053Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        431
+                    ],
+                    [
+                        348,
+                        348
+                    ],
+                    [
+                        289,
+                        468
+                    ],
+                    [
+                        157,
+                        468
+                    ],
+                    [
+                        98,
+                        470
+                    ],
+                    [
+                        150,
+                        544
+                    ],
+                    [
+                        352,
+                        514
+                    ],
+                    [
+                        460,
+                        451
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711832,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.053Z",
+            "updatedAt": "2023-06-07T13:52:42.053Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        380
+                    ],
+                    [
+                        428,
+                        309
+                    ],
+                    [
+                        357,
+                        336
+                    ],
+                    [
+                        267,
+                        370
+                    ],
+                    [
+                        233,
+                        436
+                    ],
+                    [
+                        269,
+                        490
+                    ],
+                    [
+                        299,
+                        439
+                    ],
+                    [
+                        350,
+                        373
+                    ],
+                    [
+                        435,
+                        397
+                    ],
+                    [
+                        462,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711830,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.053Z",
+            "updatedAt": "2023-06-07T13:52:42.053Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        887,
+                        273
+                    ],
+                    [
+                        892,
+                        175
+                    ],
+                    [
+                        824,
+                        65
+                    ],
+                    [
+                        685,
+                        48
+                    ],
+                    [
+                        565,
+                        111
+                    ],
+                    [
+                        570,
+                        297
+                    ],
+                    [
+                        594,
+                        480
+                    ],
+                    [
+                        726,
+                        517
+                    ],
+                    [
+                        824,
+                        466
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711828,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.053Z",
+            "updatedAt": "2023-06-07T13:52:42.053Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        604,
+                        600
+                    ],
+                    [
+                        492,
+                        605
+                    ],
+                    [
+                        453,
+                        688
+                    ],
+                    [
+                        567,
+                        715
+                    ],
+                    [
+                        614,
+                        671
+                    ],
+                    [
+                        611,
+                        644
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711826,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.052Z",
+            "updatedAt": "2023-06-07T13:52:42.052Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        824,
+                        593
+                    ],
+                    [
+                        797,
+                        539
+                    ],
+                    [
+                        694,
+                        546
+                    ],
+                    [
+                        677,
+                        612
+                    ],
+                    [
+                        763,
+                        629
+                    ],
+                    [
+                        797,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1770129,
+            "classId": 4129,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:47.299Z",
+            "updatedAt": "2023-06-07T14:32:47.299Z",
+            "tags": [],
+            "classTitle": "chicken-leg",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        350
+                    ],
+                    [
+                        100,
+                        378
+                    ],
+                    [
+                        86,
+                        485
+                    ],
+                    [
+                        423,
+                        573
+                    ],
+                    [
+                        492,
+                        567
+                    ],
+                    [
+                        482,
+                        460
+                    ],
+                    [
+                        589,
+                        463
+                    ],
+                    [
+                        614,
+                        413
+                    ],
+                    [
+                        584,
+                        394
+                    ],
+                    [
+                        517,
+                        400
+                    ],
+                    [
+                        342,
+                        356
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1770127,
+            "classId": 3833,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:47.299Z",
+            "updatedAt": "2023-06-07T14:32:47.299Z",
+            "tags": [],
+            "classTitle": "pumpkin",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        172
+                    ],
+                    [
+                        326,
+                        377
+                    ],
+                    [
+                        562,
+                        416
+                    ],
+                    [
+                        610,
+                        297
+                    ],
+                    [
+                        516,
+                        169
+                    ],
+                    [
+                        439,
+                        169
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1770125,
+            "classId": 4285,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:47.299Z",
+            "updatedAt": "2023-06-07T14:32:47.299Z",
+            "tags": [],
+            "classTitle": "butter-herb",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        191
+                    ],
+                    [
+                        357,
+                        287
+                    ],
+                    [
+                        473,
+                        399
+                    ],
+                    [
+                        577,
+                        347
+                    ],
+                    [
+                        580,
+                        311
+                    ],
+                    [
+                        492,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1676730,
+            "classId": 3719,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:50.900Z",
+            "updatedAt": "2023-06-07T13:27:50.900Z",
+            "tags": [],
+            "classTitle": "fajita-bread-only",
+            "points": {
+                "exterior": [
+                    [
+                        365,
+                        114
+                    ],
+                    [
+                        399,
+                        350
+                    ],
+                    [
+                        235,
+                        368
+                    ],
+                    [
+                        75,
+                        359
+                    ],
+                    [
+                        45,
+                        308
+                    ],
+                    [
+                        65,
+                        144
+                    ],
+                    [
+                        73,
+                        94
+                    ],
+                    [
+                        211,
+                        81
+                    ],
+                    [
+                        279,
+                        101
+                    ],
+                    [
+                        346,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1676728,
+            "classId": 4145,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:50.900Z",
+            "updatedAt": "2023-06-07T13:27:50.900Z",
+            "tags": [],
+            "classTitle": "sauce-cocktail",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        308
+                    ],
+                    [
+                        362,
+                        324
+                    ],
+                    [
+                        308,
+                        370
+                    ],
+                    [
+                        327,
+                        412
+                    ],
+                    [
+                        457,
+                        410
+                    ],
+                    [
+                        471,
+                        376
+                    ],
+                    [
+                        471,
+                        329
+                    ],
+                    [
+                        439,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

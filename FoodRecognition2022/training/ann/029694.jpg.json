@@ -1,0 +1,246 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1780308,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:38.541Z",
+            "updatedAt": "2023-06-07T14:39:38.541Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        99
+                    ],
+                    [
+                        482,
+                        391
+                    ],
+                    [
+                        517,
+                        837
+                    ],
+                    [
+                        355,
+                        966
+                    ],
+                    [
+                        136,
+                        883
+                    ],
+                    [
+                        0,
+                        753
+                    ],
+                    [
+                        0,
+                        329
+                    ],
+                    [
+                        122,
+                        115
+                    ],
+                    [
+                        452,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780306,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:38.541Z",
+            "updatedAt": "2023-06-07T14:39:38.541Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        45
+                    ],
+                    [
+                        525,
+                        861
+                    ],
+                    [
+                        579,
+                        991
+                    ],
+                    [
+                        798,
+                        996
+                    ],
+                    [
+                        936,
+                        821
+                    ],
+                    [
+                        1058,
+                        712
+                    ],
+                    [
+                        1068,
+                        321
+                    ],
+                    [
+                        1044,
+                        121
+                    ],
+                    [
+                        798,
+                        7
+                    ],
+                    [
+                        495,
+                        4
+                    ],
+                    [
+                        441,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780304,
+            "classId": 3871,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:38.541Z",
+            "updatedAt": "2023-06-07T14:39:38.541Z",
+            "tags": [],
+            "classTitle": "salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        50
+                    ],
+                    [
+                        549,
+                        966
+                    ],
+                    [
+                        763,
+                        994
+                    ],
+                    [
+                        1063,
+                        680
+                    ],
+                    [
+                        1033,
+                        142
+                    ],
+                    [
+                        790,
+                        0
+                    ],
+                    [
+                        495,
+                        18
+                    ],
+                    [
+                        452,
+                        48
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780302,
+            "classId": 3473,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:38.540Z",
+            "updatedAt": "2023-06-07T14:39:38.540Z",
+            "tags": [],
+            "classTitle": "chickpeas",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        499
+                    ],
+                    [
+                        658,
+                        483
+                    ],
+                    [
+                        685,
+                        556
+                    ],
+                    [
+                        663,
+                        599
+                    ],
+                    [
+                        574,
+                        591
+                    ],
+                    [
+                        585,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780300,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:38.538Z",
+            "updatedAt": "2023-06-07T14:39:38.538Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        531,
+                        745
+                    ],
+                    [
+                        547,
+                        902
+                    ],
+                    [
+                        671,
+                        885
+                    ],
+                    [
+                        676,
+                        756
+                    ],
+                    [
+                        566,
+                        734
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1297,
+        "width": 1297
+    },
+    "objects": [
+        {
+            "id": 1784623,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:38.412Z",
+            "updatedAt": "2023-06-07T14:42:38.412Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        802,
+                        564
+                    ],
+                    [
+                        812,
+                        810
+                    ],
+                    [
+                        1010,
+                        898
+                    ],
+                    [
+                        1136,
+                        573
+                    ],
+                    [
+                        961,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784621,
+            "classId": 3847,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:38.412Z",
+            "updatedAt": "2023-06-07T14:42:38.412Z",
+            "tags": [],
+            "classTitle": "biscuits",
+            "points": {
+                "exterior": [
+                    [
+                        786,
+                        817
+                    ],
+                    [
+                        614,
+                        946
+                    ],
+                    [
+                        646,
+                        1050
+                    ],
+                    [
+                        847,
+                        1147
+                    ],
+                    [
+                        1000,
+                        982
+                    ],
+                    [
+                        1000,
+                        930
+                    ],
+                    [
+                        844,
+                        843
+                    ],
+                    [
+                        812,
+                        833
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

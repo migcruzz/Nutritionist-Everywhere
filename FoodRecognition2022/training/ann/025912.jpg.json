@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1774166,
+            "classId": 3421,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:24.755Z",
+            "updatedAt": "2023-06-07T14:35:24.755Z",
+            "tags": [],
+            "classTitle": "bread-sourdough",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        145
+                    ],
+                    [
+                        346,
+                        118
+                    ],
+                    [
+                        323,
+                        189
+                    ],
+                    [
+                        270,
+                        332
+                    ],
+                    [
+                        299,
+                        382
+                    ],
+                    [
+                        371,
+                        387
+                    ],
+                    [
+                        430,
+                        327
+                    ],
+                    [
+                        454,
+                        232
+                    ],
+                    [
+                        454,
+                        166
+                    ],
+                    [
+                        425,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1774164,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:24.755Z",
+            "updatedAt": "2023-06-07T14:35:24.755Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        149,
+                        236
+                    ],
+                    [
+                        190,
+                        315
+                    ],
+                    [
+                        178,
+                        345
+                    ],
+                    [
+                        102,
+                        354
+                    ],
+                    [
+                        60,
+                        326
+                    ],
+                    [
+                        47,
+                        247
+                    ],
+                    [
+                        55,
+                        211
+                    ],
+                    [
+                        93,
+                        208
+                    ],
+                    [
+                        108,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1774162,
+            "classId": 4017,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:24.754Z",
+            "updatedAt": "2023-06-07T14:35:24.754Z",
+            "tags": [],
+            "classTitle": "sun-dried-tomatoe",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        219
+                    ],
+                    [
+                        226,
+                        208
+                    ],
+                    [
+                        180,
+                        254
+                    ],
+                    [
+                        181,
+                        336
+                    ],
+                    [
+                        222,
+                        338
+                    ],
+                    [
+                        246,
+                        290
+                    ],
+                    [
+                        252,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

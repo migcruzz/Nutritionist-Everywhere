@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1760161,
+            "classId": 4213,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:21.151Z",
+            "updatedAt": "2023-06-07T14:26:21.151Z",
+            "tags": [],
+            "classTitle": "meringue",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        145
+                    ],
+                    [
+                        337,
+                        395
+                    ],
+                    [
+                        378,
+                        442
+                    ],
+                    [
+                        453,
+                        400
+                    ],
+                    [
+                        451,
+                        240
+                    ],
+                    [
+                        352,
+                        101
+                    ],
+                    [
+                        285,
+                        80
+                    ],
+                    [
+                        263,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760159,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:21.150Z",
+            "updatedAt": "2023-06-07T14:26:21.150Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        322
+                    ],
+                    [
+                        246,
+                        383
+                    ],
+                    [
+                        285,
+                        418
+                    ],
+                    [
+                        336,
+                        403
+                    ],
+                    [
+                        339,
+                        353
+                    ],
+                    [
+                        322,
+                        316
+                    ],
+                    [
+                        262,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760158,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:21.149Z",
+            "updatedAt": "2023-06-07T14:26:21.149Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        262
+                    ],
+                    [
+                        269,
+                        259
+                    ],
+                    [
+                        269,
+                        208
+                    ],
+                    [
+                        237,
+                        178
+                    ],
+                    [
+                        197,
+                        176
+                    ],
+                    [
+                        151,
+                        106
+                    ],
+                    [
+                        85,
+                        163
+                    ],
+                    [
+                        88,
+                        227
+                    ],
+                    [
+                        184,
+                        206
+                    ],
+                    [
+                        57,
+                        275
+                    ],
+                    [
+                        122,
+                        347
+                    ],
+                    [
+                        180,
+                        324
+                    ],
+                    [
+                        189,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

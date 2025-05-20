@@ -1,0 +1,262 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 918,
+        "width": 919
+    },
+    "objects": [
+        {
+            "id": 1788476,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:15.087Z",
+            "updatedAt": "2023-06-07T14:45:15.087Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        385
+                    ],
+                    [
+                        58,
+                        527
+                    ],
+                    [
+                        279,
+                        720
+                    ],
+                    [
+                        415,
+                        681
+                    ],
+                    [
+                        458,
+                        569
+                    ],
+                    [
+                        458,
+                        493
+                    ],
+                    [
+                        631,
+                        491
+                    ],
+                    [
+                        670,
+                        442
+                    ],
+                    [
+                        543,
+                        438
+                    ],
+                    [
+                        479,
+                        364
+                    ],
+                    [
+                        380,
+                        344
+                    ],
+                    [
+                        295,
+                        288
+                    ],
+                    [
+                        387,
+                        429
+                    ],
+                    [
+                        447,
+                        523
+                    ],
+                    [
+                        185,
+                        622
+                    ],
+                    [
+                        54,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1788474,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:15.086Z",
+            "updatedAt": "2023-06-07T14:45:15.086Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        245
+                    ],
+                    [
+                        24,
+                        337
+                    ],
+                    [
+                        212,
+                        642
+                    ],
+                    [
+                        447,
+                        509
+                    ],
+                    [
+                        265,
+                        245
+                    ],
+                    [
+                        272,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1788472,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:15.085Z",
+            "updatedAt": "2023-06-07T14:45:15.085Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        722,
+                        442
+                    ],
+                    [
+                        523,
+                        378
+                    ],
+                    [
+                        355,
+                        311
+                    ],
+                    [
+                        302,
+                        254
+                    ],
+                    [
+                        334,
+                        169
+                    ],
+                    [
+                        451,
+                        61
+                    ],
+                    [
+                        573,
+                        6
+                    ],
+                    [
+                        686,
+                        98
+                    ],
+                    [
+                        794,
+                        236
+                    ],
+                    [
+                        784,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1788470,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:15.083Z",
+            "updatedAt": "2023-06-07T14:45:15.083Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        644,
+                        435
+                    ],
+                    [
+                        529,
+                        410
+                    ],
+                    [
+                        536,
+                        447
+                    ],
+                    [
+                        624,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1788469,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:15.082Z",
+            "updatedAt": "2023-06-07T14:45:15.082Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        573
+                    ],
+                    [
+                        265,
+                        605
+                    ],
+                    [
+                        380,
+                        661
+                    ],
+                    [
+                        449,
+                        654
+                    ],
+                    [
+                        421,
+                        622
+                    ],
+                    [
+                        387,
+                        601
+                    ],
+                    [
+                        389,
+                        566
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

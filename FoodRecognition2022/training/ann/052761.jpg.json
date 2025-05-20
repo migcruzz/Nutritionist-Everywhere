@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1646013,
+            "classId": 3441,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:58.219Z",
+            "updatedAt": "2023-06-07T13:06:58.219Z",
+            "tags": [],
+            "classTitle": "tea",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        159
+                    ],
+                    [
+                        205,
+                        158
+                    ],
+                    [
+                        184,
+                        153
+                    ],
+                    [
+                        161,
+                        139
+                    ],
+                    [
+                        142,
+                        117
+                    ],
+                    [
+                        142,
+                        90
+                    ],
+                    [
+                        152,
+                        76
+                    ],
+                    [
+                        162,
+                        52
+                    ],
+                    [
+                        179,
+                        37
+                    ],
+                    [
+                        237,
+                        35
+                    ],
+                    [
+                        258,
+                        41
+                    ],
+                    [
+                        269,
+                        46
+                    ],
+                    [
+                        280,
+                        58
+                    ],
+                    [
+                        297,
+                        83
+                    ],
+                    [
+                        302,
+                        105
+                    ],
+                    [
+                        302,
+                        119
+                    ],
+                    [
+                        297,
+                        131
+                    ],
+                    [
+                        273,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1646011,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:58.218Z",
+            "updatedAt": "2023-06-07T13:06:58.218Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        251
+                    ],
+                    [
+                        95,
+                        221
+                    ],
+                    [
+                        14,
+                        438
+                    ],
+                    [
+                        113,
+                        462
+                    ],
+                    [
+                        250,
+                        463
+                    ],
+                    [
+                        340,
+                        465
+                    ],
+                    [
+                        367,
+                        286
+                    ],
+                    [
+                        359,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

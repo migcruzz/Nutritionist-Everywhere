@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1739768,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:22.004Z",
+            "updatedAt": "2023-06-07T14:12:22.004Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        434,
+                        191
+                    ],
+                    [
+                        349,
+                        164
+                    ],
+                    [
+                        261,
+                        152
+                    ],
+                    [
+                        214,
+                        157
+                    ],
+                    [
+                        187,
+                        192
+                    ],
+                    [
+                        215,
+                        229
+                    ],
+                    [
+                        225,
+                        292
+                    ],
+                    [
+                        225,
+                        329
+                    ],
+                    [
+                        234,
+                        351
+                    ],
+                    [
+                        305,
+                        358
+                    ],
+                    [
+                        359,
+                        360
+                    ],
+                    [
+                        400,
+                        361
+                    ],
+                    [
+                        404,
+                        329
+                    ],
+                    [
+                        397,
+                        290
+                    ],
+                    [
+                        429,
+                        259
+                    ],
+                    [
+                        446,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1739766,
+            "classId": 4385,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:22.004Z",
+            "updatedAt": "2023-06-07T14:12:22.004Z",
+            "tags": [],
+            "classTitle": "sauce-curry",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        134
+                    ],
+                    [
+                        195,
+                        134
+                    ],
+                    [
+                        150,
+                        145
+                    ],
+                    [
+                        84,
+                        172
+                    ],
+                    [
+                        36,
+                        228
+                    ],
+                    [
+                        14,
+                        301
+                    ],
+                    [
+                        33,
+                        353
+                    ],
+                    [
+                        85,
+                        404
+                    ],
+                    [
+                        178,
+                        423
+                    ],
+                    [
+                        249,
+                        416
+                    ],
+                    [
+                        277,
+                        388
+                    ],
+                    [
+                        266,
+                        366
+                    ],
+                    [
+                        205,
+                        357
+                    ],
+                    [
+                        133,
+                        380
+                    ],
+                    [
+                        96,
+                        362
+                    ],
+                    [
+                        57,
+                        316
+                    ],
+                    [
+                        62,
+                        256
+                    ],
+                    [
+                        110,
+                        206
+                    ],
+                    [
+                        174,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1739764,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:22.003Z",
+            "updatedAt": "2023-06-07T14:12:22.003Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        353
+                    ],
+                    [
+                        132,
+                        330
+                    ],
+                    [
+                        89,
+                        295
+                    ],
+                    [
+                        74,
+                        306
+                    ],
+                    [
+                        114,
+                        367
+                    ],
+                    [
+                        178,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1739762,
+            "classId": 3993,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:22.002Z",
+            "updatedAt": "2023-06-07T14:12:22.002Z",
+            "tags": [],
+            "classTitle": "vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        260
+                    ],
+                    [
+                        207,
+                        205
+                    ],
+                    [
+                        154,
+                        183
+                    ],
+                    [
+                        108,
+                        221
+                    ],
+                    [
+                        85,
+                        263
+                    ],
+                    [
+                        89,
+                        301
+                    ],
+                    [
+                        120,
+                        338
+                    ],
+                    [
+                        185,
+                        350
+                    ],
+                    [
+                        220,
+                        338
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

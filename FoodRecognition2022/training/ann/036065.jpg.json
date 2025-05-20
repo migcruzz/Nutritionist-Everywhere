@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 600,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 1727695,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:01.864Z",
+            "updatedAt": "2023-06-07T14:04:01.864Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        522,
+                        270
+                    ],
+                    [
+                        531,
+                        72
+                    ],
+                    [
+                        311,
+                        25
+                    ],
+                    [
+                        210,
+                        39
+                    ],
+                    [
+                        105,
+                        142
+                    ],
+                    [
+                        71,
+                        243
+                    ],
+                    [
+                        197,
+                        244
+                    ],
+                    [
+                        266,
+                        241
+                    ],
+                    [
+                        306,
+                        289
+                    ],
+                    [
+                        273,
+                        306
+                    ],
+                    [
+                        180,
+                        375
+                    ],
+                    [
+                        237,
+                        460
+                    ],
+                    [
+                        305,
+                        436
+                    ],
+                    [
+                        359,
+                        340
+                    ],
+                    [
+                        455,
+                        277
+                    ],
+                    [
+                        509,
+                        286
+                    ],
+                    [
+                        516,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1727693,
+            "classId": 3675,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:01.863Z",
+            "updatedAt": "2023-06-07T14:04:01.863Z",
+            "tags": [],
+            "classTitle": "dried-raisins",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        291
+                    ],
+                    [
+                        114,
+                        213
+                    ],
+                    [
+                        60,
+                        226
+                    ],
+                    [
+                        33,
+                        427
+                    ],
+                    [
+                        176,
+                        559
+                    ],
+                    [
+                        224,
+                        495
+                    ],
+                    [
+                        194,
+                        391
+                    ],
+                    [
+                        254,
+                        327
+                    ],
+                    [
+                        264,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1727691,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:01.862Z",
+            "updatedAt": "2023-06-07T14:04:01.862Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        438,
+                        279
+                    ],
+                    [
+                        309,
+                        372
+                    ],
+                    [
+                        329,
+                        526
+                    ],
+                    [
+                        515,
+                        568
+                    ],
+                    [
+                        582,
+                        517
+                    ],
+                    [
+                        593,
+                        366
+                    ],
+                    [
+                        549,
+                        271
+                    ],
+                    [
+                        453,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1740211,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:45.575Z",
+            "updatedAt": "2023-06-07T14:12:45.575Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        219
+                    ],
+                    [
+                        180,
+                        283
+                    ],
+                    [
+                        215,
+                        385
+                    ],
+                    [
+                        273,
+                        391
+                    ],
+                    [
+                        276,
+                        353
+                    ],
+                    [
+                        315,
+                        336
+                    ],
+                    [
+                        328,
+                        331
+                    ],
+                    [
+                        323,
+                        262
+                    ],
+                    [
+                        311,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740210,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:45.574Z",
+            "updatedAt": "2023-06-07T14:12:45.574Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        70
+                    ],
+                    [
+                        231,
+                        79
+                    ],
+                    [
+                        264,
+                        127
+                    ],
+                    [
+                        331,
+                        137
+                    ],
+                    [
+                        346,
+                        137
+                    ],
+                    [
+                        355,
+                        109
+                    ],
+                    [
+                        345,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1740208,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:12:45.574Z",
+            "updatedAt": "2023-06-07T14:12:45.574Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        139
+                    ],
+                    [
+                        227,
+                        139
+                    ],
+                    [
+                        225,
+                        233
+                    ],
+                    [
+                        319,
+                        232
+                    ],
+                    [
+                        371,
+                        247
+                    ],
+                    [
+                        412,
+                        189
+                    ],
+                    [
+                        412,
+                        161
+                    ],
+                    [
+                        334,
+                        142
+                    ],
+                    [
+                        328,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

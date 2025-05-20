@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1745729,
+            "classId": 3423,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.051Z",
+            "updatedAt": "2023-06-07T14:16:37.051Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        307
+                    ],
+                    [
+                        215,
+                        313
+                    ],
+                    [
+                        220,
+                        278
+                    ],
+                    [
+                        176,
+                        227
+                    ],
+                    [
+                        138,
+                        227
+                    ],
+                    [
+                        136,
+                        240
+                    ],
+                    [
+                        149,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745727,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.050Z",
+            "updatedAt": "2023-06-07T14:16:37.050Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        222
+                    ],
+                    [
+                        246,
+                        197
+                    ],
+                    [
+                        224,
+                        184
+                    ],
+                    [
+                        182,
+                        186
+                    ],
+                    [
+                        163,
+                        221
+                    ],
+                    [
+                        179,
+                        248
+                    ],
+                    [
+                        230,
+                        258
+                    ],
+                    [
+                        242,
+                        259
+                    ],
+                    [
+                        231,
+                        279
+                    ],
+                    [
+                        218,
+                        301
+                    ],
+                    [
+                        224,
+                        307
+                    ],
+                    [
+                        265,
+                        305
+                    ],
+                    [
+                        283,
+                        263
+                    ],
+                    [
+                        287,
+                        251
+                    ],
+                    [
+                        281,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

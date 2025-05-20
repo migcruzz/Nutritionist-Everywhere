@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1722409,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:28.002Z",
+            "updatedAt": "2023-06-07T14:00:28.002Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        221
+                    ],
+                    [
+                        529,
+                        36
+                    ],
+                    [
+                        293,
+                        49
+                    ],
+                    [
+                        152,
+                        125
+                    ],
+                    [
+                        224,
+                        240
+                    ],
+                    [
+                        210,
+                        351
+                    ],
+                    [
+                        161,
+                        567
+                    ],
+                    [
+                        120,
+                        667
+                    ],
+                    [
+                        274,
+                        833
+                    ],
+                    [
+                        504,
+                        816
+                    ],
+                    [
+                        416,
+                        586
+                    ],
+                    [
+                        414,
+                        530
+                    ],
+                    [
+                        557,
+                        428
+                    ],
+                    [
+                        566,
+                        332
+                    ],
+                    [
+                        495,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1722407,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:28.001Z",
+            "updatedAt": "2023-06-07T14:00:28.001Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        470,
+                        413
+                    ],
+                    [
+                        342,
+                        490
+                    ],
+                    [
+                        286,
+                        373
+                    ],
+                    [
+                        372,
+                        285
+                    ],
+                    [
+                        436,
+                        358
+                    ],
+                    [
+                        463,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1767467,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:01.319Z",
+            "updatedAt": "2023-06-07T14:31:01.319Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        70
+                    ],
+                    [
+                        129,
+                        238
+                    ],
+                    [
+                        54,
+                        243
+                    ],
+                    [
+                        58,
+                        164
+                    ],
+                    [
+                        139,
+                        128
+                    ],
+                    [
+                        150,
+                        55
+                    ],
+                    [
+                        190,
+                        22
+                    ],
+                    [
+                        233,
+                        39
+                    ],
+                    [
+                        261,
+                        56
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767465,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:01.319Z",
+            "updatedAt": "2023-06-07T14:31:01.319Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        260
+                    ],
+                    [
+                        228,
+                        230
+                    ],
+                    [
+                        203,
+                        310
+                    ],
+                    [
+                        185,
+                        388
+                    ],
+                    [
+                        299,
+                        427
+                    ],
+                    [
+                        327,
+                        409
+                    ],
+                    [
+                        328,
+                        313
+                    ],
+                    [
+                        312,
+                        262
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

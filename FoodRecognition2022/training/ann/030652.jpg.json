@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1666414,
+            "classId": 3557,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:49.035Z",
+            "updatedAt": "2023-06-07T13:20:49.035Z",
+            "tags": [],
+            "classTitle": "green-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        598,
+                        231
+                    ],
+                    [
+                        618,
+                        445
+                    ],
+                    [
+                        573,
+                        586
+                    ],
+                    [
+                        173,
+                        622
+                    ],
+                    [
+                        19,
+                        570
+                    ],
+                    [
+                        3,
+                        327
+                    ],
+                    [
+                        139,
+                        314
+                    ],
+                    [
+                        609,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666412,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:49.034Z",
+            "updatedAt": "2023-06-07T13:20:49.034Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        47
+                    ],
+                    [
+                        308,
+                        105
+                    ],
+                    [
+                        264,
+                        180
+                    ],
+                    [
+                        241,
+                        180
+                    ],
+                    [
+                        214,
+                        254
+                    ],
+                    [
+                        98,
+                        221
+                    ],
+                    [
+                        98,
+                        157
+                    ],
+                    [
+                        200,
+                        67
+                    ],
+                    [
+                        253,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666410,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:49.033Z",
+            "updatedAt": "2023-06-07T13:20:49.033Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        80
+                    ],
+                    [
+                        285,
+                        135
+                    ],
+                    [
+                        293,
+                        204
+                    ],
+                    [
+                        573,
+                        182
+                    ],
+                    [
+                        477,
+                        56
+                    ],
+                    [
+                        340,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

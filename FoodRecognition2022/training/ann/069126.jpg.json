@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1649705,
+            "classId": 3679,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:05.253Z",
+            "updatedAt": "2023-06-07T13:09:05.253Z",
+            "tags": [],
+            "classTitle": "kaki",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        158
+                    ],
+                    [
+                        244,
+                        142
+                    ],
+                    [
+                        264,
+                        309
+                    ],
+                    [
+                        366,
+                        326
+                    ],
+                    [
+                        399,
+                        284
+                    ],
+                    [
+                        383,
+                        196
+                    ],
+                    [
+                        352,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649704,
+            "classId": 3679,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:05.253Z",
+            "updatedAt": "2023-06-07T13:09:05.253Z",
+            "tags": [],
+            "classTitle": "kaki",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        205
+                    ],
+                    [
+                        78,
+                        171
+                    ],
+                    [
+                        23,
+                        181
+                    ],
+                    [
+                        16,
+                        284
+                    ],
+                    [
+                        33,
+                        360
+                    ],
+                    [
+                        183,
+                        346
+                    ],
+                    [
+                        171,
+                        266
+                    ],
+                    [
+                        157,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

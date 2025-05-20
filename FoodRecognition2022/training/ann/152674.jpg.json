@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 773,
+        "width": 771
+    },
+    "objects": [
+        {
+            "id": 1693365,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:39:02.253Z",
+            "updatedAt": "2023-06-07T13:39:02.253Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        641,
+                        160
+                    ],
+                    [
+                        473,
+                        187
+                    ],
+                    [
+                        432,
+                        166
+                    ],
+                    [
+                        237,
+                        276
+                    ],
+                    [
+                        222,
+                        334
+                    ],
+                    [
+                        48,
+                        353
+                    ],
+                    [
+                        11,
+                        515
+                    ],
+                    [
+                        119,
+                        550
+                    ],
+                    [
+                        398,
+                        535
+                    ],
+                    [
+                        521,
+                        423
+                    ],
+                    [
+                        722,
+                        330
+                    ],
+                    [
+                        728,
+                        289
+                    ],
+                    [
+                        666,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1693363,
+            "classId": 3635,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:39:02.253Z",
+            "updatedAt": "2023-06-07T13:39:02.253Z",
+            "tags": [],
+            "classTitle": "bread",
+            "points": {
+                "exterior": [
+                    [
+                        629,
+                        388
+                    ],
+                    [
+                        218,
+                        571
+                    ],
+                    [
+                        73,
+                        585
+                    ],
+                    [
+                        253,
+                        741
+                    ],
+                    [
+                        504,
+                        556
+                    ],
+                    [
+                        635,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1693361,
+            "classId": 3965,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:39:02.253Z",
+            "updatedAt": "2023-06-07T13:39:02.253Z",
+            "tags": [],
+            "classTitle": "philadelphia",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        548
+                    ],
+                    [
+                        71,
+                        546
+                    ],
+                    [
+                        112,
+                        587
+                    ],
+                    [
+                        222,
+                        575
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

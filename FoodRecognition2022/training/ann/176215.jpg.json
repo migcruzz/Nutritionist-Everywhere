@@ -1,0 +1,278 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1680247,
+            "classId": 3993,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:07.295Z",
+            "updatedAt": "2023-06-07T13:30:07.295Z",
+            "tags": [],
+            "classTitle": "vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        64
+                    ],
+                    [
+                        141,
+                        66
+                    ],
+                    [
+                        93,
+                        69
+                    ],
+                    [
+                        60,
+                        103
+                    ],
+                    [
+                        67,
+                        139
+                    ],
+                    [
+                        77,
+                        183
+                    ],
+                    [
+                        102,
+                        186
+                    ],
+                    [
+                        127,
+                        158
+                    ],
+                    [
+                        176,
+                        151
+                    ],
+                    [
+                        193,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1680245,
+            "classId": 3823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:07.294Z",
+            "updatedAt": "2023-06-07T13:30:07.294Z",
+            "tags": [],
+            "classTitle": "beef-filet",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        250
+                    ],
+                    [
+                        300,
+                        195
+                    ],
+                    [
+                        248,
+                        197
+                    ],
+                    [
+                        185,
+                        201
+                    ],
+                    [
+                        107,
+                        201
+                    ],
+                    [
+                        51,
+                        193
+                    ],
+                    [
+                        36,
+                        216
+                    ],
+                    [
+                        72,
+                        270
+                    ],
+                    [
+                        124,
+                        294
+                    ],
+                    [
+                        217,
+                        287
+                    ],
+                    [
+                        298,
+                        277
+                    ],
+                    [
+                        343,
+                        276
+                    ],
+                    [
+                        341,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1680243,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:07.294Z",
+            "updatedAt": "2023-06-07T13:30:07.294Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        301
+                    ],
+                    [
+                        233,
+                        278
+                    ],
+                    [
+                        169,
+                        269
+                    ],
+                    [
+                        124,
+                        285
+                    ],
+                    [
+                        133,
+                        307
+                    ],
+                    [
+                        197,
+                        326
+                    ],
+                    [
+                        266,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1680242,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:07.293Z",
+            "updatedAt": "2023-06-07T13:30:07.293Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        194
+                    ],
+                    [
+                        205,
+                        179
+                    ],
+                    [
+                        111,
+                        173
+                    ],
+                    [
+                        113,
+                        185
+                    ],
+                    [
+                        143,
+                        203
+                    ],
+                    [
+                        231,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1680240,
+            "classId": 3919,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:07.293Z",
+            "updatedAt": "2023-06-07T13:30:07.293Z",
+            "tags": [],
+            "classTitle": "rosti",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        250
+                    ],
+                    [
+                        368,
+                        226
+                    ],
+                    [
+                        390,
+                        192
+                    ],
+                    [
+                        380,
+                        136
+                    ],
+                    [
+                        318,
+                        93
+                    ],
+                    [
+                        251,
+                        71
+                    ],
+                    [
+                        196,
+                        104
+                    ],
+                    [
+                        198,
+                        143
+                    ],
+                    [
+                        254,
+                        173
+                    ],
+                    [
+                        292,
+                        166
+                    ],
+                    [
+                        302,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1741650,
+            "classId": 3847,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:43.340Z",
+            "updatedAt": "2023-06-07T14:13:43.340Z",
+            "tags": [],
+            "classTitle": "biscuits",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        63
+                    ],
+                    [
+                        171,
+                        40
+                    ],
+                    [
+                        102,
+                        144
+                    ],
+                    [
+                        107,
+                        244
+                    ],
+                    [
+                        190,
+                        309
+                    ],
+                    [
+                        294,
+                        278
+                    ],
+                    [
+                        339,
+                        228
+                    ],
+                    [
+                        342,
+                        93
+                    ],
+                    [
+                        277,
+                        63
+                    ],
+                    [
+                        282,
+                        64
+                    ],
+                    [
+                        282,
+                        62
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741648,
+            "classId": 4247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:43.339Z",
+            "updatedAt": "2023-06-07T14:13:43.339Z",
+            "tags": [],
+            "classTitle": "chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        62
+                    ],
+                    [
+                        144,
+                        235
+                    ],
+                    [
+                        112,
+                        241
+                    ],
+                    [
+                        108,
+                        122
+                    ],
+                    [
+                        160,
+                        63
+                    ],
+                    [
+                        240,
+                        45
+                    ],
+                    [
+                        262,
+                        57
+                    ],
+                    [
+                        262,
+                        56
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

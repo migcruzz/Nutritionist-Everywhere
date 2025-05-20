@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1761456,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:07.447Z",
+            "updatedAt": "2023-06-07T14:27:07.447Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        250
+                    ],
+                    [
+                        65,
+                        288
+                    ],
+                    [
+                        120,
+                        384
+                    ],
+                    [
+                        211,
+                        417
+                    ],
+                    [
+                        222,
+                        364
+                    ],
+                    [
+                        193,
+                        285
+                    ],
+                    [
+                        183,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

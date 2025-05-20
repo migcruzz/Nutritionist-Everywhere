@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1742234,
+            "classId": 4251,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:13.325Z",
+            "updatedAt": "2023-06-07T14:14:13.325Z",
+            "tags": [],
+            "classTitle": "grits-polenta-maize-flour",
+            "points": {
+                "exterior": [
+                    [
+                        463,
+                        110
+                    ],
+                    [
+                        137,
+                        91
+                    ],
+                    [
+                        28,
+                        300
+                    ],
+                    [
+                        13,
+                        577
+                    ],
+                    [
+                        310,
+                        661
+                    ],
+                    [
+                        363,
+                        676
+                    ],
+                    [
+                        412,
+                        507
+                    ],
+                    [
+                        401,
+                        392
+                    ],
+                    [
+                        380,
+                        285
+                    ],
+                    [
+                        421,
+                        155
+                    ],
+                    [
+                        465,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1742232,
+            "classId": 3669,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:13.324Z",
+            "updatedAt": "2023-06-07T14:14:13.324Z",
+            "tags": [],
+            "classTitle": "tuna",
+            "points": {
+                "exterior": [
+                    [
+                        768,
+                        426
+                    ],
+                    [
+                        419,
+                        488
+                    ],
+                    [
+                        376,
+                        650
+                    ],
+                    [
+                        406,
+                        806
+                    ],
+                    [
+                        534,
+                        833
+                    ],
+                    [
+                        670,
+                        774
+                    ],
+                    [
+                        770,
+                        601
+                    ],
+                    [
+                        764,
+                        415
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1742230,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:13.324Z",
+            "updatedAt": "2023-06-07T14:14:13.324Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        819,
+                        349
+                    ],
+                    [
+                        476,
+                        479
+                    ],
+                    [
+                        355,
+                        332
+                    ],
+                    [
+                        361,
+                        153
+                    ],
+                    [
+                        455,
+                        98
+                    ],
+                    [
+                        598,
+                        123
+                    ],
+                    [
+                        706,
+                        219
+                    ],
+                    [
+                        794,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

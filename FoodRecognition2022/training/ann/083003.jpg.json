@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 852,
+        "width": 852
+    },
+    "objects": [
+        {
+            "id": 1714675,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:54.477Z",
+            "updatedAt": "2023-06-07T13:54:54.477Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        640,
+                        619
+                    ],
+                    [
+                        686,
+                        481
+                    ],
+                    [
+                        635,
+                        351
+                    ],
+                    [
+                        488,
+                        249
+                    ],
+                    [
+                        324,
+                        266
+                    ],
+                    [
+                        214,
+                        408
+                    ],
+                    [
+                        207,
+                        553
+                    ],
+                    [
+                        288,
+                        647
+                    ],
+                    [
+                        365,
+                        675
+                    ],
+                    [
+                        448,
+                        690
+                    ],
+                    [
+                        533,
+                        685
+                    ],
+                    [
+                        563,
+                        673
+                    ],
+                    [
+                        571,
+                        666
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714673,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:54.476Z",
+            "updatedAt": "2023-06-07T13:54:54.476Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        566
+                    ],
+                    [
+                        337,
+                        523
+                    ],
+                    [
+                        316,
+                        472
+                    ],
+                    [
+                        248,
+                        462
+                    ],
+                    [
+                        211,
+                        481
+                    ],
+                    [
+                        199,
+                        506
+                    ],
+                    [
+                        199,
+                        545
+                    ],
+                    [
+                        299,
+                        564
+                    ],
+                    [
+                        312,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714672,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:54.476Z",
+            "updatedAt": "2023-06-07T13:54:54.476Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        559,
+                        553
+                    ],
+                    [
+                        610,
+                        549
+                    ],
+                    [
+                        618,
+                        485
+                    ],
+                    [
+                        556,
+                        455
+                    ],
+                    [
+                        505,
+                        466
+                    ],
+                    [
+                        444,
+                        513
+                    ],
+                    [
+                        424,
+                        572
+                    ],
+                    [
+                        490,
+                        585
+                    ],
+                    [
+                        574,
+                        555
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

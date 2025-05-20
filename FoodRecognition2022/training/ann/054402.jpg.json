@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1699006,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:58.635Z",
+            "updatedAt": "2023-06-07T13:42:58.635Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        390
+                    ],
+                    [
+                        398,
+                        283
+                    ],
+                    [
+                        327,
+                        245
+                    ],
+                    [
+                        468,
+                        232
+                    ],
+                    [
+                        456,
+                        23
+                    ],
+                    [
+                        260,
+                        40
+                    ],
+                    [
+                        280,
+                        238
+                    ],
+                    [
+                        298,
+                        238
+                    ],
+                    [
+                        247,
+                        318
+                    ],
+                    [
+                        326,
+                        397
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1699005,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:58.634Z",
+            "updatedAt": "2023-06-07T13:42:58.634Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        276
+                    ],
+                    [
+                        16,
+                        464
+                    ],
+                    [
+                        222,
+                        448
+                    ],
+                    [
+                        210,
+                        254
+                    ],
+                    [
+                        6,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1699004,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:58.634Z",
+            "updatedAt": "2023-06-07T13:42:58.634Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        37
+                    ],
+                    [
+                        3,
+                        208
+                    ],
+                    [
+                        200,
+                        211
+                    ],
+                    [
+                        210,
+                        37
+                    ],
+                    [
+                        10,
+                        40
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

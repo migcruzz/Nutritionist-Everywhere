@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1765772,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.326Z",
+            "updatedAt": "2023-06-07T14:29:50.326Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        458,
+                        302
+                    ],
+                    [
+                        402,
+                        398
+                    ],
+                    [
+                        283,
+                        451
+                    ],
+                    [
+                        149,
+                        447
+                    ],
+                    [
+                        46,
+                        384
+                    ],
+                    [
+                        8,
+                        284
+                    ],
+                    [
+                        41,
+                        161
+                    ],
+                    [
+                        172,
+                        95
+                    ],
+                    [
+                        331,
+                        86
+                    ],
+                    [
+                        428,
+                        159
+                    ],
+                    [
+                        470,
+                        224
+                    ],
+                    [
+                        461,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765770,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.325Z",
+            "updatedAt": "2023-06-07T14:29:50.325Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        251
+                    ],
+                    [
+                        42,
+                        313
+                    ],
+                    [
+                        85,
+                        377
+                    ],
+                    [
+                        182,
+                        373
+                    ],
+                    [
+                        128,
+                        262
+                    ],
+                    [
+                        65,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

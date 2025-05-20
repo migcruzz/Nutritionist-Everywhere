@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1696387,
+            "classId": 4083,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:10.923Z",
+            "updatedAt": "2023-06-07T13:41:10.923Z",
+            "tags": [],
+            "classTitle": "quinoa",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        203
+                    ],
+                    [
+                        188,
+                        249
+                    ],
+                    [
+                        136,
+                        364
+                    ],
+                    [
+                        262,
+                        403
+                    ],
+                    [
+                        426,
+                        372
+                    ],
+                    [
+                        457,
+                        319
+                    ],
+                    [
+                        433,
+                        268
+                    ],
+                    [
+                        371,
+                        242
+                    ],
+                    [
+                        369,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696385,
+            "classId": 3939,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:10.922Z",
+            "updatedAt": "2023-06-07T13:41:10.922Z",
+            "tags": [],
+            "classTitle": "pork",
+            "points": {
+                "exterior": [
+                    [
+                        429,
+                        152
+                    ],
+                    [
+                        318,
+                        198
+                    ],
+                    [
+                        224,
+                        255
+                    ],
+                    [
+                        114,
+                        329
+                    ],
+                    [
+                        90,
+                        286
+                    ],
+                    [
+                        188,
+                        193
+                    ],
+                    [
+                        322,
+                        133
+                    ],
+                    [
+                        356,
+                        124
+                    ],
+                    [
+                        386,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696383,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:10.921Z",
+            "updatedAt": "2023-06-07T13:41:10.921Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        77
+                    ],
+                    [
+                        239,
+                        133
+                    ],
+                    [
+                        311,
+                        142
+                    ],
+                    [
+                        362,
+                        113
+                    ],
+                    [
+                        360,
+                        54
+                    ],
+                    [
+                        336,
+                        38
+                    ],
+                    [
+                        271,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696381,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:10.921Z",
+            "updatedAt": "2023-06-07T13:41:10.921Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        158
+                    ],
+                    [
+                        249,
+                        43
+                    ],
+                    [
+                        189,
+                        40
+                    ],
+                    [
+                        85,
+                        60
+                    ],
+                    [
+                        47,
+                        121
+                    ],
+                    [
+                        8,
+                        164
+                    ],
+                    [
+                        6,
+                        215
+                    ],
+                    [
+                        20,
+                        326
+                    ],
+                    [
+                        73,
+                        353
+                    ],
+                    [
+                        89,
+                        311
+                    ],
+                    [
+                        134,
+                        235
+                    ],
+                    [
+                        184,
+                        186
+                    ],
+                    [
+                        216,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

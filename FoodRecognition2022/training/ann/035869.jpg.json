@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1661052,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:48.793Z",
+            "updatedAt": "2023-06-07T13:16:48.793Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        393,
+                        4
+                    ],
+                    [
+                        109,
+                        2
+                    ],
+                    [
+                        3,
+                        439
+                    ],
+                    [
+                        12,
+                        462
+                    ],
+                    [
+                        111,
+                        464
+                    ],
+                    [
+                        425,
+                        477
+                    ],
+                    [
+                        400,
+                        241
+                    ],
+                    [
+                        397,
+                        21
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1661050,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:48.793Z",
+            "updatedAt": "2023-06-07T13:16:48.793Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        178
+                    ],
+                    [
+                        376,
+                        54
+                    ],
+                    [
+                        352,
+                        22
+                    ],
+                    [
+                        201,
+                        21
+                    ],
+                    [
+                        142,
+                        31
+                    ],
+                    [
+                        118,
+                        126
+                    ],
+                    [
+                        87,
+                        223
+                    ],
+                    [
+                        33,
+                        394
+                    ],
+                    [
+                        55,
+                        432
+                    ],
+                    [
+                        264,
+                        452
+                    ],
+                    [
+                        391,
+                        422
+                    ],
+                    [
+                        408,
+                        308
+                    ],
+                    [
+                        385,
+                        206
+                    ],
+                    [
+                        372,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

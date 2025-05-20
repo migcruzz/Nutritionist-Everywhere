@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1687073,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:45.316Z",
+            "updatedAt": "2023-06-07T13:34:45.316Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        221
+                    ],
+                    [
+                        176,
+                        220
+                    ],
+                    [
+                        139,
+                        211
+                    ],
+                    [
+                        125,
+                        204
+                    ],
+                    [
+                        106,
+                        188
+                    ],
+                    [
+                        105,
+                        171
+                    ],
+                    [
+                        126,
+                        143
+                    ],
+                    [
+                        141,
+                        138
+                    ],
+                    [
+                        213,
+                        128
+                    ],
+                    [
+                        259,
+                        129
+                    ],
+                    [
+                        274,
+                        133
+                    ],
+                    [
+                        286,
+                        143
+                    ],
+                    [
+                        308,
+                        173
+                    ],
+                    [
+                        309,
+                        189
+                    ],
+                    [
+                        296,
+                        202
+                    ],
+                    [
+                        283,
+                        209
+                    ],
+                    [
+                        259,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1687071,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:45.315Z",
+            "updatedAt": "2023-06-07T13:34:45.315Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        164
+                    ],
+                    [
+                        241,
+                        127
+                    ],
+                    [
+                        174,
+                        126
+                    ],
+                    [
+                        104,
+                        160
+                    ],
+                    [
+                        122,
+                        196
+                    ],
+                    [
+                        146,
+                        209
+                    ],
+                    [
+                        205,
+                        220
+                    ],
+                    [
+                        271,
+                        217
+                    ],
+                    [
+                        313,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

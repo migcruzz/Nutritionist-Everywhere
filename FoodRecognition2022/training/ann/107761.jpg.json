@@ -1,0 +1,250 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1643952,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:26.703Z",
+            "updatedAt": "2023-06-07T13:05:26.703Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        110
+                    ],
+                    [
+                        16,
+                        116
+                    ],
+                    [
+                        7,
+                        127
+                    ],
+                    [
+                        27,
+                        203
+                    ],
+                    [
+                        58,
+                        202
+                    ],
+                    [
+                        88,
+                        162
+                    ],
+                    [
+                        92,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1643951,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:26.703Z",
+            "updatedAt": "2023-06-07T13:05:26.703Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        269
+                    ],
+                    [
+                        1,
+                        265
+                    ],
+                    [
+                        19,
+                        381
+                    ],
+                    [
+                        86,
+                        432
+                    ],
+                    [
+                        117,
+                        404
+                    ],
+                    [
+                        156,
+                        371
+                    ],
+                    [
+                        185,
+                        342
+                    ],
+                    [
+                        202,
+                        318
+                    ],
+                    [
+                        141,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1643949,
+            "classId": 4401,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:26.703Z",
+            "updatedAt": "2023-06-07T13:05:26.703Z",
+            "tags": [],
+            "classTitle": "white-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        125
+                    ],
+                    [
+                        331,
+                        96
+                    ],
+                    [
+                        163,
+                        131
+                    ],
+                    [
+                        218,
+                        270
+                    ],
+                    [
+                        354,
+                        252
+                    ],
+                    [
+                        373,
+                        260
+                    ],
+                    [
+                        405,
+                        211
+                    ],
+                    [
+                        390,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1643947,
+            "classId": 3955,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:26.703Z",
+            "updatedAt": "2023-06-07T13:05:26.703Z",
+            "tags": [],
+            "classTitle": "baked-potato",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        139
+                    ],
+                    [
+                        106,
+                        114
+                    ],
+                    [
+                        88,
+                        168
+                    ],
+                    [
+                        81,
+                        194
+                    ],
+                    [
+                        29,
+                        249
+                    ],
+                    [
+                        83,
+                        265
+                    ],
+                    [
+                        139,
+                        267
+                    ],
+                    [
+                        186,
+                        223
+                    ],
+                    [
+                        164,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1643945,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:26.702Z",
+            "updatedAt": "2023-06-07T13:05:26.702Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        108
+                    ],
+                    [
+                        248,
+                        128
+                    ],
+                    [
+                        141,
+                        120
+                    ],
+                    [
+                        92,
+                        108
+                    ],
+                    [
+                        105,
+                        64
+                    ],
+                    [
+                        340,
+                        70
+                    ],
+                    [
+                        332,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

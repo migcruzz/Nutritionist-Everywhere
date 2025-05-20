@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1788987,
+            "classId": 3677,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:34.699Z",
+            "updatedAt": "2023-06-07T14:45:34.699Z",
+            "tags": [],
+            "classTitle": "ice-tea",
+            "points": {
+                "exterior": [
+                    [
+                        451,
+                        282
+                    ],
+                    [
+                        285,
+                        262
+                    ],
+                    [
+                        286,
+                        372
+                    ],
+                    [
+                        304,
+                        442
+                    ],
+                    [
+                        400,
+                        440
+                    ],
+                    [
+                        449,
+                        324
+                    ],
+                    [
+                        449,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1788986,
+            "classId": 3677,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:34.698Z",
+            "updatedAt": "2023-06-07T14:45:34.698Z",
+            "tags": [],
+            "classTitle": "ice-tea",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        177
+                    ],
+                    [
+                        83,
+                        154
+                    ],
+                    [
+                        25,
+                        204
+                    ],
+                    [
+                        65,
+                        375
+                    ],
+                    [
+                        100,
+                        411
+                    ],
+                    [
+                        186,
+                        406
+                    ],
+                    [
+                        215,
+                        304
+                    ],
+                    [
+                        207,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

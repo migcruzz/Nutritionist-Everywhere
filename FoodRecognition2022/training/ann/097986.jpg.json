@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 805,
+        "width": 805
+    },
+    "objects": [
+        {
+            "id": 1641822,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:54.332Z",
+            "updatedAt": "2023-06-07T13:03:54.332Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        573,
+                        406
+                    ],
+                    [
+                        438,
+                        426
+                    ],
+                    [
+                        275,
+                        396
+                    ],
+                    [
+                        211,
+                        400
+                    ],
+                    [
+                        169,
+                        459
+                    ],
+                    [
+                        189,
+                        545
+                    ],
+                    [
+                        253,
+                        581
+                    ],
+                    [
+                        289,
+                        614
+                    ],
+                    [
+                        291,
+                        652
+                    ],
+                    [
+                        388,
+                        676
+                    ],
+                    [
+                        535,
+                        666
+                    ],
+                    [
+                        603,
+                        585
+                    ],
+                    [
+                        609,
+                        539
+                    ],
+                    [
+                        597,
+                        503
+                    ],
+                    [
+                        603,
+                        433
+                    ],
+                    [
+                        577,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1641820,
+            "classId": 4285,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:54.332Z",
+            "updatedAt": "2023-06-07T13:03:54.332Z",
+            "tags": [],
+            "classTitle": "butter-herb",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        227
+                    ],
+                    [
+                        352,
+                        243
+                    ],
+                    [
+                        386,
+                        348
+                    ],
+                    [
+                        432,
+                        348
+                    ],
+                    [
+                        452,
+                        330
+                    ],
+                    [
+                        428,
+                        253
+                    ],
+                    [
+                        412,
+                        219
+                    ],
+                    [
+                        396,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

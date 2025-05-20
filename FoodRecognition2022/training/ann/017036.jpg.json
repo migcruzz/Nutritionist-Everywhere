@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1774310,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:28.809Z",
+            "updatedAt": "2023-06-07T14:35:28.809Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        55
+                    ],
+                    [
+                        173,
+                        108
+                    ],
+                    [
+                        239,
+                        239
+                    ],
+                    [
+                        367,
+                        355
+                    ],
+                    [
+                        497,
+                        418
+                    ],
+                    [
+                        595,
+                        424
+                    ],
+                    [
+                        624,
+                        342
+                    ],
+                    [
+                        624,
+                        231
+                    ],
+                    [
+                        602,
+                        144
+                    ],
+                    [
+                        530,
+                        133
+                    ],
+                    [
+                        467,
+                        48
+                    ],
+                    [
+                        420,
+                        47
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1774308,
+            "classId": 3443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:28.808Z",
+            "updatedAt": "2023-06-07T14:35:28.808Z",
+            "tags": [],
+            "classTitle": "salmon-smoked",
+            "points": {
+                "exterior": [
+                    [
+                        528,
+                        617
+                    ],
+                    [
+                        486,
+                        393
+                    ],
+                    [
+                        305,
+                        261
+                    ],
+                    [
+                        150,
+                        205
+                    ],
+                    [
+                        33,
+                        253
+                    ],
+                    [
+                        14,
+                        323
+                    ],
+                    [
+                        24,
+                        452
+                    ],
+                    [
+                        19,
+                        575
+                    ],
+                    [
+                        109,
+                        606
+                    ],
+                    [
+                        300,
+                        562
+                    ],
+                    [
+                        321,
+                        528
+                    ],
+                    [
+                        363,
+                        602
+                    ],
+                    [
+                        478,
+                        625
+                    ],
+                    [
+                        530,
+                        619
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

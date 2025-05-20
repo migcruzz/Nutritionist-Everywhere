@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1768677,
+            "classId": 3723,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:51.783Z",
+            "updatedAt": "2023-06-07T14:31:51.783Z",
+            "tags": [],
+            "classTitle": "beef-cut-into-stripes-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        317
+                    ],
+                    [
+                        197,
+                        263
+                    ],
+                    [
+                        218,
+                        223
+                    ],
+                    [
+                        204,
+                        186
+                    ],
+                    [
+                        167,
+                        178
+                    ],
+                    [
+                        116,
+                        169
+                    ],
+                    [
+                        77,
+                        204
+                    ],
+                    [
+                        65,
+                        232
+                    ],
+                    [
+                        81,
+                        267
+                    ],
+                    [
+                        108,
+                        299
+                    ],
+                    [
+                        124,
+                        313
+                    ],
+                    [
+                        134,
+                        316
+                    ],
+                    [
+                        136,
+                        316
+                    ],
+                    [
+                        138,
+                        316
+                    ],
+                    [
+                        137,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768675,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:51.782Z",
+            "updatedAt": "2023-06-07T14:31:51.782Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        280
+                    ],
+                    [
+                        368,
+                        220
+                    ],
+                    [
+                        273,
+                        152
+                    ],
+                    [
+                        227,
+                        108
+                    ],
+                    [
+                        120,
+                        104
+                    ],
+                    [
+                        43,
+                        121
+                    ],
+                    [
+                        50,
+                        183
+                    ],
+                    [
+                        30,
+                        198
+                    ],
+                    [
+                        74,
+                        193
+                    ],
+                    [
+                        147,
+                        185
+                    ],
+                    [
+                        194,
+                        210
+                    ],
+                    [
+                        207,
+                        233
+                    ],
+                    [
+                        228,
+                        258
+                    ],
+                    [
+                        237,
+                        267
+                    ],
+                    [
+                        238,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

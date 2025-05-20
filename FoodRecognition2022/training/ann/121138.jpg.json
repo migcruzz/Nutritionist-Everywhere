@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 820,
+        "width": 820
+    },
+    "objects": [
+        {
+            "id": 1722744,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:38.135Z",
+            "updatedAt": "2023-06-07T14:00:38.135Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        476
+                    ],
+                    [
+                        320,
+                        396
+                    ],
+                    [
+                        326,
+                        302
+                    ],
+                    [
+                        433,
+                        263
+                    ],
+                    [
+                        560,
+                        314
+                    ],
+                    [
+                        601,
+                        370
+                    ],
+                    [
+                        433,
+                        386
+                    ],
+                    [
+                        449,
+                        460
+                    ],
+                    [
+                        464,
+                        515
+                    ],
+                    [
+                        388,
+                        562
+                    ],
+                    [
+                        294,
+                        605
+                    ],
+                    [
+                        257,
+                        613
+                    ],
+                    [
+                        240,
+                        531
+                    ],
+                    [
+                        244,
+                        490
+                    ],
+                    [
+                        283,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1722742,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:38.134Z",
+            "updatedAt": "2023-06-07T14:00:38.134Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        310
+                    ],
+                    [
+                        210,
+                        265
+                    ],
+                    [
+                        259,
+                        210
+                    ],
+                    [
+                        374,
+                        218
+                    ],
+                    [
+                        493,
+                        201
+                    ],
+                    [
+                        638,
+                        210
+                    ],
+                    [
+                        646,
+                        283
+                    ],
+                    [
+                        581,
+                        312
+                    ],
+                    [
+                        478,
+                        259
+                    ],
+                    [
+                        365,
+                        247
+                    ],
+                    [
+                        312,
+                        318
+                    ],
+                    [
+                        247,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1722741,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:38.134Z",
+            "updatedAt": "2023-06-07T14:00:38.134Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        636
+                    ],
+                    [
+                        466,
+                        556
+                    ],
+                    [
+                        515,
+                        486
+                    ],
+                    [
+                        554,
+                        390
+                    ],
+                    [
+                        603,
+                        396
+                    ],
+                    [
+                        618,
+                        482
+                    ],
+                    [
+                        417,
+                        669
+                    ],
+                    [
+                        384,
+                        652
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

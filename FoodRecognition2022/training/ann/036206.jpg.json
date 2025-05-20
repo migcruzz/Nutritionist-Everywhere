@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1782358,
+            "classId": 3775,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:04.766Z",
+            "updatedAt": "2023-06-07T14:41:04.766Z",
+            "tags": [],
+            "classTitle": "prosecco",
+            "points": {
+                "exterior": [
+                    [
+                        340,
+                        118
+                    ],
+                    [
+                        90,
+                        132
+                    ],
+                    [
+                        64,
+                        230
+                    ],
+                    [
+                        135,
+                        392
+                    ],
+                    [
+                        168,
+                        438
+                    ],
+                    [
+                        285,
+                        430
+                    ],
+                    [
+                        342,
+                        385
+                    ],
+                    [
+                        361,
+                        278
+                    ],
+                    [
+                        328,
+                        158
+                    ],
+                    [
+                        348,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

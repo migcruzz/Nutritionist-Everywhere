@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1741413,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:32.229Z",
+            "updatedAt": "2023-06-07T14:13:32.229Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        91
+                    ],
+                    [
+                        131,
+                        99
+                    ],
+                    [
+                        102,
+                        156
+                    ],
+                    [
+                        101,
+                        228
+                    ],
+                    [
+                        116,
+                        308
+                    ],
+                    [
+                        145,
+                        350
+                    ],
+                    [
+                        214,
+                        359
+                    ],
+                    [
+                        312,
+                        359
+                    ],
+                    [
+                        349,
+                        285
+                    ],
+                    [
+                        362,
+                        177
+                    ],
+                    [
+                        346,
+                        156
+                    ],
+                    [
+                        314,
+                        220
+                    ],
+                    [
+                        277,
+                        261
+                    ],
+                    [
+                        178,
+                        272
+                    ],
+                    [
+                        139,
+                        264
+                    ],
+                    [
+                        173,
+                        200
+                    ],
+                    [
+                        208,
+                        148
+                    ],
+                    [
+                        218,
+                        110
+                    ],
+                    [
+                        219,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741411,
+            "classId": 3715,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:32.229Z",
+            "updatedAt": "2023-06-07T14:13:32.229Z",
+            "tags": [],
+            "classTitle": "bolognaise-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        285
+                    ],
+                    [
+                        312,
+                        233
+                    ],
+                    [
+                        318,
+                        117
+                    ],
+                    [
+                        263,
+                        104
+                    ],
+                    [
+                        230,
+                        117
+                    ],
+                    [
+                        185,
+                        158
+                    ],
+                    [
+                        147,
+                        175
+                    ],
+                    [
+                        129,
+                        197
+                    ],
+                    [
+                        145,
+                        252
+                    ],
+                    [
+                        172,
+                        265
+                    ],
+                    [
+                        251,
+                        266
+                    ],
+                    [
+                        249,
+                        267
+                    ],
+                    [
+                        240,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1741409,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:13:32.228Z",
+            "updatedAt": "2023-06-07T14:13:32.228Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        191
+                    ],
+                    [
+                        160,
+                        138
+                    ],
+                    [
+                        127,
+                        223
+                    ],
+                    [
+                        149,
+                        256
+                    ],
+                    [
+                        225,
+                        285
+                    ],
+                    [
+                        302,
+                        277
+                    ],
+                    [
+                        276,
+                        207
+                    ],
+                    [
+                        260,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

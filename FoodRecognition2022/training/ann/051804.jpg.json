@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1714908,
+            "classId": 3503,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:05.565Z",
+            "updatedAt": "2023-06-07T13:55:05.565Z",
+            "tags": [],
+            "classTitle": "blueberries",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        291
+                    ],
+                    [
+                        169,
+                        324
+                    ],
+                    [
+                        324,
+                        271
+                    ],
+                    [
+                        372,
+                        172
+                    ],
+                    [
+                        253,
+                        60
+                    ],
+                    [
+                        115,
+                        56
+                    ],
+                    [
+                        79,
+                        153
+                    ],
+                    [
+                        84,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

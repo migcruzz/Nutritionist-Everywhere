@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1717287,
+            "classId": 3843,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:42.460Z",
+            "updatedAt": "2023-06-07T13:56:42.460Z",
+            "tags": [],
+            "classTitle": "chicken-curry-cream-coconut-milk-curry-spices-paste",
+            "points": {
+                "exterior": [
+                    [
+                        971,
+                        218
+                    ],
+                    [
+                        695,
+                        148
+                    ],
+                    [
+                        558,
+                        191
+                    ],
+                    [
+                        531,
+                        383
+                    ],
+                    [
+                        487,
+                        545
+                    ],
+                    [
+                        587,
+                        699
+                    ],
+                    [
+                        755,
+                        756
+                    ],
+                    [
+                        936,
+                        715
+                    ],
+                    [
+                        1044,
+                        602
+                    ],
+                    [
+                        960,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717285,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:42.459Z",
+            "updatedAt": "2023-06-07T13:56:42.459Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        617,
+                        299
+                    ],
+                    [
+                        455,
+                        253
+                    ],
+                    [
+                        244,
+                        291
+                    ],
+                    [
+                        206,
+                        431
+                    ],
+                    [
+                        228,
+                        621
+                    ],
+                    [
+                        393,
+                        750
+                    ],
+                    [
+                        555,
+                        750
+                    ],
+                    [
+                        587,
+                        696
+                    ],
+                    [
+                        506,
+                        550
+                    ],
+                    [
+                        485,
+                        480
+                    ],
+                    [
+                        579,
+                        345
+                    ],
+                    [
+                        612,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

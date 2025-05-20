@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4032,
+        "width": 3024
+    },
+    "objects": [
+        {
+            "id": 1688764,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:35:49.308Z",
+            "updatedAt": "2023-06-07T13:35:49.308Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        2061,
+                        1471
+                    ],
+                    [
+                        2434,
+                        756
+                    ],
+                    [
+                        1920,
+                        352
+                    ],
+                    [
+                        1597,
+                        614
+                    ],
+                    [
+                        851,
+                        1441
+                    ],
+                    [
+                        539,
+                        1965
+                    ],
+                    [
+                        942,
+                        2348
+                    ],
+                    [
+                        1789,
+                        1874
+                    ],
+                    [
+                        2071,
+                        1532
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1688763,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:35:49.308Z",
+            "updatedAt": "2023-06-07T13:35:49.308Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        1638,
+                        2308
+                    ],
+                    [
+                        902,
+                        2701
+                    ],
+                    [
+                        962,
+                        3366
+                    ],
+                    [
+                        1738,
+                        3790
+                    ],
+                    [
+                        2262,
+                        3648
+                    ],
+                    [
+                        2333,
+                        2933
+                    ],
+                    [
+                        2101,
+                        2459
+                    ],
+                    [
+                        1688,
+                        2388
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

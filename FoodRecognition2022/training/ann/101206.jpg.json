@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1692949,
+            "classId": 3715,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:43.130Z",
+            "updatedAt": "2023-06-07T13:38:43.130Z",
+            "tags": [],
+            "classTitle": "bolognaise-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        86
+                    ],
+                    [
+                        112,
+                        94
+                    ],
+                    [
+                        143,
+                        120
+                    ],
+                    [
+                        144,
+                        206
+                    ],
+                    [
+                        171,
+                        229
+                    ],
+                    [
+                        186,
+                        267
+                    ],
+                    [
+                        182,
+                        302
+                    ],
+                    [
+                        197,
+                        304
+                    ],
+                    [
+                        208,
+                        273
+                    ],
+                    [
+                        235,
+                        312
+                    ],
+                    [
+                        312,
+                        255
+                    ],
+                    [
+                        314,
+                        150
+                    ],
+                    [
+                        284,
+                        157
+                    ],
+                    [
+                        246,
+                        85
+                    ],
+                    [
+                        221,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1692947,
+            "classId": 3927,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:43.129Z",
+            "updatedAt": "2023-06-07T13:38:43.129Z",
+            "tags": [],
+            "classTitle": "spinach-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        120
+                    ],
+                    [
+                        73,
+                        127
+                    ],
+                    [
+                        61,
+                        219
+                    ],
+                    [
+                        67,
+                        273
+                    ],
+                    [
+                        118,
+                        294
+                    ],
+                    [
+                        145,
+                        303
+                    ],
+                    [
+                        165,
+                        295
+                    ],
+                    [
+                        165,
+                        239
+                    ],
+                    [
+                        148,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1790763,
+            "classId": 4135,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:54.991Z",
+            "updatedAt": "2023-06-07T14:46:54.991Z",
+            "tags": [],
+            "classTitle": "ham-turkey",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        289
+                    ],
+                    [
+                        211,
+                        256
+                    ],
+                    [
+                        222,
+                        207
+                    ],
+                    [
+                        190,
+                        162
+                    ],
+                    [
+                        170,
+                        142
+                    ],
+                    [
+                        143,
+                        127
+                    ],
+                    [
+                        129,
+                        126
+                    ],
+                    [
+                        110,
+                        145
+                    ],
+                    [
+                        69,
+                        175
+                    ],
+                    [
+                        48,
+                        216
+                    ],
+                    [
+                        73,
+                        252
+                    ],
+                    [
+                        92,
+                        278
+                    ],
+                    [
+                        92,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1790761,
+            "classId": 3431,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:54.991Z",
+            "updatedAt": "2023-06-07T14:46:54.991Z",
+            "tags": [],
+            "classTitle": "cottage-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        145
+                    ],
+                    [
+                        250,
+                        138
+                    ],
+                    [
+                        255,
+                        93
+                    ],
+                    [
+                        224,
+                        78
+                    ],
+                    [
+                        176,
+                        80
+                    ],
+                    [
+                        146,
+                        113
+                    ],
+                    [
+                        167,
+                        131
+                    ],
+                    [
+                        169,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1790759,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:54.990Z",
+            "updatedAt": "2023-06-07T14:46:54.990Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        186
+                    ],
+                    [
+                        256,
+                        182
+                    ],
+                    [
+                        194,
+                        285
+                    ],
+                    [
+                        240,
+                        317
+                    ],
+                    [
+                        276,
+                        316
+                    ],
+                    [
+                        298,
+                        291
+                    ],
+                    [
+                        302,
+                        280
+                    ],
+                    [
+                        306,
+                        225
+                    ],
+                    [
+                        310,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

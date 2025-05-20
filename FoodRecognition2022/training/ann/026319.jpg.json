@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1705220,
+            "classId": 4233,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:33.116Z",
+            "updatedAt": "2023-06-07T13:47:33.116Z",
+            "tags": [],
+            "classTitle": "muffin",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        75
+                    ],
+                    [
+                        168,
+                        70
+                    ],
+                    [
+                        108,
+                        121
+                    ],
+                    [
+                        52,
+                        201
+                    ],
+                    [
+                        58,
+                        300
+                    ],
+                    [
+                        122,
+                        390
+                    ],
+                    [
+                        257,
+                        367
+                    ],
+                    [
+                        317,
+                        264
+                    ],
+                    [
+                        333,
+                        231
+                    ],
+                    [
+                        373,
+                        210
+                    ],
+                    [
+                        355,
+                        148
+                    ],
+                    [
+                        293,
+                        76
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705218,
+            "classId": 4353,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:33.115Z",
+            "updatedAt": "2023-06-07T13:47:33.115Z",
+            "tags": [],
+            "classTitle": "vanille-cream-cooked-custard-creme-dessert",
+            "points": {
+                "exterior": [
+                    [
+                        263,
+                        105
+                    ],
+                    [
+                        108,
+                        202
+                    ],
+                    [
+                        148,
+                        288
+                    ],
+                    [
+                        233,
+                        292
+                    ],
+                    [
+                        269,
+                        223
+                    ],
+                    [
+                        289,
+                        164
+                    ],
+                    [
+                        285,
+                        108
+                    ],
+                    [
+                        263,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

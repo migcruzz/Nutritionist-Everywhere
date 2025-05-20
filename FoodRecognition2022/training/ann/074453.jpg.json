@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1736610,
+            "classId": 4207,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:17.202Z",
+            "updatedAt": "2023-06-07T14:10:17.202Z",
+            "tags": [],
+            "classTitle": "chocolate-mousse",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        164
+                    ],
+                    [
+                        153,
+                        215
+                    ],
+                    [
+                        175,
+                        263
+                    ],
+                    [
+                        228,
+                        288
+                    ],
+                    [
+                        250,
+                        328
+                    ],
+                    [
+                        303,
+                        305
+                    ],
+                    [
+                        351,
+                        195
+                    ],
+                    [
+                        309,
+                        114
+                    ],
+                    [
+                        238,
+                        116
+                    ],
+                    [
+                        238,
+                        138
+                    ],
+                    [
+                        250,
+                        182
+                    ],
+                    [
+                        192,
+                        196
+                    ],
+                    [
+                        182,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1736608,
+            "classId": 4247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:10:17.202Z",
+            "updatedAt": "2023-06-07T14:10:17.202Z",
+            "tags": [],
+            "classTitle": "chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        164
+                    ],
+                    [
+                        239,
+                        126
+                    ],
+                    [
+                        208,
+                        90
+                    ],
+                    [
+                        198,
+                        5
+                    ],
+                    [
+                        180,
+                        25
+                    ],
+                    [
+                        191,
+                        117
+                    ],
+                    [
+                        187,
+                        152
+                    ],
+                    [
+                        180,
+                        201
+                    ],
+                    [
+                        240,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

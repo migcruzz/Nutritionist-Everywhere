@@ -1,0 +1,282 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1765609,
+            "classId": 3569,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:45.371Z",
+            "updatedAt": "2023-06-07T14:29:45.371Z",
+            "tags": [],
+            "classTitle": "soup-of-lentils-dahl-dhal",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        92
+                    ],
+                    [
+                        354,
+                        139
+                    ],
+                    [
+                        295,
+                        183
+                    ],
+                    [
+                        293,
+                        255
+                    ],
+                    [
+                        274,
+                        271
+                    ],
+                    [
+                        295,
+                        297
+                    ],
+                    [
+                        335,
+                        284
+                    ],
+                    [
+                        396,
+                        274
+                    ],
+                    [
+                        423,
+                        321
+                    ],
+                    [
+                        456,
+                        186
+                    ],
+                    [
+                        421,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765607,
+            "classId": 3827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:45.370Z",
+            "updatedAt": "2023-06-07T14:29:45.370Z",
+            "tags": [],
+            "classTitle": "rice-basmati",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        171
+                    ],
+                    [
+                        59,
+                        158
+                    ],
+                    [
+                        42,
+                        314
+                    ],
+                    [
+                        61,
+                        398
+                    ],
+                    [
+                        115,
+                        386
+                    ],
+                    [
+                        195,
+                        327
+                    ],
+                    [
+                        167,
+                        243
+                    ],
+                    [
+                        169,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765605,
+            "classId": 3841,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:45.368Z",
+            "updatedAt": "2023-06-07T14:29:45.368Z",
+            "tags": [],
+            "classTitle": "naan-indien-bread",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        272
+                    ],
+                    [
+                        303,
+                        282
+                    ],
+                    [
+                        271,
+                        254
+                    ],
+                    [
+                        217,
+                        289
+                    ],
+                    [
+                        203,
+                        304
+                    ],
+                    [
+                        121,
+                        417
+                    ],
+                    [
+                        112,
+                        448
+                    ],
+                    [
+                        180,
+                        457
+                    ],
+                    [
+                        349,
+                        399
+                    ],
+                    [
+                        423,
+                        372
+                    ],
+                    [
+                        432,
+                        348
+                    ],
+                    [
+                        402,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765603,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:45.368Z",
+            "updatedAt": "2023-06-07T14:29:45.368Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        39
+                    ],
+                    [
+                        210,
+                        99
+                    ],
+                    [
+                        184,
+                        159
+                    ],
+                    [
+                        154,
+                        162
+                    ],
+                    [
+                        96,
+                        159
+                    ],
+                    [
+                        83,
+                        150
+                    ],
+                    [
+                        90,
+                        79
+                    ],
+                    [
+                        160,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765601,
+            "classId": 3565,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:45.367Z",
+            "updatedAt": "2023-06-07T14:29:45.367Z",
+            "tags": [],
+            "classTitle": "curry-vegetarian",
+            "points": {
+                "exterior": [
+                    [
+                        402,
+                        86
+                    ],
+                    [
+                        305,
+                        216
+                    ],
+                    [
+                        229,
+                        156
+                    ],
+                    [
+                        208,
+                        151
+                    ],
+                    [
+                        198,
+                        78
+                    ],
+                    [
+                        187,
+                        50
+                    ],
+                    [
+                        225,
+                        20
+                    ],
+                    [
+                        343,
+                        44
+                    ],
+                    [
+                        403,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1648679,
+            "classId": 4313,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:34.041Z",
+            "updatedAt": "2023-06-07T13:08:34.041Z",
+            "tags": [],
+            "classTitle": "apricots",
+            "points": {
+                "exterior": [
+                    [
+                        510,
+                        36
+                    ],
+                    [
+                        182,
+                        396
+                    ],
+                    [
+                        299,
+                        618
+                    ],
+                    [
+                        670,
+                        562
+                    ],
+                    [
+                        762,
+                        358
+                    ],
+                    [
+                        728,
+                        108
+                    ],
+                    [
+                        683,
+                        36
+                    ],
+                    [
+                        557,
+                        10
+                    ],
+                    [
+                        536,
+                        23
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648678,
+            "classId": 4313,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:34.040Z",
+            "updatedAt": "2023-06-07T13:08:34.040Z",
+            "tags": [],
+            "classTitle": "apricots",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        174
+                    ],
+                    [
+                        250,
+                        49
+                    ],
+                    [
+                        65,
+                        113
+                    ],
+                    [
+                        56,
+                        211
+                    ],
+                    [
+                        154,
+                        249
+                    ],
+                    [
+                        265,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

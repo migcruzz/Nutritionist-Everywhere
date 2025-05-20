@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1645352,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:30.485Z",
+            "updatedAt": "2023-06-07T13:06:30.485Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        197
+                    ],
+                    [
+                        178,
+                        192
+                    ],
+                    [
+                        167,
+                        188
+                    ],
+                    [
+                        160,
+                        181
+                    ],
+                    [
+                        190,
+                        165
+                    ],
+                    [
+                        225,
+                        160
+                    ],
+                    [
+                        274,
+                        162
+                    ],
+                    [
+                        289,
+                        166
+                    ],
+                    [
+                        297,
+                        175
+                    ],
+                    [
+                        293,
+                        181
+                    ],
+                    [
+                        277,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645350,
+            "classId": 4227,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:30.483Z",
+            "updatedAt": "2023-06-07T13:06:30.483Z",
+            "tags": [],
+            "classTitle": "chocolate-cookies",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        183
+                    ],
+                    [
+                        304,
+                        268
+                    ],
+                    [
+                        354,
+                        316
+                    ],
+                    [
+                        401,
+                        264
+                    ],
+                    [
+                        448,
+                        223
+                    ],
+                    [
+                        461,
+                        205
+                    ],
+                    [
+                        412,
+                        175
+                    ],
+                    [
+                        395,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

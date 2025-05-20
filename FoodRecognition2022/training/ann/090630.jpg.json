@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1669539,
+            "classId": 4247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:54.633Z",
+            "updatedAt": "2023-06-07T13:22:54.633Z",
+            "tags": [],
+            "classTitle": "chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        198
+                    ],
+                    [
+                        118,
+                        224
+                    ],
+                    [
+                        194,
+                        270
+                    ],
+                    [
+                        284,
+                        285
+                    ],
+                    [
+                        334,
+                        270
+                    ],
+                    [
+                        215,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669537,
+            "classId": 4227,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:54.633Z",
+            "updatedAt": "2023-06-07T13:22:54.633Z",
+            "tags": [],
+            "classTitle": "chocolate-cookies",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        213
+                    ],
+                    [
+                        228,
+                        182
+                    ],
+                    [
+                        214,
+                        126
+                    ],
+                    [
+                        214,
+                        84
+                    ],
+                    [
+                        241,
+                        21
+                    ],
+                    [
+                        286,
+                        17
+                    ],
+                    [
+                        324,
+                        45
+                    ],
+                    [
+                        321,
+                        88
+                    ],
+                    [
+                        316,
+                        113
+                    ],
+                    [
+                        322,
+                        152
+                    ],
+                    [
+                        310,
+                        199
+                    ],
+                    [
+                        280,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

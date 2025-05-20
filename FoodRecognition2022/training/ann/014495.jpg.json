@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1648031,
+            "classId": 4011,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:11.061Z",
+            "updatedAt": "2023-06-07T13:08:11.061Z",
+            "tags": [],
+            "classTitle": "pasta-linguini-parpadelle-tagliatelle",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        356
+                    ],
+                    [
+                        224,
+                        624
+                    ],
+                    [
+                        508,
+                        558
+                    ],
+                    [
+                        593,
+                        413
+                    ],
+                    [
+                        442,
+                        328
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648029,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:11.060Z",
+            "updatedAt": "2023-06-07T13:08:11.060Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        461,
+                        215
+                    ],
+                    [
+                        310,
+                        368
+                    ],
+                    [
+                        570,
+                        511
+                    ],
+                    [
+                        779,
+                        381
+                    ],
+                    [
+                        666,
+                        283
+                    ],
+                    [
+                        568,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

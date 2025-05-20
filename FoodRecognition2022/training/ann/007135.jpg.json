@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1765862,
+            "classId": 3423,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:56.322Z",
+            "updatedAt": "2023-06-07T14:29:56.322Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        210
+                    ],
+                    [
+                        48,
+                        241
+                    ],
+                    [
+                        105,
+                        348
+                    ],
+                    [
+                        183,
+                        382
+                    ],
+                    [
+                        319,
+                        391
+                    ],
+                    [
+                        403,
+                        337
+                    ],
+                    [
+                        384,
+                        304
+                    ],
+                    [
+                        328,
+                        308
+                    ],
+                    [
+                        221,
+                        307
+                    ],
+                    [
+                        157,
+                        274
+                    ],
+                    [
+                        109,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765860,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:56.321Z",
+            "updatedAt": "2023-06-07T14:29:56.321Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        72
+                    ],
+                    [
+                        150,
+                        111
+                    ],
+                    [
+                        139,
+                        166
+                    ],
+                    [
+                        169,
+                        229
+                    ],
+                    [
+                        234,
+                        253
+                    ],
+                    [
+                        279,
+                        236
+                    ],
+                    [
+                        304,
+                        194
+                    ],
+                    [
+                        312,
+                        135
+                    ],
+                    [
+                        273,
+                        80
+                    ],
+                    [
+                        231,
+                        62
+                    ],
+                    [
+                        196,
+                        72
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

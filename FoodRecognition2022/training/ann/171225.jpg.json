@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1648331,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:26.204Z",
+            "updatedAt": "2023-06-07T13:08:26.204Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        175,
+                        127
+                    ],
+                    [
+                        107,
+                        219
+                    ],
+                    [
+                        118,
+                        237
+                    ],
+                    [
+                        248,
+                        215
+                    ],
+                    [
+                        236,
+                        164
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648329,
+            "classId": 4005,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:26.204Z",
+            "updatedAt": "2023-06-07T13:08:26.204Z",
+            "tags": [],
+            "classTitle": "mustard",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        228
+                    ],
+                    [
+                        71,
+                        224
+                    ],
+                    [
+                        45,
+                        243
+                    ],
+                    [
+                        56,
+                        266
+                    ],
+                    [
+                        81,
+                        271
+                    ],
+                    [
+                        110,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648327,
+            "classId": 3527,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:26.204Z",
+            "updatedAt": "2023-06-07T13:08:26.204Z",
+            "tags": [],
+            "classTitle": "green-bean-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        220
+                    ],
+                    [
+                        181,
+                        258
+                    ],
+                    [
+                        182,
+                        275
+                    ],
+                    [
+                        226,
+                        357
+                    ],
+                    [
+                        269,
+                        396
+                    ],
+                    [
+                        331,
+                        371
+                    ],
+                    [
+                        349,
+                        307
+                    ],
+                    [
+                        295,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

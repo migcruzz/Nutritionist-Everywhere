@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2048,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 1713673,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:10.344Z",
+            "updatedAt": "2023-06-07T13:54:10.344Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        1160,
+                        138
+                    ],
+                    [
+                        884,
+                        46
+                    ],
+                    [
+                        633,
+                        348
+                    ],
+                    [
+                        295,
+                        502
+                    ],
+                    [
+                        336,
+                        711
+                    ],
+                    [
+                        541,
+                        834
+                    ],
+                    [
+                        828,
+                        763
+                    ],
+                    [
+                        1191,
+                        558
+                    ],
+                    [
+                        1227,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713671,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:10.343Z",
+            "updatedAt": "2023-06-07T13:54:10.343Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        1017,
+                        1095
+                    ],
+                    [
+                        746,
+                        1090
+                    ],
+                    [
+                        664,
+                        1367
+                    ],
+                    [
+                        920,
+                        1372
+                    ],
+                    [
+                        1017,
+                        1346
+                    ],
+                    [
+                        1048,
+                        1121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713670,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:10.343Z",
+            "updatedAt": "2023-06-07T13:54:10.343Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        1299,
+                        1060
+                    ],
+                    [
+                        1207,
+                        1213
+                    ],
+                    [
+                        1237,
+                        1423
+                    ],
+                    [
+                        1519,
+                        1433
+                    ],
+                    [
+                        1570,
+                        1377
+                    ],
+                    [
+                        1468,
+                        1203
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

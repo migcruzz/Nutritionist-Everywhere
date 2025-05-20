@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 864,
+        "width": 865
+    },
+    "objects": [
+        {
+            "id": 1726202,
+            "classId": 3685,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.634Z",
+            "updatedAt": "2023-06-07T14:02:59.634Z",
+            "tags": [],
+            "classTitle": "crepe-plain",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        713
+                    ],
+                    [
+                        360,
+                        795
+                    ],
+                    [
+                        478,
+                        726
+                    ],
+                    [
+                        491,
+                        622
+                    ],
+                    [
+                        427,
+                        557
+                    ],
+                    [
+                        275,
+                        553
+                    ],
+                    [
+                        232,
+                        622
+                    ],
+                    [
+                        225,
+                        672
+                    ],
+                    [
+                        232,
+                        700
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726200,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.633Z",
+            "updatedAt": "2023-06-07T14:02:59.633Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        491,
+                        626
+                    ],
+                    [
+                        401,
+                        574
+                    ],
+                    [
+                        308,
+                        758
+                    ],
+                    [
+                        394,
+                        780
+                    ],
+                    [
+                        487,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726198,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.633Z",
+            "updatedAt": "2023-06-07T14:02:59.633Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        665
+                    ],
+                    [
+                        318,
+                        693
+                    ],
+                    [
+                        396,
+                        581
+                    ],
+                    [
+                        349,
+                        542
+                    ],
+                    [
+                        308,
+                        613
+                    ],
+                    [
+                        288,
+                        663
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726196,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.632Z",
+            "updatedAt": "2023-06-07T14:02:59.632Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        418,
+                        464
+                    ],
+                    [
+                        433,
+                        572
+                    ],
+                    [
+                        541,
+                        637
+                    ],
+                    [
+                        680,
+                        609
+                    ],
+                    [
+                        716,
+                        518
+                    ],
+                    [
+                        656,
+                        427
+                    ],
+                    [
+                        498,
+                        390
+                    ],
+                    [
+                        409,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

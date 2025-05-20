@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1660110,
+            "classId": 3697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:09.500Z",
+            "updatedAt": "2023-06-07T13:16:09.500Z",
+            "tags": [],
+            "classTitle": "chinese-cabbage",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        240
+                    ],
+                    [
+                        186,
+                        301
+                    ],
+                    [
+                        161,
+                        363
+                    ],
+                    [
+                        205,
+                        412
+                    ],
+                    [
+                        226,
+                        432
+                    ],
+                    [
+                        255,
+                        444
+                    ],
+                    [
+                        339,
+                        447
+                    ],
+                    [
+                        382,
+                        445
+                    ],
+                    [
+                        401,
+                        410
+                    ],
+                    [
+                        401,
+                        363
+                    ],
+                    [
+                        354,
+                        280
+                    ],
+                    [
+                        302,
+                        242
+                    ],
+                    [
+                        262,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1660108,
+            "classId": 3957,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:09.499Z",
+            "updatedAt": "2023-06-07T13:16:09.499Z",
+            "tags": [],
+            "classTitle": "fennel",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        372
+                    ],
+                    [
+                        147,
+                        371
+                    ],
+                    [
+                        178,
+                        338
+                    ],
+                    [
+                        154,
+                        305
+                    ],
+                    [
+                        94,
+                        265
+                    ],
+                    [
+                        42,
+                        252
+                    ],
+                    [
+                        4,
+                        252
+                    ],
+                    [
+                        8,
+                        321
+                    ],
+                    [
+                        8,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1660106,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:09.499Z",
+            "updatedAt": "2023-06-07T13:16:09.499Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        280
+                    ],
+                    [
+                        245,
+                        257
+                    ],
+                    [
+                        255,
+                        201
+                    ],
+                    [
+                        247,
+                        155
+                    ],
+                    [
+                        183,
+                        145
+                    ],
+                    [
+                        132,
+                        172
+                    ],
+                    [
+                        108,
+                        225
+                    ],
+                    [
+                        121,
+                        252
+                    ],
+                    [
+                        149,
+                        264
+                    ],
+                    [
+                        150,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1660104,
+            "classId": 3709,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:09.498Z",
+            "updatedAt": "2023-06-07T13:16:09.498Z",
+            "tags": [],
+            "classTitle": "sauce-soya",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        451
+                    ],
+                    [
+                        26,
+                        372
+                    ],
+                    [
+                        8,
+                        439
+                    ],
+                    [
+                        58,
+                        454
+                    ],
+                    [
+                        137,
+                        462
+                    ],
+                    [
+                        138,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

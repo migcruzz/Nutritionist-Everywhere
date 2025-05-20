@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 431,
+        "width": 431
+    },
+    "objects": [
+        {
+            "id": 1723429,
+            "classId": 3643,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:05.941Z",
+            "updatedAt": "2023-06-07T14:01:05.941Z",
+            "tags": [],
+            "classTitle": "pasta-penne",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        50
+                    ],
+                    [
+                        26,
+                        51
+                    ],
+                    [
+                        17,
+                        255
+                    ],
+                    [
+                        119,
+                        363
+                    ],
+                    [
+                        256,
+                        418
+                    ],
+                    [
+                        412,
+                        421
+                    ],
+                    [
+                        411,
+                        62
+                    ],
+                    [
+                        385,
+                        42
+                    ],
+                    [
+                        352,
+                        47
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723427,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:05.940Z",
+            "updatedAt": "2023-06-07T14:01:05.940Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        144
+                    ],
+                    [
+                        349,
+                        89
+                    ],
+                    [
+                        269,
+                        78
+                    ],
+                    [
+                        86,
+                        80
+                    ],
+                    [
+                        77,
+                        127
+                    ],
+                    [
+                        70,
+                        234
+                    ],
+                    [
+                        83,
+                        273
+                    ],
+                    [
+                        125,
+                        335
+                    ],
+                    [
+                        178,
+                        369
+                    ],
+                    [
+                        239,
+                        371
+                    ],
+                    [
+                        313,
+                        370
+                    ],
+                    [
+                        349,
+                        272
+                    ],
+                    [
+                        359,
+                        138
+                    ],
+                    [
+                        356,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

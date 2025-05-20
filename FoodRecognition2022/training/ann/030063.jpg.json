@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1807954,
+            "classId": 4115,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:40.981Z",
+            "updatedAt": "2023-06-07T14:58:40.981Z",
+            "tags": [],
+            "classTitle": "focaccia",
+            "points": {
+                "exterior": [
+                    [
+                        354,
+                        55
+                    ],
+                    [
+                        243,
+                        184
+                    ],
+                    [
+                        269,
+                        266
+                    ],
+                    [
+                        358,
+                        307
+                    ],
+                    [
+                        465,
+                        208
+                    ],
+                    [
+                        445,
+                        111
+                    ],
+                    [
+                        372,
+                        63
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807952,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:40.980Z",
+            "updatedAt": "2023-06-07T14:58:40.980Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        283
+                    ],
+                    [
+                        201,
+                        356
+                    ],
+                    [
+                        243,
+                        445
+                    ],
+                    [
+                        347,
+                        445
+                    ],
+                    [
+                        369,
+                        406
+                    ],
+                    [
+                        354,
+                        333
+                    ],
+                    [
+                        340,
+                        297
+                    ],
+                    [
+                        291,
+                        290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807950,
+            "classId": 3915,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:40.980Z",
+            "updatedAt": "2023-06-07T14:58:40.980Z",
+            "tags": [],
+            "classTitle": "bread-black",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        211
+                    ],
+                    [
+                        139,
+                        186
+                    ],
+                    [
+                        120,
+                        112
+                    ],
+                    [
+                        237,
+                        30
+                    ],
+                    [
+                        270,
+                        110
+                    ],
+                    [
+                        270,
+                        145
+                    ],
+                    [
+                        235,
+                        165
+                    ],
+                    [
+                        256,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807948,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:40.978Z",
+            "updatedAt": "2023-06-07T14:58:40.978Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        184
+                    ],
+                    [
+                        27,
+                        266
+                    ],
+                    [
+                        58,
+                        402
+                    ],
+                    [
+                        166,
+                        394
+                    ],
+                    [
+                        208,
+                        343
+                    ],
+                    [
+                        201,
+                        292
+                    ],
+                    [
+                        118,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

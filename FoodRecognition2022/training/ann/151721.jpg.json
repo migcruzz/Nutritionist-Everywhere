@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1679365,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:36.469Z",
+            "updatedAt": "2023-06-07T13:29:36.469Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        177
+                    ],
+                    [
+                        308,
+                        123
+                    ],
+                    [
+                        263,
+                        69
+                    ],
+                    [
+                        210,
+                        68
+                    ],
+                    [
+                        81,
+                        80
+                    ],
+                    [
+                        12,
+                        137
+                    ],
+                    [
+                        43,
+                        199
+                    ],
+                    [
+                        117,
+                        236
+                    ],
+                    [
+                        219,
+                        275
+                    ],
+                    [
+                        281,
+                        258
+                    ],
+                    [
+                        358,
+                        257
+                    ],
+                    [
+                        388,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679363,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:36.468Z",
+            "updatedAt": "2023-06-07T13:29:36.468Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        251
+                    ],
+                    [
+                        287,
+                        241
+                    ],
+                    [
+                        204,
+                        271
+                    ],
+                    [
+                        144,
+                        225
+                    ],
+                    [
+                        58,
+                        216
+                    ],
+                    [
+                        17,
+                        174
+                    ],
+                    [
+                        19,
+                        218
+                    ],
+                    [
+                        134,
+                        311
+                    ],
+                    [
+                        247,
+                        331
+                    ],
+                    [
+                        326,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

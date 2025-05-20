@@ -1,0 +1,250 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1707876,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:47.535Z",
+            "updatedAt": "2023-06-07T13:49:47.535Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        116,
+                        168
+                    ],
+                    [
+                        155,
+                        242
+                    ],
+                    [
+                        232,
+                        201
+                    ],
+                    [
+                        259,
+                        249
+                    ],
+                    [
+                        303,
+                        193
+                    ],
+                    [
+                        286,
+                        157
+                    ],
+                    [
+                        227,
+                        137
+                    ],
+                    [
+                        185,
+                        131
+                    ],
+                    [
+                        116,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707874,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:47.534Z",
+            "updatedAt": "2023-06-07T13:49:47.534Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        269
+                    ],
+                    [
+                        127,
+                        365
+                    ],
+                    [
+                        176,
+                        353
+                    ],
+                    [
+                        176,
+                        319
+                    ],
+                    [
+                        224,
+                        291
+                    ],
+                    [
+                        251,
+                        313
+                    ],
+                    [
+                        286,
+                        303
+                    ],
+                    [
+                        271,
+                        258
+                    ],
+                    [
+                        230,
+                        197
+                    ],
+                    [
+                        187,
+                        237
+                    ],
+                    [
+                        152,
+                        253
+                    ],
+                    [
+                        153,
+                        282
+                    ],
+                    [
+                        135,
+                        257
+                    ],
+                    [
+                        120,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707872,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:47.534Z",
+            "updatedAt": "2023-06-07T13:49:47.534Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        360
+                    ],
+                    [
+                        193,
+                        323
+                    ],
+                    [
+                        252,
+                        330
+                    ],
+                    [
+                        277,
+                        306
+                    ],
+                    [
+                        315,
+                        305
+                    ],
+                    [
+                        328,
+                        362
+                    ],
+                    [
+                        271,
+                        396
+                    ],
+                    [
+                        243,
+                        356
+                    ],
+                    [
+                        197,
+                        378
+                    ],
+                    [
+                        180,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707871,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:47.532Z",
+            "updatedAt": "2023-06-07T13:49:47.532Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        176
+                    ],
+                    [
+                        298,
+                        192
+                    ],
+                    [
+                        288,
+                        208
+                    ],
+                    [
+                        307,
+                        242
+                    ],
+                    [
+                        367,
+                        239
+                    ],
+                    [
+                        351,
+                        197
+                    ],
+                    [
+                        386,
+                        179
+                    ],
+                    [
+                        362,
+                        141
+                    ],
+                    [
+                        331,
+                        141
+                    ],
+                    [
+                        325,
+                        164
+                    ],
+                    [
+                        298,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

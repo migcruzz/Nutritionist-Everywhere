@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1674195,
+            "classId": 3521,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:03.881Z",
+            "updatedAt": "2023-06-07T13:26:03.881Z",
+            "tags": [],
+            "classTitle": "soup-vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        254
+                    ],
+                    [
+                        264,
+                        230
+                    ],
+                    [
+                        372,
+                        350
+                    ],
+                    [
+                        375,
+                        414
+                    ],
+                    [
+                        149,
+                        413
+                    ],
+                    [
+                        1,
+                        412
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

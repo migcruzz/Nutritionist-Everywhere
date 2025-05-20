@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1671124,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:00.194Z",
+            "updatedAt": "2023-06-07T13:24:00.194Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        168
+                    ],
+                    [
+                        200,
+                        239
+                    ],
+                    [
+                        301,
+                        228
+                    ],
+                    [
+                        308,
+                        171
+                    ],
+                    [
+                        254,
+                        139
+                    ],
+                    [
+                        172,
+                        148
+                    ],
+                    [
+                        157,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

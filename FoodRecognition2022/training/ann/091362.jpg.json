@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1704818,
+            "classId": 4247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:19.779Z",
+            "updatedAt": "2023-06-07T13:47:19.779Z",
+            "tags": [],
+            "classTitle": "chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        160
+                    ],
+                    [
+                        102,
+                        254
+                    ],
+                    [
+                        206,
+                        304
+                    ],
+                    [
+                        255,
+                        192
+                    ],
+                    [
+                        139,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

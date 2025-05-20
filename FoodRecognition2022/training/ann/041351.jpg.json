@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1701663,
+            "classId": 4289,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:59.207Z",
+            "updatedAt": "2023-06-07T13:44:59.207Z",
+            "tags": [],
+            "classTitle": "corn-crisps",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        49
+                    ],
+                    [
+                        1,
+                        153
+                    ],
+                    [
+                        30,
+                        306
+                    ],
+                    [
+                        106,
+                        259
+                    ],
+                    [
+                        167,
+                        264
+                    ],
+                    [
+                        221,
+                        340
+                    ],
+                    [
+                        312,
+                        292
+                    ],
+                    [
+                        372,
+                        229
+                    ],
+                    [
+                        309,
+                        192
+                    ],
+                    [
+                        288,
+                        116
+                    ],
+                    [
+                        291,
+                        87
+                    ],
+                    [
+                        189,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1701661,
+            "classId": 4305,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:59.206Z",
+            "updatedAt": "2023-06-07T13:44:59.206Z",
+            "tags": [],
+            "classTitle": "dips",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        60
+                    ],
+                    [
+                        373,
+                        22
+                    ],
+                    [
+                        282,
+                        67
+                    ],
+                    [
+                        337,
+                        153
+                    ],
+                    [
+                        433,
+                        142
+                    ],
+                    [
+                        449,
+                        116
+                    ],
+                    [
+                        460,
+                        92
+                    ],
+                    [
+                        459,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1792690,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:58.451Z",
+            "updatedAt": "2023-06-07T14:47:58.451Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        172,
+                        367
+                    ],
+                    [
+                        266,
+                        829
+                    ],
+                    [
+                        629,
+                        815
+                    ],
+                    [
+                        624,
+                        372
+                    ],
+                    [
+                        388,
+                        273
+                    ],
+                    [
+                        363,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

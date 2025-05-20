@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1767680,
+            "classId": 3649,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:13.120Z",
+            "updatedAt": "2023-06-07T14:31:13.120Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        741,
+                        420
+                    ],
+                    [
+                        685,
+                        170
+                    ],
+                    [
+                        549,
+                        145
+                    ],
+                    [
+                        487,
+                        311
+                    ],
+                    [
+                        333,
+                        535
+                    ],
+                    [
+                        352,
+                        695
+                    ],
+                    [
+                        628,
+                        644
+                    ],
+                    [
+                        687,
+                        548
+                    ],
+                    [
+                        738,
+                        409
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767678,
+            "classId": 3439,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:13.119Z",
+            "updatedAt": "2023-06-07T14:31:13.119Z",
+            "tags": [],
+            "classTitle": "pancakes",
+            "points": {
+                "exterior": [
+                    [
+                        568,
+                        151
+                    ],
+                    [
+                        532,
+                        403
+                    ],
+                    [
+                        369,
+                        545
+                    ],
+                    [
+                        154,
+                        537
+                    ],
+                    [
+                        73,
+                        279
+                    ],
+                    [
+                        111,
+                        72
+                    ],
+                    [
+                        248,
+                        27
+                    ],
+                    [
+                        453,
+                        59
+                    ],
+                    [
+                        465,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

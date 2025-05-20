@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 640,
+        "width": 641
+    },
+    "objects": [
+        {
+            "id": 1803994,
+            "classId": 3643,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:54.161Z",
+            "updatedAt": "2023-06-07T14:55:54.161Z",
+            "tags": [],
+            "classTitle": "pasta-penne",
+            "points": {
+                "exterior": [
+                    [
+                        619,
+                        340
+                    ],
+                    [
+                        586,
+                        391
+                    ],
+                    [
+                        430,
+                        425
+                    ],
+                    [
+                        430,
+                        484
+                    ],
+                    [
+                        337,
+                        631
+                    ],
+                    [
+                        626,
+                        630
+                    ],
+                    [
+                        634,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1803992,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:54.160Z",
+            "updatedAt": "2023-06-07T14:55:54.160Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        385
+                    ],
+                    [
+                        592,
+                        319
+                    ],
+                    [
+                        599,
+                        349
+                    ],
+                    [
+                        589,
+                        396
+                    ],
+                    [
+                        514,
+                        407
+                    ],
+                    [
+                        438,
+                        410
+                    ],
+                    [
+                        438,
+                        484
+                    ],
+                    [
+                        390,
+                        534
+                    ],
+                    [
+                        397,
+                        569
+                    ],
+                    [
+                        373,
+                        601
+                    ],
+                    [
+                        342,
+                        601
+                    ],
+                    [
+                        360,
+                        487
+                    ],
+                    [
+                        414,
+                        407
+                    ],
+                    [
+                        437,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1803990,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:54.160Z",
+            "updatedAt": "2023-06-07T14:55:54.160Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        520,
+                        575
+                    ],
+                    [
+                        419,
+                        580
+                    ],
+                    [
+                        397,
+                        615
+                    ],
+                    [
+                        344,
+                        633
+                    ],
+                    [
+                        512,
+                        630
+                    ],
+                    [
+                        534,
+                        620
+                    ],
+                    [
+                        520,
+                        578
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

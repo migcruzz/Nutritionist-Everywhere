@@ -1,0 +1,610 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 830,
+        "width": 831
+    },
+    "objects": [
+        {
+            "id": 1656352,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.298Z",
+            "updatedAt": "2023-06-07T13:13:32.298Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        533
+                    ],
+                    [
+                        171,
+                        604
+                    ],
+                    [
+                        306,
+                        649
+                    ],
+                    [
+                        447,
+                        620
+                    ],
+                    [
+                        566,
+                        593
+                    ],
+                    [
+                        624,
+                        547
+                    ],
+                    [
+                        647,
+                        512
+                    ],
+                    [
+                        609,
+                        469
+                    ],
+                    [
+                        559,
+                        458
+                    ],
+                    [
+                        524,
+                        460
+                    ],
+                    [
+                        474,
+                        487
+                    ],
+                    [
+                        420,
+                        475
+                    ],
+                    [
+                        391,
+                        462
+                    ],
+                    [
+                        337,
+                        496
+                    ],
+                    [
+                        248,
+                        514
+                    ],
+                    [
+                        225,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656350,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.298Z",
+            "updatedAt": "2023-06-07T13:13:32.298Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        591,
+                        545
+                    ],
+                    [
+                        622,
+                        512
+                    ],
+                    [
+                        593,
+                        475
+                    ],
+                    [
+                        516,
+                        471
+                    ],
+                    [
+                        443,
+                        487
+                    ],
+                    [
+                        387,
+                        471
+                    ],
+                    [
+                        302,
+                        504
+                    ],
+                    [
+                        237,
+                        568
+                    ],
+                    [
+                        283,
+                        610
+                    ],
+                    [
+                        333,
+                        622
+                    ],
+                    [
+                        435,
+                        597
+                    ],
+                    [
+                        514,
+                        572
+                    ],
+                    [
+                        547,
+                        560
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656348,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.298Z",
+            "updatedAt": "2023-06-07T13:13:32.298Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        500
+                    ],
+                    [
+                        362,
+                        481
+                    ],
+                    [
+                        391,
+                        437
+                    ],
+                    [
+                        335,
+                        415
+                    ],
+                    [
+                        308,
+                        419
+                    ],
+                    [
+                        310,
+                        363
+                    ],
+                    [
+                        347,
+                        284
+                    ],
+                    [
+                        341,
+                        234
+                    ],
+                    [
+                        285,
+                        209
+                    ],
+                    [
+                        246,
+                        240
+                    ],
+                    [
+                        208,
+                        273
+                    ],
+                    [
+                        177,
+                        304
+                    ],
+                    [
+                        163,
+                        346
+                    ],
+                    [
+                        152,
+                        356
+                    ],
+                    [
+                        88,
+                        360
+                    ],
+                    [
+                        77,
+                        446
+                    ],
+                    [
+                        111,
+                        545
+                    ],
+                    [
+                        185,
+                        552
+                    ],
+                    [
+                        219,
+                        537
+                    ],
+                    [
+                        242,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656346,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.296Z",
+            "updatedAt": "2023-06-07T13:13:32.296Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        217
+                    ],
+                    [
+                        269,
+                        165
+                    ],
+                    [
+                        212,
+                        194
+                    ],
+                    [
+                        181,
+                        213
+                    ],
+                    [
+                        113,
+                        221
+                    ],
+                    [
+                        69,
+                        263
+                    ],
+                    [
+                        42,
+                        319
+                    ],
+                    [
+                        21,
+                        398
+                    ],
+                    [
+                        57,
+                        408
+                    ],
+                    [
+                        98,
+                        371
+                    ],
+                    [
+                        115,
+                        352
+                    ],
+                    [
+                        148,
+                        358
+                    ],
+                    [
+                        181,
+                        317
+                    ],
+                    [
+                        219,
+                        269
+                    ],
+                    [
+                        256,
+                        225
+                    ],
+                    [
+                        262,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656345,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.296Z",
+            "updatedAt": "2023-06-07T13:13:32.296Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        653,
+                        498
+                    ],
+                    [
+                        451,
+                        589
+                    ],
+                    [
+                        327,
+                        662
+                    ],
+                    [
+                        323,
+                        722
+                    ],
+                    [
+                        416,
+                        737
+                    ],
+                    [
+                        528,
+                        707
+                    ],
+                    [
+                        636,
+                        653
+                    ],
+                    [
+                        697,
+                        577
+                    ],
+                    [
+                        726,
+                        523
+                    ],
+                    [
+                        686,
+                        504
+                    ],
+                    [
+                        676,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656343,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.296Z",
+            "updatedAt": "2023-06-07T13:13:32.296Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        755,
+                        132
+                    ],
+                    [
+                        568,
+                        53
+                    ],
+                    [
+                        489,
+                        144
+                    ],
+                    [
+                        478,
+                        180
+                    ],
+                    [
+                        497,
+                        230
+                    ],
+                    [
+                        485,
+                        238
+                    ],
+                    [
+                        491,
+                        290
+                    ],
+                    [
+                        472,
+                        325
+                    ],
+                    [
+                        397,
+                        346
+                    ],
+                    [
+                        366,
+                        375
+                    ],
+                    [
+                        397,
+                        444
+                    ],
+                    [
+                        431,
+                        464
+                    ],
+                    [
+                        505,
+                        462
+                    ],
+                    [
+                        570,
+                        431
+                    ],
+                    [
+                        609,
+                        390
+                    ],
+                    [
+                        640,
+                        342
+                    ],
+                    [
+                        676,
+                        294
+                    ],
+                    [
+                        730,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656341,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.294Z",
+            "updatedAt": "2023-06-07T13:13:32.294Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        715,
+                        223
+                    ],
+                    [
+                        584,
+                        452
+                    ],
+                    [
+                        705,
+                        529
+                    ],
+                    [
+                        807,
+                        309
+                    ],
+                    [
+                        759,
+                        236
+                    ],
+                    [
+                        734,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656339,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.294Z",
+            "updatedAt": "2023-06-07T13:13:32.294Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        167
+                    ],
+                    [
+                        485,
+                        53
+                    ],
+                    [
+                        298,
+                        101
+                    ],
+                    [
+                        291,
+                        225
+                    ],
+                    [
+                        431,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1656338,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:32.293Z",
+            "updatedAt": "2023-06-07T13:13:32.293Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        230
+                    ],
+                    [
+                        362,
+                        263
+                    ],
+                    [
+                        325,
+                        338
+                    ],
+                    [
+                        316,
+                        373
+                    ],
+                    [
+                        318,
+                        404
+                    ],
+                    [
+                        372,
+                        352
+                    ],
+                    [
+                        381,
+                        331
+                    ],
+                    [
+                        468,
+                        325
+                    ],
+                    [
+                        480,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

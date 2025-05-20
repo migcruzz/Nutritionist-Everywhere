@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1643876,
+            "classId": 3479,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:26.697Z",
+            "updatedAt": "2023-06-07T13:05:26.697Z",
+            "tags": [],
+            "classTitle": "sauce-cream",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        459
+                    ],
+                    [
+                        175,
+                        416
+                    ],
+                    [
+                        126,
+                        482
+                    ],
+                    [
+                        121,
+                        654
+                    ],
+                    [
+                        139,
+                        718
+                    ],
+                    [
+                        157,
+                        587
+                    ],
+                    [
+                        195,
+                        534
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

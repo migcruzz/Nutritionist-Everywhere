@@ -1,0 +1,998 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1040,
+        "width": 1040
+    },
+    "objects": [
+        {
+            "id": 1779576,
+            "classId": 3609,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.044Z",
+            "updatedAt": "2023-06-07T14:38:58.044Z",
+            "tags": [],
+            "classTitle": "bread-grain",
+            "points": {
+                "exterior": [
+                    [
+                        790,
+                        536
+                    ],
+                    [
+                        734,
+                        533
+                    ],
+                    [
+                        667,
+                        519
+                    ],
+                    [
+                        634,
+                        509
+                    ],
+                    [
+                        537,
+                        493
+                    ],
+                    [
+                        366,
+                        490
+                    ],
+                    [
+                        322,
+                        486
+                    ],
+                    [
+                        299,
+                        481
+                    ],
+                    [
+                        266,
+                        461
+                    ],
+                    [
+                        245,
+                        438
+                    ],
+                    [
+                        238,
+                        396
+                    ],
+                    [
+                        237,
+                        72
+                    ],
+                    [
+                        240,
+                        48
+                    ],
+                    [
+                        246,
+                        36
+                    ],
+                    [
+                        269,
+                        23
+                    ],
+                    [
+                        300,
+                        18
+                    ],
+                    [
+                        555,
+                        20
+                    ],
+                    [
+                        610,
+                        38
+                    ],
+                    [
+                        662,
+                        68
+                    ],
+                    [
+                        745,
+                        67
+                    ],
+                    [
+                        812,
+                        74
+                    ],
+                    [
+                        838,
+                        81
+                    ],
+                    [
+                        868,
+                        94
+                    ],
+                    [
+                        892,
+                        111
+                    ],
+                    [
+                        902,
+                        127
+                    ],
+                    [
+                        923,
+                        194
+                    ],
+                    [
+                        928,
+                        268
+                    ],
+                    [
+                        926,
+                        337
+                    ],
+                    [
+                        924,
+                        345
+                    ],
+                    [
+                        905,
+                        369
+                    ],
+                    [
+                        883,
+                        419
+                    ],
+                    [
+                        873,
+                        467
+                    ],
+                    [
+                        847,
+                        514
+                    ],
+                    [
+                        840,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779574,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.043Z",
+            "updatedAt": "2023-06-07T14:38:58.043Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        529,
+                        683
+                    ],
+                    [
+                        474,
+                        655
+                    ],
+                    [
+                        451,
+                        585
+                    ],
+                    [
+                        380,
+                        657
+                    ],
+                    [
+                        430,
+                        748
+                    ],
+                    [
+                        526,
+                        707
+                    ],
+                    [
+                        526,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779573,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.043Z",
+            "updatedAt": "2023-06-07T14:38:58.043Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        664,
+                        551
+                    ],
+                    [
+                        617,
+                        603
+                    ],
+                    [
+                        661,
+                        629
+                    ],
+                    [
+                        695,
+                        574
+                    ],
+                    [
+                        679,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779572,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.042Z",
+            "updatedAt": "2023-06-07T14:38:58.042Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        890,
+                        525
+                    ],
+                    [
+                        828,
+                        587
+                    ],
+                    [
+                        846,
+                        637
+                    ],
+                    [
+                        906,
+                        577
+                    ],
+                    [
+                        916,
+                        543
+                    ],
+                    [
+                        898,
+                        517
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779571,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.041Z",
+            "updatedAt": "2023-06-07T14:38:58.041Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        653,
+                        923
+                    ],
+                    [
+                        547,
+                        941
+                    ],
+                    [
+                        555,
+                        967
+                    ],
+                    [
+                        690,
+                        995
+                    ],
+                    [
+                        716,
+                        933
+                    ],
+                    [
+                        695,
+                        876
+                    ],
+                    [
+                        648,
+                        920
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779569,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.040Z",
+            "updatedAt": "2023-06-07T14:38:58.040Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        612,
+                        587
+                    ],
+                    [
+                        536,
+                        626
+                    ],
+                    [
+                        500,
+                        657
+                    ],
+                    [
+                        490,
+                        673
+                    ],
+                    [
+                        630,
+                        681
+                    ],
+                    [
+                        640,
+                        678
+                    ],
+                    [
+                        630,
+                        598
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779568,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.040Z",
+            "updatedAt": "2023-06-07T14:38:58.040Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        752,
+                        751
+                    ],
+                    [
+                        713,
+                        829
+                    ],
+                    [
+                        791,
+                        839
+                    ],
+                    [
+                        820,
+                        806
+                    ],
+                    [
+                        794,
+                        730
+                    ],
+                    [
+                        752,
+                        756
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779567,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.039Z",
+            "updatedAt": "2023-06-07T14:38:58.039Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        572
+                    ],
+                    [
+                        666,
+                        634
+                    ],
+                    [
+                        729,
+                        637
+                    ],
+                    [
+                        765,
+                        611
+                    ],
+                    [
+                        765,
+                        585
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779566,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.039Z",
+            "updatedAt": "2023-06-07T14:38:58.039Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        578,
+                        847
+                    ],
+                    [
+                        484,
+                        845
+                    ],
+                    [
+                        438,
+                        860
+                    ],
+                    [
+                        380,
+                        863
+                    ],
+                    [
+                        344,
+                        842
+                    ],
+                    [
+                        284,
+                        847
+                    ],
+                    [
+                        263,
+                        917
+                    ],
+                    [
+                        341,
+                        889
+                    ],
+                    [
+                        396,
+                        891
+                    ],
+                    [
+                        487,
+                        912
+                    ],
+                    [
+                        568,
+                        910
+                    ],
+                    [
+                        586,
+                        886
+                    ],
+                    [
+                        588,
+                        855
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779564,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.038Z",
+            "updatedAt": "2023-06-07T14:38:58.038Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        724,
+                        795
+                    ],
+                    [
+                        653,
+                        834
+                    ],
+                    [
+                        599,
+                        860
+                    ],
+                    [
+                        557,
+                        894
+                    ],
+                    [
+                        539,
+                        912
+                    ],
+                    [
+                        640,
+                        910
+                    ],
+                    [
+                        692,
+                        889
+                    ],
+                    [
+                        724,
+                        884
+                    ],
+                    [
+                        737,
+                        826
+                    ],
+                    [
+                        724,
+                        811
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779563,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.038Z",
+            "updatedAt": "2023-06-07T14:38:58.038Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        880,
+                        652
+                    ],
+                    [
+                        838,
+                        683
+                    ],
+                    [
+                        880,
+                        730
+                    ],
+                    [
+                        880,
+                        777
+                    ],
+                    [
+                        919,
+                        678
+                    ],
+                    [
+                        911,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779562,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.038Z",
+            "updatedAt": "2023-06-07T14:38:58.038Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        451,
+                        813
+                    ],
+                    [
+                        388,
+                        829
+                    ],
+                    [
+                        438,
+                        873
+                    ],
+                    [
+                        487,
+                        876
+                    ],
+                    [
+                        523,
+                        845
+                    ],
+                    [
+                        531,
+                        842
+                    ],
+                    [
+                        482,
+                        813
+                    ],
+                    [
+                        461,
+                        806
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779561,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.037Z",
+            "updatedAt": "2023-06-07T14:38:58.037Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        367,
+                        761
+                    ],
+                    [
+                        313,
+                        746
+                    ],
+                    [
+                        289,
+                        813
+                    ],
+                    [
+                        315,
+                        855
+                    ],
+                    [
+                        362,
+                        821
+                    ],
+                    [
+                        362,
+                        769
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779559,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.037Z",
+            "updatedAt": "2023-06-07T14:38:58.037Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        492,
+                        559
+                    ],
+                    [
+                        425,
+                        618
+                    ],
+                    [
+                        477,
+                        696
+                    ],
+                    [
+                        529,
+                        673
+                    ],
+                    [
+                        542,
+                        579
+                    ],
+                    [
+                        503,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779558,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.036Z",
+            "updatedAt": "2023-06-07T14:38:58.036Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        594,
+                        683
+                    ],
+                    [
+                        484,
+                        751
+                    ],
+                    [
+                        492,
+                        798
+                    ],
+                    [
+                        547,
+                        855
+                    ],
+                    [
+                        643,
+                        824
+                    ],
+                    [
+                        734,
+                        774
+                    ],
+                    [
+                        760,
+                        748
+                    ],
+                    [
+                        812,
+                        777
+                    ],
+                    [
+                        867,
+                        782
+                    ],
+                    [
+                        869,
+                        730
+                    ],
+                    [
+                        856,
+                        660
+                    ],
+                    [
+                        869,
+                        647
+                    ],
+                    [
+                        817,
+                        631
+                    ],
+                    [
+                        744,
+                        668
+                    ],
+                    [
+                        695,
+                        676
+                    ],
+                    [
+                        622,
+                        681
+                    ],
+                    [
+                        596,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779557,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.036Z",
+            "updatedAt": "2023-06-07T14:38:58.036Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        729,
+                        832
+                    ],
+                    [
+                        716,
+                        930
+                    ],
+                    [
+                        669,
+                        956
+                    ],
+                    [
+                        755,
+                        969
+                    ],
+                    [
+                        825,
+                        910
+                    ],
+                    [
+                        812,
+                        863
+                    ],
+                    [
+                        859,
+                        829
+                    ],
+                    [
+                        841,
+                        795
+                    ],
+                    [
+                        773,
+                        824
+                    ],
+                    [
+                        724,
+                        842
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779556,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.036Z",
+            "updatedAt": "2023-06-07T14:38:58.036Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        886
+                    ],
+                    [
+                        396,
+                        881
+                    ],
+                    [
+                        336,
+                        933
+                    ],
+                    [
+                        409,
+                        967
+                    ],
+                    [
+                        534,
+                        1024
+                    ],
+                    [
+                        583,
+                        1011
+                    ],
+                    [
+                        500,
+                        920
+                    ],
+                    [
+                        469,
+                        884
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779554,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:58.035Z",
+            "updatedAt": "2023-06-07T14:38:58.035Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        440,
+                        491
+                    ],
+                    [
+                        328,
+                        494
+                    ],
+                    [
+                        263,
+                        455
+                    ],
+                    [
+                        224,
+                        390
+                    ],
+                    [
+                        159,
+                        442
+                    ],
+                    [
+                        136,
+                        600
+                    ],
+                    [
+                        185,
+                        787
+                    ],
+                    [
+                        240,
+                        790
+                    ],
+                    [
+                        276,
+                        603
+                    ],
+                    [
+                        378,
+                        611
+                    ],
+                    [
+                        432,
+                        582
+                    ],
+                    [
+                        451,
+                        530
+                    ],
+                    [
+                        451,
+                        512
+                    ],
+                    [
+                        453,
+                        496
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

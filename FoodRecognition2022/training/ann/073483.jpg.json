@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 952
+    },
+    "objects": [
+        {
+            "id": 1721855,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:02.205Z",
+            "updatedAt": "2023-06-07T14:00:02.205Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        572,
+                        631
+                    ],
+                    [
+                        448,
+                        609
+                    ],
+                    [
+                        417,
+                        709
+                    ],
+                    [
+                        543,
+                        724
+                    ],
+                    [
+                        555,
+                        648
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721853,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:02.204Z",
+            "updatedAt": "2023-06-07T14:00:02.204Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        505,
+                        631
+                    ],
+                    [
+                        527,
+                        574
+                    ],
+                    [
+                        491,
+                        521
+                    ],
+                    [
+                        424,
+                        543
+                    ],
+                    [
+                        417,
+                        593
+                    ],
+                    [
+                        481,
+                        617
+                    ],
+                    [
+                        498,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721852,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:02.204Z",
+            "updatedAt": "2023-06-07T14:00:02.204Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        696,
+                        586
+                    ],
+                    [
+                        612,
+                        578
+                    ],
+                    [
+                        555,
+                        662
+                    ],
+                    [
+                        639,
+                        714
+                    ],
+                    [
+                        679,
+                        688
+                    ],
+                    [
+                        691,
+                        645
+                    ],
+                    [
+                        691,
+                        607
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1709533,
+            "classId": 3715,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:56.870Z",
+            "updatedAt": "2023-06-07T13:50:56.870Z",
+            "tags": [],
+            "classTitle": "bolognaise-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        111
+                    ],
+                    [
+                        245,
+                        202
+                    ],
+                    [
+                        309,
+                        252
+                    ],
+                    [
+                        345,
+                        303
+                    ],
+                    [
+                        438,
+                        273
+                    ],
+                    [
+                        403,
+                        152
+                    ],
+                    [
+                        306,
+                        78
+                    ],
+                    [
+                        233,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709531,
+            "classId": 3931,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:56.870Z",
+            "updatedAt": "2023-06-07T13:50:56.870Z",
+            "tags": [],
+            "classTitle": "risotto-without-cheese-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        291
+                    ],
+                    [
+                        133,
+                        224
+                    ],
+                    [
+                        245,
+                        216
+                    ],
+                    [
+                        331,
+                        266
+                    ],
+                    [
+                        349,
+                        390
+                    ],
+                    [
+                        187,
+                        394
+                    ],
+                    [
+                        96,
+                        348
+                    ],
+                    [
+                        85,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709529,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:56.870Z",
+            "updatedAt": "2023-06-07T13:50:56.870Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        211
+                    ],
+                    [
+                        75,
+                        282
+                    ],
+                    [
+                        245,
+                        212
+                    ],
+                    [
+                        223,
+                        115
+                    ],
+                    [
+                        106,
+                        152
+                    ],
+                    [
+                        46,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

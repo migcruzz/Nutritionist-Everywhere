@@ -1,0 +1,290 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1713945,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:19.639Z",
+            "updatedAt": "2023-06-07T13:54:19.639Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        328
+                    ],
+                    [
+                        269,
+                        326
+                    ],
+                    [
+                        229,
+                        300
+                    ],
+                    [
+                        218,
+                        296
+                    ],
+                    [
+                        179,
+                        296
+                    ],
+                    [
+                        168,
+                        288
+                    ],
+                    [
+                        164,
+                        252
+                    ],
+                    [
+                        164,
+                        198
+                    ],
+                    [
+                        170,
+                        187
+                    ],
+                    [
+                        180,
+                        185
+                    ],
+                    [
+                        276,
+                        190
+                    ],
+                    [
+                        289,
+                        200
+                    ],
+                    [
+                        320,
+                        240
+                    ],
+                    [
+                        333,
+                        272
+                    ],
+                    [
+                        333,
+                        295
+                    ],
+                    [
+                        327,
+                        310
+                    ],
+                    [
+                        316,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713943,
+            "classId": 3565,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:19.639Z",
+            "updatedAt": "2023-06-07T13:54:19.639Z",
+            "tags": [],
+            "classTitle": "curry-vegetarian",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        251
+                    ],
+                    [
+                        102,
+                        329
+                    ],
+                    [
+                        125,
+                        417
+                    ],
+                    [
+                        178,
+                        450
+                    ],
+                    [
+                        233,
+                        431
+                    ],
+                    [
+                        276,
+                        410
+                    ],
+                    [
+                        303,
+                        372
+                    ],
+                    [
+                        319,
+                        343
+                    ],
+                    [
+                        244,
+                        329
+                    ],
+                    [
+                        209,
+                        300
+                    ],
+                    [
+                        154,
+                        241
+                    ],
+                    [
+                        130,
+                        251
+                    ],
+                    [
+                        132,
+                        252
+                    ],
+                    [
+                        132,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713941,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:19.638Z",
+            "updatedAt": "2023-06-07T13:54:19.638Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        377
+                    ],
+                    [
+                        268,
+                        402
+                    ],
+                    [
+                        305,
+                        401
+                    ],
+                    [
+                        268,
+                        370
+                    ],
+                    [
+                        262,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713940,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:19.638Z",
+            "updatedAt": "2023-06-07T13:54:19.638Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        123,
+                        337
+                    ],
+                    [
+                        125,
+                        389
+                    ],
+                    [
+                        153,
+                        392
+                    ],
+                    [
+                        185,
+                        367
+                    ],
+                    [
+                        158,
+                        336
+                    ],
+                    [
+                        120,
+                        344
+                    ],
+                    [
+                        130,
+                        336
+                    ],
+                    [
+                        130,
+                        336
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713938,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:19.637Z",
+            "updatedAt": "2023-06-07T13:54:19.637Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        373
+                    ],
+                    [
+                        176,
+                        415
+                    ],
+                    [
+                        223,
+                        424
+                    ],
+                    [
+                        238,
+                        381
+                    ],
+                    [
+                        196,
+                        363
+                    ],
+                    [
+                        179,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

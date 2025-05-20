@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1709589,
+            "classId": 4157,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:03.809Z",
+            "updatedAt": "2023-06-07T13:51:03.809Z",
+            "tags": [],
+            "classTitle": "sweets-candies",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        69
+                    ],
+                    [
+                        14,
+                        112
+                    ],
+                    [
+                        89,
+                        223
+                    ],
+                    [
+                        100,
+                        230
+                    ],
+                    [
+                        190,
+                        198
+                    ],
+                    [
+                        206,
+                        182
+                    ],
+                    [
+                        177,
+                        117
+                    ],
+                    [
+                        128,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709588,
+            "classId": 4157,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:03.809Z",
+            "updatedAt": "2023-06-07T13:51:03.809Z",
+            "tags": [],
+            "classTitle": "sweets-candies",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        79
+                    ],
+                    [
+                        209,
+                        123
+                    ],
+                    [
+                        222,
+                        187
+                    ],
+                    [
+                        246,
+                        223
+                    ],
+                    [
+                        301,
+                        199
+                    ],
+                    [
+                        372,
+                        177
+                    ],
+                    [
+                        386,
+                        163
+                    ],
+                    [
+                        365,
+                        107
+                    ],
+                    [
+                        343,
+                        90
+                    ],
+                    [
+                        340,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

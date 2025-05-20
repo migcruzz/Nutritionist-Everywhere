@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 834,
+        "width": 834
+    },
+    "objects": [
+        {
+            "id": 1679907,
+            "classId": 4381,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:58.291Z",
+            "updatedAt": "2023-06-07T13:29:58.291Z",
+            "tags": [],
+            "classTitle": "waffle",
+            "points": {
+                "exterior": [
+                    [
+                        781,
+                        544
+                    ],
+                    [
+                        12,
+                        552
+                    ],
+                    [
+                        0,
+                        642
+                    ],
+                    [
+                        808,
+                        615
+                    ],
+                    [
+                        827,
+                        565
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679906,
+            "classId": 4381,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:58.291Z",
+            "updatedAt": "2023-06-07T13:29:58.291Z",
+            "tags": [],
+            "classTitle": "waffle",
+            "points": {
+                "exterior": [
+                    [
+                        731,
+                        14
+                    ],
+                    [
+                        16,
+                        19
+                    ],
+                    [
+                        12,
+                        52
+                    ],
+                    [
+                        800,
+                        52
+                    ],
+                    [
+                        802,
+                        31
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

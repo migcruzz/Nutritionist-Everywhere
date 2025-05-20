@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1698830,
+            "classId": 4163,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:52.991Z",
+            "updatedAt": "2023-06-07T13:42:52.991Z",
+            "tags": [],
+            "classTitle": "syrup-diluted-ready-to-drink",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        83
+                    ],
+                    [
+                        154,
+                        353
+                    ],
+                    [
+                        248,
+                        385
+                    ],
+                    [
+                        308,
+                        353
+                    ],
+                    [
+                        339,
+                        83
+                    ],
+                    [
+                        129,
+                        56
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

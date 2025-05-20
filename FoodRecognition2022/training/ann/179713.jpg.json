@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1783506,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:53.092Z",
+            "updatedAt": "2023-06-07T14:41:53.092Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        469,
+                        99
+                    ],
+                    [
+                        52,
+                        168
+                    ],
+                    [
+                        6,
+                        258
+                    ],
+                    [
+                        39,
+                        499
+                    ],
+                    [
+                        154,
+                        609
+                    ],
+                    [
+                        413,
+                        634
+                    ],
+                    [
+                        610,
+                        540
+                    ],
+                    [
+                        687,
+                        335
+                    ],
+                    [
+                        654,
+                        163
+                    ],
+                    [
+                        561,
+                        102
+                    ],
+                    [
+                        510,
+                        99
+                    ],
+                    [
+                        508,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1783504,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:53.091Z",
+            "updatedAt": "2023-06-07T14:41:53.091Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        707,
+                        542
+                    ],
+                    [
+                        641,
+                        645
+                    ],
+                    [
+                        712,
+                        721
+                    ],
+                    [
+                        800,
+                        734
+                    ],
+                    [
+                        887,
+                        616
+                    ],
+                    [
+                        807,
+                        560
+                    ],
+                    [
+                        723,
+                        529
+                    ],
+                    [
+                        718,
+                        529
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

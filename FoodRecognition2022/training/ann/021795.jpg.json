@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1792281,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:46.348Z",
+            "updatedAt": "2023-06-07T14:47:46.348Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        374
+                    ],
+                    [
+                        11,
+                        476
+                    ],
+                    [
+                        132,
+                        704
+                    ],
+                    [
+                        315,
+                        693
+                    ],
+                    [
+                        351,
+                        620
+                    ],
+                    [
+                        271,
+                        488
+                    ],
+                    [
+                        209,
+                        379
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1792279,
+            "classId": 3539,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:46.347Z",
+            "updatedAt": "2023-06-07T14:47:46.347Z",
+            "tags": [],
+            "classTitle": "tart",
+            "points": {
+                "exterior": [
+                    [
+                        617,
+                        148
+                    ],
+                    [
+                        393,
+                        334
+                    ],
+                    [
+                        459,
+                        480
+                    ],
+                    [
+                        650,
+                        563
+                    ],
+                    [
+                        827,
+                        499
+                    ],
+                    [
+                        884,
+                        304
+                    ],
+                    [
+                        759,
+                        167
+                    ],
+                    [
+                        610,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1792277,
+            "classId": 3675,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:46.346Z",
+            "updatedAt": "2023-06-07T14:47:46.346Z",
+            "tags": [],
+            "classTitle": "dried-raisins",
+            "points": {
+                "exterior": [
+                    [
+                        667,
+                        226
+                    ],
+                    [
+                        575,
+                        212
+                    ],
+                    [
+                        523,
+                        247
+                    ],
+                    [
+                        558,
+                        311
+                    ],
+                    [
+                        563,
+                        341
+                    ],
+                    [
+                        596,
+                        377
+                    ],
+                    [
+                        653,
+                        419
+                    ],
+                    [
+                        643,
+                        353
+                    ],
+                    [
+                        629,
+                        287
+                    ],
+                    [
+                        657,
+                        252
+                    ],
+                    [
+                        664,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1039,
+        "width": 1039
+    },
+    "objects": [
+        {
+            "id": 1752909,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:33.997Z",
+            "updatedAt": "2023-06-07T14:21:33.997Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        153
+                    ],
+                    [
+                        196,
+                        249
+                    ],
+                    [
+                        196,
+                        340
+                    ],
+                    [
+                        258,
+                        418
+                    ],
+                    [
+                        341,
+                        480
+                    ],
+                    [
+                        372,
+                        488
+                    ],
+                    [
+                        463,
+                        446
+                    ],
+                    [
+                        422,
+                        251
+                    ],
+                    [
+                        396,
+                        163
+                    ],
+                    [
+                        318,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752907,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:33.995Z",
+            "updatedAt": "2023-06-07T14:21:33.995Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        793,
+                        755
+                    ],
+                    [
+                        866,
+                        677
+                    ],
+                    [
+                        848,
+                        558
+                    ],
+                    [
+                        728,
+                        524
+                    ],
+                    [
+                        575,
+                        545
+                    ],
+                    [
+                        487,
+                        600
+                    ],
+                    [
+                        471,
+                        688
+                    ],
+                    [
+                        481,
+                        690
+                    ],
+                    [
+                        601,
+                        771
+                    ],
+                    [
+                        679,
+                        774
+                    ],
+                    [
+                        702,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752906,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:33.995Z",
+            "updatedAt": "2023-06-07T14:21:33.995Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        796,
+                        831
+                    ],
+                    [
+                        585,
+                        815
+                    ],
+                    [
+                        523,
+                        898
+                    ],
+                    [
+                        614,
+                        987
+                    ],
+                    [
+                        710,
+                        997
+                    ],
+                    [
+                        832,
+                        976
+                    ],
+                    [
+                        842,
+                        916
+                    ],
+                    [
+                        814,
+                        851
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

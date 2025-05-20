@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1745827,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.059Z",
+            "updatedAt": "2023-06-07T14:16:37.059Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        544,
+                        349
+                    ],
+                    [
+                        468,
+                        366
+                    ],
+                    [
+                        468,
+                        213
+                    ],
+                    [
+                        519,
+                        204
+                    ],
+                    [
+                        534,
+                        277
+                    ],
+                    [
+                        546,
+                        356
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1745825,
+            "classId": 3823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:16:37.058Z",
+            "updatedAt": "2023-06-07T14:16:37.058Z",
+            "tags": [],
+            "classTitle": "beef-filet",
+            "points": {
+                "exterior": [
+                    [
+                        798,
+                        223
+                    ],
+                    [
+                        606,
+                        221
+                    ],
+                    [
+                        583,
+                        324
+                    ],
+                    [
+                        608,
+                        383
+                    ],
+                    [
+                        651,
+                        405
+                    ],
+                    [
+                        792,
+                        362
+                    ],
+                    [
+                        811,
+                        343
+                    ],
+                    [
+                        807,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

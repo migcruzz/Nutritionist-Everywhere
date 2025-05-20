@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1705629,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:49.773Z",
+            "updatedAt": "2023-06-07T13:47:49.773Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        119
+                    ],
+                    [
+                        79,
+                        164
+                    ],
+                    [
+                        55,
+                        219
+                    ],
+                    [
+                        98,
+                        260
+                    ],
+                    [
+                        149,
+                        264
+                    ],
+                    [
+                        199,
+                        239
+                    ],
+                    [
+                        183,
+                        142
+                    ],
+                    [
+                        158,
+                        117
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705627,
+            "classId": 3863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:49.772Z",
+            "updatedAt": "2023-06-07T13:47:49.772Z",
+            "tags": [],
+            "classTitle": "dairy-ice-cream",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        240
+                    ],
+                    [
+                        153,
+                        250
+                    ],
+                    [
+                        93,
+                        276
+                    ],
+                    [
+                        126,
+                        369
+                    ],
+                    [
+                        222,
+                        435
+                    ],
+                    [
+                        270,
+                        470
+                    ],
+                    [
+                        324,
+                        447
+                    ],
+                    [
+                        245,
+                        394
+                    ],
+                    [
+                        235,
+                        257
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705625,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:49.772Z",
+            "updatedAt": "2023-06-07T13:47:49.772Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        34
+                    ],
+                    [
+                        161,
+                        104
+                    ],
+                    [
+                        207,
+                        228
+                    ],
+                    [
+                        269,
+                        230
+                    ],
+                    [
+                        373,
+                        207
+                    ],
+                    [
+                        320,
+                        112
+                    ],
+                    [
+                        332,
+                        89
+                    ],
+                    [
+                        269,
+                        36
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1705623,
+            "classId": 3681,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:49.771Z",
+            "updatedAt": "2023-06-07T13:47:49.771Z",
+            "tags": [],
+            "classTitle": "macaroon",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        212
+                    ],
+                    [
+                        241,
+                        270
+                    ],
+                    [
+                        259,
+                        388
+                    ],
+                    [
+                        338,
+                        430
+                    ],
+                    [
+                        385,
+                        387
+                    ],
+                    [
+                        397,
+                        260
+                    ],
+                    [
+                        339,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

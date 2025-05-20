@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1730730,
+            "classId": 4083,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:08.199Z",
+            "updatedAt": "2023-06-07T14:06:08.199Z",
+            "tags": [],
+            "classTitle": "quinoa",
+            "points": {
+                "exterior": [
+                    [
+                        390,
+                        178
+                    ],
+                    [
+                        225,
+                        214
+                    ],
+                    [
+                        209,
+                        285
+                    ],
+                    [
+                        247,
+                        369
+                    ],
+                    [
+                        289,
+                        418
+                    ],
+                    [
+                        351,
+                        431
+                    ],
+                    [
+                        344,
+                        390
+                    ],
+                    [
+                        400,
+                        382
+                    ],
+                    [
+                        463,
+                        366
+                    ],
+                    [
+                        461,
+                        242
+                    ],
+                    [
+                        401,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1730728,
+            "classId": 3927,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:08.198Z",
+            "updatedAt": "2023-06-07T14:06:08.198Z",
+            "tags": [],
+            "classTitle": "spinach-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        146
+                    ],
+                    [
+                        200,
+                        33
+                    ],
+                    [
+                        141,
+                        27
+                    ],
+                    [
+                        40,
+                        8
+                    ],
+                    [
+                        10,
+                        76
+                    ],
+                    [
+                        9,
+                        138
+                    ],
+                    [
+                        18,
+                        203
+                    ],
+                    [
+                        22,
+                        281
+                    ],
+                    [
+                        91,
+                        288
+                    ],
+                    [
+                        202,
+                        268
+                    ],
+                    [
+                        238,
+                        201
+                    ],
+                    [
+                        296,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

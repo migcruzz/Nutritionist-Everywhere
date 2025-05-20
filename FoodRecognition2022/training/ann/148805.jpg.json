@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1765736,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.323Z",
+            "updatedAt": "2023-06-07T14:29:50.323Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        76
+                    ],
+                    [
+                        267,
+                        77
+                    ],
+                    [
+                        293,
+                        54
+                    ],
+                    [
+                        251,
+                        18
+                    ],
+                    [
+                        193,
+                        23
+                    ],
+                    [
+                        185,
+                        39
+                    ],
+                    [
+                        199,
+                        65
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765734,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.322Z",
+            "updatedAt": "2023-06-07T14:29:50.322Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        243
+                    ],
+                    [
+                        230,
+                        205
+                    ],
+                    [
+                        226,
+                        183
+                    ],
+                    [
+                        251,
+                        157
+                    ],
+                    [
+                        216,
+                        142
+                    ],
+                    [
+                        204,
+                        148
+                    ],
+                    [
+                        205,
+                        198
+                    ],
+                    [
+                        209,
+                        228
+                    ],
+                    [
+                        209,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765732,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:50.321Z",
+            "updatedAt": "2023-06-07T14:29:50.321Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        200
+                    ],
+                    [
+                        190,
+                        204
+                    ],
+                    [
+                        212,
+                        159
+                    ],
+                    [
+                        204,
+                        126
+                    ],
+                    [
+                        139,
+                        103
+                    ],
+                    [
+                        89,
+                        111
+                    ],
+                    [
+                        91,
+                        148
+                    ],
+                    [
+                        92,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

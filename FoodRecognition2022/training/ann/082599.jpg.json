@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 620,
+        "width": 621
+    },
+    "objects": [
+        {
+            "id": 1791474,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:17.914Z",
+            "updatedAt": "2023-06-07T14:47:17.914Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        351,
+                        552
+                    ],
+                    [
+                        478,
+                        507
+                    ],
+                    [
+                        551,
+                        381
+                    ],
+                    [
+                        551,
+                        277
+                    ],
+                    [
+                        527,
+                        210
+                    ],
+                    [
+                        413,
+                        143
+                    ],
+                    [
+                        329,
+                        153
+                    ],
+                    [
+                        230,
+                        221
+                    ],
+                    [
+                        166,
+                        305
+                    ],
+                    [
+                        159,
+                        401
+                    ],
+                    [
+                        179,
+                        455
+                    ],
+                    [
+                        179,
+                        476
+                    ],
+                    [
+                        261,
+                        507
+                    ],
+                    [
+                        275,
+                        514
+                    ],
+                    [
+                        294,
+                        533
+                    ],
+                    [
+                        306,
+                        541
+                    ],
+                    [
+                        315,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1791472,
+            "classId": 3869,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:17.912Z",
+            "updatedAt": "2023-06-07T14:47:17.912Z",
+            "tags": [],
+            "classTitle": "fish-fingers-breaded",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        229
+                    ],
+                    [
+                        42,
+                        233
+                    ],
+                    [
+                        81,
+                        485
+                    ],
+                    [
+                        165,
+                        469
+                    ],
+                    [
+                        138,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1791470,
+            "classId": 3753,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:17.912Z",
+            "updatedAt": "2023-06-07T14:47:17.912Z",
+            "tags": [],
+            "classTitle": "cauliflower",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        246
+                    ],
+                    [
+                        188,
+                        254
+                    ],
+                    [
+                        272,
+                        187
+                    ],
+                    [
+                        274,
+                        134
+                    ],
+                    [
+                        216,
+                        117
+                    ],
+                    [
+                        138,
+                        123
+                    ],
+                    [
+                        129,
+                        165
+                    ],
+                    [
+                        137,
+                        201
+                    ],
+                    [
+                        137,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

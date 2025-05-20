@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1682567,
+            "classId": 4035,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:39.482Z",
+            "updatedAt": "2023-06-07T13:31:39.482Z",
+            "tags": [],
+            "classTitle": "milk-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        335
+                    ],
+                    [
+                        359,
+                        304
+                    ],
+                    [
+                        369,
+                        256
+                    ],
+                    [
+                        348,
+                        201
+                    ],
+                    [
+                        155,
+                        149
+                    ],
+                    [
+                        109,
+                        160
+                    ],
+                    [
+                        139,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682565,
+            "classId": 4237,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:39.481Z",
+            "updatedAt": "2023-06-07T13:31:39.481Z",
+            "tags": [],
+            "classTitle": "pine-nuts",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        322
+                    ],
+                    [
+                        343,
+                        307
+                    ],
+                    [
+                        356,
+                        224
+                    ],
+                    [
+                        350,
+                        194
+                    ],
+                    [
+                        244,
+                        157
+                    ],
+                    [
+                        145,
+                        132
+                    ],
+                    [
+                        145,
+                        217
+                    ],
+                    [
+                        163,
+                        299
+                    ],
+                    [
+                        164,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

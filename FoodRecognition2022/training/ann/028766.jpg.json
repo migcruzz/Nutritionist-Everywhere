@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1793027,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:07.997Z",
+            "updatedAt": "2023-06-07T14:48:07.997Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        922,
+                        136
+                    ],
+                    [
+                        800,
+                        106
+                    ],
+                    [
+                        753,
+                        150
+                    ],
+                    [
+                        805,
+                        231
+                    ],
+                    [
+                        882,
+                        212
+                    ],
+                    [
+                        908,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1793025,
+            "classId": 4247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:07.996Z",
+            "updatedAt": "2023-06-07T14:48:07.996Z",
+            "tags": [],
+            "classTitle": "chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        548,
+                        377
+                    ],
+                    [
+                        232,
+                        426
+                    ],
+                    [
+                        246,
+                        554
+                    ],
+                    [
+                        446,
+                        589
+                    ],
+                    [
+                        578,
+                        556
+                    ],
+                    [
+                        552,
+                        457
+                    ],
+                    [
+                        618,
+                        412
+                    ],
+                    [
+                        625,
+                        358
+                    ],
+                    [
+                        571,
+                        348
+                    ],
+                    [
+                        562,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

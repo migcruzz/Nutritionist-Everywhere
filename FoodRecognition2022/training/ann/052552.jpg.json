@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1801464,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:18.024Z",
+            "updatedAt": "2023-06-07T14:54:18.024Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        469,
+                        338
+                    ],
+                    [
+                        176,
+                        314
+                    ],
+                    [
+                        3,
+                        290
+                    ],
+                    [
+                        3,
+                        353
+                    ],
+                    [
+                        3,
+                        456
+                    ],
+                    [
+                        213,
+                        470
+                    ],
+                    [
+                        279,
+                        474
+                    ],
+                    [
+                        293,
+                        439
+                    ],
+                    [
+                        446,
+                        450
+                    ],
+                    [
+                        473,
+                        451
+                    ],
+                    [
+                        467,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801462,
+            "classId": 3441,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:18.023Z",
+            "updatedAt": "2023-06-07T14:54:18.023Z",
+            "tags": [],
+            "classTitle": "tea",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        96
+                    ],
+                    [
+                        171,
+                        95
+                    ],
+                    [
+                        125,
+                        82
+                    ],
+                    [
+                        99,
+                        61
+                    ],
+                    [
+                        96,
+                        55
+                    ],
+                    [
+                        97,
+                        46
+                    ],
+                    [
+                        106,
+                        29
+                    ],
+                    [
+                        119,
+                        18
+                    ],
+                    [
+                        152,
+                        7
+                    ],
+                    [
+                        272,
+                        12
+                    ],
+                    [
+                        307,
+                        23
+                    ],
+                    [
+                        319,
+                        36
+                    ],
+                    [
+                        326,
+                        52
+                    ],
+                    [
+                        319,
+                        62
+                    ],
+                    [
+                        301,
+                        75
+                    ],
+                    [
+                        270,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

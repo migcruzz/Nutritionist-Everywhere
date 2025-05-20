@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1773767,
+            "classId": 3831,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:09.548Z",
+            "updatedAt": "2023-06-07T14:35:09.548Z",
+            "tags": [],
+            "classTitle": "dumplings",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        135
+                    ],
+                    [
+                        269,
+                        130
+                    ],
+                    [
+                        186,
+                        132
+                    ],
+                    [
+                        131,
+                        157
+                    ],
+                    [
+                        106,
+                        240
+                    ],
+                    [
+                        134,
+                        314
+                    ],
+                    [
+                        179,
+                        324
+                    ],
+                    [
+                        272,
+                        277
+                    ],
+                    [
+                        345,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1773765,
+            "classId": 3521,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:09.547Z",
+            "updatedAt": "2023-06-07T14:35:09.547Z",
+            "tags": [],
+            "classTitle": "soup-vegetable",
+            "points": {
+                "exterior": [
+                    [
+                        367,
+                        96
+                    ],
+                    [
+                        229,
+                        31
+                    ],
+                    [
+                        176,
+                        30
+                    ],
+                    [
+                        12,
+                        248
+                    ],
+                    [
+                        207,
+                        380
+                    ],
+                    [
+                        243,
+                        313
+                    ],
+                    [
+                        247,
+                        292
+                    ],
+                    [
+                        157,
+                        314
+                    ],
+                    [
+                        101,
+                        257
+                    ],
+                    [
+                        117,
+                        211
+                    ],
+                    [
+                        123,
+                        157
+                    ],
+                    [
+                        207,
+                        116
+                    ],
+                    [
+                        356,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

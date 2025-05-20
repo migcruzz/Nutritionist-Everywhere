@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 821,
+        "width": 822
+    },
+    "objects": [
+        {
+            "id": 1719199,
+            "classId": 4117,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:02.045Z",
+            "updatedAt": "2023-06-07T13:58:02.045Z",
+            "tags": [],
+            "classTitle": "milk",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        257
+                    ],
+                    [
+                        377,
+                        190
+                    ],
+                    [
+                        486,
+                        169
+                    ],
+                    [
+                        574,
+                        202
+                    ],
+                    [
+                        594,
+                        321
+                    ],
+                    [
+                        522,
+                        514
+                    ],
+                    [
+                        465,
+                        564
+                    ],
+                    [
+                        379,
+                        557
+                    ],
+                    [
+                        342,
+                        510
+                    ],
+                    [
+                        307,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719197,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:02.045Z",
+            "updatedAt": "2023-06-07T13:58:02.045Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        477,
+                        642
+                    ],
+                    [
+                        564,
+                        518
+                    ],
+                    [
+                        703,
+                        603
+                    ],
+                    [
+                        640,
+                        689
+                    ],
+                    [
+                        551,
+                        734
+                    ],
+                    [
+                        473,
+                        652
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719195,
+            "classId": 4117,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:02.044Z",
+            "updatedAt": "2023-06-07T13:58:02.044Z",
+            "tags": [],
+            "classTitle": "milk",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        262
+                    ],
+                    [
+                        344,
+                        521
+                    ],
+                    [
+                        451,
+                        566
+                    ],
+                    [
+                        505,
+                        539
+                    ],
+                    [
+                        591,
+                        326
+                    ],
+                    [
+                        548,
+                        227
+                    ],
+                    [
+                        449,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719193,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:02.043Z",
+            "updatedAt": "2023-06-07T13:58:02.043Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        558,
+                        525
+                    ],
+                    [
+                        476,
+                        659
+                    ],
+                    [
+                        560,
+                        743
+                    ],
+                    [
+                        685,
+                        626
+                    ],
+                    [
+                        683,
+                        603
+                    ],
+                    [
+                        607,
+                        550
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

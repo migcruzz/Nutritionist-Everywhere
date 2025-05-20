@@ -1,0 +1,42 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 766,
+        "width": 765
+    },
+    "objects": [
+        {
+            "id": 1659032,
+            "classId": 3799,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:25.150Z",
+            "updatedAt": "2023-06-07T13:15:25.150Z",
+            "tags": [],
+            "classTitle": "emmental-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        371
+                    ],
+                    [
+                        511,
+                        313
+                    ],
+                    [
+                        551,
+                        664
+                    ],
+                    [
+                        0,
+                        757
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

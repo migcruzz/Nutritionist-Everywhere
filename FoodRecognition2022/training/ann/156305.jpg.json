@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1672478,
+            "classId": 3675,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:50.655Z",
+            "updatedAt": "2023-06-07T13:24:50.655Z",
+            "tags": [],
+            "classTitle": "dried-raisins",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        113
+                    ],
+                    [
+                        260,
+                        39
+                    ],
+                    [
+                        125,
+                        48
+                    ],
+                    [
+                        69,
+                        84
+                    ],
+                    [
+                        48,
+                        136
+                    ],
+                    [
+                        68,
+                        134
+                    ],
+                    [
+                        106,
+                        105
+                    ],
+                    [
+                        147,
+                        145
+                    ],
+                    [
+                        132,
+                        174
+                    ],
+                    [
+                        56,
+                        173
+                    ],
+                    [
+                        24,
+                        273
+                    ],
+                    [
+                        99,
+                        318
+                    ],
+                    [
+                        216,
+                        330
+                    ],
+                    [
+                        239,
+                        292
+                    ],
+                    [
+                        267,
+                        254
+                    ],
+                    [
+                        276,
+                        316
+                    ],
+                    [
+                        320,
+                        309
+                    ],
+                    [
+                        375,
+                        250
+                    ],
+                    [
+                        319,
+                        199
+                    ],
+                    [
+                        288,
+                        152
+                    ],
+                    [
+                        333,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1672476,
+            "classId": 3493,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:50.655Z",
+            "updatedAt": "2023-06-07T13:24:50.655Z",
+            "tags": [],
+            "classTitle": "almonds",
+            "points": {
+                "exterior": [
+                    [
+                        390,
+                        149
+                    ],
+                    [
+                        318,
+                        119
+                    ],
+                    [
+                        290,
+                        146
+                    ],
+                    [
+                        307,
+                        170
+                    ],
+                    [
+                        382,
+                        172
+                    ],
+                    [
+                        395,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1672474,
+            "classId": 3491,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:50.654Z",
+            "updatedAt": "2023-06-07T13:24:50.654Z",
+            "tags": [],
+            "classTitle": "cashew-nut",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        123
+                    ],
+                    [
+                        107,
+                        107
+                    ],
+                    [
+                        70,
+                        130
+                    ],
+                    [
+                        63,
+                        172
+                    ],
+                    [
+                        151,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

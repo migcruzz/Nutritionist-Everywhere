@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1666042,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:41.319Z",
+            "updatedAt": "2023-06-07T13:20:41.319Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        176
+                    ],
+                    [
+                        136,
+                        175
+                    ],
+                    [
+                        116,
+                        170
+                    ],
+                    [
+                        100,
+                        156
+                    ],
+                    [
+                        100,
+                        147
+                    ],
+                    [
+                        111,
+                        133
+                    ],
+                    [
+                        122,
+                        126
+                    ],
+                    [
+                        147,
+                        119
+                    ],
+                    [
+                        167,
+                        117
+                    ],
+                    [
+                        207,
+                        122
+                    ],
+                    [
+                        231,
+                        142
+                    ],
+                    [
+                        233,
+                        151
+                    ],
+                    [
+                        218,
+                        163
+                    ],
+                    [
+                        203,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666040,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:41.319Z",
+            "updatedAt": "2023-06-07T13:20:41.319Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        184
+                    ],
+                    [
+                        288,
+                        191
+                    ],
+                    [
+                        305,
+                        219
+                    ],
+                    [
+                        306,
+                        248
+                    ],
+                    [
+                        281,
+                        276
+                    ],
+                    [
+                        389,
+                        366
+                    ],
+                    [
+                        452,
+                        335
+                    ],
+                    [
+                        325,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

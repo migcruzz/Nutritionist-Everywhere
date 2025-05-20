@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1719586,
+            "classId": 4297,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:23.069Z",
+            "updatedAt": "2023-06-07T13:58:23.069Z",
+            "tags": [],
+            "classTitle": "veal-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        443,
+                        280
+                    ],
+                    [
+                        286,
+                        314
+                    ],
+                    [
+                        77,
+                        326
+                    ],
+                    [
+                        43,
+                        379
+                    ],
+                    [
+                        97,
+                        438
+                    ],
+                    [
+                        195,
+                        453
+                    ],
+                    [
+                        282,
+                        455
+                    ],
+                    [
+                        329,
+                        444
+                    ],
+                    [
+                        384,
+                        414
+                    ],
+                    [
+                        408,
+                        378
+                    ],
+                    [
+                        424,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719584,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:23.068Z",
+            "updatedAt": "2023-06-07T13:58:23.068Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        461,
+                        232
+                    ],
+                    [
+                        299,
+                        308
+                    ],
+                    [
+                        79,
+                        359
+                    ],
+                    [
+                        23,
+                        379
+                    ],
+                    [
+                        13,
+                        50
+                    ],
+                    [
+                        121,
+                        3
+                    ],
+                    [
+                        248,
+                        2
+                    ],
+                    [
+                        384,
+                        31
+                    ],
+                    [
+                        440,
+                        64
+                    ],
+                    [
+                        459,
+                        131
+                    ],
+                    [
+                        458,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719582,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:23.067Z",
+            "updatedAt": "2023-06-07T13:58:23.067Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        185
+                    ],
+                    [
+                        268,
+                        122
+                    ],
+                    [
+                        234,
+                        88
+                    ],
+                    [
+                        193,
+                        89
+                    ],
+                    [
+                        163,
+                        107
+                    ],
+                    [
+                        171,
+                        177
+                    ],
+                    [
+                        205,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

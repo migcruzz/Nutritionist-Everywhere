@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 826,
+        "width": 826
+    },
+    "objects": [
+        {
+            "id": 1660186,
+            "classId": 3489,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:15.104Z",
+            "updatedAt": "2023-06-07T13:16:15.104Z",
+            "tags": [],
+            "classTitle": "pear",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        388
+                    ],
+                    [
+                        95,
+                        520
+                    ],
+                    [
+                        84,
+                        576
+                    ],
+                    [
+                        138,
+                        615
+                    ],
+                    [
+                        231,
+                        611
+                    ],
+                    [
+                        241,
+                        555
+                    ],
+                    [
+                        229,
+                        431
+                    ],
+                    [
+                        212,
+                        390
+                    ],
+                    [
+                        187,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1660185,
+            "classId": 3489,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:15.103Z",
+            "updatedAt": "2023-06-07T13:16:15.103Z",
+            "tags": [],
+            "classTitle": "pear",
+            "points": {
+                "exterior": [
+                    [
+                        679,
+                        312
+                    ],
+                    [
+                        563,
+                        464
+                    ],
+                    [
+                        592,
+                        508
+                    ],
+                    [
+                        652,
+                        526
+                    ],
+                    [
+                        710,
+                        518
+                    ],
+                    [
+                        731,
+                        442
+                    ],
+                    [
+                        704,
+                        334
+                    ],
+                    [
+                        683,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

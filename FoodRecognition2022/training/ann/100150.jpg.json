@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1660812,
+            "classId": 4333,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:36.690Z",
+            "updatedAt": "2023-06-07T13:16:36.690Z",
+            "tags": [],
+            "classTitle": "vegetable-au-gratin-baked",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        46
+                    ],
+                    [
+                        125,
+                        82
+                    ],
+                    [
+                        40,
+                        147
+                    ],
+                    [
+                        34,
+                        242
+                    ],
+                    [
+                        88,
+                        321
+                    ],
+                    [
+                        126,
+                        370
+                    ],
+                    [
+                        144,
+                        409
+                    ],
+                    [
+                        210,
+                        446
+                    ],
+                    [
+                        262,
+                        439
+                    ],
+                    [
+                        330,
+                        415
+                    ],
+                    [
+                        373,
+                        409
+                    ],
+                    [
+                        408,
+                        393
+                    ],
+                    [
+                        433,
+                        339
+                    ],
+                    [
+                        460,
+                        283
+                    ],
+                    [
+                        457,
+                        174
+                    ],
+                    [
+                        443,
+                        106
+                    ],
+                    [
+                        351,
+                        75
+                    ],
+                    [
+                        287,
+                        58
+                    ],
+                    [
+                        271,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1660810,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:16:36.689Z",
+            "updatedAt": "2023-06-07T13:16:36.689Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        298,
+                        258
+                    ],
+                    [
+                        370,
+                        248
+                    ],
+                    [
+                        375,
+                        210
+                    ],
+                    [
+                        342,
+                        170
+                    ],
+                    [
+                        315,
+                        175
+                    ],
+                    [
+                        288,
+                        194
+                    ],
+                    [
+                        286,
+                        218
+                    ],
+                    [
+                        291,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

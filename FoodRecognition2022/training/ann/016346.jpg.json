@@ -1,0 +1,298 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1715578,
+            "classId": 4337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:31.810Z",
+            "updatedAt": "2023-06-07T13:55:31.810Z",
+            "tags": [],
+            "classTitle": "processed-meat-charcuterie",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        89
+                    ],
+                    [
+                        94,
+                        193
+                    ],
+                    [
+                        37,
+                        433
+                    ],
+                    [
+                        120,
+                        624
+                    ],
+                    [
+                        388,
+                        579
+                    ],
+                    [
+                        426,
+                        450
+                    ],
+                    [
+                        577,
+                        513
+                    ],
+                    [
+                        605,
+                        433
+                    ],
+                    [
+                        582,
+                        346
+                    ],
+                    [
+                        657,
+                        320
+                    ],
+                    [
+                        671,
+                        238
+                    ],
+                    [
+                        483,
+                        84
+                    ],
+                    [
+                        377,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1715576,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:31.810Z",
+            "updatedAt": "2023-06-07T13:55:31.810Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        674,
+                        565
+                    ],
+                    [
+                        700,
+                        457
+                    ],
+                    [
+                        657,
+                        388
+                    ],
+                    [
+                        563,
+                        445
+                    ],
+                    [
+                        563,
+                        506
+                    ],
+                    [
+                        582,
+                        565
+                    ],
+                    [
+                        608,
+                        579
+                    ],
+                    [
+                        641,
+                        579
+                    ],
+                    [
+                        653,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1715575,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:31.810Z",
+            "updatedAt": "2023-06-07T13:55:31.810Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        620,
+                        662
+                    ],
+                    [
+                        457,
+                        704
+                    ],
+                    [
+                        478,
+                        785
+                    ],
+                    [
+                        662,
+                        799
+                    ],
+                    [
+                        813,
+                        799
+                    ],
+                    [
+                        822,
+                        735
+                    ],
+                    [
+                        754,
+                        686
+                    ],
+                    [
+                        681,
+                        695
+                    ],
+                    [
+                        653,
+                        737
+                    ],
+                    [
+                        594,
+                        754
+                    ],
+                    [
+                        627,
+                        690
+                    ],
+                    [
+                        624,
+                        676
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1715573,
+            "classId": 3749,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:31.809Z",
+            "updatedAt": "2023-06-07T13:55:31.809Z",
+            "tags": [],
+            "classTitle": "peanut",
+            "points": {
+                "exterior": [
+                    [
+                        895,
+                        754
+                    ],
+                    [
+                        931,
+                        528
+                    ],
+                    [
+                        843,
+                        450
+                    ],
+                    [
+                        707,
+                        445
+                    ],
+                    [
+                        693,
+                        549
+                    ],
+                    [
+                        598,
+                        584
+                    ],
+                    [
+                        707,
+                        650
+                    ],
+                    [
+                        789,
+                        683
+                    ],
+                    [
+                        832,
+                        721
+                    ],
+                    [
+                        843,
+                        737
+                    ],
+                    [
+                        851,
+                        744
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1715571,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:31.808Z",
+            "updatedAt": "2023-06-07T13:55:31.808Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        612,
+                        299
+                    ],
+                    [
+                        594,
+                        388
+                    ],
+                    [
+                        704,
+                        417
+                    ],
+                    [
+                        884,
+                        440
+                    ],
+                    [
+                        912,
+                        445
+                    ],
+                    [
+                        921,
+                        327
+                    ],
+                    [
+                        641,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

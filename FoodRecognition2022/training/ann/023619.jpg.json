@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1804467,
+            "classId": 3915,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:12.722Z",
+            "updatedAt": "2023-06-07T14:56:12.722Z",
+            "tags": [],
+            "classTitle": "bread-black",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        232
+                    ],
+                    [
+                        229,
+                        393
+                    ],
+                    [
+                        107,
+                        308
+                    ],
+                    [
+                        107,
+                        162
+                    ],
+                    [
+                        290,
+                        63
+                    ],
+                    [
+                        340,
+                        53
+                    ],
+                    [
+                        330,
+                        60
+                    ],
+                    [
+                        177,
+                        195
+                    ],
+                    [
+                        175,
+                        249
+                    ],
+                    [
+                        210,
+                        313
+                    ],
+                    [
+                        352,
+                        251
+                    ],
+                    [
+                        439,
+                        185
+                    ],
+                    [
+                        503,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1804465,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:12.721Z",
+            "updatedAt": "2023-06-07T14:56:12.721Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        569,
+                        301
+                    ],
+                    [
+                        335,
+                        730
+                    ],
+                    [
+                        175,
+                        659
+                    ],
+                    [
+                        92,
+                        414
+                    ],
+                    [
+                        243,
+                        383
+                    ],
+                    [
+                        394,
+                        353
+                    ],
+                    [
+                        488,
+                        280
+                    ],
+                    [
+                        529,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1804463,
+            "classId": 3791,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:12.721Z",
+            "updatedAt": "2023-06-07T14:56:12.721Z",
+            "tags": [],
+            "classTitle": "egg-scrambled-prepared",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        315
+                    ],
+                    [
+                        352,
+                        612
+                    ],
+                    [
+                        338,
+                        761
+                    ],
+                    [
+                        564,
+                        779
+                    ],
+                    [
+                        755,
+                        680
+                    ],
+                    [
+                        804,
+                        459
+                    ],
+                    [
+                        599,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1804461,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:12.720Z",
+            "updatedAt": "2023-06-07T14:56:12.720Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        49
+                    ],
+                    [
+                        107,
+                        249
+                    ],
+                    [
+                        243,
+                        369
+                    ],
+                    [
+                        512,
+                        133
+                    ],
+                    [
+                        394,
+                        34
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

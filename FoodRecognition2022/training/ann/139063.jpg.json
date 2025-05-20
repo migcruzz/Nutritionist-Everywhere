@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1649616,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:05.245Z",
+            "updatedAt": "2023-06-07T13:09:05.245Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        284
+                    ],
+                    [
+                        418,
+                        474
+                    ],
+                    [
+                        508,
+                        607
+                    ],
+                    [
+                        666,
+                        573
+                    ],
+                    [
+                        734,
+                        534
+                    ],
+                    [
+                        778,
+                        442
+                    ],
+                    [
+                        775,
+                        350
+                    ],
+                    [
+                        639,
+                        301
+                    ],
+                    [
+                        573,
+                        291
+                    ],
+                    [
+                        537,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649614,
+            "classId": 4289,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:05.244Z",
+            "updatedAt": "2023-06-07T13:09:05.244Z",
+            "tags": [],
+            "classTitle": "corn-crisps",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        279
+                    ],
+                    [
+                        259,
+                        182
+                    ],
+                    [
+                        155,
+                        216
+                    ],
+                    [
+                        213,
+                        734
+                    ],
+                    [
+                        277,
+                        785
+                    ],
+                    [
+                        461,
+                        695
+                    ],
+                    [
+                        491,
+                        617
+                    ],
+                    [
+                        413,
+                        503
+                    ],
+                    [
+                        398,
+                        340
+                    ],
+                    [
+                        425,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

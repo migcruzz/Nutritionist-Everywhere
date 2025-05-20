@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1780657,
+            "classId": 3445,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:57.934Z",
+            "updatedAt": "2023-06-07T14:39:57.934Z",
+            "tags": [],
+            "classTitle": "avocado",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        181
+                    ],
+                    [
+                        338,
+                        193
+                    ],
+                    [
+                        368,
+                        317
+                    ],
+                    [
+                        333,
+                        398
+                    ],
+                    [
+                        248,
+                        418
+                    ],
+                    [
+                        189,
+                        375
+                    ],
+                    [
+                        174,
+                        284
+                    ],
+                    [
+                        226,
+                        220
+                    ],
+                    [
+                        297,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780655,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:57.933Z",
+            "updatedAt": "2023-06-07T14:39:57.933Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        220
+                    ],
+                    [
+                        211,
+                        226
+                    ],
+                    [
+                        307,
+                        167
+                    ],
+                    [
+                        283,
+                        87
+                    ],
+                    [
+                        168,
+                        57
+                    ],
+                    [
+                        115,
+                        132
+                    ],
+                    [
+                        103,
+                        188
+                    ],
+                    [
+                        139,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780653,
+            "classId": 3781,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:57.933Z",
+            "updatedAt": "2023-06-07T14:39:57.933Z",
+            "tags": [],
+            "classTitle": "shrimp-prawn-small",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        230
+                    ],
+                    [
+                        176,
+                        276
+                    ],
+                    [
+                        185,
+                        367
+                    ],
+                    [
+                        117,
+                        366
+                    ],
+                    [
+                        2,
+                        315
+                    ],
+                    [
+                        55,
+                        228
+                    ],
+                    [
+                        131,
+                        208
+                    ],
+                    [
+                        217,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

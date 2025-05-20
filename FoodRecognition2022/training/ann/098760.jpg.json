@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1760134,
+            "classId": 4319,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:21.147Z",
+            "updatedAt": "2023-06-07T14:26:21.147Z",
+            "tags": [],
+            "classTitle": "lasagne-meat-prepared",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        373
+                    ],
+                    [
+                        414,
+                        291
+                    ],
+                    [
+                        330,
+                        138
+                    ],
+                    [
+                        226,
+                        174
+                    ],
+                    [
+                        103,
+                        241
+                    ],
+                    [
+                        80,
+                        310
+                    ],
+                    [
+                        128,
+                        395
+                    ],
+                    [
+                        149,
+                        410
+                    ],
+                    [
+                        215,
+                        430
+                    ],
+                    [
+                        268,
+                        417
+                    ],
+                    [
+                        294,
+                        396
+                    ],
+                    [
+                        303,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760132,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:21.146Z",
+            "updatedAt": "2023-06-07T14:26:21.146Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        248
+                    ],
+                    [
+                        256,
+                        176
+                    ],
+                    [
+                        278,
+                        133
+                    ],
+                    [
+                        236,
+                        60
+                    ],
+                    [
+                        175,
+                        46
+                    ],
+                    [
+                        94,
+                        69
+                    ],
+                    [
+                        59,
+                        117
+                    ],
+                    [
+                        49,
+                        175
+                    ],
+                    [
+                        69,
+                        237
+                    ],
+                    [
+                        94,
+                        252
+                    ],
+                    [
+                        99,
+                        256
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

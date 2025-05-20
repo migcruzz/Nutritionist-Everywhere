@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 936,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1728753,
+            "classId": 3635,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:50.031Z",
+            "updatedAt": "2023-06-07T14:04:50.031Z",
+            "tags": [],
+            "classTitle": "bread",
+            "points": {
+                "exterior": [
+                    [
+                        533,
+                        439
+                    ],
+                    [
+                        432,
+                        614
+                    ],
+                    [
+                        345,
+                        767
+                    ],
+                    [
+                        116,
+                        788
+                    ],
+                    [
+                        196,
+                        877
+                    ],
+                    [
+                        441,
+                        858
+                    ],
+                    [
+                        509,
+                        724
+                    ],
+                    [
+                        500,
+                        612
+                    ],
+                    [
+                        542,
+                        523
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728751,
+            "classId": 3499,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:50.031Z",
+            "updatedAt": "2023-06-07T14:04:50.031Z",
+            "tags": [],
+            "classTitle": "peanut-butter",
+            "points": {
+                "exterior": [
+                    [
+                        481,
+                        418
+                    ],
+                    [
+                        378,
+                        416
+                    ],
+                    [
+                        238,
+                        490
+                    ],
+                    [
+                        97,
+                        769
+                    ],
+                    [
+                        376,
+                        755
+                    ],
+                    [
+                        528,
+                        451
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

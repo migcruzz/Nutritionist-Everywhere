@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1676113,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:20.372Z",
+            "updatedAt": "2023-06-07T13:27:20.372Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        148
+                    ],
+                    [
+                        122,
+                        156
+                    ],
+                    [
+                        134,
+                        239
+                    ],
+                    [
+                        137,
+                        387
+                    ],
+                    [
+                        157,
+                        474
+                    ],
+                    [
+                        273,
+                        476
+                    ],
+                    [
+                        326,
+                        477
+                    ],
+                    [
+                        317,
+                        318
+                    ],
+                    [
+                        285,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1676111,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:20.371Z",
+            "updatedAt": "2023-06-07T13:27:20.371Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        67
+                    ],
+                    [
+                        222,
+                        0
+                    ],
+                    [
+                        151,
+                        19
+                    ],
+                    [
+                        123,
+                        95
+                    ],
+                    [
+                        181,
+                        148
+                    ],
+                    [
+                        289,
+                        147
+                    ],
+                    [
+                        313,
+                        81
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1801601,
+            "classId": 3721,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:25.126Z",
+            "updatedAt": "2023-06-07T14:54:25.126Z",
+            "tags": [],
+            "classTitle": "potato-gnocchi",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        169
+                    ],
+                    [
+                        253,
+                        50
+                    ],
+                    [
+                        138,
+                        56
+                    ],
+                    [
+                        47,
+                        122
+                    ],
+                    [
+                        49,
+                        163
+                    ],
+                    [
+                        171,
+                        174
+                    ],
+                    [
+                        289,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801600,
+            "classId": 3721,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:25.125Z",
+            "updatedAt": "2023-06-07T14:54:25.125Z",
+            "tags": [],
+            "classTitle": "potato-gnocchi",
+            "points": {
+                "exterior": [
+                    [
+                        312,
+                        269
+                    ],
+                    [
+                        55,
+                        271
+                    ],
+                    [
+                        100,
+                        373
+                    ],
+                    [
+                        167,
+                        389
+                    ],
+                    [
+                        250,
+                        389
+                    ],
+                    [
+                        289,
+                        358
+                    ],
+                    [
+                        320,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

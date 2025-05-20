@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1682284,
+            "classId": 3797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:22.837Z",
+            "updatedAt": "2023-06-07T13:31:22.837Z",
+            "tags": [],
+            "classTitle": "braided-white-loaf",
+            "points": {
+                "exterior": [
+                    [
+                        86,
+                        367
+                    ],
+                    [
+                        190,
+                        385
+                    ],
+                    [
+                        252,
+                        337
+                    ],
+                    [
+                        245,
+                        249
+                    ],
+                    [
+                        165,
+                        186
+                    ],
+                    [
+                        88,
+                        150
+                    ],
+                    [
+                        62,
+                        162
+                    ],
+                    [
+                        71,
+                        319
+                    ],
+                    [
+                        70,
+                        337
+                    ],
+                    [
+                        70,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682282,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:22.836Z",
+            "updatedAt": "2023-06-07T13:31:22.836Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        140
+                    ],
+                    [
+                        236,
+                        214
+                    ],
+                    [
+                        291,
+                        288
+                    ],
+                    [
+                        281,
+                        322
+                    ],
+                    [
+                        259,
+                        368
+                    ],
+                    [
+                        297,
+                        390
+                    ],
+                    [
+                        361,
+                        285
+                    ],
+                    [
+                        372,
+                        262
+                    ],
+                    [
+                        340,
+                        276
+                    ],
+                    [
+                        363,
+                        214
+                    ],
+                    [
+                        375,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

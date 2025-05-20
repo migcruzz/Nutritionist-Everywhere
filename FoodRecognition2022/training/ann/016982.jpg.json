@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1014,
+        "width": 1014
+    },
+    "objects": [
+        {
+            "id": 1724037,
+            "classId": 4065,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:25.382Z",
+            "updatedAt": "2023-06-07T14:01:25.382Z",
+            "tags": [],
+            "classTitle": "grapefruit-pomelo",
+            "points": {
+                "exterior": [
+                    [
+                        518,
+                        626
+                    ],
+                    [
+                        812,
+                        471
+                    ],
+                    [
+                        921,
+                        334
+                    ],
+                    [
+                        789,
+                        126
+                    ],
+                    [
+                        584,
+                        124
+                    ],
+                    [
+                        431,
+                        197
+                    ],
+                    [
+                        464,
+                        304
+                    ],
+                    [
+                        330,
+                        370
+                    ],
+                    [
+                        302,
+                        436
+                    ],
+                    [
+                        406,
+                        560
+                    ],
+                    [
+                        482,
+                        608
+                    ],
+                    [
+                        518,
+                        621
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1724035,
+            "classId": 3647,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:25.382Z",
+            "updatedAt": "2023-06-07T14:01:25.382Z",
+            "tags": [],
+            "classTitle": "mandarine",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        291
+                    ],
+                    [
+                        409,
+                        152
+                    ],
+                    [
+                        290,
+                        152
+                    ],
+                    [
+                        155,
+                        309
+                    ],
+                    [
+                        155,
+                        418
+                    ],
+                    [
+                        267,
+                        425
+                    ],
+                    [
+                        338,
+                        390
+                    ],
+                    [
+                        414,
+                        342
+                    ],
+                    [
+                        447,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1724033,
+            "classId": 4103,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:25.381Z",
+            "updatedAt": "2023-06-07T14:01:25.381Z",
+            "tags": [],
+            "classTitle": "pineapple",
+            "points": {
+                "exterior": [
+                    [
+                        923,
+                        669
+                    ],
+                    [
+                        753,
+                        542
+                    ],
+                    [
+                        591,
+                        570
+                    ],
+                    [
+                        525,
+                        671
+                    ],
+                    [
+                        670,
+                        732
+                    ],
+                    [
+                        852,
+                        737
+                    ],
+                    [
+                        906,
+                        692
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

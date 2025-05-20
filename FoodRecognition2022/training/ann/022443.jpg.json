@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1649447,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:56.009Z",
+            "updatedAt": "2023-06-07T13:08:56.009Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        429
+                    ],
+                    [
+                        167,
+                        549
+                    ],
+                    [
+                        339,
+                        594
+                    ],
+                    [
+                        447,
+                        485
+                    ],
+                    [
+                        327,
+                        414
+                    ],
+                    [
+                        205,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649445,
+            "classId": 3483,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:56.008Z",
+            "updatedAt": "2023-06-07T13:08:56.008Z",
+            "tags": [],
+            "classTitle": "pasta",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        436
+                    ],
+                    [
+                        238,
+                        195
+                    ],
+                    [
+                        459,
+                        172
+                    ],
+                    [
+                        931,
+                        292
+                    ],
+                    [
+                        744,
+                        433
+                    ],
+                    [
+                        697,
+                        638
+                    ],
+                    [
+                        412,
+                        620
+                    ],
+                    [
+                        412,
+                        483
+                    ],
+                    [
+                        155,
+                        454
+                    ],
+                    [
+                        37,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1697022,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:37.172Z",
+            "updatedAt": "2023-06-07T13:41:37.172Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        305,
+                        73
+                    ],
+                    [
+                        267,
+                        89
+                    ],
+                    [
+                        265,
+                        125
+                    ],
+                    [
+                        223,
+                        154
+                    ],
+                    [
+                        214,
+                        186
+                    ],
+                    [
+                        252,
+                        217
+                    ],
+                    [
+                        251,
+                        246
+                    ],
+                    [
+                        255,
+                        274
+                    ],
+                    [
+                        272,
+                        323
+                    ],
+                    [
+                        304,
+                        352
+                    ],
+                    [
+                        336,
+                        317
+                    ],
+                    [
+                        371,
+                        256
+                    ],
+                    [
+                        390,
+                        222
+                    ],
+                    [
+                        381,
+                        180
+                    ],
+                    [
+                        376,
+                        144
+                    ],
+                    [
+                        374,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1697020,
+            "classId": 4205,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:37.171Z",
+            "updatedAt": "2023-06-07T13:41:37.171Z",
+            "tags": [],
+            "classTitle": "celeriac",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        326
+                    ],
+                    [
+                        234,
+                        291
+                    ],
+                    [
+                        243,
+                        236
+                    ],
+                    [
+                        217,
+                        221
+                    ],
+                    [
+                        197,
+                        272
+                    ],
+                    [
+                        185,
+                        302
+                    ],
+                    [
+                        206,
+                        333
+                    ],
+                    [
+                        265,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

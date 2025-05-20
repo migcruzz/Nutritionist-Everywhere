@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1728033,
+            "classId": 3609,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:18.460Z",
+            "updatedAt": "2023-06-07T14:04:18.460Z",
+            "tags": [],
+            "classTitle": "bread-grain",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        264
+                    ],
+                    [
+                        477,
+                        261
+                    ],
+                    [
+                        460,
+                        340
+                    ],
+                    [
+                        346,
+                        384
+                    ],
+                    [
+                        139,
+                        423
+                    ],
+                    [
+                        76,
+                        390
+                    ],
+                    [
+                        187,
+                        338
+                    ],
+                    [
+                        283,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 780,
+        "width": 780
+    },
+    "objects": [
+        {
+            "id": 1720957,
+            "classId": 4367,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:24.102Z",
+            "updatedAt": "2023-06-07T13:59:24.102Z",
+            "tags": [],
+            "classTitle": "carrot-steamed-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        699,
+                        771
+                    ],
+                    [
+                        689,
+                        701
+                    ],
+                    [
+                        626,
+                        633
+                    ],
+                    [
+                        601,
+                        623
+                    ],
+                    [
+                        537,
+                        623
+                    ],
+                    [
+                        472,
+                        684
+                    ],
+                    [
+                        439,
+                        779
+                    ],
+                    [
+                        439,
+                        779
+                    ],
+                    [
+                        513,
+                        779
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1720955,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:59:24.102Z",
+            "updatedAt": "2023-06-07T13:59:24.102Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        767,
+                        221
+                    ],
+                    [
+                        706,
+                        159
+                    ],
+                    [
+                        623,
+                        241
+                    ],
+                    [
+                        601,
+                        358
+                    ],
+                    [
+                        621,
+                        469
+                    ],
+                    [
+                        769,
+                        576
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

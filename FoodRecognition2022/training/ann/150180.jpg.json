@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 791,
+        "width": 792
+    },
+    "objects": [
+        {
+            "id": 1771831,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:00.593Z",
+            "updatedAt": "2023-06-07T14:34:00.593Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        338
+                    ],
+                    [
+                        150,
+                        286
+                    ],
+                    [
+                        53,
+                        344
+                    ],
+                    [
+                        39,
+                        465
+                    ],
+                    [
+                        61,
+                        548
+                    ],
+                    [
+                        106,
+                        571
+                    ],
+                    [
+                        193,
+                        581
+                    ],
+                    [
+                        316,
+                        554
+                    ],
+                    [
+                        370,
+                        502
+                    ],
+                    [
+                        409,
+                        498
+                    ],
+                    [
+                        465,
+                        532
+                    ],
+                    [
+                        593,
+                        556
+                    ],
+                    [
+                        649,
+                        544
+                    ],
+                    [
+                        708,
+                        480
+                    ],
+                    [
+                        726,
+                        360
+                    ],
+                    [
+                        692,
+                        278
+                    ],
+                    [
+                        560,
+                        213
+                    ],
+                    [
+                        433,
+                        273
+                    ],
+                    [
+                        387,
+                        342
+                    ],
+                    [
+                        385,
+                        344
+                    ],
+                    [
+                        375,
+                        348
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1771829,
+            "classId": 3535,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:00.591Z",
+            "updatedAt": "2023-06-07T14:34:00.591Z",
+            "tags": [],
+            "classTitle": "mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        335
+                    ],
+                    [
+                        389,
+                        302
+                    ],
+                    [
+                        583,
+                        220
+                    ],
+                    [
+                        721,
+                        341
+                    ],
+                    [
+                        695,
+                        379
+                    ],
+                    [
+                        545,
+                        430
+                    ],
+                    [
+                        434,
+                        436
+                    ],
+                    [
+                        412,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1771827,
+            "classId": 4107,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:00.591Z",
+            "updatedAt": "2023-06-07T14:34:00.591Z",
+            "tags": [],
+            "classTitle": "cheddar",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        389
+                    ],
+                    [
+                        410,
+                        511
+                    ],
+                    [
+                        567,
+                        535
+                    ],
+                    [
+                        727,
+                        452
+                    ],
+                    [
+                        741,
+                        321
+                    ],
+                    [
+                        642,
+                        234
+                    ],
+                    [
+                        454,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

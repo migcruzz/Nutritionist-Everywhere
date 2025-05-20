@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1760787,
+            "classId": 3473,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:41.824Z",
+            "updatedAt": "2023-06-07T14:26:41.824Z",
+            "tags": [],
+            "classTitle": "chickpeas",
+            "points": {
+                "exterior": [
+                    [
+                        290,
+                        314
+                    ],
+                    [
+                        263,
+                        371
+                    ],
+                    [
+                        302,
+                        384
+                    ],
+                    [
+                        300,
+                        355
+                    ],
+                    [
+                        311,
+                        342
+                    ],
+                    [
+                        306,
+                        320
+                    ],
+                    [
+                        288,
+                        317
+                    ],
+                    [
+                        295,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760785,
+            "classId": 4373,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:41.824Z",
+            "updatedAt": "2023-06-07T14:26:41.824Z",
+            "tags": [],
+            "classTitle": "shoots",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        409
+                    ],
+                    [
+                        185,
+                        331
+                    ],
+                    [
+                        135,
+                        277
+                    ],
+                    [
+                        111,
+                        232
+                    ],
+                    [
+                        60,
+                        225
+                    ],
+                    [
+                        12,
+                        266
+                    ],
+                    [
+                        17,
+                        355
+                    ],
+                    [
+                        68,
+                        410
+                    ],
+                    [
+                        134,
+                        410
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760783,
+            "classId": 4089,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:41.822Z",
+            "updatedAt": "2023-06-07T14:26:41.822Z",
+            "tags": [],
+            "classTitle": "salad-rocket",
+            "points": {
+                "exterior": [
+                    [
+                        196,
+                        13
+                    ],
+                    [
+                        159,
+                        55
+                    ],
+                    [
+                        179,
+                        125
+                    ],
+                    [
+                        105,
+                        173
+                    ],
+                    [
+                        144,
+                        233
+                    ],
+                    [
+                        177,
+                        314
+                    ],
+                    [
+                        217,
+                        423
+                    ],
+                    [
+                        261,
+                        440
+                    ],
+                    [
+                        248,
+                        356
+                    ],
+                    [
+                        250,
+                        252
+                    ],
+                    [
+                        309,
+                        252
+                    ],
+                    [
+                        279,
+                        203
+                    ],
+                    [
+                        230,
+                        146
+                    ],
+                    [
+                        309,
+                        71
+                    ],
+                    [
+                        281,
+                        66
+                    ],
+                    [
+                        241,
+                        88
+                    ],
+                    [
+                        199,
+                        16
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1801237,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:05.041Z",
+            "updatedAt": "2023-06-07T14:54:05.041Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        518,
+                        610
+                    ],
+                    [
+                        589,
+                        730
+                    ],
+                    [
+                        563,
+                        846
+                    ],
+                    [
+                        454,
+                        869
+                    ],
+                    [
+                        256,
+                        794
+                    ],
+                    [
+                        231,
+                        728
+                    ],
+                    [
+                        344,
+                        693
+                    ],
+                    [
+                        297,
+                        572
+                    ],
+                    [
+                        377,
+                        537
+                    ],
+                    [
+                        497,
+                        561
+                    ],
+                    [
+                        513,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801235,
+            "classId": 3879,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:05.039Z",
+            "updatedAt": "2023-06-07T14:54:05.039Z",
+            "tags": [],
+            "classTitle": "feta",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        577
+                    ],
+                    [
+                        304,
+                        544
+                    ],
+                    [
+                        264,
+                        492
+                    ],
+                    [
+                        226,
+                        506
+                    ],
+                    [
+                        207,
+                        542
+                    ],
+                    [
+                        233,
+                        572
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

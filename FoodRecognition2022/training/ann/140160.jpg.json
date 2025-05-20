@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1664300,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:19.771Z",
+            "updatedAt": "2023-06-07T13:19:19.771Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        338
+                    ],
+                    [
+                        93,
+                        334
+                    ],
+                    [
+                        75,
+                        314
+                    ],
+                    [
+                        58,
+                        270
+                    ],
+                    [
+                        59,
+                        244
+                    ],
+                    [
+                        77,
+                        222
+                    ],
+                    [
+                        121,
+                        185
+                    ],
+                    [
+                        181,
+                        117
+                    ],
+                    [
+                        194,
+                        111
+                    ],
+                    [
+                        216,
+                        112
+                    ],
+                    [
+                        230,
+                        129
+                    ],
+                    [
+                        242,
+                        158
+                    ],
+                    [
+                        256,
+                        177
+                    ],
+                    [
+                        255,
+                        198
+                    ],
+                    [
+                        245,
+                        212
+                    ],
+                    [
+                        211,
+                        237
+                    ],
+                    [
+                        196,
+                        264
+                    ],
+                    [
+                        144,
+                        317
+                    ],
+                    [
+                        125,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1664298,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:19.769Z",
+            "updatedAt": "2023-06-07T13:19:19.769Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        447,
+                        212
+                    ],
+                    [
+                        393,
+                        143
+                    ],
+                    [
+                        329,
+                        100
+                    ],
+                    [
+                        228,
+                        113
+                    ],
+                    [
+                        237,
+                        143
+                    ],
+                    [
+                        263,
+                        196
+                    ],
+                    [
+                        216,
+                        248
+                    ],
+                    [
+                        222,
+                        294
+                    ],
+                    [
+                        285,
+                        300
+                    ],
+                    [
+                        454,
+                        290
+                    ],
+                    [
+                        460,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1664296,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:19.769Z",
+            "updatedAt": "2023-06-07T13:19:19.769Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        259
+                    ],
+                    [
+                        352,
+                        273
+                    ],
+                    [
+                        300,
+                        280
+                    ],
+                    [
+                        320,
+                        291
+                    ],
+                    [
+                        352,
+                        292
+                    ],
+                    [
+                        458,
+                        285
+                    ],
+                    [
+                        458,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 848,
+        "width": 848
+    },
+    "objects": [
+        {
+            "id": 1655240,
+            "classId": 4403,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:57.595Z",
+            "updatedAt": "2023-06-07T13:12:57.595Z",
+            "tags": [],
+            "classTitle": "pie-rhubarb-baked-with-cake-dough",
+            "points": {
+                "exterior": [
+                    [
+                        535,
+                        383
+                    ],
+                    [
+                        107,
+                        533
+                    ],
+                    [
+                        174,
+                        671
+                    ],
+                    [
+                        361,
+                        754
+                    ],
+                    [
+                        569,
+                        775
+                    ],
+                    [
+                        723,
+                        707
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1655238,
+            "classId": 3567,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:12:57.594Z",
+            "updatedAt": "2023-06-07T13:12:57.594Z",
+            "tags": [],
+            "classTitle": "yaourt-yahourt-yogourt-ou-yoghourt-natural",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        128
+                    ],
+                    [
+                        242,
+                        154
+                    ],
+                    [
+                        147,
+                        226
+                    ],
+                    [
+                        160,
+                        298
+                    ],
+                    [
+                        213,
+                        381
+                    ],
+                    [
+                        270,
+                        379
+                    ],
+                    [
+                        338,
+                        343
+                    ],
+                    [
+                        405,
+                        302
+                    ],
+                    [
+                        450,
+                        232
+                    ],
+                    [
+                        448,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

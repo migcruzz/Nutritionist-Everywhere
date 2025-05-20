@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1650784,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.828Z",
+            "updatedAt": "2023-06-07T13:09:50.828Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        34
+                    ],
+                    [
+                        15,
+                        20
+                    ],
+                    [
+                        13,
+                        453
+                    ],
+                    [
+                        129,
+                        476
+                    ],
+                    [
+                        437,
+                        462
+                    ],
+                    [
+                        467,
+                        470
+                    ],
+                    [
+                        465,
+                        124
+                    ],
+                    [
+                        407,
+                        49
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650782,
+            "classId": 3709,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:50.827Z",
+            "updatedAt": "2023-06-07T13:09:50.827Z",
+            "tags": [],
+            "classTitle": "sauce-soya",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        205
+                    ],
+                    [
+                        347,
+                        90
+                    ],
+                    [
+                        153,
+                        61
+                    ],
+                    [
+                        33,
+                        48
+                    ],
+                    [
+                        100,
+                        174
+                    ],
+                    [
+                        179,
+                        307
+                    ],
+                    [
+                        215,
+                        354
+                    ],
+                    [
+                        294,
+                        423
+                    ],
+                    [
+                        390,
+                        462
+                    ],
+                    [
+                        441,
+                        380
+                    ],
+                    [
+                        423,
+                        285
+                    ],
+                    [
+                        391,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

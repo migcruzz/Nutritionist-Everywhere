@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1807849,
+            "classId": 3659,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:37.198Z",
+            "updatedAt": "2023-06-07T14:58:37.198Z",
+            "tags": [],
+            "classTitle": "caprese-salad-tomato-mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        318
+                    ],
+                    [
+                        102,
+                        267
+                    ],
+                    [
+                        136,
+                        235
+                    ],
+                    [
+                        180,
+                        204
+                    ],
+                    [
+                        221,
+                        197
+                    ],
+                    [
+                        259,
+                        200
+                    ],
+                    [
+                        284,
+                        217
+                    ],
+                    [
+                        312,
+                        255
+                    ],
+                    [
+                        310,
+                        279
+                    ],
+                    [
+                        291,
+                        289
+                    ],
+                    [
+                        269,
+                        282
+                    ],
+                    [
+                        256,
+                        305
+                    ],
+                    [
+                        230,
+                        332
+                    ],
+                    [
+                        152,
+                        354
+                    ],
+                    [
+                        115,
+                        340
+                    ],
+                    [
+                        101,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807847,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:37.198Z",
+            "updatedAt": "2023-06-07T14:58:37.198Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        234
+                    ],
+                    [
+                        24,
+                        203
+                    ],
+                    [
+                        76,
+                        119
+                    ],
+                    [
+                        184,
+                        91
+                    ],
+                    [
+                        215,
+                        110
+                    ],
+                    [
+                        193,
+                        182
+                    ],
+                    [
+                        142,
+                        215
+                    ],
+                    [
+                        109,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807845,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:37.197Z",
+            "updatedAt": "2023-06-07T14:58:37.197Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        184
+                    ],
+                    [
+                        207,
+                        164
+                    ],
+                    [
+                        208,
+                        91
+                    ],
+                    [
+                        228,
+                        53
+                    ],
+                    [
+                        302,
+                        75
+                    ],
+                    [
+                        367,
+                        146
+                    ],
+                    [
+                        357,
+                        195
+                    ],
+                    [
+                        319,
+                        243
+                    ],
+                    [
+                        297,
+                        222
+                    ],
+                    [
+                        234,
+                        186
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

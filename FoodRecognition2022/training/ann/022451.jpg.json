@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1671391,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:12.155Z",
+            "updatedAt": "2023-06-07T13:24:12.155Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        43
+                    ],
+                    [
+                        31,
+                        174
+                    ],
+                    [
+                        52,
+                        360
+                    ],
+                    [
+                        190,
+                        448
+                    ],
+                    [
+                        315,
+                        444
+                    ],
+                    [
+                        428,
+                        321
+                    ],
+                    [
+                        439,
+                        241
+                    ],
+                    [
+                        428,
+                        118
+                    ],
+                    [
+                        338,
+                        88
+                    ],
+                    [
+                        260,
+                        69
+                    ],
+                    [
+                        283,
+                        27
+                    ],
+                    [
+                        162,
+                        28
+                    ],
+                    [
+                        79,
+                        43
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1671389,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:24:12.155Z",
+            "updatedAt": "2023-06-07T13:24:12.155Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        238
+                    ],
+                    [
+                        242,
+                        400
+                    ],
+                    [
+                        366,
+                        196
+                    ],
+                    [
+                        225,
+                        88
+                    ],
+                    [
+                        73,
+                        129
+                    ],
+                    [
+                        74,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

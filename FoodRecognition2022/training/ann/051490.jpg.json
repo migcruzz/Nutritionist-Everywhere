@@ -1,0 +1,222 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1640442,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:07.498Z",
+            "updatedAt": "2023-06-07T13:03:07.498Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        242
+                    ],
+                    [
+                        261,
+                        200
+                    ],
+                    [
+                        243,
+                        184
+                    ],
+                    [
+                        198,
+                        193
+                    ],
+                    [
+                        173,
+                        208
+                    ],
+                    [
+                        183,
+                        231
+                    ],
+                    [
+                        208,
+                        245
+                    ],
+                    [
+                        234,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640440,
+            "classId": 3761,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:07.498Z",
+            "updatedAt": "2023-06-07T13:03:07.498Z",
+            "tags": [],
+            "classTitle": "eggplant-caviar",
+            "points": {
+                "exterior": [
+                    [
+                        162,
+                        272
+                    ],
+                    [
+                        138,
+                        298
+                    ],
+                    [
+                        111,
+                        297
+                    ],
+                    [
+                        114,
+                        262
+                    ],
+                    [
+                        119,
+                        240
+                    ],
+                    [
+                        144,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640438,
+            "classId": 4093,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:07.497Z",
+            "updatedAt": "2023-06-07T13:03:07.497Z",
+            "tags": [],
+            "classTitle": "pizza-with-ham-with-mushrooms-baked",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        247
+                    ],
+                    [
+                        261,
+                        262
+                    ],
+                    [
+                        289,
+                        350
+                    ],
+                    [
+                        331,
+                        331
+                    ],
+                    [
+                        333,
+                        282
+                    ],
+                    [
+                        301,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640436,
+            "classId": 3947,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:07.495Z",
+            "updatedAt": "2023-06-07T13:03:07.495Z",
+            "tags": [],
+            "classTitle": "greek-salad",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        324
+                    ],
+                    [
+                        233,
+                        290
+                    ],
+                    [
+                        198,
+                        294
+                    ],
+                    [
+                        166,
+                        318
+                    ],
+                    [
+                        168,
+                        342
+                    ],
+                    [
+                        205,
+                        355
+                    ],
+                    [
+                        235,
+                        358
+                    ],
+                    [
+                        261,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1640434,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:03:07.494Z",
+            "updatedAt": "2023-06-07T13:03:07.494Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        72
+                    ],
+                    [
+                        239,
+                        133
+                    ],
+                    [
+                        292,
+                        142
+                    ],
+                    [
+                        312,
+                        94
+                    ],
+                    [
+                        255,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

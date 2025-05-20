@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1678856,
+            "classId": 3629,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:14.155Z",
+            "updatedAt": "2023-06-07T13:29:14.155Z",
+            "tags": [],
+            "classTitle": "beef-sirloin-steak",
+            "points": {
+                "exterior": [
+                    [
+                        371,
+                        134
+                    ],
+                    [
+                        70,
+                        136
+                    ],
+                    [
+                        31,
+                        163
+                    ],
+                    [
+                        1,
+                        364
+                    ],
+                    [
+                        12,
+                        430
+                    ],
+                    [
+                        395,
+                        411
+                    ],
+                    [
+                        439,
+                        390
+                    ],
+                    [
+                        468,
+                        328
+                    ],
+                    [
+                        472,
+                        153
+                    ],
+                    [
+                        436,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1678854,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:14.154Z",
+            "updatedAt": "2023-06-07T13:29:14.154Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        82,
+                        464
+                    ],
+                    [
+                        405,
+                        472
+                    ],
+                    [
+                        463,
+                        438
+                    ],
+                    [
+                        477,
+                        220
+                    ],
+                    [
+                        457,
+                        114
+                    ],
+                    [
+                        383,
+                        80
+                    ],
+                    [
+                        289,
+                        52
+                    ],
+                    [
+                        147,
+                        50
+                    ],
+                    [
+                        220,
+                        117
+                    ],
+                    [
+                        130,
+                        134
+                    ],
+                    [
+                        71,
+                        157
+                    ],
+                    [
+                        28,
+                        196
+                    ],
+                    [
+                        33,
+                        272
+                    ],
+                    [
+                        48,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

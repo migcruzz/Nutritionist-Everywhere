@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1797350,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:24.239Z",
+            "updatedAt": "2023-06-07T14:51:24.239Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        712,
+                        434
+                    ],
+                    [
+                        728,
+                        304
+                    ],
+                    [
+                        656,
+                        229
+                    ],
+                    [
+                        592,
+                        224
+                    ],
+                    [
+                        487,
+                        281
+                    ],
+                    [
+                        405,
+                        352
+                    ],
+                    [
+                        277,
+                        447
+                    ],
+                    [
+                        213,
+                        575
+                    ],
+                    [
+                        357,
+                        744
+                    ],
+                    [
+                        528,
+                        780
+                    ],
+                    [
+                        669,
+                        700
+                    ],
+                    [
+                        710,
+                        670
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1797348,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:24.239Z",
+            "updatedAt": "2023-06-07T14:51:24.239Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        732,
+                        442
+                    ],
+                    [
+                        711,
+                        263
+                    ],
+                    [
+                        640,
+                        235
+                    ],
+                    [
+                        524,
+                        255
+                    ],
+                    [
+                        389,
+                        345
+                    ],
+                    [
+                        266,
+                        496
+                    ],
+                    [
+                        312,
+                        667
+                    ],
+                    [
+                        422,
+                        739
+                    ],
+                    [
+                        622,
+                        744
+                    ],
+                    [
+                        719,
+                        700
+                    ],
+                    [
+                        750,
+                        672
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1773670,
+            "classId": 3809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:03.151Z",
+            "updatedAt": "2023-06-07T14:35:03.151Z",
+            "tags": [],
+            "classTitle": "hazelnut",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        127
+                    ],
+                    [
+                        263,
+                        112
+                    ],
+                    [
+                        288,
+                        135
+                    ],
+                    [
+                        327,
+                        138
+                    ],
+                    [
+                        328,
+                        162
+                    ],
+                    [
+                        274,
+                        162
+                    ],
+                    [
+                        217,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1773668,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:03.150Z",
+            "updatedAt": "2023-06-07T14:35:03.150Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        157
+                    ],
+                    [
+                        358,
+                        234
+                    ],
+                    [
+                        375,
+                        234
+                    ],
+                    [
+                        383,
+                        254
+                    ],
+                    [
+                        445,
+                        250
+                    ],
+                    [
+                        418,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

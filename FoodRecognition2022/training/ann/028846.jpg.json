@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1744007,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.725Z",
+            "updatedAt": "2023-06-07T14:15:22.725Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        517,
+                        281
+                    ],
+                    [
+                        124,
+                        177
+                    ],
+                    [
+                        80,
+                        377
+                    ],
+                    [
+                        171,
+                        511
+                    ],
+                    [
+                        352,
+                        517
+                    ],
+                    [
+                        438,
+                        506
+                    ],
+                    [
+                        507,
+                        323
+                    ],
+                    [
+                        509,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744005,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.723Z",
+            "updatedAt": "2023-06-07T14:15:22.723Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        185
+                    ],
+                    [
+                        94,
+                        205
+                    ],
+                    [
+                        158,
+                        92
+                    ],
+                    [
+                        246,
+                        114
+                    ],
+                    [
+                        272,
+                        163
+                    ],
+                    [
+                        276,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1744003,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.722Z",
+            "updatedAt": "2023-06-07T14:15:22.722Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        103
+                    ],
+                    [
+                        333,
+                        128
+                    ],
+                    [
+                        312,
+                        183
+                    ],
+                    [
+                        363,
+                        242
+                    ],
+                    [
+                        408,
+                        257
+                    ],
+                    [
+                        467,
+                        251
+                    ],
+                    [
+                        446,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

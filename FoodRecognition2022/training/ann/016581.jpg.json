@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 784,
+        "width": 785
+    },
+    "objects": [
+        {
+            "id": 1710857,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:06.448Z",
+            "updatedAt": "2023-06-07T13:52:06.448Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        392,
+                        458
+                    ],
+                    [
+                        206,
+                        662
+                    ],
+                    [
+                        105,
+                        590
+                    ],
+                    [
+                        82,
+                        439
+                    ],
+                    [
+                        192,
+                        350
+                    ],
+                    [
+                        296,
+                        354
+                    ],
+                    [
+                        347,
+                        395
+                    ],
+                    [
+                        370,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710855,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:06.448Z",
+            "updatedAt": "2023-06-07T13:52:06.448Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        478
+                    ],
+                    [
+                        347,
+                        390
+                    ],
+                    [
+                        227,
+                        380
+                    ],
+                    [
+                        149,
+                        450
+                    ],
+                    [
+                        109,
+                        499
+                    ],
+                    [
+                        111,
+                        572
+                    ],
+                    [
+                        127,
+                        605
+                    ],
+                    [
+                        151,
+                        615
+                    ],
+                    [
+                        208,
+                        615
+                    ],
+                    [
+                        235,
+                        600
+                    ],
+                    [
+                        282,
+                        543
+                    ],
+                    [
+                        331,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710853,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:06.447Z",
+            "updatedAt": "2023-06-07T13:52:06.447Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        586
+                    ],
+                    [
+                        400,
+                        660
+                    ],
+                    [
+                        522,
+                        690
+                    ],
+                    [
+                        582,
+                        613
+                    ],
+                    [
+                        576,
+                        547
+                    ],
+                    [
+                        472,
+                        558
+                    ],
+                    [
+                        439,
+                        574
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710851,
+            "classId": 3793,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:06.446Z",
+            "updatedAt": "2023-06-07T13:52:06.446Z",
+            "tags": [],
+            "classTitle": "juice-orange",
+            "points": {
+                "exterior": [
+                    [
+                        498,
+                        60
+                    ],
+                    [
+                        518,
+                        229
+                    ],
+                    [
+                        569,
+                        270
+                    ],
+                    [
+                        641,
+                        258
+                    ],
+                    [
+                        716,
+                        148
+                    ],
+                    [
+                        743,
+                        89
+                    ],
+                    [
+                        677,
+                        25
+                    ],
+                    [
+                        590,
+                        9
+                    ],
+                    [
+                        516,
+                        32
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

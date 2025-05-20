@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 518
+    },
+    "objects": [
+        {
+            "id": 1768015,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:23.136Z",
+            "updatedAt": "2023-06-07T14:31:23.136Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        95
+                    ],
+                    [
+                        224,
+                        129
+                    ],
+                    [
+                        150,
+                        144
+                    ],
+                    [
+                        100,
+                        219
+                    ],
+                    [
+                        110,
+                        397
+                    ],
+                    [
+                        218,
+                        432
+                    ],
+                    [
+                        288,
+                        439
+                    ],
+                    [
+                        346,
+                        464
+                    ],
+                    [
+                        386,
+                        393
+                    ],
+                    [
+                        338,
+                        360
+                    ],
+                    [
+                        304,
+                        349
+                    ],
+                    [
+                        324,
+                        290
+                    ],
+                    [
+                        354,
+                        246
+                    ],
+                    [
+                        328,
+                        239
+                    ],
+                    [
+                        260,
+                        206
+                    ],
+                    [
+                        216,
+                        193
+                    ],
+                    [
+                        270,
+                        148
+                    ],
+                    [
+                        341,
+                        113
+                    ],
+                    [
+                        363,
+                        90
+                    ],
+                    [
+                        325,
+                        72
+                    ],
+                    [
+                        350,
+                        91
+                    ],
+                    [
+                        299,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768013,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:23.136Z",
+            "updatedAt": "2023-06-07T14:31:23.136Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        83
+                    ],
+                    [
+                        196,
+                        107
+                    ],
+                    [
+                        200,
+                        130
+                    ],
+                    [
+                        255,
+                        122
+                    ],
+                    [
+                        255,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768012,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:23.136Z",
+            "updatedAt": "2023-06-07T14:31:23.136Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        359
+                    ],
+                    [
+                        298,
+                        364
+                    ],
+                    [
+                        312,
+                        406
+                    ],
+                    [
+                        341,
+                        393
+                    ],
+                    [
+                        343,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

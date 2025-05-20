@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1686969,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:39.122Z",
+            "updatedAt": "2023-06-07T13:34:39.122Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        94
+                    ],
+                    [
+                        104,
+                        118
+                    ],
+                    [
+                        26,
+                        110
+                    ],
+                    [
+                        3,
+                        71
+                    ],
+                    [
+                        31,
+                        11
+                    ],
+                    [
+                        123,
+                        0
+                    ],
+                    [
+                        176,
+                        17
+                    ],
+                    [
+                        185,
+                        63
+                    ],
+                    [
+                        183,
+                        87
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1686967,
+            "classId": 3623,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:39.122Z",
+            "updatedAt": "2023-06-07T13:34:39.122Z",
+            "tags": [],
+            "classTitle": "quiche-with-cheese-baked-with-puff-pastry",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        185
+                    ],
+                    [
+                        255,
+                        196
+                    ],
+                    [
+                        193,
+                        279
+                    ],
+                    [
+                        213,
+                        344
+                    ],
+                    [
+                        285,
+                        433
+                    ],
+                    [
+                        411,
+                        441
+                    ],
+                    [
+                        468,
+                        404
+                    ],
+                    [
+                        471,
+                        364
+                    ],
+                    [
+                        397,
+                        298
+                    ],
+                    [
+                        425,
+                        227
+                    ],
+                    [
+                        425,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

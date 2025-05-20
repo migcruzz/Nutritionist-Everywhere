@@ -1,0 +1,274 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 603,
+        "width": 603
+    },
+    "objects": [
+        {
+            "id": 1726850,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:25.395Z",
+            "updatedAt": "2023-06-07T14:03:25.395Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        387
+                    ],
+                    [
+                        203,
+                        378
+                    ],
+                    [
+                        216,
+                        377
+                    ],
+                    [
+                        209,
+                        340
+                    ],
+                    [
+                        224,
+                        316
+                    ],
+                    [
+                        233,
+                        295
+                    ],
+                    [
+                        206,
+                        273
+                    ],
+                    [
+                        143,
+                        295
+                    ],
+                    [
+                        93,
+                        327
+                    ],
+                    [
+                        97,
+                        348
+                    ],
+                    [
+                        99,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726848,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:25.395Z",
+            "updatedAt": "2023-06-07T14:03:25.395Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        218
+                    ],
+                    [
+                        259,
+                        291
+                    ],
+                    [
+                        286,
+                        324
+                    ],
+                    [
+                        313,
+                        355
+                    ],
+                    [
+                        375,
+                        274
+                    ],
+                    [
+                        385,
+                        254
+                    ],
+                    [
+                        360,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726846,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:25.395Z",
+            "updatedAt": "2023-06-07T14:03:25.395Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        414
+                    ],
+                    [
+                        114,
+                        422
+                    ],
+                    [
+                        76,
+                        475
+                    ],
+                    [
+                        100,
+                        530
+                    ],
+                    [
+                        132,
+                        585
+                    ],
+                    [
+                        179,
+                        586
+                    ],
+                    [
+                        218,
+                        579
+                    ],
+                    [
+                        241,
+                        530
+                    ],
+                    [
+                        244,
+                        491
+                    ],
+                    [
+                        241,
+                        453
+                    ],
+                    [
+                        234,
+                        447
+                    ],
+                    [
+                        231,
+                        446
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726844,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:25.394Z",
+            "updatedAt": "2023-06-07T14:03:25.394Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        99,
+                        473
+                    ],
+                    [
+                        155,
+                        545
+                    ],
+                    [
+                        173,
+                        560
+                    ],
+                    [
+                        197,
+                        536
+                    ],
+                    [
+                        198,
+                        482
+                    ],
+                    [
+                        191,
+                        438
+                    ],
+                    [
+                        158,
+                        428
+                    ],
+                    [
+                        124,
+                        435
+                    ],
+                    [
+                        123,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726842,
+            "classId": 3545,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:25.393Z",
+            "updatedAt": "2023-06-07T14:03:25.393Z",
+            "tags": [],
+            "classTitle": "white-coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        68
+                    ],
+                    [
+                        351,
+                        36
+                    ],
+                    [
+                        332,
+                        12
+                    ],
+                    [
+                        248,
+                        16
+                    ],
+                    [
+                        227,
+                        34
+                    ],
+                    [
+                        225,
+                        52
+                    ],
+                    [
+                        234,
+                        62
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

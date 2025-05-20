@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1808211,
+            "classId": 3761,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:54.567Z",
+            "updatedAt": "2023-06-07T14:58:54.567Z",
+            "tags": [],
+            "classTitle": "eggplant-caviar",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        217
+                    ],
+                    [
+                        243,
+                        227
+                    ],
+                    [
+                        253,
+                        149
+                    ],
+                    [
+                        249,
+                        88
+                    ],
+                    [
+                        207,
+                        46
+                    ],
+                    [
+                        141,
+                        75
+                    ],
+                    [
+                        116,
+                        140
+                    ],
+                    [
+                        131,
+                        165
+                    ],
+                    [
+                        150,
+                        176
+                    ],
+                    [
+                        159,
+                        197
+                    ],
+                    [
+                        179,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1808209,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:54.566Z",
+            "updatedAt": "2023-06-07T14:58:54.566Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        183
+                    ],
+                    [
+                        407,
+                        148
+                    ],
+                    [
+                        386,
+                        106
+                    ],
+                    [
+                        270,
+                        71
+                    ],
+                    [
+                        244,
+                        55
+                    ],
+                    [
+                        249,
+                        118
+                    ],
+                    [
+                        265,
+                        215
+                    ],
+                    [
+                        290,
+                        245
+                    ],
+                    [
+                        340,
+                        270
+                    ],
+                    [
+                        335,
+                        229
+                    ],
+                    [
+                        323,
+                        198
+                    ],
+                    [
+                        359,
+                        178
+                    ],
+                    [
+                        371,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1808207,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:54.565Z",
+            "updatedAt": "2023-06-07T14:58:54.565Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        386
+                    ],
+                    [
+                        265,
+                        276
+                    ],
+                    [
+                        244,
+                        257
+                    ],
+                    [
+                        164,
+                        252
+                    ],
+                    [
+                        132,
+                        261
+                    ],
+                    [
+                        86,
+                        314
+                    ],
+                    [
+                        97,
+                        361
+                    ],
+                    [
+                        139,
+                        382
+                    ],
+                    [
+                        175,
+                        397
+                    ],
+                    [
+                        206,
+                        404
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

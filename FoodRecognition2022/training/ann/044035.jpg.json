@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 837,
+        "width": 837
+    },
+    "objects": [
+        {
+            "id": 1733654,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:15.491Z",
+            "updatedAt": "2023-06-07T14:08:15.491Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        217
+                    ],
+                    [
+                        480,
+                        217
+                    ],
+                    [
+                        434,
+                        292
+                    ],
+                    [
+                        392,
+                        349
+                    ],
+                    [
+                        310,
+                        345
+                    ],
+                    [
+                        141,
+                        303
+                    ],
+                    [
+                        111,
+                        445
+                    ],
+                    [
+                        227,
+                        675
+                    ],
+                    [
+                        388,
+                        713
+                    ],
+                    [
+                        496,
+                        711
+                    ],
+                    [
+                        616,
+                        673
+                    ],
+                    [
+                        704,
+                        577
+                    ],
+                    [
+                        681,
+                        389
+                    ],
+                    [
+                        628,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733652,
+            "classId": 4115,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:15.490Z",
+            "updatedAt": "2023-06-07T14:08:15.490Z",
+            "tags": [],
+            "classTitle": "focaccia",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        12
+                    ],
+                    [
+                        97,
+                        234
+                    ],
+                    [
+                        404,
+                        399
+                    ],
+                    [
+                        526,
+                        154
+                    ],
+                    [
+                        237,
+                        27
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

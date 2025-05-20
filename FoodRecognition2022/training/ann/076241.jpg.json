@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 973,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1747013,
+            "classId": 3441,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:29.191Z",
+            "updatedAt": "2023-06-07T14:17:29.191Z",
+            "tags": [],
+            "classTitle": "tea",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        260
+                    ],
+                    [
+                        254,
+                        272
+                    ],
+                    [
+                        327,
+                        201
+                    ],
+                    [
+                        344,
+                        133
+                    ],
+                    [
+                        254,
+                        99
+                    ],
+                    [
+                        62,
+                        109
+                    ],
+                    [
+                        13,
+                        175
+                    ],
+                    [
+                        52,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1747011,
+            "classId": 3897,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:29.190Z",
+            "updatedAt": "2023-06-07T14:17:29.190Z",
+            "tags": [],
+            "classTitle": "bacon-cooking",
+            "points": {
+                "exterior": [
+                    [
+                        672,
+                        542
+                    ],
+                    [
+                        429,
+                        717
+                    ],
+                    [
+                        495,
+                        785
+                    ],
+                    [
+                        599,
+                        807
+                    ],
+                    [
+                        701,
+                        858
+                    ],
+                    [
+                        867,
+                        929
+                    ],
+                    [
+                        935,
+                        953
+                    ],
+                    [
+                        915,
+                        873
+                    ],
+                    [
+                        816,
+                        834
+                    ],
+                    [
+                        760,
+                        783
+                    ],
+                    [
+                        769,
+                        654
+                    ],
+                    [
+                        760,
+                        605
+                    ],
+                    [
+                        670,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

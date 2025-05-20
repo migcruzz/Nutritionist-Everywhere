@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 837,
+        "width": 837
+    },
+    "objects": [
+        {
+            "id": 1707967,
+            "classId": 3421,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:47.543Z",
+            "updatedAt": "2023-06-07T13:49:47.543Z",
+            "tags": [],
+            "classTitle": "bread-sourdough",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        58
+                    ],
+                    [
+                        201,
+                        780
+                    ],
+                    [
+                        266,
+                        816
+                    ],
+                    [
+                        488,
+                        813
+                    ],
+                    [
+                        653,
+                        514
+                    ],
+                    [
+                        526,
+                        443
+                    ],
+                    [
+                        557,
+                        242
+                    ],
+                    [
+                        499,
+                        85
+                    ],
+                    [
+                        375,
+                        8
+                    ],
+                    [
+                        193,
+                        20
+                    ],
+                    [
+                        183,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707965,
+            "classId": 4345,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:47.543Z",
+            "updatedAt": "2023-06-07T13:49:47.543Z",
+            "tags": [],
+            "classTitle": "butter-spread-puree-almond",
+            "points": {
+                "exterior": [
+                    [
+                        461,
+                        75
+                    ],
+                    [
+                        377,
+                        142
+                    ],
+                    [
+                        346,
+                        368
+                    ],
+                    [
+                        511,
+                        395
+                    ],
+                    [
+                        545,
+                        186
+                    ],
+                    [
+                        482,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707963,
+            "classId": 3499,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:47.543Z",
+            "updatedAt": "2023-06-07T13:49:47.543Z",
+            "tags": [],
+            "classTitle": "peanut-butter",
+            "points": {
+                "exterior": [
+                    [
+                        331,
+                        336
+                    ],
+                    [
+                        358,
+                        20
+                    ],
+                    [
+                        254,
+                        18
+                    ],
+                    [
+                        166,
+                        125
+                    ],
+                    [
+                        166,
+                        391
+                    ],
+                    [
+                        319,
+                        401
+                    ],
+                    [
+                        335,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707961,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:49:47.543Z",
+            "updatedAt": "2023-06-07T13:49:47.543Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        599,
+                        529
+                    ],
+                    [
+                        239,
+                        372
+                    ],
+                    [
+                        208,
+                        661
+                    ],
+                    [
+                        258,
+                        809
+                    ],
+                    [
+                        467,
+                        813
+                    ],
+                    [
+                        578,
+                        631
+                    ],
+                    [
+                        597,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 922,
+        "width": 922
+    },
+    "objects": [
+        {
+            "id": 1769328,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:13.526Z",
+            "updatedAt": "2023-06-07T14:32:13.526Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        822,
+                        642
+                    ],
+                    [
+                        631,
+                        637
+                    ],
+                    [
+                        587,
+                        554
+                    ],
+                    [
+                        585,
+                        347
+                    ],
+                    [
+                        624,
+                        289
+                    ],
+                    [
+                        746,
+                        277
+                    ],
+                    [
+                        866,
+                        310
+                    ],
+                    [
+                        866,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769326,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:13.525Z",
+            "updatedAt": "2023-06-07T14:32:13.525Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        310
+                    ],
+                    [
+                        239,
+                        241
+                    ],
+                    [
+                        211,
+                        275
+                    ],
+                    [
+                        287,
+                        400
+                    ],
+                    [
+                        213,
+                        542
+                    ],
+                    [
+                        147,
+                        669
+                    ],
+                    [
+                        239,
+                        683
+                    ],
+                    [
+                        382,
+                        658
+                    ],
+                    [
+                        483,
+                        568
+                    ],
+                    [
+                        529,
+                        455
+                    ],
+                    [
+                        520,
+                        443
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769324,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:13.524Z",
+            "updatedAt": "2023-06-07T14:32:13.524Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        326
+                    ],
+                    [
+                        193,
+                        229
+                    ],
+                    [
+                        18,
+                        353
+                    ],
+                    [
+                        4,
+                        536
+                    ],
+                    [
+                        6,
+                        708
+                    ],
+                    [
+                        114,
+                        729
+                    ],
+                    [
+                        197,
+                        570
+                    ],
+                    [
+                        255,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

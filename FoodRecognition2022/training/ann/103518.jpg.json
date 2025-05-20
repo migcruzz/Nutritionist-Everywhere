@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1782867,
+            "classId": 4311,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:28.318Z",
+            "updatedAt": "2023-06-07T14:41:28.318Z",
+            "tags": [],
+            "classTitle": "tiramisu",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        28
+                    ],
+                    [
+                        73,
+                        81
+                    ],
+                    [
+                        33,
+                        176
+                    ],
+                    [
+                        71,
+                        272
+                    ],
+                    [
+                        108,
+                        285
+                    ],
+                    [
+                        205,
+                        321
+                    ],
+                    [
+                        301,
+                        324
+                    ],
+                    [
+                        353,
+                        312
+                    ],
+                    [
+                        380,
+                        288
+                    ],
+                    [
+                        398,
+                        218
+                    ],
+                    [
+                        383,
+                        103
+                    ],
+                    [
+                        346,
+                        56
+                    ],
+                    [
+                        297,
+                        30
+                    ],
+                    [
+                        240,
+                        30
+                    ],
+                    [
+                        238,
+                        30
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1782865,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:28.317Z",
+            "updatedAt": "2023-06-07T14:41:28.317Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        297
+                    ],
+                    [
+                        209,
+                        231
+                    ],
+                    [
+                        180,
+                        184
+                    ],
+                    [
+                        121,
+                        163
+                    ],
+                    [
+                        70,
+                        188
+                    ],
+                    [
+                        60,
+                        242
+                    ],
+                    [
+                        85,
+                        272
+                    ],
+                    [
+                        121,
+                        294
+                    ],
+                    [
+                        163,
+                        300
+                    ],
+                    [
+                        173,
+                        300
+                    ],
+                    [
+                        180,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1710556,
+            "classId": 4307,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:47.847Z",
+            "updatedAt": "2023-06-07T13:51:47.847Z",
+            "tags": [],
+            "classTitle": "corn-flakes",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        139
+                    ],
+                    [
+                        156,
+                        241
+                    ],
+                    [
+                        142,
+                        261
+                    ],
+                    [
+                        171,
+                        355
+                    ],
+                    [
+                        287,
+                        356
+                    ],
+                    [
+                        427,
+                        236
+                    ],
+                    [
+                        375,
+                        160
+                    ],
+                    [
+                        324,
+                        59
+                    ],
+                    [
+                        249,
+                        35
+                    ],
+                    [
+                        164,
+                        87
+                    ],
+                    [
+                        112,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710554,
+            "classId": 3509,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:47.846Z",
+            "updatedAt": "2023-06-07T13:51:47.846Z",
+            "tags": [],
+            "classTitle": "greek-yaourt-yahourt-yogourt-ou-yoghourt",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        171
+                    ],
+                    [
+                        104,
+                        243
+                    ],
+                    [
+                        139,
+                        229
+                    ],
+                    [
+                        160,
+                        329
+                    ],
+                    [
+                        103,
+                        325
+                    ],
+                    [
+                        61,
+                        239
+                    ],
+                    [
+                        83,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

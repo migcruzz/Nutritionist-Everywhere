@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1754629,
+            "classId": 4071,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:38.023Z",
+            "updatedAt": "2023-06-07T14:22:38.023Z",
+            "tags": [],
+            "classTitle": "biscuit-with-butter",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        272
+                    ],
+                    [
+                        224,
+                        485
+                    ],
+                    [
+                        183,
+                        684
+                    ],
+                    [
+                        285,
+                        879
+                    ],
+                    [
+                        369,
+                        920
+                    ],
+                    [
+                        531,
+                        925
+                    ],
+                    [
+                        641,
+                        845
+                    ],
+                    [
+                        702,
+                        730
+                    ],
+                    [
+                        712,
+                        528
+                    ],
+                    [
+                        654,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1754627,
+            "classId": 4281,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:22:38.023Z",
+            "updatedAt": "2023-06-07T14:22:38.023Z",
+            "tags": [],
+            "classTitle": "sugar-glazing",
+            "points": {
+                "exterior": [
+                    [
+                        451,
+                        313
+                    ],
+                    [
+                        267,
+                        485
+                    ],
+                    [
+                        218,
+                        643
+                    ],
+                    [
+                        264,
+                        805
+                    ],
+                    [
+                        382,
+                        892
+                    ],
+                    [
+                        531,
+                        881
+                    ],
+                    [
+                        615,
+                        815
+                    ],
+                    [
+                        661,
+                        692
+                    ],
+                    [
+                        654,
+                        556
+                    ],
+                    [
+                        597,
+                        403
+                    ],
+                    [
+                        528,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

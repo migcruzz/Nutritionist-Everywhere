@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1762734,
+            "classId": 3863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:50.749Z",
+            "updatedAt": "2023-06-07T14:27:50.749Z",
+            "tags": [],
+            "classTitle": "dairy-ice-cream",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        306
+                    ],
+                    [
+                        101,
+                        308
+                    ],
+                    [
+                        180,
+                        282
+                    ],
+                    [
+                        265,
+                        311
+                    ],
+                    [
+                        305,
+                        353
+                    ],
+                    [
+                        179,
+                        471
+                    ],
+                    [
+                        65,
+                        425
+                    ],
+                    [
+                        45,
+                        356
+                    ],
+                    [
+                        45,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1762732,
+            "classId": 4061,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:50.748Z",
+            "updatedAt": "2023-06-07T14:27:50.748Z",
+            "tags": [],
+            "classTitle": "apple-crumble",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        291
+                    ],
+                    [
+                        117,
+                        304
+                    ],
+                    [
+                        173,
+                        290
+                    ],
+                    [
+                        157,
+                        227
+                    ],
+                    [
+                        222,
+                        204
+                    ],
+                    [
+                        257,
+                        89
+                    ],
+                    [
+                        221,
+                        60
+                    ],
+                    [
+                        85,
+                        107
+                    ],
+                    [
+                        51,
+                        165
+                    ],
+                    [
+                        85,
+                        251
+                    ],
+                    [
+                        40,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

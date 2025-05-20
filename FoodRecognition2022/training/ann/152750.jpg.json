@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1802734,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:06.959Z",
+            "updatedAt": "2023-06-07T14:55:06.959Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        5
+                    ],
+                    [
+                        104,
+                        259
+                    ],
+                    [
+                        131,
+                        346
+                    ],
+                    [
+                        165,
+                        369
+                    ],
+                    [
+                        192,
+                        349
+                    ],
+                    [
+                        213,
+                        330
+                    ],
+                    [
+                        225,
+                        244
+                    ],
+                    [
+                        247,
+                        3
+                    ],
+                    [
+                        194,
+                        8
+                    ],
+                    [
+                        190,
+                        323
+                    ],
+                    [
+                        176,
+                        336
+                    ],
+                    [
+                        155,
+                        310
+                    ],
+                    [
+                        158,
+                        9
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802732,
+            "classId": 4395,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:06.959Z",
+            "updatedAt": "2023-06-07T14:55:06.959Z",
+            "tags": [],
+            "classTitle": "smoked-cooked-sausage-of-pork-and-beef-meat-sausag",
+            "points": {
+                "exterior": [
+                    [
+                        201,
+                        25
+                    ],
+                    [
+                        195,
+                        6
+                    ],
+                    [
+                        166,
+                        4
+                    ],
+                    [
+                        151,
+                        329
+                    ],
+                    [
+                        170,
+                        347
+                    ],
+                    [
+                        199,
+                        339
+                    ],
+                    [
+                        194,
+                        32
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802730,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:06.959Z",
+            "updatedAt": "2023-06-07T14:55:06.959Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        269
+                    ],
+                    [
+                        152,
+                        267
+                    ],
+                    [
+                        155,
+                        226
+                    ],
+                    [
+                        141,
+                        239
+                    ],
+                    [
+                        141,
+                        255
+                    ],
+                    [
+                        141,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

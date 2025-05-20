@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1805090,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:41.544Z",
+            "updatedAt": "2023-06-07T14:56:41.544Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        225
+                    ],
+                    [
+                        259,
+                        312
+                    ],
+                    [
+                        444,
+                        269
+                    ],
+                    [
+                        456,
+                        255
+                    ],
+                    [
+                        443,
+                        211
+                    ],
+                    [
+                        378,
+                        204
+                    ],
+                    [
+                        270,
+                        220
+                    ],
+                    [
+                        267,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805088,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:41.544Z",
+            "updatedAt": "2023-06-07T14:56:41.544Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        70
+                    ],
+                    [
+                        285,
+                        143
+                    ],
+                    [
+                        326,
+                        148
+                    ],
+                    [
+                        356,
+                        97
+                    ],
+                    [
+                        326,
+                        70
+                    ],
+                    [
+                        294,
+                        67
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

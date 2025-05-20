@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1790972,
+            "classId": 4011,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:59.948Z",
+            "updatedAt": "2023-06-07T14:46:59.948Z",
+            "tags": [],
+            "classTitle": "pasta-linguini-parpadelle-tagliatelle",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        164
+                    ],
+                    [
+                        60,
+                        170
+                    ],
+                    [
+                        38,
+                        203
+                    ],
+                    [
+                        56,
+                        347
+                    ],
+                    [
+                        181,
+                        411
+                    ],
+                    [
+                        290,
+                        422
+                    ],
+                    [
+                        343,
+                        335
+                    ],
+                    [
+                        248,
+                        358
+                    ],
+                    [
+                        108,
+                        306
+                    ],
+                    [
+                        93,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1790970,
+            "classId": 3715,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:59.947Z",
+            "updatedAt": "2023-06-07T14:46:59.947Z",
+            "tags": [],
+            "classTitle": "bolognaise-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        157
+                    ],
+                    [
+                        95,
+                        252
+                    ],
+                    [
+                        108,
+                        308
+                    ],
+                    [
+                        229,
+                        355
+                    ],
+                    [
+                        327,
+                        339
+                    ],
+                    [
+                        367,
+                        301
+                    ],
+                    [
+                        347,
+                        217
+                    ],
+                    [
+                        276,
+                        151
+                    ],
+                    [
+                        224,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

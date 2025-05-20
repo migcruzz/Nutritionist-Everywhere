@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1743557,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:09.624Z",
+            "updatedAt": "2023-06-07T14:15:09.624Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        151,
+                        199
+                    ],
+                    [
+                        169,
+                        385
+                    ],
+                    [
+                        247,
+                        381
+                    ],
+                    [
+                        310,
+                        331
+                    ],
+                    [
+                        321,
+                        194
+                    ],
+                    [
+                        227,
+                        170
+                    ],
+                    [
+                        159,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743555,
+            "classId": 3787,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:09.624Z",
+            "updatedAt": "2023-06-07T14:15:09.624Z",
+            "tags": [],
+            "classTitle": "water-with-lemon-juice",
+            "points": {
+                "exterior": [
+                    [
+                        124,
+                        85
+                    ],
+                    [
+                        156,
+                        392
+                    ],
+                    [
+                        310,
+                        410
+                    ],
+                    [
+                        336,
+                        84
+                    ],
+                    [
+                        195,
+                        67
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

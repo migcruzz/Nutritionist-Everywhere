@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1657969,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:14:45.323Z",
+            "updatedAt": "2023-06-07T13:14:45.323Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        118,
+                        81
+                    ],
+                    [
+                        221,
+                        421
+                    ],
+                    [
+                        271,
+                        385
+                    ],
+                    [
+                        362,
+                        265
+                    ],
+                    [
+                        450,
+                        94
+                    ],
+                    [
+                        302,
+                        52
+                    ],
+                    [
+                        195,
+                        53
+                    ],
+                    [
+                        125,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1657967,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:14:45.323Z",
+            "updatedAt": "2023-06-07T13:14:45.323Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        87
+                    ],
+                    [
+                        214,
+                        125
+                    ],
+                    [
+                        138,
+                        180
+                    ],
+                    [
+                        199,
+                        344
+                    ],
+                    [
+                        221,
+                        422
+                    ],
+                    [
+                        256,
+                        336
+                    ],
+                    [
+                        293,
+                        320
+                    ],
+                    [
+                        344,
+                        292
+                    ],
+                    [
+                        350,
+                        268
+                    ],
+                    [
+                        313,
+                        220
+                    ],
+                    [
+                        387,
+                        188
+                    ],
+                    [
+                        364,
+                        146
+                    ],
+                    [
+                        325,
+                        144
+                    ],
+                    [
+                        325,
+                        112
+                    ],
+                    [
+                        250,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

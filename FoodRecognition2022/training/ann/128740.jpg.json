@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 977,
+        "width": 977
+    },
+    "objects": [
+        {
+            "id": 1645765,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:48.700Z",
+            "updatedAt": "2023-06-07T13:06:48.700Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        845,
+                        461
+                    ],
+                    [
+                        708,
+                        569
+                    ],
+                    [
+                        276,
+                        459
+                    ],
+                    [
+                        175,
+                        586
+                    ],
+                    [
+                        102,
+                        737
+                    ],
+                    [
+                        349,
+                        903
+                    ],
+                    [
+                        615,
+                        901
+                    ],
+                    [
+                        835,
+                        720
+                    ],
+                    [
+                        874,
+                        513
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645763,
+            "classId": 4081,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:48.700Z",
+            "updatedAt": "2023-06-07T13:06:48.700Z",
+            "tags": [],
+            "classTitle": "paprika-chips",
+            "points": {
+                "exterior": [
+                    [
+                        815,
+                        483
+                    ],
+                    [
+                        669,
+                        557
+                    ],
+                    [
+                        454,
+                        503
+                    ],
+                    [
+                        319,
+                        444
+                    ],
+                    [
+                        229,
+                        500
+                    ],
+                    [
+                        85,
+                        649
+                    ],
+                    [
+                        53,
+                        488
+                    ],
+                    [
+                        102,
+                        261
+                    ],
+                    [
+                        212,
+                        124
+                    ],
+                    [
+                        324,
+                        180
+                    ],
+                    [
+                        525,
+                        151
+                    ],
+                    [
+                        603,
+                        188
+                    ],
+                    [
+                        803,
+                        300
+                    ],
+                    [
+                        815,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1723058,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:46.318Z",
+            "updatedAt": "2023-06-07T14:00:46.318Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        150
+                    ],
+                    [
+                        133,
+                        208
+                    ],
+                    [
+                        150,
+                        250
+                    ],
+                    [
+                        234,
+                        325
+                    ],
+                    [
+                        296,
+                        292
+                    ],
+                    [
+                        328,
+                        254
+                    ],
+                    [
+                        324,
+                        188
+                    ],
+                    [
+                        303,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723056,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:46.317Z",
+            "updatedAt": "2023-06-07T14:00:46.317Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        156
+                    ],
+                    [
+                        200,
+                        77
+                    ],
+                    [
+                        257,
+                        64
+                    ],
+                    [
+                        353,
+                        64
+                    ],
+                    [
+                        353,
+                        112
+                    ],
+                    [
+                        334,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723054,
+            "classId": 4373,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:46.317Z",
+            "updatedAt": "2023-06-07T14:00:46.317Z",
+            "tags": [],
+            "classTitle": "shoots",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        82
+                    ],
+                    [
+                        80,
+                        73
+                    ],
+                    [
+                        35,
+                        108
+                    ],
+                    [
+                        41,
+                        166
+                    ],
+                    [
+                        79,
+                        211
+                    ],
+                    [
+                        128,
+                        206
+                    ],
+                    [
+                        156,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723052,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:46.316Z",
+            "updatedAt": "2023-06-07T14:00:46.316Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        166,
+                        27
+                    ],
+                    [
+                        136,
+                        82
+                    ],
+                    [
+                        145,
+                        143
+                    ],
+                    [
+                        195,
+                        147
+                    ],
+                    [
+                        197,
+                        105
+                    ],
+                    [
+                        198,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

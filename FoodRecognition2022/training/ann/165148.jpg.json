@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 802,
+        "width": 803
+    },
+    "objects": [
+        {
+            "id": 1760569,
+            "classId": 4011,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:33.007Z",
+            "updatedAt": "2023-06-07T14:26:33.007Z",
+            "tags": [],
+            "classTitle": "pasta-linguini-parpadelle-tagliatelle",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        235
+                    ],
+                    [
+                        190,
+                        272
+                    ],
+                    [
+                        106,
+                        362
+                    ],
+                    [
+                        112,
+                        444
+                    ],
+                    [
+                        182,
+                        440
+                    ],
+                    [
+                        275,
+                        380
+                    ],
+                    [
+                        321,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760567,
+            "classId": 3967,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:33.006Z",
+            "updatedAt": "2023-06-07T14:26:33.006Z",
+            "tags": [],
+            "classTitle": "mushroom-average-stewed-without-addition-of-fat-without-addition-of-salt",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        334
+                    ],
+                    [
+                        224,
+                        302
+                    ],
+                    [
+                        180,
+                        294
+                    ],
+                    [
+                        154,
+                        310
+                    ],
+                    [
+                        178,
+                        340
+                    ],
+                    [
+                        258,
+                        378
+                    ],
+                    [
+                        293,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760565,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:33.006Z",
+            "updatedAt": "2023-06-07T14:26:33.006Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        382
+                    ],
+                    [
+                        154,
+                        430
+                    ],
+                    [
+                        114,
+                        541
+                    ],
+                    [
+                        158,
+                        649
+                    ],
+                    [
+                        279,
+                        689
+                    ],
+                    [
+                        399,
+                        707
+                    ],
+                    [
+                        495,
+                        701
+                    ],
+                    [
+                        608,
+                        659
+                    ],
+                    [
+                        680,
+                        579
+                    ],
+                    [
+                        714,
+                        515
+                    ],
+                    [
+                        724,
+                        442
+                    ],
+                    [
+                        718,
+                        410
+                    ],
+                    [
+                        574,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760563,
+            "classId": 3871,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:33.004Z",
+            "updatedAt": "2023-06-07T14:26:33.004Z",
+            "tags": [],
+            "classTitle": "salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        606,
+                        450
+                    ],
+                    [
+                        552,
+                        539
+                    ],
+                    [
+                        501,
+                        627
+                    ],
+                    [
+                        598,
+                        629
+                    ],
+                    [
+                        682,
+                        511
+                    ],
+                    [
+                        670,
+                        460
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

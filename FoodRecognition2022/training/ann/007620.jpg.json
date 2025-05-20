@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1766504,
+            "classId": 3741,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:26.479Z",
+            "updatedAt": "2023-06-07T14:30:26.479Z",
+            "tags": [],
+            "classTitle": "beer",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        25
+                    ],
+                    [
+                        164,
+                        391
+                    ],
+                    [
+                        211,
+                        423
+                    ],
+                    [
+                        302,
+                        423
+                    ],
+                    [
+                        331,
+                        418
+                    ],
+                    [
+                        344,
+                        24
+                    ],
+                    [
+                        214,
+                        12
+                    ],
+                    [
+                        157,
+                        18
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

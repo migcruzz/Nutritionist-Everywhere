@@ -1,0 +1,278 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1807630,
+            "classId": 3915,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:28.375Z",
+            "updatedAt": "2023-06-07T14:58:28.375Z",
+            "tags": [],
+            "classTitle": "bread-black",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        279
+                    ],
+                    [
+                        63,
+                        279
+                    ],
+                    [
+                        55,
+                        276
+                    ],
+                    [
+                        41,
+                        266
+                    ],
+                    [
+                        30,
+                        246
+                    ],
+                    [
+                        24,
+                        226
+                    ],
+                    [
+                        24,
+                        194
+                    ],
+                    [
+                        34,
+                        152
+                    ],
+                    [
+                        40,
+                        140
+                    ],
+                    [
+                        58,
+                        123
+                    ],
+                    [
+                        69,
+                        123
+                    ],
+                    [
+                        86,
+                        129
+                    ],
+                    [
+                        142,
+                        129
+                    ],
+                    [
+                        147,
+                        139
+                    ],
+                    [
+                        148,
+                        189
+                    ],
+                    [
+                        164,
+                        249
+                    ],
+                    [
+                        160,
+                        257
+                    ],
+                    [
+                        153,
+                        262
+                    ],
+                    [
+                        126,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807628,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:28.373Z",
+            "updatedAt": "2023-06-07T14:58:28.373Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        218
+                    ],
+                    [
+                        174,
+                        229
+                    ],
+                    [
+                        203,
+                        274
+                    ],
+                    [
+                        241,
+                        278
+                    ],
+                    [
+                        257,
+                        293
+                    ],
+                    [
+                        288,
+                        305
+                    ],
+                    [
+                        298,
+                        277
+                    ],
+                    [
+                        271,
+                        260
+                    ],
+                    [
+                        292,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807626,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:28.373Z",
+            "updatedAt": "2023-06-07T14:58:28.373Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        156,
+                        274
+                    ],
+                    [
+                        55,
+                        337
+                    ],
+                    [
+                        84,
+                        361
+                    ],
+                    [
+                        123,
+                        356
+                    ],
+                    [
+                        193,
+                        289
+                    ],
+                    [
+                        186,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807624,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:28.372Z",
+            "updatedAt": "2023-06-07T14:58:28.372Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        104
+                    ],
+                    [
+                        181,
+                        112
+                    ],
+                    [
+                        169,
+                        189
+                    ],
+                    [
+                        233,
+                        217
+                    ],
+                    [
+                        294,
+                        199
+                    ],
+                    [
+                        286,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807622,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:28.372Z",
+            "updatedAt": "2023-06-07T14:58:28.372Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        387
+                    ],
+                    [
+                        377,
+                        340
+                    ],
+                    [
+                        317,
+                        309
+                    ],
+                    [
+                        293,
+                        347
+                    ],
+                    [
+                        315,
+                        388
+                    ],
+                    [
+                        360,
+                        417
+                    ],
+                    [
+                        394,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

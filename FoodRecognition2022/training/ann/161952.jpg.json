@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1799897,
+            "classId": 4217,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:11.225Z",
+            "updatedAt": "2023-06-07T14:53:11.225Z",
+            "tags": [],
+            "classTitle": "shrimp-prawn-large",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        242
+                    ],
+                    [
+                        210,
+                        254
+                    ],
+                    [
+                        139,
+                        302
+                    ],
+                    [
+                        133,
+                        327
+                    ],
+                    [
+                        209,
+                        332
+                    ],
+                    [
+                        214,
+                        346
+                    ],
+                    [
+                        231,
+                        391
+                    ],
+                    [
+                        273,
+                        382
+                    ],
+                    [
+                        273,
+                        288
+                    ],
+                    [
+                        354,
+                        262
+                    ],
+                    [
+                        361,
+                        247
+                    ],
+                    [
+                        354,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799895,
+            "classId": 4373,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:11.224Z",
+            "updatedAt": "2023-06-07T14:53:11.224Z",
+            "tags": [],
+            "classTitle": "shoots",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        268
+                    ],
+                    [
+                        308,
+                        285
+                    ],
+                    [
+                        282,
+                        319
+                    ],
+                    [
+                        273,
+                        368
+                    ],
+                    [
+                        287,
+                        423
+                    ],
+                    [
+                        345,
+                        389
+                    ],
+                    [
+                        366,
+                        329
+                    ],
+                    [
+                        357,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

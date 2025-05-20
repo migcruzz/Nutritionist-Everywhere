@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1728291,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:27.862Z",
+            "updatedAt": "2023-06-07T14:04:27.862Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        144
+                    ],
+                    [
+                        57,
+                        58
+                    ],
+                    [
+                        48,
+                        90
+                    ],
+                    [
+                        7,
+                        90
+                    ],
+                    [
+                        16,
+                        297
+                    ],
+                    [
+                        190,
+                        322
+                    ],
+                    [
+                        409,
+                        354
+                    ],
+                    [
+                        466,
+                        376
+                    ],
+                    [
+                        468,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728289,
+            "classId": 3763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:27.861Z",
+            "updatedAt": "2023-06-07T14:04:27.861Z",
+            "tags": [],
+            "classTitle": "bread-pita",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        7
+                    ],
+                    [
+                        106,
+                        15
+                    ],
+                    [
+                        53,
+                        31
+                    ],
+                    [
+                        16,
+                        44
+                    ],
+                    [
+                        11,
+                        85
+                    ],
+                    [
+                        46,
+                        103
+                    ],
+                    [
+                        108,
+                        74
+                    ],
+                    [
+                        172,
+                        68
+                    ],
+                    [
+                        241,
+                        92
+                    ],
+                    [
+                        361,
+                        118
+                    ],
+                    [
+                        474,
+                        154
+                    ],
+                    [
+                        472,
+                        12
+                    ],
+                    [
+                        274,
+                        4
+                    ],
+                    [
+                        179,
+                        3
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1728288,
+            "classId": 3763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:27.861Z",
+            "updatedAt": "2023-06-07T14:04:27.861Z",
+            "tags": [],
+            "classTitle": "bread-pita",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        327
+                    ],
+                    [
+                        168,
+                        295
+                    ],
+                    [
+                        107,
+                        268
+                    ],
+                    [
+                        12,
+                        296
+                    ],
+                    [
+                        1,
+                        320
+                    ],
+                    [
+                        105,
+                        349
+                    ],
+                    [
+                        351,
+                        400
+                    ],
+                    [
+                        475,
+                        418
+                    ],
+                    [
+                        462,
+                        386
+                    ],
+                    [
+                        335,
+                        337
+                    ],
+                    [
+                        307,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

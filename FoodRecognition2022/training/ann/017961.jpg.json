@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 864,
+        "width": 865
+    },
+    "objects": [
+        {
+            "id": 1780738,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:02.852Z",
+            "updatedAt": "2023-06-07T14:40:02.852Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        118
+                    ],
+                    [
+                        237,
+                        291
+                    ],
+                    [
+                        469,
+                        390
+                    ],
+                    [
+                        663,
+                        490
+                    ],
+                    [
+                        720,
+                        537
+                    ],
+                    [
+                        761,
+                        380
+                    ],
+                    [
+                        713,
+                        313
+                    ],
+                    [
+                        713,
+                        209
+                    ],
+                    [
+                        702,
+                        157
+                    ],
+                    [
+                        566,
+                        101
+                    ],
+                    [
+                        382,
+                        103
+                    ],
+                    [
+                        376,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780736,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:02.851Z",
+            "updatedAt": "2023-06-07T14:40:02.851Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        743,
+                        332
+                    ],
+                    [
+                        761,
+                        265
+                    ],
+                    [
+                        720,
+                        250
+                    ],
+                    [
+                        709,
+                        280
+                    ],
+                    [
+                        722,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780735,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:02.851Z",
+            "updatedAt": "2023-06-07T14:40:02.851Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        282
+                    ],
+                    [
+                        603,
+                        341
+                    ],
+                    [
+                        551,
+                        341
+                    ],
+                    [
+                        471,
+                        265
+                    ],
+                    [
+                        389,
+                        261
+                    ],
+                    [
+                        309,
+                        202
+                    ],
+                    [
+                        415,
+                        150
+                    ],
+                    [
+                        484,
+                        163
+                    ],
+                    [
+                        592,
+                        239
+                    ],
+                    [
+                        590,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780733,
+            "classId": 3673,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:02.850Z",
+            "updatedAt": "2023-06-07T14:40:02.850Z",
+            "tags": [],
+            "classTitle": "sauce-savoury",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        326
+                    ],
+                    [
+                        361,
+                        127
+                    ],
+                    [
+                        259,
+                        120
+                    ],
+                    [
+                        151,
+                        204
+                    ],
+                    [
+                        97,
+                        377
+                    ],
+                    [
+                        97,
+                        492
+                    ],
+                    [
+                        181,
+                        371
+                    ],
+                    [
+                        250,
+                        343
+                    ],
+                    [
+                        272,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1693068,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:48.083Z",
+            "updatedAt": "2023-06-07T13:38:48.083Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        247
+                    ],
+                    [
+                        191,
+                        265
+                    ],
+                    [
+                        201,
+                        330
+                    ],
+                    [
+                        276,
+                        330
+                    ],
+                    [
+                        292,
+                        310
+                    ],
+                    [
+                        288,
+                        278
+                    ],
+                    [
+                        256,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1693066,
+            "classId": 3595,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:48.082Z",
+            "updatedAt": "2023-06-07T13:38:48.082Z",
+            "tags": [],
+            "classTitle": "spaetzle",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        322
+                    ],
+                    [
+                        195,
+                        302
+                    ],
+                    [
+                        210,
+                        254
+                    ],
+                    [
+                        236,
+                        254
+                    ],
+                    [
+                        278,
+                        294
+                    ],
+                    [
+                        298,
+                        308
+                    ],
+                    [
+                        325,
+                        307
+                    ],
+                    [
+                        327,
+                        269
+                    ],
+                    [
+                        297,
+                        230
+                    ],
+                    [
+                        312,
+                        177
+                    ],
+                    [
+                        281,
+                        148
+                    ],
+                    [
+                        220,
+                        148
+                    ],
+                    [
+                        189,
+                        189
+                    ],
+                    [
+                        161,
+                        230
+                    ],
+                    [
+                        157,
+                        272
+                    ],
+                    [
+                        161,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1693064,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:48.082Z",
+            "updatedAt": "2023-06-07T13:38:48.082Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        269
+                    ],
+                    [
+                        314,
+                        280
+                    ],
+                    [
+                        346,
+                        278
+                    ],
+                    [
+                        370,
+                        256
+                    ],
+                    [
+                        368,
+                        214
+                    ],
+                    [
+                        339,
+                        177
+                    ],
+                    [
+                        284,
+                        146
+                    ],
+                    [
+                        234,
+                        162
+                    ],
+                    [
+                        217,
+                        201
+                    ],
+                    [
+                        214,
+                        227
+                    ],
+                    [
+                        233,
+                        238
+                    ],
+                    [
+                        233,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

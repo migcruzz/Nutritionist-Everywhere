@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1706787,
+            "classId": 4127,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:42.088Z",
+            "updatedAt": "2023-06-07T13:48:42.088Z",
+            "tags": [],
+            "classTitle": "sweet-potato",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        169
+                    ],
+                    [
+                        155,
+                        173
+                    ],
+                    [
+                        141,
+                        193
+                    ],
+                    [
+                        175,
+                        212
+                    ],
+                    [
+                        230,
+                        220
+                    ],
+                    [
+                        303,
+                        225
+                    ],
+                    [
+                        264,
+                        211
+                    ],
+                    [
+                        255,
+                        205
+                    ],
+                    [
+                        292,
+                        187
+                    ],
+                    [
+                        317,
+                        186
+                    ],
+                    [
+                        321,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1706785,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:42.088Z",
+            "updatedAt": "2023-06-07T13:48:42.088Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        149
+                    ],
+                    [
+                        183,
+                        18
+                    ],
+                    [
+                        141,
+                        5
+                    ],
+                    [
+                        101,
+                        24
+                    ],
+                    [
+                        97,
+                        104
+                    ],
+                    [
+                        102,
+                        165
+                    ],
+                    [
+                        147,
+                        172
+                    ],
+                    [
+                        162,
+                        171
+                    ],
+                    [
+                        175,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

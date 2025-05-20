@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1744548,
+            "classId": 3743,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:48.270Z",
+            "updatedAt": "2023-06-07T14:15:48.270Z",
+            "tags": [],
+            "classTitle": "glucose-drink-50g",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        134
+                    ],
+                    [
+                        156,
+                        305
+                    ],
+                    [
+                        232,
+                        308
+                    ],
+                    [
+                        266,
+                        291
+                    ],
+                    [
+                        257,
+                        103
+                    ],
+                    [
+                        188,
+                        101
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

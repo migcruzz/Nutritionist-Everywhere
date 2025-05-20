@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1733679,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:15.492Z",
+            "updatedAt": "2023-06-07T14:08:15.492Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        255
+                    ],
+                    [
+                        95,
+                        253
+                    ],
+                    [
+                        80,
+                        244
+                    ],
+                    [
+                        83,
+                        231
+                    ],
+                    [
+                        96,
+                        217
+                    ],
+                    [
+                        125,
+                        201
+                    ],
+                    [
+                        152,
+                        202
+                    ],
+                    [
+                        166,
+                        209
+                    ],
+                    [
+                        171,
+                        219
+                    ],
+                    [
+                        171,
+                        227
+                    ],
+                    [
+                        165,
+                        237
+                    ],
+                    [
+                        142,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733677,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:15.492Z",
+            "updatedAt": "2023-06-07T14:08:15.492Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        365
+                    ],
+                    [
+                        153,
+                        406
+                    ],
+                    [
+                        167,
+                        440
+                    ],
+                    [
+                        225,
+                        426
+                    ],
+                    [
+                        242,
+                        414
+                    ],
+                    [
+                        218,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

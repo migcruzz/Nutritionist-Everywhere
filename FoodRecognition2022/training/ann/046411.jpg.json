@@ -1,0 +1,234 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1714393,
+            "classId": 4351,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:42.696Z",
+            "updatedAt": "2023-06-07T13:54:42.696Z",
+            "tags": [],
+            "classTitle": "beef-roast",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        131
+                    ],
+                    [
+                        259,
+                        197
+                    ],
+                    [
+                        205,
+                        300
+                    ],
+                    [
+                        189,
+                        429
+                    ],
+                    [
+                        118,
+                        432
+                    ],
+                    [
+                        71,
+                        380
+                    ],
+                    [
+                        76,
+                        299
+                    ],
+                    [
+                        105,
+                        135
+                    ],
+                    [
+                        139,
+                        144
+                    ],
+                    [
+                        208,
+                        124
+                    ],
+                    [
+                        233,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714391,
+            "classId": 4251,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:42.696Z",
+            "updatedAt": "2023-06-07T13:54:42.696Z",
+            "tags": [],
+            "classTitle": "grits-polenta-maize-flour",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        272
+                    ],
+                    [
+                        201,
+                        341
+                    ],
+                    [
+                        226,
+                        396
+                    ],
+                    [
+                        371,
+                        392
+                    ],
+                    [
+                        419,
+                        302
+                    ],
+                    [
+                        421,
+                        202
+                    ],
+                    [
+                        354,
+                        119
+                    ],
+                    [
+                        237,
+                        128
+                    ],
+                    [
+                        259,
+                        206
+                    ],
+                    [
+                        215,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714389,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:42.695Z",
+            "updatedAt": "2023-06-07T13:54:42.695Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        140
+                    ],
+                    [
+                        30,
+                        210
+                    ],
+                    [
+                        36,
+                        328
+                    ],
+                    [
+                        101,
+                        417
+                    ],
+                    [
+                        229,
+                        460
+                    ],
+                    [
+                        325,
+                        443
+                    ],
+                    [
+                        426,
+                        380
+                    ],
+                    [
+                        436,
+                        278
+                    ],
+                    [
+                        419,
+                        184
+                    ],
+                    [
+                        325,
+                        117
+                    ],
+                    [
+                        201,
+                        114
+                    ],
+                    [
+                        111,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714387,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:42.694Z",
+            "updatedAt": "2023-06-07T13:54:42.694Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        35
+                    ],
+                    [
+                        118,
+                        122
+                    ],
+                    [
+                        133,
+                        137
+                    ],
+                    [
+                        285,
+                        74
+                    ],
+                    [
+                        277,
+                        32
+                    ],
+                    [
+                        222,
+                        8
+                    ],
+                    [
+                        132,
+                        39
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

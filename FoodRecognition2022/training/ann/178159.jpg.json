@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1667523,
+            "classId": 4229,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:29.348Z",
+            "updatedAt": "2023-06-07T13:21:29.348Z",
+            "tags": [],
+            "classTitle": "birchermuesli-prepared-no-sugar-added",
+            "points": {
+                "exterior": [
+                    [
+                        387,
+                        542
+                    ],
+                    [
+                        254,
+                        542
+                    ],
+                    [
+                        185,
+                        727
+                    ],
+                    [
+                        244,
+                        862
+                    ],
+                    [
+                        492,
+                        903
+                    ],
+                    [
+                        569,
+                        752
+                    ],
+                    [
+                        569,
+                        647
+                    ],
+                    [
+                        462,
+                        593
+                    ],
+                    [
+                        431,
+                        578
+                    ],
+                    [
+                        416,
+                        547
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667521,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:29.347Z",
+            "updatedAt": "2023-06-07T13:21:29.347Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        794,
+                        145
+                    ],
+                    [
+                        636,
+                        192
+                    ],
+                    [
+                        579,
+                        332
+                    ],
+                    [
+                        615,
+                        448
+                    ],
+                    [
+                        718,
+                        504
+                    ],
+                    [
+                        851,
+                        396
+                    ],
+                    [
+                        894,
+                        279
+                    ],
+                    [
+                        864,
+                        204
+                    ],
+                    [
+                        815,
+                        161
+                    ],
+                    [
+                        807,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

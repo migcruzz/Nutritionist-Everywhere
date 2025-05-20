@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1691000,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:25.977Z",
+            "updatedAt": "2023-06-07T13:37:25.977Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        60
+                    ],
+                    [
+                        133,
+                        52
+                    ],
+                    [
+                        127,
+                        159
+                    ],
+                    [
+                        122,
+                        288
+                    ],
+                    [
+                        124,
+                        310
+                    ],
+                    [
+                        159,
+                        280
+                    ],
+                    [
+                        175,
+                        285
+                    ],
+                    [
+                        166,
+                        318
+                    ],
+                    [
+                        151,
+                        348
+                    ],
+                    [
+                        150,
+                        367
+                    ],
+                    [
+                        149,
+                        429
+                    ],
+                    [
+                        159,
+                        468
+                    ],
+                    [
+                        227,
+                        471
+                    ],
+                    [
+                        251,
+                        456
+                    ],
+                    [
+                        243,
+                        61
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1690998,
+            "classId": 4161,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:25.976Z",
+            "updatedAt": "2023-06-07T13:37:25.976Z",
+            "tags": [],
+            "classTitle": "wienerli-swiss-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        55
+                    ],
+                    [
+                        209,
+                        24
+                    ],
+                    [
+                        180,
+                        13
+                    ],
+                    [
+                        160,
+                        40
+                    ],
+                    [
+                        157,
+                        61
+                    ],
+                    [
+                        210,
+                        63
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

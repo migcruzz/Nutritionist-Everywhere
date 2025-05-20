@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1040,
+        "width": 1039
+    },
+    "objects": [
+        {
+            "id": 1666887,
+            "classId": 4131,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:06.074Z",
+            "updatedAt": "2023-06-07T13:21:06.074Z",
+            "tags": [],
+            "classTitle": "croissant",
+            "points": {
+                "exterior": [
+                    [
+                        934,
+                        337
+                    ],
+                    [
+                        780,
+                        204
+                    ],
+                    [
+                        510,
+                        160
+                    ],
+                    [
+                        250,
+                        259
+                    ],
+                    [
+                        149,
+                        373
+                    ],
+                    [
+                        47,
+                        581
+                    ],
+                    [
+                        13,
+                        774
+                    ],
+                    [
+                        73,
+                        906
+                    ],
+                    [
+                        221,
+                        917
+                    ],
+                    [
+                        432,
+                        701
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666885,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:06.074Z",
+            "updatedAt": "2023-06-07T13:21:06.074Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        674,
+                        355
+                    ],
+                    [
+                        541,
+                        425
+                    ],
+                    [
+                        211,
+                        670
+                    ],
+                    [
+                        216,
+                        787
+                    ],
+                    [
+                        591,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666883,
+            "classId": 3499,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:06.073Z",
+            "updatedAt": "2023-06-07T13:21:06.073Z",
+            "tags": [],
+            "classTitle": "peanut-butter",
+            "points": {
+                "exterior": [
+                    [
+                        653,
+                        202
+                    ],
+                    [
+                        180,
+                        420
+                    ],
+                    [
+                        247,
+                        581
+                    ],
+                    [
+                        536,
+                        438
+                    ],
+                    [
+                        674,
+                        360
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

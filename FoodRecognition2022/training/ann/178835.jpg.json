@@ -1,0 +1,42 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1656861,
+            "classId": 4263,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:13:55.188Z",
+            "updatedAt": "2023-06-07T13:13:55.188Z",
+            "tags": [],
+            "classTitle": "goat-average-raw",
+            "points": {
+                "exterior": [
+                    [
+                        621,
+                        629
+                    ],
+                    [
+                        498,
+                        683
+                    ],
+                    [
+                        665,
+                        880
+                    ],
+                    [
+                        811,
+                        583
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

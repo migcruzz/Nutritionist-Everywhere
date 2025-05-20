@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1047,
+        "width": 1048
+    },
+    "objects": [
+        {
+            "id": 1695292,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.065Z",
+            "updatedAt": "2023-06-07T13:40:22.065Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        768,
+                        531
+                    ],
+                    [
+                        805,
+                        871
+                    ],
+                    [
+                        433,
+                        1039
+                    ],
+                    [
+                        313,
+                        740
+                    ],
+                    [
+                        124,
+                        439
+                    ],
+                    [
+                        48,
+                        245
+                    ],
+                    [
+                        347,
+                        25
+                    ],
+                    [
+                        530,
+                        57
+                    ],
+                    [
+                        590,
+                        248
+                    ],
+                    [
+                        617,
+                        416
+                    ],
+                    [
+                        564,
+                        481
+                    ],
+                    [
+                        682,
+                        515
+                    ],
+                    [
+                        729,
+                        523
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695290,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.064Z",
+            "updatedAt": "2023-06-07T13:40:22.064Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        549
+                    ],
+                    [
+                        611,
+                        468
+                    ],
+                    [
+                        512,
+                        227
+                    ],
+                    [
+                        438,
+                        99
+                    ],
+                    [
+                        242,
+                        175
+                    ],
+                    [
+                        64,
+                        222
+                    ],
+                    [
+                        244,
+                        465
+                    ],
+                    [
+                        344,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695289,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.064Z",
+            "updatedAt": "2023-06-07T13:40:22.064Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        729,
+                        617
+                    ],
+                    [
+                        575,
+                        523
+                    ],
+                    [
+                        375,
+                        651
+                    ],
+                    [
+                        391,
+                        827
+                    ],
+                    [
+                        493,
+                        929
+                    ],
+                    [
+                        687,
+                        937
+                    ],
+                    [
+                        711,
+                        898
+                    ],
+                    [
+                        700,
+                        628
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

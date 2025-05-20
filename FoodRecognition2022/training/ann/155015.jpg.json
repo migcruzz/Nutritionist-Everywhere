@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 758,
+        "width": 758
+    },
+    "objects": [
+        {
+            "id": 1794148,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:55.445Z",
+            "updatedAt": "2023-06-07T14:48:55.445Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        38,
+                        208
+                    ],
+                    [
+                        160,
+                        124
+                    ],
+                    [
+                        544,
+                        29
+                    ],
+                    [
+                        751,
+                        465
+                    ],
+                    [
+                        387,
+                        624
+                    ],
+                    [
+                        93,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1794146,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:55.444Z",
+            "updatedAt": "2023-06-07T14:48:55.444Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        177
+                    ],
+                    [
+                        44,
+                        194
+                    ],
+                    [
+                        76,
+                        376
+                    ],
+                    [
+                        235,
+                        516
+                    ],
+                    [
+                        383,
+                        590
+                    ],
+                    [
+                        622,
+                        498
+                    ],
+                    [
+                        703,
+                        352
+                    ],
+                    [
+                        658,
+                        209
+                    ],
+                    [
+                        597,
+                        198
+                    ],
+                    [
+                        582,
+                        333
+                    ],
+                    [
+                        491,
+                        433
+                    ],
+                    [
+                        343,
+                        496
+                    ],
+                    [
+                        283,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1794144,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:48:55.444Z",
+            "updatedAt": "2023-06-07T14:48:55.444Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        498
+                    ],
+                    [
+                        258,
+                        452
+                    ],
+                    [
+                        243,
+                        509
+                    ],
+                    [
+                        313,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

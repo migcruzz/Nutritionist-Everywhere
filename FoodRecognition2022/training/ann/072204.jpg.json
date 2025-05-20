@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 329,
+        "width": 329
+    },
+    "objects": [
+        {
+            "id": 1703679,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.246Z",
+            "updatedAt": "2023-06-07T13:46:24.246Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        213
+                    ],
+                    [
+                        145,
+                        212
+                    ],
+                    [
+                        129,
+                        205
+                    ],
+                    [
+                        122,
+                        196
+                    ],
+                    [
+                        120,
+                        105
+                    ],
+                    [
+                        123,
+                        79
+                    ],
+                    [
+                        131,
+                        68
+                    ],
+                    [
+                        162,
+                        66
+                    ],
+                    [
+                        190,
+                        74
+                    ],
+                    [
+                        212,
+                        70
+                    ],
+                    [
+                        258,
+                        72
+                    ],
+                    [
+                        275,
+                        86
+                    ],
+                    [
+                        287,
+                        105
+                    ],
+                    [
+                        288,
+                        119
+                    ],
+                    [
+                        283,
+                        154
+                    ],
+                    [
+                        297,
+                        178
+                    ],
+                    [
+                        297,
+                        198
+                    ],
+                    [
+                        287,
+                        206
+                    ],
+                    [
+                        273,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1703677,
+            "classId": 4199,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:46:24.245Z",
+            "updatedAt": "2023-06-07T13:46:24.245Z",
+            "tags": [],
+            "classTitle": "oil-vinegar-salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        97
+                    ],
+                    [
+                        128,
+                        104
+                    ],
+                    [
+                        141,
+                        164
+                    ],
+                    [
+                        183,
+                        197
+                    ],
+                    [
+                        224,
+                        197
+                    ],
+                    [
+                        263,
+                        193
+                    ],
+                    [
+                        279,
+                        175
+                    ],
+                    [
+                        281,
+                        148
+                    ],
+                    [
+                        270,
+                        134
+                    ],
+                    [
+                        252,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1733053,
+            "classId": 4207,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:45.547Z",
+            "updatedAt": "2023-06-07T14:07:45.547Z",
+            "tags": [],
+            "classTitle": "chocolate-mousse",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        199
+                    ],
+                    [
+                        285,
+                        167
+                    ],
+                    [
+                        213,
+                        286
+                    ],
+                    [
+                        183,
+                        325
+                    ],
+                    [
+                        286,
+                        382
+                    ],
+                    [
+                        350,
+                        393
+                    ],
+                    [
+                        394,
+                        310
+                    ],
+                    [
+                        420,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733051,
+            "classId": 4353,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:45.547Z",
+            "updatedAt": "2023-06-07T14:07:45.547Z",
+            "tags": [],
+            "classTitle": "vanille-cream-cooked-custard-creme-dessert",
+            "points": {
+                "exterior": [
+                    [
+                        212,
+                        94
+                    ],
+                    [
+                        147,
+                        92
+                    ],
+                    [
+                        122,
+                        104
+                    ],
+                    [
+                        128,
+                        125
+                    ],
+                    [
+                        163,
+                        152
+                    ],
+                    [
+                        161,
+                        191
+                    ],
+                    [
+                        174,
+                        237
+                    ],
+                    [
+                        207,
+                        222
+                    ],
+                    [
+                        226,
+                        176
+                    ],
+                    [
+                        230,
+                        131
+                    ],
+                    [
+                        216,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1733049,
+            "classId": 3493,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:07:45.545Z",
+            "updatedAt": "2023-06-07T14:07:45.545Z",
+            "tags": [],
+            "classTitle": "almonds",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        192
+                    ],
+                    [
+                        50,
+                        231
+                    ],
+                    [
+                        83,
+                        292
+                    ],
+                    [
+                        119,
+                        308
+                    ],
+                    [
+                        143,
+                        284
+                    ],
+                    [
+                        147,
+                        234
+                    ],
+                    [
+                        129,
+                        183
+                    ],
+                    [
+                        82,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

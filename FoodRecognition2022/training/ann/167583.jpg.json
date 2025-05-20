@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1716300,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:03.720Z",
+            "updatedAt": "2023-06-07T13:56:03.720Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        34
+                    ],
+                    [
+                        208,
+                        28
+                    ],
+                    [
+                        81,
+                        44
+                    ],
+                    [
+                        3,
+                        87
+                    ],
+                    [
+                        13,
+                        364
+                    ],
+                    [
+                        121,
+                        341
+                    ],
+                    [
+                        160,
+                        387
+                    ],
+                    [
+                        229,
+                        446
+                    ],
+                    [
+                        312,
+                        476
+                    ],
+                    [
+                        436,
+                        468
+                    ],
+                    [
+                        391,
+                        388
+                    ],
+                    [
+                        342,
+                        334
+                    ],
+                    [
+                        274,
+                        294
+                    ],
+                    [
+                        231,
+                        267
+                    ],
+                    [
+                        238,
+                        200
+                    ],
+                    [
+                        328,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1716298,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:03.720Z",
+            "updatedAt": "2023-06-07T13:56:03.720Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        146
+                    ],
+                    [
+                        352,
+                        158
+                    ],
+                    [
+                        311,
+                        131
+                    ],
+                    [
+                        269,
+                        83
+                    ],
+                    [
+                        245,
+                        44
+                    ],
+                    [
+                        213,
+                        86
+                    ],
+                    [
+                        240,
+                        144
+                    ],
+                    [
+                        243,
+                        198
+                    ],
+                    [
+                        240,
+                        227
+                    ],
+                    [
+                        262,
+                        267
+                    ],
+                    [
+                        285,
+                        299
+                    ],
+                    [
+                        352,
+                        336
+                    ],
+                    [
+                        388,
+                        402
+                    ],
+                    [
+                        419,
+                        432
+                    ],
+                    [
+                        465,
+                        435
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1716297,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:03.720Z",
+            "updatedAt": "2023-06-07T13:56:03.720Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        460
+                    ],
+                    [
+                        96,
+                        411
+                    ],
+                    [
+                        75,
+                        424
+                    ],
+                    [
+                        47,
+                        460
+                    ],
+                    [
+                        55,
+                        476
+                    ],
+                    [
+                        114,
+                        477
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

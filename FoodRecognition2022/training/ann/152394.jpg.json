@@ -1,0 +1,282 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1789547,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:03.157Z",
+            "updatedAt": "2023-06-07T14:46:03.157Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        250
+                    ],
+                    [
+                        228,
+                        246
+                    ],
+                    [
+                        181,
+                        222
+                    ],
+                    [
+                        156,
+                        214
+                    ],
+                    [
+                        101,
+                        210
+                    ],
+                    [
+                        78,
+                        203
+                    ],
+                    [
+                        62,
+                        193
+                    ],
+                    [
+                        49,
+                        181
+                    ],
+                    [
+                        36,
+                        138
+                    ],
+                    [
+                        35,
+                        93
+                    ],
+                    [
+                        48,
+                        74
+                    ],
+                    [
+                        100,
+                        26
+                    ],
+                    [
+                        119,
+                        23
+                    ],
+                    [
+                        130,
+                        26
+                    ],
+                    [
+                        142,
+                        34
+                    ],
+                    [
+                        162,
+                        39
+                    ],
+                    [
+                        208,
+                        40
+                    ],
+                    [
+                        250,
+                        36
+                    ],
+                    [
+                        281,
+                        43
+                    ],
+                    [
+                        308,
+                        59
+                    ],
+                    [
+                        334,
+                        69
+                    ],
+                    [
+                        348,
+                        79
+                    ],
+                    [
+                        382,
+                        120
+                    ],
+                    [
+                        386,
+                        127
+                    ],
+                    [
+                        388,
+                        143
+                    ],
+                    [
+                        387,
+                        199
+                    ],
+                    [
+                        382,
+                        225
+                    ],
+                    [
+                        372,
+                        235
+                    ],
+                    [
+                        359,
+                        239
+                    ],
+                    [
+                        343,
+                        239
+                    ],
+                    [
+                        319,
+                        230
+                    ],
+                    [
+                        304,
+                        229
+                    ],
+                    [
+                        293,
+                        234
+                    ],
+                    [
+                        280,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789545,
+            "classId": 3451,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:03.157Z",
+            "updatedAt": "2023-06-07T14:46:03.157Z",
+            "tags": [],
+            "classTitle": "ham",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        26
+                    ],
+                    [
+                        25,
+                        101
+                    ],
+                    [
+                        131,
+                        192
+                    ],
+                    [
+                        268,
+                        270
+                    ],
+                    [
+                        295,
+                        226
+                    ],
+                    [
+                        390,
+                        248
+                    ],
+                    [
+                        394,
+                        132
+                    ],
+                    [
+                        350,
+                        81
+                    ],
+                    [
+                        259,
+                        37
+                    ],
+                    [
+                        145,
+                        59
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789543,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:03.157Z",
+            "updatedAt": "2023-06-07T14:46:03.157Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        233
+                    ],
+                    [
+                        285,
+                        214
+                    ],
+                    [
+                        284,
+                        246
+                    ],
+                    [
+                        305,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789542,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:46:03.156Z",
+            "updatedAt": "2023-06-07T14:46:03.156Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        36
+                    ],
+                    [
+                        127,
+                        24
+                    ],
+                    [
+                        119,
+                        46
+                    ],
+                    [
+                        145,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 805,
+        "width": 805
+    },
+    "objects": [
+        {
+            "id": 1805990,
+            "classId": 3483,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:20.396Z",
+            "updatedAt": "2023-06-07T14:57:20.396Z",
+            "tags": [],
+            "classTitle": "pasta",
+            "points": {
+                "exterior": [
+                    [
+                        450,
+                        452
+                    ],
+                    [
+                        47,
+                        384
+                    ],
+                    [
+                        59,
+                        255
+                    ],
+                    [
+                        156,
+                        96
+                    ],
+                    [
+                        230,
+                        88
+                    ],
+                    [
+                        230,
+                        108
+                    ],
+                    [
+                        365,
+                        68
+                    ],
+                    [
+                        383,
+                        183
+                    ],
+                    [
+                        351,
+                        245
+                    ],
+                    [
+                        381,
+                        285
+                    ],
+                    [
+                        405,
+                        392
+                    ],
+                    [
+                        428,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805988,
+            "classId": 3857,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:20.396Z",
+            "updatedAt": "2023-06-07T14:57:20.396Z",
+            "tags": [],
+            "classTitle": "vegetable-mix-peas-and-carrots",
+            "points": {
+                "exterior": [
+                    [
+                        415,
+                        70
+                    ],
+                    [
+                        355,
+                        231
+                    ],
+                    [
+                        415,
+                        317
+                    ],
+                    [
+                        452,
+                        410
+                    ],
+                    [
+                        492,
+                        523
+                    ],
+                    [
+                        603,
+                        537
+                    ],
+                    [
+                        683,
+                        575
+                    ],
+                    [
+                        703,
+                        535
+                    ],
+                    [
+                        709,
+                        394
+                    ],
+                    [
+                        727,
+                        301
+                    ],
+                    [
+                        659,
+                        199
+                    ],
+                    [
+                        502,
+                        106
+                    ],
+                    [
+                        407,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805986,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:20.395Z",
+            "updatedAt": "2023-06-07T14:57:20.395Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        543
+                    ],
+                    [
+                        486,
+                        597
+                    ],
+                    [
+                        498,
+                        637
+                    ],
+                    [
+                        550,
+                        641
+                    ],
+                    [
+                        613,
+                        627
+                    ],
+                    [
+                        595,
+                        561
+                    ],
+                    [
+                        542,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

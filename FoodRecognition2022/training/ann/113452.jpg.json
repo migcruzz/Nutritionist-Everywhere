@@ -1,0 +1,230 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1800519,
+            "classId": 3745,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:39.565Z",
+            "updatedAt": "2023-06-07T14:53:39.565Z",
+            "tags": [],
+            "classTitle": "chicken-wing",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        284
+                    ],
+                    [
+                        210,
+                        261
+                    ],
+                    [
+                        170,
+                        233
+                    ],
+                    [
+                        94,
+                        170
+                    ],
+                    [
+                        25,
+                        219
+                    ],
+                    [
+                        46,
+                        251
+                    ],
+                    [
+                        79,
+                        269
+                    ],
+                    [
+                        32,
+                        328
+                    ],
+                    [
+                        124,
+                        332
+                    ],
+                    [
+                        227,
+                        422
+                    ],
+                    [
+                        274,
+                        428
+                    ],
+                    [
+                        302,
+                        406
+                    ],
+                    [
+                        278,
+                        341
+                    ],
+                    [
+                        315,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800517,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:39.565Z",
+            "updatedAt": "2023-06-07T14:53:39.565Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        95,
+                        153
+                    ],
+                    [
+                        60,
+                        122
+                    ],
+                    [
+                        10,
+                        147
+                    ],
+                    [
+                        4,
+                        205
+                    ],
+                    [
+                        13,
+                        236
+                    ],
+                    [
+                        26,
+                        213
+                    ],
+                    [
+                        76,
+                        177
+                    ],
+                    [
+                        102,
+                        157
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800515,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:39.564Z",
+            "updatedAt": "2023-06-07T14:53:39.564Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        186
+                    ],
+                    [
+                        317,
+                        120
+                    ],
+                    [
+                        227,
+                        111
+                    ],
+                    [
+                        157,
+                        89
+                    ],
+                    [
+                        110,
+                        139
+                    ],
+                    [
+                        121,
+                        177
+                    ],
+                    [
+                        183,
+                        226
+                    ],
+                    [
+                        257,
+                        249
+                    ],
+                    [
+                        297,
+                        267
+                    ],
+                    [
+                        367,
+                        256
+                    ],
+                    [
+                        398,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800513,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:39.562Z",
+            "updatedAt": "2023-06-07T14:53:39.562Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        95
+                    ],
+                    [
+                        173,
+                        96
+                    ],
+                    [
+                        128,
+                        91
+                    ],
+                    [
+                        131,
+                        61
+                    ],
+                    [
+                        160,
+                        48
+                    ],
+                    [
+                        256,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1700622,
+            "classId": 3705,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:17.726Z",
+            "updatedAt": "2023-06-07T13:44:17.726Z",
+            "tags": [],
+            "classTitle": "chestnuts",
+            "points": {
+                "exterior": [
+                    [
+                        31,
+                        420
+                    ],
+                    [
+                        126,
+                        329
+                    ],
+                    [
+                        215,
+                        328
+                    ],
+                    [
+                        304,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1700620,
+            "classId": 3705,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:44:17.725Z",
+            "updatedAt": "2023-06-07T13:44:17.725Z",
+            "tags": [],
+            "classTitle": "chestnuts",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        413
+                    ],
+                    [
+                        285,
+                        413
+                    ],
+                    [
+                        238,
+                        345
+                    ],
+                    [
+                        161,
+                        330
+                    ],
+                    [
+                        99,
+                        335
+                    ],
+                    [
+                        37,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

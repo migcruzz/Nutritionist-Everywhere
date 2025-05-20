@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 329,
+        "width": 329
+    },
+    "objects": [
+        {
+            "id": 1786896,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:11.093Z",
+            "updatedAt": "2023-06-07T14:44:11.093Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        228
+                    ],
+                    [
+                        103,
+                        226
+                    ],
+                    [
+                        89,
+                        212
+                    ],
+                    [
+                        79,
+                        195
+                    ],
+                    [
+                        76,
+                        171
+                    ],
+                    [
+                        68,
+                        149
+                    ],
+                    [
+                        68,
+                        116
+                    ],
+                    [
+                        50,
+                        74
+                    ],
+                    [
+                        50,
+                        68
+                    ],
+                    [
+                        57,
+                        61
+                    ],
+                    [
+                        81,
+                        58
+                    ],
+                    [
+                        181,
+                        60
+                    ],
+                    [
+                        214,
+                        76
+                    ],
+                    [
+                        251,
+                        84
+                    ],
+                    [
+                        283,
+                        100
+                    ],
+                    [
+                        308,
+                        108
+                    ],
+                    [
+                        324,
+                        122
+                    ],
+                    [
+                        324,
+                        166
+                    ],
+                    [
+                        313,
+                        185
+                    ],
+                    [
+                        275,
+                        192
+                    ],
+                    [
+                        251,
+                        203
+                    ],
+                    [
+                        192,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786894,
+            "classId": 4171,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:11.091Z",
+            "updatedAt": "2023-06-07T14:44:11.091Z",
+            "tags": [],
+            "classTitle": "anchovies",
+            "points": {
+                "exterior": [
+                    [
+                        270,
+                        153
+                    ],
+                    [
+                        212,
+                        213
+                    ],
+                    [
+                        264,
+                        215
+                    ],
+                    [
+                        269,
+                        163
+                    ],
+                    [
+                        268,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786893,
+            "classId": 4171,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:11.091Z",
+            "updatedAt": "2023-06-07T14:44:11.091Z",
+            "tags": [],
+            "classTitle": "anchovies",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        176
+                    ],
+                    [
+                        199,
+                        142
+                    ],
+                    [
+                        197,
+                        130
+                    ],
+                    [
+                        170,
+                        150
+                    ],
+                    [
+                        166,
+                        162
+                    ],
+                    [
+                        165,
+                        164
+                    ],
+                    [
+                        165,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

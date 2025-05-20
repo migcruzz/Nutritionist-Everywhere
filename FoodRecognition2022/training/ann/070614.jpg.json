@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1695255,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.062Z",
+            "updatedAt": "2023-06-07T13:40:22.062Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        844,
+                        591
+                    ],
+                    [
+                        668,
+                        567
+                    ],
+                    [
+                        620,
+                        499
+                    ],
+                    [
+                        468,
+                        499
+                    ],
+                    [
+                        336,
+                        623
+                    ],
+                    [
+                        228,
+                        780
+                    ],
+                    [
+                        266,
+                        964
+                    ],
+                    [
+                        401,
+                        969
+                    ],
+                    [
+                        466,
+                        1045
+                    ],
+                    [
+                        595,
+                        1048
+                    ],
+                    [
+                        774,
+                        1023
+                    ],
+                    [
+                        893,
+                        869
+                    ],
+                    [
+                        887,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695253,
+            "classId": 3679,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.061Z",
+            "updatedAt": "2023-06-07T13:40:22.061Z",
+            "tags": [],
+            "classTitle": "kaki",
+            "points": {
+                "exterior": [
+                    [
+                        504,
+                        440
+                    ],
+                    [
+                        514,
+                        242
+                    ],
+                    [
+                        347,
+                        191
+                    ],
+                    [
+                        109,
+                        291
+                    ],
+                    [
+                        63,
+                        496
+                    ],
+                    [
+                        33,
+                        645
+                    ],
+                    [
+                        133,
+                        729
+                    ],
+                    [
+                        233,
+                        710
+                    ],
+                    [
+                        336,
+                        558
+                    ],
+                    [
+                        441,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1695251,
+            "classId": 3647,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:22.060Z",
+            "updatedAt": "2023-06-07T13:40:22.060Z",
+            "tags": [],
+            "classTitle": "mandarine",
+            "points": {
+                "exterior": [
+                    [
+                        571,
+                        131
+                    ],
+                    [
+                        493,
+                        321
+                    ],
+                    [
+                        587,
+                        456
+                    ],
+                    [
+                        728,
+                        518
+                    ],
+                    [
+                        895,
+                        485
+                    ],
+                    [
+                        1014,
+                        340
+                    ],
+                    [
+                        966,
+                        134
+                    ],
+                    [
+                        868,
+                        67
+                    ],
+                    [
+                        736,
+                        69
+                    ],
+                    [
+                        636,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

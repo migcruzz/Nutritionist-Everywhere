@@ -1,0 +1,418 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1760709,
+            "classId": 4129,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:37.333Z",
+            "updatedAt": "2023-06-07T14:26:37.333Z",
+            "tags": [],
+            "classTitle": "chicken-leg",
+            "points": {
+                "exterior": [
+                    [
+                        224,
+                        105
+                    ],
+                    [
+                        183,
+                        61
+                    ],
+                    [
+                        88,
+                        122
+                    ],
+                    [
+                        81,
+                        265
+                    ],
+                    [
+                        134,
+                        382
+                    ],
+                    [
+                        159,
+                        430
+                    ],
+                    [
+                        214,
+                        427
+                    ],
+                    [
+                        174,
+                        302
+                    ],
+                    [
+                        176,
+                        222
+                    ],
+                    [
+                        217,
+                        142
+                    ],
+                    [
+                        225,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760707,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:37.332Z",
+            "updatedAt": "2023-06-07T14:26:37.332Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        148
+                    ],
+                    [
+                        342,
+                        97
+                    ],
+                    [
+                        238,
+                        93
+                    ],
+                    [
+                        232,
+                        162
+                    ],
+                    [
+                        190,
+                        194
+                    ],
+                    [
+                        183,
+                        244
+                    ],
+                    [
+                        211,
+                        270
+                    ],
+                    [
+                        236,
+                        298
+                    ],
+                    [
+                        252,
+                        307
+                    ],
+                    [
+                        248,
+                        332
+                    ],
+                    [
+                        234,
+                        397
+                    ],
+                    [
+                        297,
+                        406
+                    ],
+                    [
+                        307,
+                        379
+                    ],
+                    [
+                        286,
+                        355
+                    ],
+                    [
+                        259,
+                        314
+                    ],
+                    [
+                        328,
+                        314
+                    ],
+                    [
+                        374,
+                        325
+                    ],
+                    [
+                        402,
+                        324
+                    ],
+                    [
+                        376,
+                        255
+                    ],
+                    [
+                        340,
+                        253
+                    ],
+                    [
+                        285,
+                        245
+                    ],
+                    [
+                        277,
+                        222
+                    ],
+                    [
+                        310,
+                        193
+                    ],
+                    [
+                        342,
+                        183
+                    ],
+                    [
+                        374,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760705,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:37.332Z",
+            "updatedAt": "2023-06-07T14:26:37.332Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        123
+                    ],
+                    [
+                        304,
+                        182
+                    ],
+                    [
+                        291,
+                        230
+                    ],
+                    [
+                        310,
+                        259
+                    ],
+                    [
+                        328,
+                        217
+                    ],
+                    [
+                        354,
+                        219
+                    ],
+                    [
+                        376,
+                        235
+                    ],
+                    [
+                        397,
+                        211
+                    ],
+                    [
+                        396,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760704,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:37.331Z",
+            "updatedAt": "2023-06-07T14:26:37.331Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        108
+                    ],
+                    [
+                        222,
+                        120
+                    ],
+                    [
+                        229,
+                        162
+                    ],
+                    [
+                        240,
+                        176
+                    ],
+                    [
+                        250,
+                        176
+                    ],
+                    [
+                        252,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760703,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:37.331Z",
+            "updatedAt": "2023-06-07T14:26:37.331Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        313
+                    ],
+                    [
+                        312,
+                        357
+                    ],
+                    [
+                        280,
+                        342
+                    ],
+                    [
+                        282,
+                        316
+                    ],
+                    [
+                        314,
+                        314
+                    ],
+                    [
+                        346,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760701,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:37.331Z",
+            "updatedAt": "2023-06-07T14:26:37.331Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        301
+                    ],
+                    [
+                        272,
+                        254
+                    ],
+                    [
+                        258,
+                        213
+                    ],
+                    [
+                        177,
+                        232
+                    ],
+                    [
+                        181,
+                        278
+                    ],
+                    [
+                        192,
+                        384
+                    ],
+                    [
+                        241,
+                        390
+                    ],
+                    [
+                        277,
+                        362
+                    ],
+                    [
+                        304,
+                        319
+                    ],
+                    [
+                        234,
+                        306
+                    ],
+                    [
+                        220,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1760700,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:37.330Z",
+            "updatedAt": "2023-06-07T14:26:37.330Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        204
+                    ],
+                    [
+                        301,
+                        218
+                    ],
+                    [
+                        328,
+                        249
+                    ],
+                    [
+                        366,
+                        254
+                    ],
+                    [
+                        386,
+                        226
+                    ],
+                    [
+                        361,
+                        210
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

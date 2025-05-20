@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 226,
+        "width": 226
+    },
+    "objects": [
+        {
+            "id": 1743993,
+            "classId": 3749,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.722Z",
+            "updatedAt": "2023-06-07T14:15:22.722Z",
+            "tags": [],
+            "classTitle": "peanut",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        88
+                    ],
+                    [
+                        157,
+                        102
+                    ],
+                    [
+                        164,
+                        83
+                    ],
+                    [
+                        160,
+                        76
+                    ],
+                    [
+                        152,
+                        71
+                    ],
+                    [
+                        132,
+                        79
+                    ],
+                    [
+                        131,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743991,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.722Z",
+            "updatedAt": "2023-06-07T14:15:22.722Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        35
+                    ],
+                    [
+                        137,
+                        19
+                    ],
+                    [
+                        131,
+                        9
+                    ],
+                    [
+                        95,
+                        3
+                    ],
+                    [
+                        88,
+                        12
+                    ],
+                    [
+                        97,
+                        28
+                    ],
+                    [
+                        104,
+                        36
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743989,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:22.720Z",
+            "updatedAt": "2023-06-07T14:15:22.720Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        62
+                    ],
+                    [
+                        29,
+                        107
+                    ],
+                    [
+                        9,
+                        116
+                    ],
+                    [
+                        3,
+                        101
+                    ],
+                    [
+                        10,
+                        80
+                    ],
+                    [
+                        22,
+                        67
+                    ],
+                    [
+                        25,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

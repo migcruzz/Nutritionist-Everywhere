@@ -1,0 +1,682 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 821,
+        "width": 822
+    },
+    "objects": [
+        {
+            "id": 1667840,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.389Z",
+            "updatedAt": "2023-06-07T13:21:44.389Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        609,
+                        552
+                    ],
+                    [
+                        705,
+                        650
+                    ],
+                    [
+                        783,
+                        589
+                    ],
+                    [
+                        802,
+                        517
+                    ],
+                    [
+                        759,
+                        416
+                    ],
+                    [
+                        679,
+                        350
+                    ],
+                    [
+                        668,
+                        291
+                    ],
+                    [
+                        599,
+                        252
+                    ],
+                    [
+                        615,
+                        221
+                    ],
+                    [
+                        749,
+                        174
+                    ],
+                    [
+                        681,
+                        102
+                    ],
+                    [
+                        609,
+                        118
+                    ],
+                    [
+                        424,
+                        172
+                    ],
+                    [
+                        354,
+                        225
+                    ],
+                    [
+                        354,
+                        225
+                    ],
+                    [
+                        185,
+                        172
+                    ],
+                    [
+                        89,
+                        198
+                    ],
+                    [
+                        72,
+                        207
+                    ],
+                    [
+                        130,
+                        412
+                    ],
+                    [
+                        179,
+                        361
+                    ],
+                    [
+                        206,
+                        258
+                    ],
+                    [
+                        268,
+                        221
+                    ],
+                    [
+                        309,
+                        219
+                    ],
+                    [
+                        358,
+                        258
+                    ],
+                    [
+                        459,
+                        272
+                    ],
+                    [
+                        504,
+                        254
+                    ],
+                    [
+                        529,
+                        270
+                    ],
+                    [
+                        551,
+                        398
+                    ],
+                    [
+                        588,
+                        498
+                    ],
+                    [
+                        603,
+                        611
+                    ],
+                    [
+                        512,
+                        648
+                    ],
+                    [
+                        399,
+                        579
+                    ],
+                    [
+                        292,
+                        679
+                    ],
+                    [
+                        305,
+                        737
+                    ],
+                    [
+                        483,
+                        716
+                    ],
+                    [
+                        594,
+                        673
+                    ],
+                    [
+                        631,
+                        601
+                    ],
+                    [
+                        638,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667838,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.387Z",
+            "updatedAt": "2023-06-07T13:21:44.387Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        418
+                    ],
+                    [
+                        496,
+                        303
+                    ],
+                    [
+                        301,
+                        211
+                    ],
+                    [
+                        214,
+                        305
+                    ],
+                    [
+                        208,
+                        373
+                    ],
+                    [
+                        253,
+                        398
+                    ],
+                    [
+                        268,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667836,
+            "classId": 3725,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.387Z",
+            "updatedAt": "2023-06-07T13:21:44.387Z",
+            "tags": [],
+            "classTitle": "rice-noodles-vermicelli",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        552
+                    ],
+                    [
+                        514,
+                        587
+                    ],
+                    [
+                        596,
+                        542
+                    ],
+                    [
+                        522,
+                        408
+                    ],
+                    [
+                        522,
+                        357
+                    ],
+                    [
+                        572,
+                        256
+                    ],
+                    [
+                        580,
+                        217
+                    ],
+                    [
+                        469,
+                        233
+                    ],
+                    [
+                        461,
+                        303
+                    ],
+                    [
+                        399,
+                        361
+                    ],
+                    [
+                        317,
+                        398
+                    ],
+                    [
+                        290,
+                        385
+                    ],
+                    [
+                        272,
+                        402
+                    ],
+                    [
+                        259,
+                        455
+                    ],
+                    [
+                        288,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667834,
+            "classId": 4309,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.386Z",
+            "updatedAt": "2023-06-07T13:21:44.386Z",
+            "tags": [],
+            "classTitle": "peas",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        122
+                    ],
+                    [
+                        366,
+                        50
+                    ],
+                    [
+                        370,
+                        5
+                    ],
+                    [
+                        350,
+                        77
+                    ],
+                    [
+                        364,
+                        128
+                    ],
+                    [
+                        391,
+                        159
+                    ],
+                    [
+                        438,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667833,
+            "classId": 4309,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.386Z",
+            "updatedAt": "2023-06-07T13:21:44.386Z",
+            "tags": [],
+            "classTitle": "peas",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        281
+                    ],
+                    [
+                        202,
+                        326
+                    ],
+                    [
+                        210,
+                        402
+                    ],
+                    [
+                        218,
+                        422
+                    ],
+                    [
+                        286,
+                        468
+                    ],
+                    [
+                        313,
+                        474
+                    ],
+                    [
+                        340,
+                        445
+                    ],
+                    [
+                        335,
+                        414
+                    ],
+                    [
+                        284,
+                        431
+                    ],
+                    [
+                        264,
+                        422
+                    ],
+                    [
+                        241,
+                        375
+                    ],
+                    [
+                        239,
+                        305
+                    ],
+                    [
+                        231,
+                        285
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667832,
+            "classId": 4309,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.386Z",
+            "updatedAt": "2023-06-07T13:21:44.386Z",
+            "tags": [],
+            "classTitle": "peas",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        542
+                    ],
+                    [
+                        120,
+                        492
+                    ],
+                    [
+                        81,
+                        486
+                    ],
+                    [
+                        70,
+                        517
+                    ],
+                    [
+                        107,
+                        542
+                    ],
+                    [
+                        107,
+                        542
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667831,
+            "classId": 4309,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.386Z",
+            "updatedAt": "2023-06-07T13:21:44.386Z",
+            "tags": [],
+            "classTitle": "peas",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        332
+                    ],
+                    [
+                        81,
+                        223
+                    ],
+                    [
+                        40,
+                        235
+                    ],
+                    [
+                        64,
+                        334
+                    ],
+                    [
+                        70,
+                        348
+                    ],
+                    [
+                        81,
+                        348
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667830,
+            "classId": 4309,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.386Z",
+            "updatedAt": "2023-06-07T13:21:44.386Z",
+            "tags": [],
+            "classTitle": "peas",
+            "points": {
+                "exterior": [
+                    [
+                        675,
+                        287
+                    ],
+                    [
+                        777,
+                        268
+                    ],
+                    [
+                        794,
+                        229
+                    ],
+                    [
+                        734,
+                        192
+                    ],
+                    [
+                        658,
+                        205
+                    ],
+                    [
+                        650,
+                        268
+                    ],
+                    [
+                        662,
+                        281
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667828,
+            "classId": 4041,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.385Z",
+            "updatedAt": "2023-06-07T13:21:44.385Z",
+            "tags": [],
+            "classTitle": "corn",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        229
+                    ],
+                    [
+                        387,
+                        211
+                    ],
+                    [
+                        358,
+                        174
+                    ],
+                    [
+                        323,
+                        174
+                    ],
+                    [
+                        333,
+                        211
+                    ],
+                    [
+                        346,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667827,
+            "classId": 4041,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.385Z",
+            "updatedAt": "2023-06-07T13:21:44.385Z",
+            "tags": [],
+            "classTitle": "corn",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        207
+                    ],
+                    [
+                        198,
+                        225
+                    ],
+                    [
+                        109,
+                        256
+                    ],
+                    [
+                        101,
+                        254
+                    ],
+                    [
+                        99,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667826,
+            "classId": 4041,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.385Z",
+            "updatedAt": "2023-06-07T13:21:44.385Z",
+            "tags": [],
+            "classTitle": "corn",
+            "points": {
+                "exterior": [
+                    [
+                        631,
+                        357
+                    ],
+                    [
+                        666,
+                        355
+                    ],
+                    [
+                        636,
+                        322
+                    ],
+                    [
+                        613,
+                        322
+                    ],
+                    [
+                        623,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1667825,
+            "classId": 4041,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:44.384Z",
+            "updatedAt": "2023-06-07T13:21:44.384Z",
+            "tags": [],
+            "classTitle": "corn",
+            "points": {
+                "exterior": [
+                    [
+                        525,
+                        583
+                    ],
+                    [
+                        496,
+                        521
+                    ],
+                    [
+                        469,
+                        527
+                    ],
+                    [
+                        465,
+                        542
+                    ],
+                    [
+                        506,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

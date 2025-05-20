@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1723223,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:55.576Z",
+            "updatedAt": "2023-06-07T14:00:55.576Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        91,
+                        91
+                    ],
+                    [
+                        111,
+                        118
+                    ],
+                    [
+                        250,
+                        138
+                    ],
+                    [
+                        342,
+                        100
+                    ],
+                    [
+                        335,
+                        64
+                    ],
+                    [
+                        300,
+                        75
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723221,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:55.576Z",
+            "updatedAt": "2023-06-07T14:00:55.576Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        210
+                    ],
+                    [
+                        348,
+                        328
+                    ],
+                    [
+                        413,
+                        277
+                    ],
+                    [
+                        399,
+                        202
+                    ],
+                    [
+                        352,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723219,
+            "classId": 3651,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:55.575Z",
+            "updatedAt": "2023-06-07T14:00:55.575Z",
+            "tags": [],
+            "classTitle": "french-beans",
+            "points": {
+                "exterior": [
+                    [
+                        93,
+                        236
+                    ],
+                    [
+                        69,
+                        400
+                    ],
+                    [
+                        377,
+                        363
+                    ],
+                    [
+                        340,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723217,
+            "classId": 3495,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:55.574Z",
+            "updatedAt": "2023-06-07T14:00:55.574Z",
+            "tags": [],
+            "classTitle": "lentils",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        147
+                    ],
+                    [
+                        289,
+                        175
+                    ],
+                    [
+                        437,
+                        190
+                    ],
+                    [
+                        355,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723215,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:55.574Z",
+            "updatedAt": "2023-06-07T14:00:55.574Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        132
+                    ],
+                    [
+                        41,
+                        214
+                    ],
+                    [
+                        3,
+                        273
+                    ],
+                    [
+                        69,
+                        297
+                    ],
+                    [
+                        105,
+                        232
+                    ],
+                    [
+                        57,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1723213,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:55.573Z",
+            "updatedAt": "2023-06-07T14:00:55.573Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        124
+                    ],
+                    [
+                        54,
+                        184
+                    ],
+                    [
+                        135,
+                        222
+                    ],
+                    [
+                        255,
+                        198
+                    ],
+                    [
+                        195,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

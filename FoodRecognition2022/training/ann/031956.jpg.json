@@ -1,0 +1,402 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1675299,
+            "classId": 4277,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:44.527Z",
+            "updatedAt": "2023-06-07T13:26:44.527Z",
+            "tags": [],
+            "classTitle": "bread-5-grain",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        87
+                    ],
+                    [
+                        18,
+                        150
+                    ],
+                    [
+                        3,
+                        180
+                    ],
+                    [
+                        77,
+                        373
+                    ],
+                    [
+                        117,
+                        426
+                    ],
+                    [
+                        119,
+                        432
+                    ],
+                    [
+                        131,
+                        385
+                    ],
+                    [
+                        122,
+                        343
+                    ],
+                    [
+                        105,
+                        329
+                    ],
+                    [
+                        81,
+                        310
+                    ],
+                    [
+                        14,
+                        162
+                    ],
+                    [
+                        144,
+                        117
+                    ],
+                    [
+                        177,
+                        100
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675298,
+            "classId": 4277,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:44.527Z",
+            "updatedAt": "2023-06-07T13:26:44.527Z",
+            "tags": [],
+            "classTitle": "bread-5-grain",
+            "points": {
+                "exterior": [
+                    [
+                        464,
+                        47
+                    ],
+                    [
+                        208,
+                        20
+                    ],
+                    [
+                        253,
+                        96
+                    ],
+                    [
+                        309,
+                        170
+                    ],
+                    [
+                        376,
+                        275
+                    ],
+                    [
+                        425,
+                        328
+                    ],
+                    [
+                        458,
+                        298
+                    ],
+                    [
+                        457,
+                        195
+                    ],
+                    [
+                        462,
+                        106
+                    ],
+                    [
+                        459,
+                        52
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675296,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:44.527Z",
+            "updatedAt": "2023-06-07T13:26:44.527Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        128
+                    ],
+                    [
+                        53,
+                        136
+                    ],
+                    [
+                        1,
+                        195
+                    ],
+                    [
+                        13,
+                        287
+                    ],
+                    [
+                        92,
+                        340
+                    ],
+                    [
+                        149,
+                        335
+                    ],
+                    [
+                        197,
+                        274
+                    ],
+                    [
+                        203,
+                        188
+                    ],
+                    [
+                        183,
+                        150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675294,
+            "classId": 3897,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:44.526Z",
+            "updatedAt": "2023-06-07T13:26:44.526Z",
+            "tags": [],
+            "classTitle": "bacon-cooking",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        265
+                    ],
+                    [
+                        277,
+                        131
+                    ],
+                    [
+                        222,
+                        106
+                    ],
+                    [
+                        140,
+                        92
+                    ],
+                    [
+                        135,
+                        178
+                    ],
+                    [
+                        105,
+                        252
+                    ],
+                    [
+                        194,
+                        268
+                    ],
+                    [
+                        212,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675292,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:44.526Z",
+            "updatedAt": "2023-06-07T13:26:44.526Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        473
+                    ],
+                    [
+                        425,
+                        446
+                    ],
+                    [
+                        416,
+                        356
+                    ],
+                    [
+                        354,
+                        306
+                    ],
+                    [
+                        310,
+                        296
+                    ],
+                    [
+                        246,
+                        292
+                    ],
+                    [
+                        204,
+                        289
+                    ],
+                    [
+                        159,
+                        368
+                    ],
+                    [
+                        147,
+                        441
+                    ],
+                    [
+                        162,
+                        465
+                    ],
+                    [
+                        236,
+                        475
+                    ],
+                    [
+                        313,
+                        467
+                    ],
+                    [
+                        324,
+                        468
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675290,
+            "classId": 3893,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:44.525Z",
+            "updatedAt": "2023-06-07T13:26:44.525Z",
+            "tags": [],
+            "classTitle": "alfa-sprouts",
+            "points": {
+                "exterior": [
+                    [
+                        342,
+                        405
+                    ],
+                    [
+                        281,
+                        301
+                    ],
+                    [
+                        214,
+                        299
+                    ],
+                    [
+                        166,
+                        366
+                    ],
+                    [
+                        226,
+                        446
+                    ],
+                    [
+                        311,
+                        455
+                    ],
+                    [
+                        344,
+                        438
+                    ],
+                    [
+                        348,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1675288,
+            "classId": 3871,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:26:44.525Z",
+            "updatedAt": "2023-06-07T13:26:44.525Z",
+            "tags": [],
+            "classTitle": "salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        353
+                    ],
+                    [
+                        286,
+                        305
+                    ],
+                    [
+                        238,
+                        334
+                    ],
+                    [
+                        170,
+                        355
+                    ],
+                    [
+                        190,
+                        457
+                    ],
+                    [
+                        239,
+                        458
+                    ],
+                    [
+                        281,
+                        431
+                    ],
+                    [
+                        334,
+                        398
+                    ],
+                    [
+                        397,
+                        356
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

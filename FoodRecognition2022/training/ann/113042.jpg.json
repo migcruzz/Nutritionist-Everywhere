@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1803378,
+            "classId": 4313,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:30.206Z",
+            "updatedAt": "2023-06-07T14:55:30.206Z",
+            "tags": [],
+            "classTitle": "apricots",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        91
+                    ],
+                    [
+                        74,
+                        121
+                    ],
+                    [
+                        106,
+                        203
+                    ],
+                    [
+                        157,
+                        226
+                    ],
+                    [
+                        200,
+                        218
+                    ],
+                    [
+                        208,
+                        167
+                    ],
+                    [
+                        197,
+                        134
+                    ],
+                    [
+                        141,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1803376,
+            "classId": 4097,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:30.206Z",
+            "updatedAt": "2023-06-07T14:55:30.206Z",
+            "tags": [],
+            "classTitle": "plums",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        39
+                    ],
+                    [
+                        151,
+                        53
+                    ],
+                    [
+                        149,
+                        91
+                    ],
+                    [
+                        183,
+                        124
+                    ],
+                    [
+                        208,
+                        147
+                    ],
+                    [
+                        199,
+                        220
+                    ],
+                    [
+                        199,
+                        254
+                    ],
+                    [
+                        233,
+                        283
+                    ],
+                    [
+                        290,
+                        264
+                    ],
+                    [
+                        305,
+                        221
+                    ],
+                    [
+                        290,
+                        118
+                    ],
+                    [
+                        245,
+                        113
+                    ],
+                    [
+                        239,
+                        75
+                    ],
+                    [
+                        210,
+                        45
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1803374,
+            "classId": 4371,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:30.206Z",
+            "updatedAt": "2023-06-07T14:55:30.206Z",
+            "tags": [],
+            "classTitle": "damson-plum",
+            "points": {
+                "exterior": [
+                    [
+                        103,
+                        210
+                    ],
+                    [
+                        72,
+                        166
+                    ],
+                    [
+                        27,
+                        176
+                    ],
+                    [
+                        11,
+                        223
+                    ],
+                    [
+                        40,
+                        255
+                    ],
+                    [
+                        75,
+                        260
+                    ],
+                    [
+                        91,
+                        297
+                    ],
+                    [
+                        146,
+                        304
+                    ],
+                    [
+                        162,
+                        294
+                    ],
+                    [
+                        165,
+                        258
+                    ],
+                    [
+                        142,
+                        225
+                    ],
+                    [
+                        113,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

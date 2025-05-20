@@ -1,0 +1,258 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 834,
+        "width": 834
+    },
+    "objects": [
+        {
+            "id": 1683348,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:05.551Z",
+            "updatedAt": "2023-06-07T13:32:05.551Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        149
+                    ],
+                    [
+                        272,
+                        164
+                    ],
+                    [
+                        265,
+                        193
+                    ],
+                    [
+                        313,
+                        203
+                    ],
+                    [
+                        378,
+                        187
+                    ],
+                    [
+                        386,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683346,
+            "classId": 3793,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:05.549Z",
+            "updatedAt": "2023-06-07T13:32:05.549Z",
+            "tags": [],
+            "classTitle": "juice-orange",
+            "points": {
+                "exterior": [
+                    [
+                        555,
+                        187
+                    ],
+                    [
+                        497,
+                        222
+                    ],
+                    [
+                        491,
+                        268
+                    ],
+                    [
+                        493,
+                        331
+                    ],
+                    [
+                        513,
+                        379
+                    ],
+                    [
+                        553,
+                        383
+                    ],
+                    [
+                        605,
+                        385
+                    ],
+                    [
+                        630,
+                        341
+                    ],
+                    [
+                        634,
+                        281
+                    ],
+                    [
+                        628,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683344,
+            "classId": 3423,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:05.548Z",
+            "updatedAt": "2023-06-07T13:32:05.548Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        456
+                    ],
+                    [
+                        88,
+                        552
+                    ],
+                    [
+                        146,
+                        577
+                    ],
+                    [
+                        219,
+                        577
+                    ],
+                    [
+                        345,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683342,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:05.548Z",
+            "updatedAt": "2023-06-07T13:32:05.548Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        652
+                    ],
+                    [
+                        272,
+                        648
+                    ],
+                    [
+                        418,
+                        668
+                    ],
+                    [
+                        482,
+                        710
+                    ],
+                    [
+                        495,
+                        787
+                    ],
+                    [
+                        438,
+                        812
+                    ],
+                    [
+                        284,
+                        823
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683340,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:05.547Z",
+            "updatedAt": "2023-06-07T13:32:05.547Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        422,
+                        735
+                    ],
+                    [
+                        349,
+                        704
+                    ],
+                    [
+                        336,
+                        735
+                    ],
+                    [
+                        388,
+                        756
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1683338,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:32:05.544Z",
+            "updatedAt": "2023-06-07T13:32:05.544Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        664
+                    ],
+                    [
+                        265,
+                        773
+                    ],
+                    [
+                        353,
+                        810
+                    ],
+                    [
+                        413,
+                        810
+                    ],
+                    [
+                        484,
+                        748
+                    ],
+                    [
+                        413,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
