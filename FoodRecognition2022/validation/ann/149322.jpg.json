@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1636599,
+            "classId": 4105,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:05.379Z",
+            "updatedAt": "2023-06-07T13:00:05.379Z",
+            "tags": [],
+            "classTitle": "soup-tomato",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        257
+                    ],
+                    [
+                        348,
+                        121
+                    ],
+                    [
+                        253,
+                        58
+                    ],
+                    [
+                        107,
+                        65
+                    ],
+                    [
+                        54,
+                        144
+                    ],
+                    [
+                        24,
+                        216
+                    ],
+                    [
+                        59,
+                        316
+                    ],
+                    [
+                        170,
+                        388
+                    ],
+                    [
+                        284,
+                        363
+                    ],
+                    [
+                        346,
+                        310
+                    ],
+                    [
+                        354,
+                        288
+                    ],
+                    [
+                        278,
+                        265
+                    ],
+                    [
+                        285,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636597,
+            "classId": 3473,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:05.379Z",
+            "updatedAt": "2023-06-07T13:00:05.379Z",
+            "tags": [],
+            "classTitle": "chickpeas",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        333
+                    ],
+                    [
+                        243,
+                        296
+                    ],
+                    [
+                        279,
+                        270
+                    ],
+                    [
+                        314,
+                        172
+                    ],
+                    [
+                        300,
+                        141
+                    ],
+                    [
+                        255,
+                        129
+                    ],
+                    [
+                        250,
+                        99
+                    ],
+                    [
+                        138,
+                        116
+                    ],
+                    [
+                        103,
+                        118
+                    ],
+                    [
+                        45,
+                        178
+                    ],
+                    [
+                        62,
+                        265
+                    ],
+                    [
+                        95,
+                        336
+                    ],
+                    [
+                        163,
+                        360
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 754,
+        "width": 755
+    },
+    "objects": [
+        {
+            "id": 1638187,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:12.266Z",
+            "updatedAt": "2023-06-07T13:01:12.266Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        312
+                    ],
+                    [
+                        70,
+                        322
+                    ],
+                    [
+                        36,
+                        429
+                    ],
+                    [
+                        33,
+                        556
+                    ],
+                    [
+                        185,
+                        660
+                    ],
+                    [
+                        227,
+                        646
+                    ],
+                    [
+                        248,
+                        548
+                    ],
+                    [
+                        199,
+                        480
+                    ],
+                    [
+                        195,
+                        399
+                    ],
+                    [
+                        161,
+                        337
+                    ],
+                    [
+                        148,
+                        327
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638185,
+            "classId": 3697,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:12.265Z",
+            "updatedAt": "2023-06-07T13:01:12.265Z",
+            "tags": [],
+            "classTitle": "chinese-cabbage",
+            "points": {
+                "exterior": [
+                    [
+                        501,
+                        59
+                    ],
+                    [
+                        289,
+                        44
+                    ],
+                    [
+                        165,
+                        101
+                    ],
+                    [
+                        148,
+                        303
+                    ],
+                    [
+                        184,
+                        478
+                    ],
+                    [
+                        225,
+                        658
+                    ],
+                    [
+                        302,
+                        743
+                    ],
+                    [
+                        450,
+                        720
+                    ],
+                    [
+                        559,
+                        673
+                    ],
+                    [
+                        654,
+                        614
+                    ],
+                    [
+                        714,
+                        499
+                    ],
+                    [
+                        704,
+                        339
+                    ],
+                    [
+                        665,
+                        165
+                    ],
+                    [
+                        559,
+                        84
+                    ],
+                    [
+                        508,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

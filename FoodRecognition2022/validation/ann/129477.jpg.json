@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 683,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1635604,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:22.757Z",
+            "updatedAt": "2023-06-07T12:59:22.757Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        163
+                    ],
+                    [
+                        184,
+                        170
+                    ],
+                    [
+                        124,
+                        199
+                    ],
+                    [
+                        110,
+                        284
+                    ],
+                    [
+                        66,
+                        359
+                    ],
+                    [
+                        44,
+                        415
+                    ],
+                    [
+                        90,
+                        458
+                    ],
+                    [
+                        184,
+                        489
+                    ],
+                    [
+                        329,
+                        472
+                    ],
+                    [
+                        390,
+                        432
+                    ],
+                    [
+                        424,
+                        368
+                    ],
+                    [
+                        419,
+                        294
+                    ],
+                    [
+                        378,
+                        233
+                    ],
+                    [
+                        342,
+                        212
+                    ],
+                    [
+                        291,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1635602,
+            "classId": 3479,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:22.756Z",
+            "updatedAt": "2023-06-07T12:59:22.756Z",
+            "tags": [],
+            "classTitle": "sauce-cream",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        440
+                    ],
+                    [
+                        223,
+                        485
+                    ],
+                    [
+                        240,
+                        396
+                    ],
+                    [
+                        243,
+                        314
+                    ],
+                    [
+                        237,
+                        264
+                    ],
+                    [
+                        204,
+                        227
+                    ],
+                    [
+                        146,
+                        234
+                    ],
+                    [
+                        78,
+                        324
+                    ],
+                    [
+                        73,
+                        367
+                    ],
+                    [
+                        103,
+                        391
+                    ],
+                    [
+                        110,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1635600,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:22.754Z",
+            "updatedAt": "2023-06-07T12:59:22.754Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        331
+                    ],
+                    [
+                        240,
+                        381
+                    ],
+                    [
+                        283,
+                        399
+                    ],
+                    [
+                        291,
+                        421
+                    ],
+                    [
+                        339,
+                        447
+                    ],
+                    [
+                        378,
+                        439
+                    ],
+                    [
+                        404,
+                        370
+                    ],
+                    [
+                        402,
+                        317
+                    ],
+                    [
+                        366,
+                        258
+                    ],
+                    [
+                        325,
+                        206
+                    ],
+                    [
+                        281,
+                        206
+                    ],
+                    [
+                        279,
+                        285
+                    ],
+                    [
+                        276,
+                        328
+                    ],
+                    [
+                        272,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

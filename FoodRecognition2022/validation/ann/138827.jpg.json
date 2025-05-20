@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 827,
+        "width": 827
+    },
+    "objects": [
+        {
+            "id": 1639390,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:00.092Z",
+            "updatedAt": "2023-06-07T13:02:00.092Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        516,
+                        537
+                    ],
+                    [
+                        487,
+                        595
+                    ],
+                    [
+                        508,
+                        615
+                    ],
+                    [
+                        498,
+                        669
+                    ],
+                    [
+                        97,
+                        473
+                    ],
+                    [
+                        138,
+                        421
+                    ],
+                    [
+                        101,
+                        375
+                    ],
+                    [
+                        134,
+                        322
+                    ],
+                    [
+                        510,
+                        530
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639388,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:00.092Z",
+            "updatedAt": "2023-06-07T13:02:00.092Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        595,
+                        609
+                    ],
+                    [
+                        510,
+                        541
+                    ],
+                    [
+                        227,
+                        353
+                    ],
+                    [
+                        117,
+                        315
+                    ],
+                    [
+                        28,
+                        241
+                    ],
+                    [
+                        49,
+                        202
+                    ],
+                    [
+                        632,
+                        499
+                    ],
+                    [
+                        165,
+                        136
+                    ],
+                    [
+                        155,
+                        94
+                    ],
+                    [
+                        184,
+                        96
+                    ],
+                    [
+                        709,
+                        425
+                    ],
+                    [
+                        684,
+                        491
+                    ],
+                    [
+                        638,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

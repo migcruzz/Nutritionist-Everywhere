@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 809,
+        "width": 809
+    },
+    "objects": [
+        {
+            "id": 1636253,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.449Z",
+            "updatedAt": "2023-06-07T12:59:50.449Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        301
+                    ],
+                    [
+                        41,
+                        303
+                    ],
+                    [
+                        23,
+                        620
+                    ],
+                    [
+                        369,
+                        610
+                    ],
+                    [
+                        399,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636251,
+            "classId": 3993,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.448Z",
+            "updatedAt": "2023-06-07T12:59:50.448Z",
+            "tags": [],
+            "classTitle": "vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        571,
+                        236
+                    ],
+                    [
+                        476,
+                        202
+                    ],
+                    [
+                        464,
+                        256
+                    ],
+                    [
+                        486,
+                        327
+                    ],
+                    [
+                        557,
+                        323
+                    ],
+                    [
+                        589,
+                        268
+                    ],
+                    [
+                        589,
+                        262
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

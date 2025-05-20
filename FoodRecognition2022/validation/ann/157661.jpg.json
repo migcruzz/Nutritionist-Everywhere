@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1638230,
+            "classId": 4335,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:12.270Z",
+            "updatedAt": "2023-06-07T13:01:12.270Z",
+            "tags": [],
+            "classTitle": "mango-dried",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        136
+                    ],
+                    [
+                        260,
+                        91
+                    ],
+                    [
+                        161,
+                        88
+                    ],
+                    [
+                        150,
+                        114
+                    ],
+                    [
+                        229,
+                        155
+                    ],
+                    [
+                        281,
+                        173
+                    ],
+                    [
+                        308,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638229,
+            "classId": 4335,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:12.270Z",
+            "updatedAt": "2023-06-07T13:01:12.270Z",
+            "tags": [],
+            "classTitle": "mango-dried",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        212
+                    ],
+                    [
+                        196,
+                        217
+                    ],
+                    [
+                        201,
+                        278
+                    ],
+                    [
+                        268,
+                        334
+                    ],
+                    [
+                        307,
+                        322
+                    ],
+                    [
+                        304,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638227,
+            "classId": 3493,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:12.269Z",
+            "updatedAt": "2023-06-07T13:01:12.269Z",
+            "tags": [],
+            "classTitle": "almonds",
+            "points": {
+                "exterior": [
+                    [
+                        177,
+                        218
+                    ],
+                    [
+                        128,
+                        243
+                    ],
+                    [
+                        60,
+                        268
+                    ],
+                    [
+                        60,
+                        275
+                    ],
+                    [
+                        103,
+                        291
+                    ],
+                    [
+                        122,
+                        321
+                    ],
+                    [
+                        160,
+                        289
+                    ],
+                    [
+                        162,
+                        283
+                    ],
+                    [
+                        212,
+                        279
+                    ],
+                    [
+                        212,
+                        256
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638225,
+            "classId": 3809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:12.268Z",
+            "updatedAt": "2023-06-07T13:01:12.268Z",
+            "tags": [],
+            "classTitle": "hazelnut",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        187
+                    ],
+                    [
+                        106,
+                        145
+                    ],
+                    [
+                        86,
+                        160
+                    ],
+                    [
+                        108,
+                        191
+                    ],
+                    [
+                        78,
+                        230
+                    ],
+                    [
+                        99,
+                        258
+                    ],
+                    [
+                        145,
+                        238
+                    ],
+                    [
+                        153,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

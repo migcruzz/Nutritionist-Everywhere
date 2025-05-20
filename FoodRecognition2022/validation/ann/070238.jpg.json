@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1636842,
+            "classId": 4177,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:16.257Z",
+            "updatedAt": "2023-06-07T13:00:16.257Z",
+            "tags": [],
+            "classTitle": "meat-terrine-pate",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        143
+                    ],
+                    [
+                        351,
+                        280
+                    ],
+                    [
+                        103,
+                        280
+                    ],
+                    [
+                        64,
+                        159
+                    ],
+                    [
+                        128,
+                        143
+                    ],
+                    [
+                        222,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

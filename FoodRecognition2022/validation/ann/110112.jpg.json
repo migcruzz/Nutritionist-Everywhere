@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 706,
+        "width": 706
+    },
+    "objects": [
+        {
+            "id": 1638382,
+            "classId": 3863,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:18.036Z",
+            "updatedAt": "2023-06-07T13:01:18.036Z",
+            "tags": [],
+            "classTitle": "dairy-ice-cream",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        525
+                    ],
+                    [
+                        168,
+                        571
+                    ],
+                    [
+                        219,
+                        563
+                    ],
+                    [
+                        226,
+                        495
+                    ],
+                    [
+                        214,
+                        443
+                    ],
+                    [
+                        143,
+                        405
+                    ],
+                    [
+                        106,
+                        413
+                    ],
+                    [
+                        82,
+                        448
+                    ],
+                    [
+                        82,
+                        481
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638380,
+            "classId": 3585,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:18.036Z",
+            "updatedAt": "2023-06-07T13:01:18.036Z",
+            "tags": [],
+            "classTitle": "cream",
+            "points": {
+                "exterior": [
+                    [
+                        57,
+                        497
+                    ],
+                    [
+                        101,
+                        423
+                    ],
+                    [
+                        43,
+                        377
+                    ],
+                    [
+                        15,
+                        393
+                    ],
+                    [
+                        9,
+                        451
+                    ],
+                    [
+                        27,
+                        483
+                    ],
+                    [
+                        29,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

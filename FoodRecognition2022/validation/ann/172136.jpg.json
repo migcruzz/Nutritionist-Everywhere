@@ -1,0 +1,510 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1296,
+        "width": 1297
+    },
+    "objects": [
+        {
+            "id": 1638600,
+            "classId": 4091,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:28.128Z",
+            "updatedAt": "2023-06-07T13:01:28.128Z",
+            "tags": [],
+            "classTitle": "bread-spelt",
+            "points": {
+                "exterior": [
+                    [
+                        761,
+                        97
+                    ],
+                    [
+                        648,
+                        294
+                    ],
+                    [
+                        606,
+                        350
+                    ],
+                    [
+                        894,
+                        654
+                    ],
+                    [
+                        943,
+                        723
+                    ],
+                    [
+                        1173,
+                        622
+                    ],
+                    [
+                        1261,
+                        457
+                    ],
+                    [
+                        1251,
+                        200
+                    ],
+                    [
+                        1180,
+                        74
+                    ],
+                    [
+                        1018,
+                        29
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638598,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:28.127Z",
+            "updatedAt": "2023-06-07T13:01:28.127Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        275,
+                        781
+                    ],
+                    [
+                        389,
+                        771
+                    ],
+                    [
+                        457,
+                        661
+                    ],
+                    [
+                        437,
+                        593
+                    ],
+                    [
+                        363,
+                        557
+                    ],
+                    [
+                        246,
+                        577
+                    ],
+                    [
+                        188,
+                        693
+                    ],
+                    [
+                        188,
+                        700
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638596,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:28.126Z",
+            "updatedAt": "2023-06-07T13:01:28.126Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        528,
+                        862
+                    ],
+                    [
+                        580,
+                        735
+                    ],
+                    [
+                        583,
+                        557
+                    ],
+                    [
+                        547,
+                        437
+                    ],
+                    [
+                        486,
+                        470
+                    ],
+                    [
+                        376,
+                        505
+                    ],
+                    [
+                        278,
+                        515
+                    ],
+                    [
+                        61,
+                        541
+                    ],
+                    [
+                        9,
+                        580
+                    ],
+                    [
+                        3,
+                        713
+                    ],
+                    [
+                        38,
+                        813
+                    ],
+                    [
+                        61,
+                        784
+                    ],
+                    [
+                        110,
+                        648
+                    ],
+                    [
+                        239,
+                        557
+                    ],
+                    [
+                        444,
+                        518
+                    ],
+                    [
+                        512,
+                        564
+                    ],
+                    [
+                        473,
+                        674
+                    ],
+                    [
+                        453,
+                        732
+                    ],
+                    [
+                        457,
+                        739
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638594,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:28.126Z",
+            "updatedAt": "2023-06-07T13:01:28.126Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        791
+                    ],
+                    [
+                        197,
+                        735
+                    ],
+                    [
+                        107,
+                        755
+                    ],
+                    [
+                        77,
+                        859
+                    ],
+                    [
+                        68,
+                        901
+                    ],
+                    [
+                        32,
+                        943
+                    ],
+                    [
+                        87,
+                        1066
+                    ],
+                    [
+                        113,
+                        1121
+                    ],
+                    [
+                        113,
+                        1125
+                    ],
+                    [
+                        191,
+                        1105
+                    ],
+                    [
+                        217,
+                        1082
+                    ],
+                    [
+                        191,
+                        966
+                    ],
+                    [
+                        184,
+                        846
+                    ],
+                    [
+                        220,
+                        820
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638593,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:28.125Z",
+            "updatedAt": "2023-06-07T13:01:28.125Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        570
+                    ],
+                    [
+                        291,
+                        547
+                    ],
+                    [
+                        295,
+                        492
+                    ],
+                    [
+                        239,
+                        476
+                    ],
+                    [
+                        178,
+                        483
+                    ],
+                    [
+                        162,
+                        502
+                    ],
+                    [
+                        158,
+                        541
+                    ],
+                    [
+                        162,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638592,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:28.125Z",
+            "updatedAt": "2023-06-07T13:01:28.125Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        635,
+                        489
+                    ],
+                    [
+                        645,
+                        359
+                    ],
+                    [
+                        609,
+                        340
+                    ],
+                    [
+                        544,
+                        350
+                    ],
+                    [
+                        544,
+                        427
+                    ],
+                    [
+                        557,
+                        466
+                    ],
+                    [
+                        564,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638591,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:28.124Z",
+            "updatedAt": "2023-06-07T13:01:28.124Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        684,
+                        1040
+                    ],
+                    [
+                        732,
+                        959
+                    ],
+                    [
+                        703,
+                        878
+                    ],
+                    [
+                        586,
+                        878
+                    ],
+                    [
+                        580,
+                        885
+                    ],
+                    [
+                        567,
+                        917
+                    ],
+                    [
+                        580,
+                        975
+                    ],
+                    [
+                        603,
+                        992
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638590,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:28.124Z",
+            "updatedAt": "2023-06-07T13:01:28.124Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        697,
+                        703
+                    ],
+                    [
+                        752,
+                        703
+                    ],
+                    [
+                        813,
+                        693
+                    ],
+                    [
+                        833,
+                        645
+                    ],
+                    [
+                        794,
+                        577
+                    ],
+                    [
+                        710,
+                        573
+                    ],
+                    [
+                        690,
+                        658
+                    ],
+                    [
+                        697,
+                        680
+                    ],
+                    [
+                        690,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638588,
+            "classId": 4149,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:28.123Z",
+            "updatedAt": "2023-06-07T13:01:28.123Z",
+            "tags": [],
+            "classTitle": "pumpkin-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        933
+                    ],
+                    [
+                        233,
+                        846
+                    ],
+                    [
+                        184,
+                        771
+                    ],
+                    [
+                        123,
+                        813
+                    ],
+                    [
+                        123,
+                        823
+                    ],
+                    [
+                        129,
+                        872
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

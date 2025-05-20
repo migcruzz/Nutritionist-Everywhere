@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1636634,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:05.381Z",
+            "updatedAt": "2023-06-07T13:00:05.381Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        119
+                    ],
+                    [
+                        192,
+                        106
+                    ],
+                    [
+                        169,
+                        159
+                    ],
+                    [
+                        222,
+                        170
+                    ],
+                    [
+                        255,
+                        176
+                    ],
+                    [
+                        321,
+                        145
+                    ],
+                    [
+                        362,
+                        148
+                    ],
+                    [
+                        364,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636632,
+            "classId": 3839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:05.381Z",
+            "updatedAt": "2023-06-07T13:00:05.381Z",
+            "tags": [],
+            "classTitle": "spinach-raw",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        161
+                    ],
+                    [
+                        349,
+                        145
+                    ],
+                    [
+                        259,
+                        166
+                    ],
+                    [
+                        190,
+                        172
+                    ],
+                    [
+                        146,
+                        201
+                    ],
+                    [
+                        112,
+                        238
+                    ],
+                    [
+                        107,
+                        246
+                    ],
+                    [
+                        72,
+                        223
+                    ],
+                    [
+                        37,
+                        263
+                    ],
+                    [
+                        74,
+                        328
+                    ],
+                    [
+                        212,
+                        399
+                    ],
+                    [
+                        327,
+                        387
+                    ],
+                    [
+                        368,
+                        350
+                    ],
+                    [
+                        394,
+                        291
+                    ],
+                    [
+                        392,
+                        241
+                    ],
+                    [
+                        344,
+                        200
+                    ],
+                    [
+                        360,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

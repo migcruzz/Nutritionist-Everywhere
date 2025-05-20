@@ -1,0 +1,262 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 773,
+        "width": 771
+    },
+    "objects": [
+        {
+            "id": 1638429,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:22.555Z",
+            "updatedAt": "2023-06-07T13:01:22.555Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        177
+                    ],
+                    [
+                        135,
+                        235
+                    ],
+                    [
+                        365,
+                        196
+                    ],
+                    [
+                        440,
+                        202
+                    ],
+                    [
+                        463,
+                        210
+                    ],
+                    [
+                        258,
+                        389
+                    ],
+                    [
+                        287,
+                        413
+                    ],
+                    [
+                        361,
+                        389
+                    ],
+                    [
+                        535,
+                        219
+                    ],
+                    [
+                        521,
+                        179
+                    ],
+                    [
+                        477,
+                        188
+                    ],
+                    [
+                        450,
+                        183
+                    ],
+                    [
+                        463,
+                        146
+                    ],
+                    [
+                        380,
+                        144
+                    ],
+                    [
+                        347,
+                        115
+                    ],
+                    [
+                        162,
+                        131
+                    ],
+                    [
+                        141,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638427,
+            "classId": 3731,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:22.555Z",
+            "updatedAt": "2023-06-07T13:01:22.555Z",
+            "tags": [],
+            "classTitle": "bread-whole-wheat",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        413
+                    ],
+                    [
+                        247,
+                        643
+                    ],
+                    [
+                        340,
+                        614
+                    ],
+                    [
+                        425,
+                        641
+                    ],
+                    [
+                        374,
+                        759
+                    ],
+                    [
+                        529,
+                        747
+                    ],
+                    [
+                        631,
+                        621
+                    ],
+                    [
+                        541,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638425,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:22.554Z",
+            "updatedAt": "2023-06-07T13:01:22.554Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        502,
+                        368
+                    ],
+                    [
+                        347,
+                        432
+                    ],
+                    [
+                        343,
+                        478
+                    ],
+                    [
+                        392,
+                        527
+                    ],
+                    [
+                        512,
+                        631
+                    ],
+                    [
+                        591,
+                        619
+                    ],
+                    [
+                        635,
+                        561
+                    ],
+                    [
+                        587,
+                        457
+                    ],
+                    [
+                        552,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638423,
+            "classId": 3965,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:22.554Z",
+            "updatedAt": "2023-06-07T13:01:22.554Z",
+            "tags": [],
+            "classTitle": "philadelphia",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        484
+                    ],
+                    [
+                        260,
+                        621
+                    ],
+                    [
+                        303,
+                        616
+                    ],
+                    [
+                        347,
+                        502
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638422,
+            "classId": 3965,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:22.554Z",
+            "updatedAt": "2023-06-07T13:01:22.554Z",
+            "tags": [],
+            "classTitle": "philadelphia",
+            "points": {
+                "exterior": [
+                    [
+                        467,
+                        747
+                    ],
+                    [
+                        508,
+                        735
+                    ],
+                    [
+                        564,
+                        645
+                    ],
+                    [
+                        515,
+                        660
+                    ],
+                    [
+                        421,
+                        745
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

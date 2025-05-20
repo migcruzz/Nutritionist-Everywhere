@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 767,
+        "width": 767
+    },
+    "objects": [
+        {
+            "id": 1636315,
+            "classId": 4161,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.455Z",
+            "updatedAt": "2023-06-07T12:59:50.455Z",
+            "tags": [],
+            "classTitle": "wienerli-swiss-sausage",
+            "points": {
+                "exterior": [
+                    [
+                        643,
+                        515
+                    ],
+                    [
+                        534,
+                        502
+                    ],
+                    [
+                        116,
+                        467
+                    ],
+                    [
+                        35,
+                        529
+                    ],
+                    [
+                        74,
+                        573
+                    ],
+                    [
+                        158,
+                        630
+                    ],
+                    [
+                        400,
+                        663
+                    ],
+                    [
+                        666,
+                        644
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636313,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.455Z",
+            "updatedAt": "2023-06-07T12:59:50.455Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        616,
+                        525
+                    ],
+                    [
+                        386,
+                        489
+                    ],
+                    [
+                        388,
+                        577
+                    ],
+                    [
+                        496,
+                        581
+                    ],
+                    [
+                        597,
+                        558
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636312,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.455Z",
+            "updatedAt": "2023-06-07T12:59:50.455Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        521
+                    ],
+                    [
+                        195,
+                        469
+                    ],
+                    [
+                        95,
+                        512
+                    ],
+                    [
+                        101,
+                        558
+                    ],
+                    [
+                        310,
+                        538
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

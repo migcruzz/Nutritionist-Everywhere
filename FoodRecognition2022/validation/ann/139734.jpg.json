@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1639415,
+            "classId": 3501,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:00.094Z",
+            "updatedAt": "2023-06-07T13:02:00.094Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        45
+                    ],
+                    [
+                        222,
+                        58
+                    ],
+                    [
+                        182,
+                        49
+                    ],
+                    [
+                        136,
+                        134
+                    ],
+                    [
+                        28,
+                        97
+                    ],
+                    [
+                        20,
+                        136
+                    ],
+                    [
+                        67,
+                        178
+                    ],
+                    [
+                        56,
+                        264
+                    ],
+                    [
+                        90,
+                        314
+                    ],
+                    [
+                        241,
+                        334
+                    ],
+                    [
+                        229,
+                        267
+                    ],
+                    [
+                        251,
+                        215
+                    ],
+                    [
+                        337,
+                        231
+                    ],
+                    [
+                        361,
+                        213
+                    ],
+                    [
+                        367,
+                        188
+                    ],
+                    [
+                        340,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639413,
+            "classId": 3649,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:02:00.093Z",
+            "updatedAt": "2023-06-07T13:02:00.093Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        233
+                    ],
+                    [
+                        261,
+                        218
+                    ],
+                    [
+                        226,
+                        253
+                    ],
+                    [
+                        232,
+                        314
+                    ],
+                    [
+                        283,
+                        350
+                    ],
+                    [
+                        319,
+                        354
+                    ],
+                    [
+                        383,
+                        325
+                    ],
+                    [
+                        379,
+                        290
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

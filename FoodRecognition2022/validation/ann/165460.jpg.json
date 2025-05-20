@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 781,
+        "width": 781
+    },
+    "objects": [
+        {
+            "id": 1639013,
+            "classId": 3443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:45.371Z",
+            "updatedAt": "2023-06-07T13:01:45.371Z",
+            "tags": [],
+            "classTitle": "salmon-smoked",
+            "points": {
+                "exterior": [
+                    [
+                        588,
+                        486
+                    ],
+                    [
+                        569,
+                        376
+                    ],
+                    [
+                        504,
+                        329
+                    ],
+                    [
+                        330,
+                        259
+                    ],
+                    [
+                        200,
+                        286
+                    ],
+                    [
+                        82,
+                        339
+                    ],
+                    [
+                        53,
+                        407
+                    ],
+                    [
+                        174,
+                        523
+                    ],
+                    [
+                        289,
+                        636
+                    ],
+                    [
+                        366,
+                        706
+                    ],
+                    [
+                        473,
+                        650
+                    ],
+                    [
+                        602,
+                        554
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639011,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:45.370Z",
+            "updatedAt": "2023-06-07T13:01:45.370Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        674,
+                        575
+                    ],
+                    [
+                        625,
+                        445
+                    ],
+                    [
+                        563,
+                        357
+                    ],
+                    [
+                        586,
+                        556
+                    ],
+                    [
+                        532,
+                        622
+                    ],
+                    [
+                        610,
+                        640
+                    ],
+                    [
+                        672,
+                        620
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

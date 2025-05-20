@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 820,
+        "width": 820
+    },
+    "objects": [
+        {
+            "id": 1637722,
+            "classId": 4167,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:53.075Z",
+            "updatedAt": "2023-06-07T13:00:53.075Z",
+            "tags": [],
+            "classTitle": "white-bread-with-butter-eggs-and-milk",
+            "points": {
+                "exterior": [
+                    [
+                        647,
+                        543
+                    ],
+                    [
+                        479,
+                        572
+                    ],
+                    [
+                        360,
+                        490
+                    ],
+                    [
+                        217,
+                        305
+                    ],
+                    [
+                        125,
+                        211
+                    ],
+                    [
+                        80,
+                        303
+                    ],
+                    [
+                        170,
+                        404
+                    ],
+                    [
+                        328,
+                        617
+                    ],
+                    [
+                        436,
+                        705
+                    ],
+                    [
+                        582,
+                        697
+                    ],
+                    [
+                        637,
+                        637
+                    ],
+                    [
+                        651,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1637720,
+            "classId": 3803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:53.074Z",
+            "updatedAt": "2023-06-07T13:00:53.074Z",
+            "tags": [],
+            "classTitle": "hazelnut-chocolate-spread-nutella-ovomaltine-caotina",
+            "points": {
+                "exterior": [
+                    [
+                        613,
+                        543
+                    ],
+                    [
+                        440,
+                        533
+                    ],
+                    [
+                        162,
+                        268
+                    ],
+                    [
+                        127,
+                        203
+                    ],
+                    [
+                        182,
+                        166
+                    ],
+                    [
+                        287,
+                        162
+                    ],
+                    [
+                        364,
+                        211
+                    ],
+                    [
+                        522,
+                        346
+                    ],
+                    [
+                        588,
+                        400
+                    ],
+                    [
+                        649,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

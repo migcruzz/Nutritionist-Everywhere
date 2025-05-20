@@ -1,0 +1,42 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1636150,
+            "classId": 4213,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:45.615Z",
+            "updatedAt": "2023-06-27T12:54:32.826Z",
+            "tags": [],
+            "classTitle": "meringue",
+            "points": {
+                "exterior": [
+                    [
+                        143,
+                        265
+                    ],
+                    [
+                        155,
+                        380
+                    ],
+                    [
+                        93,
+                        373
+                    ],
+                    [
+                        112,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

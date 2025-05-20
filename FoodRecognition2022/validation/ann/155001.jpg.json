@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1081,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1639260,
+            "classId": 4003,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:56.084Z",
+            "updatedAt": "2023-06-07T13:01:56.084Z",
+            "tags": [],
+            "classTitle": "sauerkraut",
+            "points": {
+                "exterior": [
+                    [
+                        858,
+                        331
+                    ],
+                    [
+                        690,
+                        364
+                    ],
+                    [
+                        566,
+                        469
+                    ],
+                    [
+                        522,
+                        607
+                    ],
+                    [
+                        539,
+                        904
+                    ],
+                    [
+                        674,
+                        1002
+                    ],
+                    [
+                        814,
+                        891
+                    ],
+                    [
+                        1001,
+                        753
+                    ],
+                    [
+                        985,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639258,
+            "classId": 4133,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:56.084Z",
+            "updatedAt": "2023-06-07T13:01:56.084Z",
+            "tags": [],
+            "classTitle": "sour-cream",
+            "points": {
+                "exterior": [
+                    [
+                        803,
+                        188
+                    ],
+                    [
+                        739,
+                        226
+                    ],
+                    [
+                        501,
+                        196
+                    ],
+                    [
+                        385,
+                        210
+                    ],
+                    [
+                        409,
+                        423
+                    ],
+                    [
+                        528,
+                        464
+                    ],
+                    [
+                        598,
+                        407
+                    ],
+                    [
+                        1017,
+                        334
+                    ],
+                    [
+                        863,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

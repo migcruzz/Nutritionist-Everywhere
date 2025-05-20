@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1636154,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:45.615Z",
+            "updatedAt": "2023-06-07T12:59:45.615Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        270
+                    ],
+                    [
+                        278,
+                        233
+                    ],
+                    [
+                        305,
+                        167
+                    ],
+                    [
+                        300,
+                        86
+                    ],
+                    [
+                        262,
+                        30
+                    ],
+                    [
+                        154,
+                        34
+                    ],
+                    [
+                        84,
+                        69
+                    ],
+                    [
+                        60,
+                        117
+                    ],
+                    [
+                        57,
+                        184
+                    ],
+                    [
+                        54,
+                        217
+                    ],
+                    [
+                        66,
+                        251
+                    ],
+                    [
+                        74,
+                        263
+                    ],
+                    [
+                        80,
+                        273
+                    ],
+                    [
+                        80,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636152,
+            "classId": 3737,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:45.613Z",
+            "updatedAt": "2023-06-07T12:59:45.613Z",
+            "tags": [],
+            "classTitle": "hummus",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        169
+                    ],
+                    [
+                        118,
+                        246
+                    ],
+                    [
+                        140,
+                        245
+                    ],
+                    [
+                        294,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

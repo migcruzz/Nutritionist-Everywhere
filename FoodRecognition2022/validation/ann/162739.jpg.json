@@ -1,0 +1,622 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1636273,
+            "classId": 3719,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.449Z",
+            "updatedAt": "2023-06-07T12:59:50.449Z",
+            "tags": [],
+            "classTitle": "fajita-bread-only",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        27
+                    ],
+                    [
+                        172,
+                        39
+                    ],
+                    [
+                        94,
+                        69
+                    ],
+                    [
+                        26,
+                        117
+                    ],
+                    [
+                        9,
+                        150
+                    ],
+                    [
+                        4,
+                        205
+                    ],
+                    [
+                        11,
+                        327
+                    ],
+                    [
+                        65,
+                        374
+                    ],
+                    [
+                        132,
+                        407
+                    ],
+                    [
+                        223,
+                        428
+                    ],
+                    [
+                        349,
+                        423
+                    ],
+                    [
+                        434,
+                        330
+                    ],
+                    [
+                        451,
+                        301
+                    ],
+                    [
+                        461,
+                        170
+                    ],
+                    [
+                        433,
+                        133
+                    ],
+                    [
+                        384,
+                        91
+                    ],
+                    [
+                        319,
+                        54
+                    ],
+                    [
+                        256,
+                        32
+                    ],
+                    [
+                        247,
+                        27
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636271,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.449Z",
+            "updatedAt": "2023-06-07T12:59:50.449Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        231,
+                        119
+                    ],
+                    [
+                        179,
+                        154
+                    ],
+                    [
+                        167,
+                        180
+                    ],
+                    [
+                        225,
+                        189
+                    ],
+                    [
+                        232,
+                        215
+                    ],
+                    [
+                        252,
+                        207
+                    ],
+                    [
+                        255,
+                        170
+                    ],
+                    [
+                        262,
+                        128
+                    ],
+                    [
+                        243,
+                        111
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636270,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.448Z",
+            "updatedAt": "2023-06-07T12:59:50.448Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        148
+                    ],
+                    [
+                        82,
+                        175
+                    ],
+                    [
+                        78,
+                        222
+                    ],
+                    [
+                        86,
+                        262
+                    ],
+                    [
+                        77,
+                        296
+                    ],
+                    [
+                        152,
+                        308
+                    ],
+                    [
+                        117,
+                        265
+                    ],
+                    [
+                        108,
+                        250
+                    ],
+                    [
+                        125,
+                        201
+                    ],
+                    [
+                        121,
+                        149
+                    ],
+                    [
+                        111,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636269,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.448Z",
+            "updatedAt": "2023-06-07T12:59:50.448Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        122
+                    ],
+                    [
+                        310,
+                        149
+                    ],
+                    [
+                        314,
+                        187
+                    ],
+                    [
+                        302,
+                        225
+                    ],
+                    [
+                        284,
+                        242
+                    ],
+                    [
+                        268,
+                        269
+                    ],
+                    [
+                        272,
+                        334
+                    ],
+                    [
+                        304,
+                        346
+                    ],
+                    [
+                        321,
+                        306
+                    ],
+                    [
+                        341,
+                        279
+                    ],
+                    [
+                        353,
+                        293
+                    ],
+                    [
+                        381,
+                        266
+                    ],
+                    [
+                        368,
+                        240
+                    ],
+                    [
+                        342,
+                        193
+                    ],
+                    [
+                        345,
+                        184
+                    ],
+                    [
+                        363,
+                        149
+                    ],
+                    [
+                        363,
+                        131
+                    ],
+                    [
+                        350,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636267,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.448Z",
+            "updatedAt": "2023-06-07T12:59:50.448Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        98
+                    ],
+                    [
+                        237,
+                        60
+                    ],
+                    [
+                        198,
+                        67
+                    ],
+                    [
+                        144,
+                        85
+                    ],
+                    [
+                        139,
+                        97
+                    ],
+                    [
+                        195,
+                        111
+                    ],
+                    [
+                        229,
+                        105
+                    ],
+                    [
+                        258,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636266,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.447Z",
+            "updatedAt": "2023-06-07T12:59:50.447Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        189
+                    ],
+                    [
+                        209,
+                        233
+                    ],
+                    [
+                        217,
+                        270
+                    ],
+                    [
+                        191,
+                        329
+                    ],
+                    [
+                        233,
+                        348
+                    ],
+                    [
+                        265,
+                        286
+                    ],
+                    [
+                        290,
+                        255
+                    ],
+                    [
+                        290,
+                        216
+                    ],
+                    [
+                        231,
+                        207
+                    ],
+                    [
+                        204,
+                        193
+                    ],
+                    [
+                        198,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636264,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.446Z",
+            "updatedAt": "2023-06-07T12:59:50.446Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        178
+                    ],
+                    [
+                        115,
+                        203
+                    ],
+                    [
+                        125,
+                        213
+                    ],
+                    [
+                        164,
+                        208
+                    ],
+                    [
+                        158,
+                        265
+                    ],
+                    [
+                        189,
+                        276
+                    ],
+                    [
+                        201,
+                        259
+                    ],
+                    [
+                        178,
+                        229
+                    ],
+                    [
+                        160,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636263,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.445Z",
+            "updatedAt": "2023-06-07T12:59:50.445Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        175
+                    ],
+                    [
+                        260,
+                        208
+                    ],
+                    [
+                        301,
+                        184
+                    ],
+                    [
+                        307,
+                        163
+                    ],
+                    [
+                        278,
+                        162
+                    ],
+                    [
+                        265,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636262,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.445Z",
+            "updatedAt": "2023-06-07T12:59:50.445Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        167
+                    ],
+                    [
+                        348,
+                        201
+                    ],
+                    [
+                        361,
+                        220
+                    ],
+                    [
+                        367,
+                        196
+                    ],
+                    [
+                        353,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636261,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.445Z",
+            "updatedAt": "2023-06-07T12:59:50.445Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        276
+                    ],
+                    [
+                        313,
+                        305
+                    ],
+                    [
+                        320,
+                        317
+                    ],
+                    [
+                        336,
+                        309
+                    ],
+                    [
+                        331,
+                        279
+                    ],
+                    [
+                        327,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636259,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:50.444Z",
+            "updatedAt": "2023-06-07T12:59:50.444Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        207
+                    ],
+                    [
+                        145,
+                        214
+                    ],
+                    [
+                        153,
+                        257
+                    ],
+                    [
+                        262,
+                        250
+                    ],
+                    [
+                        301,
+                        249
+                    ],
+                    [
+                        270,
+                        212
+                    ],
+                    [
+                        240,
+                        199
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

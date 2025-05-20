@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 761,
+        "width": 762
+    },
+    "objects": [
+        {
+            "id": 1638990,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:45.370Z",
+            "updatedAt": "2023-06-07T13:01:45.370Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        48
+                    ],
+                    [
+                        10,
+                        467
+                    ],
+                    [
+                        296,
+                        694
+                    ],
+                    [
+                        686,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638988,
+            "classId": 3443,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:45.369Z",
+            "updatedAt": "2023-06-07T13:01:45.369Z",
+            "tags": [],
+            "classTitle": "salmon-smoked",
+            "points": {
+                "exterior": [
+                    [
+                        431,
+                        54
+                    ],
+                    [
+                        252,
+                        256
+                    ],
+                    [
+                        10,
+                        462
+                    ],
+                    [
+                        31,
+                        566
+                    ],
+                    [
+                        180,
+                        715
+                    ],
+                    [
+                        261,
+                        711
+                    ],
+                    [
+                        690,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

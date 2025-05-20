@@ -1,0 +1,238 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 792,
+        "width": 792
+    },
+    "objects": [
+        {
+            "id": 1636830,
+            "classId": 4069,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:11.284Z",
+            "updatedAt": "2023-06-07T13:00:11.284Z",
+            "tags": [],
+            "classTitle": "blue-mould-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        703
+                    ],
+                    [
+                        373,
+                        546
+                    ],
+                    [
+                        368,
+                        513
+                    ],
+                    [
+                        237,
+                        491
+                    ],
+                    [
+                        84,
+                        479
+                    ],
+                    [
+                        69,
+                        515
+                    ],
+                    [
+                        102,
+                        596
+                    ],
+                    [
+                        128,
+                        633
+                    ],
+                    [
+                        120,
+                        641
+                    ],
+                    [
+                        108,
+                        661
+                    ],
+                    [
+                        201,
+                        709
+                    ],
+                    [
+                        201,
+                        709
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636828,
+            "classId": 4251,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:11.284Z",
+            "updatedAt": "2023-06-07T13:00:11.284Z",
+            "tags": [],
+            "classTitle": "grits-polenta-maize-flour",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        483
+                    ],
+                    [
+                        338,
+                        398
+                    ],
+                    [
+                        338,
+                        346
+                    ],
+                    [
+                        381,
+                        295
+                    ],
+                    [
+                        391,
+                        261
+                    ],
+                    [
+                        368,
+                        188
+                    ],
+                    [
+                        306,
+                        140
+                    ],
+                    [
+                        215,
+                        142
+                    ],
+                    [
+                        197,
+                        200
+                    ],
+                    [
+                        174,
+                        208
+                    ],
+                    [
+                        102,
+                        235
+                    ],
+                    [
+                        53,
+                        330
+                    ],
+                    [
+                        55,
+                        418
+                    ],
+                    [
+                        71,
+                        473
+                    ],
+                    [
+                        108,
+                        475
+                    ],
+                    [
+                        213,
+                        461
+                    ],
+                    [
+                        249,
+                        463
+                    ],
+                    [
+                        259,
+                        465
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636826,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:11.284Z",
+            "updatedAt": "2023-06-07T13:00:11.284Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        649,
+                        294
+                    ],
+                    [
+                        402,
+                        229
+                    ],
+                    [
+                        315,
+                        391
+                    ],
+                    [
+                        337,
+                        518
+                    ],
+                    [
+                        388,
+                        664
+                    ],
+                    [
+                        552,
+                        651
+                    ],
+                    [
+                        590,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1636824,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:11.282Z",
+            "updatedAt": "2023-06-07T13:00:11.282Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        670
+                    ],
+                    [
+                        303,
+                        672
+                    ],
+                    [
+                        323,
+                        724
+                    ],
+                    [
+                        479,
+                        718
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

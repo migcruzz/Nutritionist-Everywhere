@@ -1,0 +1,42 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1636707,
+            "classId": 3459,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:05.388Z",
+            "updatedAt": "2023-06-07T13:00:05.388Z",
+            "tags": [],
+            "classTitle": "juice-apple",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        105
+                    ],
+                    [
+                        143,
+                        294
+                    ],
+                    [
+                        258,
+                        293
+                    ],
+                    [
+                        274,
+                        95
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

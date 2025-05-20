@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 634,
+        "width": 633
+    },
+    "objects": [
+        {
+            "id": 1637659,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:53.069Z",
+            "updatedAt": "2023-06-07T13:00:53.069Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        407,
+                        549
+                    ],
+                    [
+                        387,
+                        530
+                    ],
+                    [
+                        360,
+                        527
+                    ],
+                    [
+                        348,
+                        532
+                    ],
+                    [
+                        352,
+                        543
+                    ],
+                    [
+                        368,
+                        551
+                    ],
+                    [
+                        383,
+                        556
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1637657,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:53.069Z",
+            "updatedAt": "2023-06-07T13:00:53.069Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        609
+                    ],
+                    [
+                        444,
+                        605
+                    ],
+                    [
+                        391,
+                        621
+                    ],
+                    [
+                        486,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1637655,
+            "classId": 4017,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:53.068Z",
+            "updatedAt": "2023-06-07T13:00:53.068Z",
+            "tags": [],
+            "classTitle": "sun-dried-tomatoe",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        557
+                    ],
+                    [
+                        241,
+                        541
+                    ],
+                    [
+                        220,
+                        552
+                    ],
+                    [
+                        239,
+                        560
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

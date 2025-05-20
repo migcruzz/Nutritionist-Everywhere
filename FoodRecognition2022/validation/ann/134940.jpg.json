@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 865
+    },
+    "objects": [
+        {
+            "id": 1638933,
+            "classId": 4057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:45.365Z",
+            "updatedAt": "2023-06-07T13:01:45.365Z",
+            "tags": [],
+            "classTitle": "bread-rye",
+            "points": {
+                "exterior": [
+                    [
+                        778,
+                        271
+                    ],
+                    [
+                        68,
+                        265
+                    ],
+                    [
+                        49,
+                        605
+                    ],
+                    [
+                        81,
+                        652
+                    ],
+                    [
+                        473,
+                        668
+                    ],
+                    [
+                        791,
+                        665
+                    ],
+                    [
+                        802,
+                        659
+                    ],
+                    [
+                        793,
+                        548
+                    ],
+                    [
+                        780,
+                        427
+                    ],
+                    [
+                        780,
+                        356
+                    ],
+                    [
+                        780,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638931,
+            "classId": 4057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:45.364Z",
+            "updatedAt": "2023-06-07T13:01:45.364Z",
+            "tags": [],
+            "classTitle": "bread-rye",
+            "points": {
+                "exterior": [
+                    [
+                        785,
+                        270
+                    ],
+                    [
+                        96,
+                        275
+                    ],
+                    [
+                        62,
+                        591
+                    ],
+                    [
+                        92,
+                        673
+                    ],
+                    [
+                        590,
+                        677
+                    ],
+                    [
+                        811,
+                        677
+                    ],
+                    [
+                        778,
+                        383
+                    ],
+                    [
+                        782,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

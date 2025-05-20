@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1638098,
+            "classId": 4065,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:08.632Z",
+            "updatedAt": "2023-06-07T13:01:08.632Z",
+            "tags": [],
+            "classTitle": "grapefruit-pomelo",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        395
+                    ],
+                    [
+                        247,
+                        370
+                    ],
+                    [
+                        249,
+                        209
+                    ],
+                    [
+                        353,
+                        152
+                    ],
+                    [
+                        452,
+                        202
+                    ],
+                    [
+                        467,
+                        352
+                    ],
+                    [
+                        431,
+                        404
+                    ],
+                    [
+                        414,
+                        405
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638097,
+            "classId": 4065,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:08.632Z",
+            "updatedAt": "2023-06-07T13:01:08.632Z",
+            "tags": [],
+            "classTitle": "grapefruit-pomelo",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        227
+                    ],
+                    [
+                        86,
+                        205
+                    ],
+                    [
+                        167,
+                        240
+                    ],
+                    [
+                        192,
+                        294
+                    ],
+                    [
+                        181,
+                        354
+                    ],
+                    [
+                        52,
+                        399
+                    ],
+                    [
+                        41,
+                        399
+                    ],
+                    [
+                        25,
+                        390
+                    ],
+                    [
+                        6,
+                        378
+                    ],
+                    [
+                        0,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

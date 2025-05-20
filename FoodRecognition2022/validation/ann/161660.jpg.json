@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1040,
+        "width": 1039
+    },
+    "objects": [
+        {
+            "id": 1638218,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:12.268Z",
+            "updatedAt": "2023-06-07T13:01:12.268Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        61
+                    ],
+                    [
+                        128,
+                        410
+                    ],
+                    [
+                        666,
+                        566
+                    ],
+                    [
+                        695,
+                        459
+                    ],
+                    [
+                        705,
+                        342
+                    ],
+                    [
+                        741,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638216,
+            "classId": 3997,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:12.267Z",
+            "updatedAt": "2023-06-07T13:01:12.267Z",
+            "tags": [],
+            "classTitle": "red-radish",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        428
+                    ],
+                    [
+                        182,
+                        527
+                    ],
+                    [
+                        232,
+                        626
+                    ],
+                    [
+                        279,
+                        701
+                    ],
+                    [
+                        331,
+                        688
+                    ],
+                    [
+                        416,
+                        597
+                    ],
+                    [
+                        442,
+                        519
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638214,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:12.267Z",
+            "updatedAt": "2023-06-07T13:01:12.267Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        754,
+                        511
+                    ],
+                    [
+                        632,
+                        584
+                    ],
+                    [
+                        463,
+                        706
+                    ],
+                    [
+                        351,
+                        727
+                    ],
+                    [
+                        310,
+                        797
+                    ],
+                    [
+                        338,
+                        912
+                    ],
+                    [
+                        523,
+                        938
+                    ],
+                    [
+                        684,
+                        880
+                    ],
+                    [
+                        765,
+                        828
+                    ],
+                    [
+                        923,
+                        735
+                    ],
+                    [
+                        900,
+                        631
+                    ],
+                    [
+                        866,
+                        550
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

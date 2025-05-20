@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1635768,
+            "classId": 4347,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:26.741Z",
+            "updatedAt": "2023-06-07T12:59:26.741Z",
+            "tags": [],
+            "classTitle": "pie-apricot-baked-with-cake-dough",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        101
+                    ],
+                    [
+                        321,
+                        326
+                    ],
+                    [
+                        468,
+                        257
+                    ],
+                    [
+                        463,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1635766,
+            "classId": 4037,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:26.739Z",
+            "updatedAt": "2023-06-07T12:59:26.739Z",
+            "tags": [],
+            "classTitle": "bread-fruit",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        56
+                    ],
+                    [
+                        271,
+                        21
+                    ],
+                    [
+                        196,
+                        9
+                    ],
+                    [
+                        91,
+                        40
+                    ],
+                    [
+                        82,
+                        96
+                    ],
+                    [
+                        89,
+                        188
+                    ],
+                    [
+                        131,
+                        233
+                    ],
+                    [
+                        233,
+                        221
+                    ],
+                    [
+                        276,
+                        180
+                    ],
+                    [
+                        268,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1635764,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:26.737Z",
+            "updatedAt": "2023-06-07T12:59:26.737Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        219
+                    ],
+                    [
+                        67,
+                        257
+                    ],
+                    [
+                        48,
+                        352
+                    ],
+                    [
+                        78,
+                        377
+                    ],
+                    [
+                        168,
+                        382
+                    ],
+                    [
+                        252,
+                        363
+                    ],
+                    [
+                        289,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1635762,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T12:59:26.735Z",
+            "updatedAt": "2023-06-07T12:59:26.735Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        228
+                    ],
+                    [
+                        73,
+                        286
+                    ],
+                    [
+                        6,
+                        249
+                    ],
+                    [
+                        3,
+                        180
+                    ],
+                    [
+                        29,
+                        156
+                    ],
+                    [
+                        121,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1638743,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:35.789Z",
+            "updatedAt": "2023-06-07T13:01:35.789Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        76
+                    ],
+                    [
+                        176,
+                        70
+                    ],
+                    [
+                        169,
+                        187
+                    ],
+                    [
+                        166,
+                        281
+                    ],
+                    [
+                        167,
+                        401
+                    ],
+                    [
+                        288,
+                        404
+                    ],
+                    [
+                        287,
+                        251
+                    ],
+                    [
+                        281,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638741,
+            "classId": 3809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:35.788Z",
+            "updatedAt": "2023-06-07T13:01:35.788Z",
+            "tags": [],
+            "classTitle": "hazelnut",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        291
+                    ],
+                    [
+                        137,
+                        323
+                    ],
+                    [
+                        175,
+                        338
+                    ],
+                    [
+                        180,
+                        308
+                    ],
+                    [
+                        165,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1638740,
+            "classId": 3809,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:35.788Z",
+            "updatedAt": "2023-06-07T13:01:35.788Z",
+            "tags": [],
+            "classTitle": "hazelnut",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        252
+                    ],
+                    [
+                        263,
+                        292
+                    ],
+                    [
+                        292,
+                        372
+                    ],
+                    [
+                        304,
+                        361
+                    ],
+                    [
+                        294,
+                        287
+                    ],
+                    [
+                        290,
+                        269
+                    ],
+                    [
+                        292,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

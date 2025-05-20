@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1637551,
+            "classId": 3799,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:49.097Z",
+            "updatedAt": "2023-06-07T13:00:49.097Z",
+            "tags": [],
+            "classTitle": "emmental-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        276
+                    ],
+                    [
+                        71,
+                        329
+                    ],
+                    [
+                        180,
+                        412
+                    ],
+                    [
+                        190,
+                        425
+                    ],
+                    [
+                        207,
+                        425
+                    ],
+                    [
+                        236,
+                        374
+                    ],
+                    [
+                        182,
+                        308
+                    ],
+                    [
+                        128,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1637549,
+            "classId": 3799,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:49.094Z",
+            "updatedAt": "2023-06-07T13:00:49.094Z",
+            "tags": [],
+            "classTitle": "emmental-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        274
+                    ],
+                    [
+                        58,
+                        331
+                    ],
+                    [
+                        208,
+                        426
+                    ],
+                    [
+                        251,
+                        368
+                    ],
+                    [
+                        116,
+                        279
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

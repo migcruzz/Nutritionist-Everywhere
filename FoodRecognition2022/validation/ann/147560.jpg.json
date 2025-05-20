@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1639070,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:51.361Z",
+            "updatedAt": "2023-06-07T13:01:51.361Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        110
+                    ],
+                    [
+                        285,
+                        148
+                    ],
+                    [
+                        259,
+                        196
+                    ],
+                    [
+                        292,
+                        236
+                    ],
+                    [
+                        307,
+                        297
+                    ],
+                    [
+                        378,
+                        312
+                    ],
+                    [
+                        387,
+                        288
+                    ],
+                    [
+                        358,
+                        257
+                    ],
+                    [
+                        375,
+                        212
+                    ],
+                    [
+                        373,
+                        161
+                    ],
+                    [
+                        352,
+                        137
+                    ],
+                    [
+                        362,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639068,
+            "classId": 3483,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:51.360Z",
+            "updatedAt": "2023-06-07T13:01:51.360Z",
+            "tags": [],
+            "classTitle": "pasta",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        118
+                    ],
+                    [
+                        270,
+                        95
+                    ],
+                    [
+                        197,
+                        108
+                    ],
+                    [
+                        173,
+                        132
+                    ],
+                    [
+                        102,
+                        170
+                    ],
+                    [
+                        99,
+                        192
+                    ],
+                    [
+                        94,
+                        223
+                    ],
+                    [
+                        79,
+                        242
+                    ],
+                    [
+                        130,
+                        279
+                    ],
+                    [
+                        162,
+                        255
+                    ],
+                    [
+                        147,
+                        195
+                    ],
+                    [
+                        165,
+                        147
+                    ],
+                    [
+                        230,
+                        124
+                    ],
+                    [
+                        297,
+                        115
+                    ],
+                    [
+                        305,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1639066,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:51.359Z",
+            "updatedAt": "2023-06-07T13:01:51.359Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        113
+                    ],
+                    [
+                        213,
+                        122
+                    ],
+                    [
+                        156,
+                        162
+                    ],
+                    [
+                        149,
+                        202
+                    ],
+                    [
+                        171,
+                        235
+                    ],
+                    [
+                        135,
+                        271
+                    ],
+                    [
+                        191,
+                        317
+                    ],
+                    [
+                        247,
+                        294
+                    ],
+                    [
+                        280,
+                        322
+                    ],
+                    [
+                        295,
+                        300
+                    ],
+                    [
+                        286,
+                        221
+                    ],
+                    [
+                        268,
+                        170
+                    ],
+                    [
+                        281,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

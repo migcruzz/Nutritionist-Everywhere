@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1637329,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:39.900Z",
+            "updatedAt": "2023-06-07T13:00:39.900Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        104
+                    ],
+                    [
+                        61,
+                        132
+                    ],
+                    [
+                        14,
+                        169
+                    ],
+                    [
+                        14,
+                        204
+                    ],
+                    [
+                        47,
+                        227
+                    ],
+                    [
+                        120,
+                        235
+                    ],
+                    [
+                        172,
+                        223
+                    ],
+                    [
+                        216,
+                        180
+                    ],
+                    [
+                        213,
+                        148
+                    ],
+                    [
+                        205,
+                        126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1637327,
+            "classId": 4147,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:39.899Z",
+            "updatedAt": "2023-06-07T13:00:39.899Z",
+            "tags": [],
+            "classTitle": "croissant-with-chocolate-filling",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        53
+                    ],
+                    [
+                        282,
+                        108
+                    ],
+                    [
+                        288,
+                        148
+                    ],
+                    [
+                        304,
+                        311
+                    ],
+                    [
+                        396,
+                        317
+                    ],
+                    [
+                        392,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

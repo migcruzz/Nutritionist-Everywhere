@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1637946,
+            "classId": 4227,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:03.578Z",
+            "updatedAt": "2023-06-07T13:01:03.578Z",
+            "tags": [],
+            "classTitle": "chocolate-cookies",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        42
+                    ],
+                    [
+                        181,
+                        98
+                    ],
+                    [
+                        12,
+                        185
+                    ],
+                    [
+                        44,
+                        223
+                    ],
+                    [
+                        101,
+                        223
+                    ],
+                    [
+                        96,
+                        251
+                    ],
+                    [
+                        165,
+                        254
+                    ],
+                    [
+                        298,
+                        149
+                    ],
+                    [
+                        304,
+                        97
+                    ],
+                    [
+                        296,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1637945,
+            "classId": 4227,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:01:03.577Z",
+            "updatedAt": "2023-06-07T13:01:03.577Z",
+            "tags": [],
+            "classTitle": "chocolate-cookies",
+            "points": {
+                "exterior": [
+                    [
+                        347,
+                        196
+                    ],
+                    [
+                        293,
+                        252
+                    ],
+                    [
+                        265,
+                        237
+                    ],
+                    [
+                        156,
+                        266
+                    ],
+                    [
+                        153,
+                        304
+                    ],
+                    [
+                        196,
+                        311
+                    ],
+                    [
+                        269,
+                        282
+                    ],
+                    [
+                        258,
+                        329
+                    ],
+                    [
+                        299,
+                        359
+                    ],
+                    [
+                        323,
+                        332
+                    ],
+                    [
+                        373,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

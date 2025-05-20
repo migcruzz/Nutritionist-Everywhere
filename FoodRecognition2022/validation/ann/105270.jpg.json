@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1637252,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:33.608Z",
+            "updatedAt": "2023-06-07T13:00:33.608Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        180
+                    ],
+                    [
+                        102,
+                        154
+                    ],
+                    [
+                        91,
+                        113
+                    ],
+                    [
+                        107,
+                        75
+                    ],
+                    [
+                        109,
+                        33
+                    ],
+                    [
+                        138,
+                        23
+                    ],
+                    [
+                        256,
+                        35
+                    ],
+                    [
+                        256,
+                        107
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1637250,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:00:33.607Z",
+            "updatedAt": "2023-06-07T13:00:33.607Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        214
+                    ],
+                    [
+                        133,
+                        251
+                    ],
+                    [
+                        114,
+                        333
+                    ],
+                    [
+                        133,
+                        383
+                    ],
+                    [
+                        210,
+                        393
+                    ],
+                    [
+                        252,
+                        383
+                    ],
+                    [
+                        283,
+                        369
+                    ],
+                    [
+                        330,
+                        322
+                    ],
+                    [
+                        318,
+                        285
+                    ],
+                    [
+                        276,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
