@@ -1,0 +1,230 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1642314,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:15.846Z",
+            "updatedAt": "2023-06-07T13:04:15.846Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        393
+                    ],
+                    [
+                        213,
+                        283
+                    ],
+                    [
+                        319,
+                        130
+                    ],
+                    [
+                        382,
+                        138
+                    ],
+                    [
+                        433,
+                        182
+                    ],
+                    [
+                        471,
+                        218
+                    ],
+                    [
+                        462,
+                        310
+                    ],
+                    [
+                        423,
+                        378
+                    ],
+                    [
+                        418,
+                        393
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1642312,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:15.846Z",
+            "updatedAt": "2023-06-07T13:04:15.846Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        139
+                    ],
+                    [
+                        151,
+                        345
+                    ],
+                    [
+                        165,
+                        382
+                    ],
+                    [
+                        167,
+                        412
+                    ],
+                    [
+                        63,
+                        376
+                    ],
+                    [
+                        36,
+                        360
+                    ],
+                    [
+                        36,
+                        285
+                    ],
+                    [
+                        51,
+                        198
+                    ],
+                    [
+                        127,
+                        120
+                    ],
+                    [
+                        227,
+                        99
+                    ],
+                    [
+                        288,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1642310,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:15.844Z",
+            "updatedAt": "2023-06-07T13:04:15.844Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        418
+                    ],
+                    [
+                        363,
+                        382
+                    ],
+                    [
+                        300,
+                        328
+                    ],
+                    [
+                        195,
+                        300
+                    ],
+                    [
+                        133,
+                        350
+                    ],
+                    [
+                        71,
+                        367
+                    ],
+                    [
+                        83,
+                        392
+                    ],
+                    [
+                        130,
+                        426
+                    ],
+                    [
+                        226,
+                        435
+                    ],
+                    [
+                        317,
+                        442
+                    ],
+                    [
+                        349,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1642308,
+            "classId": 3673,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:15.843Z",
+            "updatedAt": "2023-06-07T13:04:15.843Z",
+            "tags": [],
+            "classTitle": "sauce-savoury",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        429
+                    ],
+                    [
+                        209,
+                        374
+                    ],
+                    [
+                        150,
+                        348
+                    ],
+                    [
+                        76,
+                        367
+                    ],
+                    [
+                        48,
+                        391
+                    ],
+                    [
+                        142,
+                        422
+                    ],
+                    [
+                        201,
+                        434
+                    ],
+                    [
+                        225,
+                        438
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

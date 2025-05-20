@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1710816,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:01.669Z",
+            "updatedAt": "2023-06-07T13:52:01.669Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        342
+                    ],
+                    [
+                        266,
+                        186
+                    ],
+                    [
+                        231,
+                        118
+                    ],
+                    [
+                        116,
+                        138
+                    ],
+                    [
+                        31,
+                        297
+                    ],
+                    [
+                        67,
+                        428
+                    ],
+                    [
+                        214,
+                        457
+                    ],
+                    [
+                        298,
+                        457
+                    ],
+                    [
+                        347,
+                        449
+                    ],
+                    [
+                        364,
+                        391
+                    ],
+                    [
+                        366,
+                        336
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710814,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:01.669Z",
+            "updatedAt": "2023-06-07T13:52:01.669Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        143
+                    ],
+                    [
+                        115,
+                        165
+                    ],
+                    [
+                        66,
+                        272
+                    ],
+                    [
+                        97,
+                        364
+                    ],
+                    [
+                        188,
+                        379
+                    ],
+                    [
+                        216,
+                        335
+                    ],
+                    [
+                        245,
+                        281
+                    ],
+                    [
+                        298,
+                        279
+                    ],
+                    [
+                        268,
+                        253
+                    ],
+                    [
+                        210,
+                        212
+                    ],
+                    [
+                        183,
+                        145
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710812,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:01.669Z",
+            "updatedAt": "2023-06-07T13:52:01.669Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        106
+                    ],
+                    [
+                        164,
+                        131
+                    ],
+                    [
+                        237,
+                        254
+                    ],
+                    [
+                        200,
+                        376
+                    ],
+                    [
+                        240,
+                        401
+                    ],
+                    [
+                        335,
+                        365
+                    ],
+                    [
+                        281,
+                        269
+                    ],
+                    [
+                        276,
+                        183
+                    ],
+                    [
+                        249,
+                        110
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710810,
+            "classId": 3791,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:01.667Z",
+            "updatedAt": "2023-06-07T13:52:01.667Z",
+            "tags": [],
+            "classTitle": "egg-scrambled-prepared",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        133
+                    ],
+                    [
+                        318,
+                        316
+                    ],
+                    [
+                        470,
+                        255
+                    ],
+                    [
+                        458,
+                        175
+                    ],
+                    [
+                        347,
+                        122
+                    ],
+                    [
+                        257,
+                        112
+                    ],
+                    [
+                        250,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

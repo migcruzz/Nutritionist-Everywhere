@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1713521,
+            "classId": 4151,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:02.895Z",
+            "updatedAt": "2023-06-07T13:54:02.895Z",
+            "tags": [],
+            "classTitle": "artichoke",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        64
+                    ],
+                    [
+                        46,
+                        210
+                    ],
+                    [
+                        101,
+                        344
+                    ],
+                    [
+                        231,
+                        391
+                    ],
+                    [
+                        352,
+                        350
+                    ],
+                    [
+                        425,
+                        189
+                    ],
+                    [
+                        375,
+                        110
+                    ],
+                    [
+                        307,
+                        61
+                    ],
+                    [
+                        156,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713519,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:02.894Z",
+            "updatedAt": "2023-06-07T13:54:02.894Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        93
+                    ],
+                    [
+                        211,
+                        74
+                    ],
+                    [
+                        113,
+                        142
+                    ],
+                    [
+                        88,
+                        259
+                    ],
+                    [
+                        172,
+                        369
+                    ],
+                    [
+                        305,
+                        372
+                    ],
+                    [
+                        348,
+                        292
+                    ],
+                    [
+                        352,
+                        188
+                    ],
+                    [
+                        354,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

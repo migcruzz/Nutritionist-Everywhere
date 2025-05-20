@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1762532,
+            "classId": 4401,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:40.617Z",
+            "updatedAt": "2023-06-07T14:27:40.617Z",
+            "tags": [],
+            "classTitle": "white-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        181
+                    ],
+                    [
+                        447,
+                        238
+                    ],
+                    [
+                        359,
+                        375
+                    ],
+                    [
+                        47,
+                        336
+                    ],
+                    [
+                        3,
+                        245
+                    ],
+                    [
+                        11,
+                        186
+                    ],
+                    [
+                        280,
+                        188
+                    ],
+                    [
+                        283,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1762530,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:27:40.616Z",
+            "updatedAt": "2023-06-07T14:27:40.616Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        431,
+                        62
+                    ],
+                    [
+                        330,
+                        99
+                    ],
+                    [
+                        360,
+                        165
+                    ],
+                    [
+                        439,
+                        182
+                    ],
+                    [
+                        473,
+                        126
+                    ],
+                    [
+                        455,
+                        79
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

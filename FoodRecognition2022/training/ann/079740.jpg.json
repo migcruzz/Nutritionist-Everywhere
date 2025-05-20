@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 838,
+        "width": 838
+    },
+    "objects": [
+        {
+            "id": 1709620,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:03.813Z",
+            "updatedAt": "2023-06-07T13:51:03.813Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        408
+                    ],
+                    [
+                        369,
+                        425
+                    ],
+                    [
+                        449,
+                        416
+                    ],
+                    [
+                        514,
+                        414
+                    ],
+                    [
+                        568,
+                        383
+                    ],
+                    [
+                        583,
+                        347
+                    ],
+                    [
+                        587,
+                        297
+                    ],
+                    [
+                        528,
+                        257
+                    ],
+                    [
+                        432,
+                        213
+                    ],
+                    [
+                        371,
+                        201
+                    ],
+                    [
+                        300,
+                        213
+                    ],
+                    [
+                        195,
+                        268
+                    ],
+                    [
+                        168,
+                        312
+                    ],
+                    [
+                        177,
+                        368
+                    ],
+                    [
+                        189,
+                        383
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1709618,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:03.813Z",
+            "updatedAt": "2023-06-07T13:51:03.813Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        207
+                    ],
+                    [
+                        164,
+                        299
+                    ],
+                    [
+                        170,
+                        433
+                    ],
+                    [
+                        258,
+                        460
+                    ],
+                    [
+                        497,
+                        456
+                    ],
+                    [
+                        581,
+                        410
+                    ],
+                    [
+                        604,
+                        366
+                    ],
+                    [
+                        604,
+                        289
+                    ],
+                    [
+                        524,
+                        224
+                    ],
+                    [
+                        413,
+                        188
+                    ],
+                    [
+                        298,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

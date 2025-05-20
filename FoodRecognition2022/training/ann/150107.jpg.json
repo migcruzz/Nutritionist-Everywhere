@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1708755,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:24.219Z",
+            "updatedAt": "2023-06-07T13:50:24.219Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        91,
+                        83
+                    ],
+                    [
+                        60,
+                        70
+                    ],
+                    [
+                        36,
+                        82
+                    ],
+                    [
+                        22,
+                        106
+                    ],
+                    [
+                        38,
+                        122
+                    ],
+                    [
+                        69,
+                        129
+                    ],
+                    [
+                        90,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1708753,
+            "classId": 4289,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:24.218Z",
+            "updatedAt": "2023-06-07T13:50:24.218Z",
+            "tags": [],
+            "classTitle": "corn-crisps",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        199
+                    ],
+                    [
+                        152,
+                        170
+                    ],
+                    [
+                        102,
+                        212
+                    ],
+                    [
+                        124,
+                        267
+                    ],
+                    [
+                        168,
+                        309
+                    ],
+                    [
+                        232,
+                        319
+                    ],
+                    [
+                        274,
+                        295
+                    ],
+                    [
+                        296,
+                        255
+                    ],
+                    [
+                        295,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

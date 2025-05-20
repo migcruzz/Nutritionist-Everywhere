@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1027,
+        "width": 1028
+    },
+    "objects": [
+        {
+            "id": 1789239,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:47.786Z",
+            "updatedAt": "2023-06-07T14:45:47.786Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        562,
+                        390
+                    ],
+                    [
+                        436,
+                        241
+                    ],
+                    [
+                        302,
+                        236
+                    ],
+                    [
+                        164,
+                        336
+                    ],
+                    [
+                        138,
+                        511
+                    ],
+                    [
+                        174,
+                        593
+                    ],
+                    [
+                        248,
+                        616
+                    ],
+                    [
+                        359,
+                        632
+                    ],
+                    [
+                        470,
+                        634
+                    ],
+                    [
+                        529,
+                        608
+                    ],
+                    [
+                        590,
+                        575
+                    ],
+                    [
+                        745,
+                        629
+                    ],
+                    [
+                        968,
+                        616
+                    ],
+                    [
+                        999,
+                        511
+                    ],
+                    [
+                        966,
+                        518
+                    ],
+                    [
+                        706,
+                        513
+                    ],
+                    [
+                        667,
+                        408
+                    ],
+                    [
+                        619,
+                        313
+                    ],
+                    [
+                        611,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789237,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:47.785Z",
+            "updatedAt": "2023-06-07T14:45:47.785Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        670,
+                        480
+                    ],
+                    [
+                        863,
+                        552
+                    ],
+                    [
+                        932,
+                        477
+                    ],
+                    [
+                        968,
+                        372
+                    ],
+                    [
+                        940,
+                        228
+                    ],
+                    [
+                        852,
+                        179
+                    ],
+                    [
+                        773,
+                        243
+                    ],
+                    [
+                        709,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1789236,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:47.785Z",
+            "updatedAt": "2023-06-07T14:45:47.785Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        554
+                    ],
+                    [
+                        475,
+                        570
+                    ],
+                    [
+                        485,
+                        454
+                    ],
+                    [
+                        477,
+                        341
+                    ],
+                    [
+                        310,
+                        292
+                    ],
+                    [
+                        264,
+                        359
+                    ],
+                    [
+                        223,
+                        462
+                    ],
+                    [
+                        251,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

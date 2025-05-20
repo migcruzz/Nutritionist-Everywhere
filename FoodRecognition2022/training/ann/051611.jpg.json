@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1743224,
+            "classId": 4271,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:55.174Z",
+            "updatedAt": "2023-06-07T14:14:55.174Z",
+            "tags": [],
+            "classTitle": "gluten-free-bread",
+            "points": {
+                "exterior": [
+                    [
+                        423,
+                        51
+                    ],
+                    [
+                        118,
+                        67
+                    ],
+                    [
+                        63,
+                        202
+                    ],
+                    [
+                        53,
+                        282
+                    ],
+                    [
+                        59,
+                        394
+                    ],
+                    [
+                        94,
+                        444
+                    ],
+                    [
+                        405,
+                        462
+                    ],
+                    [
+                        445,
+                        439
+                    ],
+                    [
+                        385,
+                        391
+                    ],
+                    [
+                        223,
+                        409
+                    ],
+                    [
+                        70,
+                        406
+                    ],
+                    [
+                        71,
+                        315
+                    ],
+                    [
+                        336,
+                        265
+                    ],
+                    [
+                        389,
+                        226
+                    ],
+                    [
+                        413,
+                        64
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743222,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:55.174Z",
+            "updatedAt": "2023-06-07T14:14:55.174Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        261
+                    ],
+                    [
+                        43,
+                        309
+                    ],
+                    [
+                        59,
+                        409
+                    ],
+                    [
+                        419,
+                        408
+                    ],
+                    [
+                        388,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

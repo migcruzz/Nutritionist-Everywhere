@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1714333,
+            "classId": 3457,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:36.378Z",
+            "updatedAt": "2023-06-07T13:54:36.378Z",
+            "tags": [],
+            "classTitle": "chips-french-fries",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        199
+                    ],
+                    [
+                        401,
+                        105
+                    ],
+                    [
+                        374,
+                        43
+                    ],
+                    [
+                        314,
+                        29
+                    ],
+                    [
+                        279,
+                        50
+                    ],
+                    [
+                        231,
+                        56
+                    ],
+                    [
+                        215,
+                        89
+                    ],
+                    [
+                        174,
+                        89
+                    ],
+                    [
+                        174,
+                        47
+                    ],
+                    [
+                        99,
+                        82
+                    ],
+                    [
+                        75,
+                        161
+                    ],
+                    [
+                        64,
+                        188
+                    ],
+                    [
+                        170,
+                        220
+                    ],
+                    [
+                        276,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1714331,
+            "classId": 3479,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:54:36.378Z",
+            "updatedAt": "2023-06-07T13:54:36.378Z",
+            "tags": [],
+            "classTitle": "sauce-cream",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        152
+                    ],
+                    [
+                        341,
+                        92
+                    ],
+                    [
+                        263,
+                        83
+                    ],
+                    [
+                        215,
+                        86
+                    ],
+                    [
+                        124,
+                        99
+                    ],
+                    [
+                        99,
+                        165
+                    ],
+                    [
+                        135,
+                        186
+                    ],
+                    [
+                        201,
+                        197
+                    ],
+                    [
+                        247,
+                        211
+                    ],
+                    [
+                        318,
+                        205
+                    ],
+                    [
+                        330,
+                        182
+                    ],
+                    [
+                        328,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

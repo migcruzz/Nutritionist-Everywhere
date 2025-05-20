@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1649441,
+            "classId": 4111,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:56.009Z",
+            "updatedAt": "2023-06-07T13:08:56.009Z",
+            "tags": [],
+            "classTitle": "rice-jasmin",
+            "points": {
+                "exterior": [
+                    [
+                        103,
+                        324
+                    ],
+                    [
+                        196,
+                        304
+                    ],
+                    [
+                        265,
+                        199
+                    ],
+                    [
+                        283,
+                        142
+                    ],
+                    [
+                        240,
+                        110
+                    ],
+                    [
+                        129,
+                        132
+                    ],
+                    [
+                        52,
+                        224
+                    ],
+                    [
+                        58,
+                        245
+                    ],
+                    [
+                        58,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649439,
+            "classId": 4385,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:56.008Z",
+            "updatedAt": "2023-06-07T13:08:56.008Z",
+            "tags": [],
+            "classTitle": "sauce-curry",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        127
+                    ],
+                    [
+                        238,
+                        195
+                    ],
+                    [
+                        223,
+                        280
+                    ],
+                    [
+                        332,
+                        285
+                    ],
+                    [
+                        369,
+                        245
+                    ],
+                    [
+                        389,
+                        186
+                    ],
+                    [
+                        393,
+                        136
+                    ],
+                    [
+                        356,
+                        114
+                    ],
+                    [
+                        342,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1706479,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:31.208Z",
+            "updatedAt": "2023-06-07T13:48:31.208Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        84
+                    ],
+                    [
+                        424,
+                        285
+                    ],
+                    [
+                        433,
+                        316
+                    ],
+                    [
+                        389,
+                        395
+                    ],
+                    [
+                        275,
+                        374
+                    ],
+                    [
+                        235,
+                        413
+                    ],
+                    [
+                        52,
+                        294
+                    ],
+                    [
+                        5,
+                        232
+                    ],
+                    [
+                        1,
+                        111
+                    ],
+                    [
+                        69,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1706477,
+            "classId": 3753,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:31.207Z",
+            "updatedAt": "2023-06-07T13:48:31.207Z",
+            "tags": [],
+            "classTitle": "cauliflower",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        255
+                    ],
+                    [
+                        3,
+                        470
+                    ],
+                    [
+                        394,
+                        476
+                    ],
+                    [
+                        379,
+                        464
+                    ],
+                    [
+                        331,
+                        450
+                    ],
+                    [
+                        312,
+                        396
+                    ],
+                    [
+                        281,
+                        386
+                    ],
+                    [
+                        232,
+                        422
+                    ],
+                    [
+                        3,
+                        251
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

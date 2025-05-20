@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 821,
+        "width": 822
+    },
+    "objects": [
+        {
+            "id": 1743710,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:14.867Z",
+            "updatedAt": "2023-06-07T14:15:14.867Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        775,
+                        1
+                    ],
+                    [
+                        557,
+                        3
+                    ],
+                    [
+                        483,
+                        396
+                    ],
+                    [
+                        555,
+                        585
+                    ],
+                    [
+                        673,
+                        794
+                    ],
+                    [
+                        812,
+                        809
+                    ],
+                    [
+                        812,
+                        15
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1743708,
+            "classId": 3691,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:15:14.866Z",
+            "updatedAt": "2023-06-07T14:15:14.866Z",
+            "tags": [],
+            "classTitle": "veggie-burger",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        200
+                    ],
+                    [
+                        576,
+                        30
+                    ],
+                    [
+                        375,
+                        0
+                    ],
+                    [
+                        198,
+                        13
+                    ],
+                    [
+                        142,
+                        244
+                    ],
+                    [
+                        212,
+                        550
+                    ],
+                    [
+                        360,
+                        747
+                    ],
+                    [
+                        471,
+                        798
+                    ],
+                    [
+                        648,
+                        805
+                    ],
+                    [
+                        673,
+                        739
+                    ],
+                    [
+                        555,
+                        593
+                    ],
+                    [
+                        529,
+                        472
+                    ],
+                    [
+                        486,
+                        307
+                    ],
+                    [
+                        502,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

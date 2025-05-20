@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1647348,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:07:47.245Z",
+            "updatedAt": "2023-06-07T13:07:47.245Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        158,
+                        244
+                    ],
+                    [
+                        167,
+                        264
+                    ],
+                    [
+                        187,
+                        269
+                    ],
+                    [
+                        187,
+                        254
+                    ],
+                    [
+                        154,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1647347,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:07:47.245Z",
+            "updatedAt": "2023-06-07T13:07:47.245Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        314
+                    ],
+                    [
+                        288,
+                        359
+                    ],
+                    [
+                        296,
+                        361
+                    ],
+                    [
+                        309,
+                        334
+                    ],
+                    [
+                        320,
+                        310
+                    ],
+                    [
+                        289,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1647346,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:07:47.244Z",
+            "updatedAt": "2023-06-07T13:07:47.244Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        143
+                    ],
+                    [
+                        227,
+                        161
+                    ],
+                    [
+                        240,
+                        203
+                    ],
+                    [
+                        258,
+                        212
+                    ],
+                    [
+                        273,
+                        193
+                    ],
+                    [
+                        231,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

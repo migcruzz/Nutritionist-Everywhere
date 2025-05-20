@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 936,
+        "width": 935
+    },
+    "objects": [
+        {
+            "id": 1727745,
+            "classId": 3437,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:01.868Z",
+            "updatedAt": "2023-06-07T14:04:01.868Z",
+            "tags": [],
+            "classTitle": "fruit-salad",
+            "points": {
+                "exterior": [
+                    [
+                        724,
+                        502
+                    ],
+                    [
+                        589,
+                        551
+                    ],
+                    [
+                        521,
+                        528
+                    ],
+                    [
+                        432,
+                        572
+                    ],
+                    [
+                        387,
+                        455
+                    ],
+                    [
+                        247,
+                        369
+                    ],
+                    [
+                        224,
+                        287
+                    ],
+                    [
+                        235,
+                        191
+                    ],
+                    [
+                        369,
+                        135
+                    ],
+                    [
+                        596,
+                        90
+                    ],
+                    [
+                        762,
+                        182
+                    ],
+                    [
+                        795,
+                        263
+                    ],
+                    [
+                        752,
+                        455
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1727743,
+            "classId": 4207,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:04:01.868Z",
+            "updatedAt": "2023-06-07T14:04:01.868Z",
+            "tags": [],
+            "classTitle": "chocolate-mousse",
+            "points": {
+                "exterior": [
+                    [
+                        888,
+                        397
+                    ],
+                    [
+                        823,
+                        392
+                    ],
+                    [
+                        757,
+                        423
+                    ],
+                    [
+                        729,
+                        507
+                    ],
+                    [
+                        809,
+                        565
+                    ],
+                    [
+                        881,
+                        586
+                    ],
+                    [
+                        909,
+                        579
+                    ],
+                    [
+                        933,
+                        514
+                    ],
+                    [
+                        898,
+                        481
+                    ],
+                    [
+                        907,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

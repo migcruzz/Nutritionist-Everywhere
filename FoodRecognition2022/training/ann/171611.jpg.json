@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 867,
+        "width": 867
+    },
+    "objects": [
+        {
+            "id": 1804432,
+            "classId": 3477,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:08.312Z",
+            "updatedAt": "2023-06-07T14:56:08.312Z",
+            "tags": [],
+            "classTitle": "pasta-hornli",
+            "points": {
+                "exterior": [
+                    [
+                        503,
+                        170
+                    ],
+                    [
+                        469,
+                        237
+                    ],
+                    [
+                        571,
+                        337
+                    ],
+                    [
+                        610,
+                        489
+                    ],
+                    [
+                        538,
+                        617
+                    ],
+                    [
+                        369,
+                        636
+                    ],
+                    [
+                        220,
+                        539
+                    ],
+                    [
+                        233,
+                        400
+                    ],
+                    [
+                        122,
+                        296
+                    ],
+                    [
+                        48,
+                        378
+                    ],
+                    [
+                        63,
+                        560
+                    ],
+                    [
+                        198,
+                        764
+                    ],
+                    [
+                        315,
+                        862
+                    ],
+                    [
+                        584,
+                        803
+                    ],
+                    [
+                        746,
+                        686
+                    ],
+                    [
+                        792,
+                        446
+                    ],
+                    [
+                        733,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1804430,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:08.312Z",
+            "updatedAt": "2023-06-07T14:56:08.312Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        540,
+                        339
+                    ],
+                    [
+                        367,
+                        359
+                    ],
+                    [
+                        254,
+                        539
+                    ],
+                    [
+                        410,
+                        645
+                    ],
+                    [
+                        564,
+                        580
+                    ],
+                    [
+                        605,
+                        517
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1804428,
+            "classId": 3611,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:08.311Z",
+            "updatedAt": "2023-06-07T14:56:08.311Z",
+            "tags": [],
+            "classTitle": "applesauce-unsweetened-canned",
+            "points": {
+                "exterior": [
+                    [
+                        471,
+                        166
+                    ],
+                    [
+                        356,
+                        107
+                    ],
+                    [
+                        243,
+                        144
+                    ],
+                    [
+                        144,
+                        253
+                    ],
+                    [
+                        202,
+                        329
+                    ],
+                    [
+                        358,
+                        326
+                    ],
+                    [
+                        447,
+                        318
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

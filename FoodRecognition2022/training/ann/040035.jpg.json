@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1789265,
+            "classId": 3947,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:47.788Z",
+            "updatedAt": "2023-06-07T14:45:47.788Z",
+            "tags": [],
+            "classTitle": "greek-salad",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        63
+                    ],
+                    [
+                        107,
+                        36
+                    ],
+                    [
+                        40,
+                        317
+                    ],
+                    [
+                        159,
+                        429
+                    ],
+                    [
+                        324,
+                        444
+                    ],
+                    [
+                        451,
+                        291
+                    ],
+                    [
+                        417,
+                        143
+                    ],
+                    [
+                        312,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1699227,
+            "classId": 3763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:43:08.050Z",
+            "updatedAt": "2023-06-07T13:43:08.050Z",
+            "tags": [],
+            "classTitle": "bread-pita",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        26
+                    ],
+                    [
+                        229,
+                        9
+                    ],
+                    [
+                        203,
+                        32
+                    ],
+                    [
+                        229,
+                        38
+                    ],
+                    [
+                        305,
+                        31
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1704773,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:14.026Z",
+            "updatedAt": "2023-06-07T13:47:14.026Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        155
+                    ],
+                    [
+                        201,
+                        148
+                    ],
+                    [
+                        192,
+                        230
+                    ],
+                    [
+                        142,
+                        298
+                    ],
+                    [
+                        111,
+                        322
+                    ],
+                    [
+                        153,
+                        343
+                    ],
+                    [
+                        151,
+                        375
+                    ],
+                    [
+                        65,
+                        405
+                    ],
+                    [
+                        45,
+                        321
+                    ],
+                    [
+                        32,
+                        300
+                    ],
+                    [
+                        17,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1704771,
+            "classId": 3647,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:47:14.025Z",
+            "updatedAt": "2023-06-07T13:47:14.025Z",
+            "tags": [],
+            "classTitle": "mandarine",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        143
+                    ],
+                    [
+                        326,
+                        135
+                    ],
+                    [
+                        266,
+                        201
+                    ],
+                    [
+                        258,
+                        237
+                    ],
+                    [
+                        277,
+                        301
+                    ],
+                    [
+                        346,
+                        337
+                    ],
+                    [
+                        422,
+                        328
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

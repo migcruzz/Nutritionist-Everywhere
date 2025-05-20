@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1100,
+        "width": 1101
+    },
+    "objects": [
+        {
+            "id": 1776858,
+            "classId": 4083,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:14.086Z",
+            "updatedAt": "2023-06-07T14:37:14.086Z",
+            "tags": [],
+            "classTitle": "quinoa",
+            "points": {
+                "exterior": [
+                    [
+                        837,
+                        271
+                    ],
+                    [
+                        760,
+                        125
+                    ],
+                    [
+                        413,
+                        117
+                    ],
+                    [
+                        121,
+                        263
+                    ],
+                    [
+                        99,
+                        613
+                    ],
+                    [
+                        242,
+                        739
+                    ],
+                    [
+                        418,
+                        714
+                    ],
+                    [
+                        933,
+                        497
+                    ],
+                    [
+                        903,
+                        362
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1776856,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:37:14.085Z",
+            "updatedAt": "2023-06-07T14:37:14.085Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        857,
+                        518
+                    ],
+                    [
+                        639,
+                        617
+                    ],
+                    [
+                        271,
+                        724
+                    ],
+                    [
+                        191,
+                        865
+                    ],
+                    [
+                        216,
+                        964
+                    ],
+                    [
+                        417,
+                        1000
+                    ],
+                    [
+                        609,
+                        953
+                    ],
+                    [
+                        873,
+                        796
+                    ],
+                    [
+                        1061,
+                        658
+                    ],
+                    [
+                        1063,
+                        631
+                    ],
+                    [
+                        898,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

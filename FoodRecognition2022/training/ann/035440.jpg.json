@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1796206,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:28.519Z",
+            "updatedAt": "2023-06-07T14:50:28.519Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        458,
+                        272
+                    ],
+                    [
+                        244,
+                        296
+                    ],
+                    [
+                        240,
+                        215
+                    ],
+                    [
+                        374,
+                        149
+                    ],
+                    [
+                        458,
+                        160
+                    ],
+                    [
+                        453,
+                        221
+                    ],
+                    [
+                        459,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1796205,
+            "classId": 3551,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:28.519Z",
+            "updatedAt": "2023-06-07T14:50:28.519Z",
+            "tags": [],
+            "classTitle": "ham-cooked",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        381
+                    ],
+                    [
+                        86,
+                        274
+                    ],
+                    [
+                        44,
+                        353
+                    ],
+                    [
+                        148,
+                        405
+                    ],
+                    [
+                        302,
+                        460
+                    ],
+                    [
+                        314,
+                        461
+                    ],
+                    [
+                        326,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1796203,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:28.518Z",
+            "updatedAt": "2023-06-07T14:50:28.518Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        451,
+                        258
+                    ],
+                    [
+                        367,
+                        264
+                    ],
+                    [
+                        377,
+                        286
+                    ],
+                    [
+                        452,
+                        286
+                    ],
+                    [
+                        452,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1796202,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:28.518Z",
+            "updatedAt": "2023-06-07T14:50:28.518Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        68
+                    ],
+                    [
+                        212,
+                        167
+                    ],
+                    [
+                        167,
+                        201
+                    ],
+                    [
+                        96,
+                        172
+                    ],
+                    [
+                        32,
+                        109
+                    ],
+                    [
+                        170,
+                        52
+                    ],
+                    [
+                        147,
+                        35
+                    ],
+                    [
+                        206,
+                        50
+                    ],
+                    [
+                        209,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

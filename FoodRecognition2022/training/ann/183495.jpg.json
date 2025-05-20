@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1782556,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:18.213Z",
+            "updatedAt": "2023-06-07T14:41:18.213Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        880,
+                        437
+                    ],
+                    [
+                        780,
+                        263
+                    ],
+                    [
+                        719,
+                        194
+                    ],
+                    [
+                        529,
+                        165
+                    ],
+                    [
+                        412,
+                        94
+                    ],
+                    [
+                        304,
+                        135
+                    ],
+                    [
+                        209,
+                        306
+                    ],
+                    [
+                        115,
+                        406
+                    ],
+                    [
+                        87,
+                        575
+                    ],
+                    [
+                        192,
+                        700
+                    ],
+                    [
+                        296,
+                        834
+                    ],
+                    [
+                        532,
+                        910
+                    ],
+                    [
+                        808,
+                        844
+                    ],
+                    [
+                        762,
+                        634
+                    ],
+                    [
+                        737,
+                        593
+                    ],
+                    [
+                        834,
+                        565
+                    ],
+                    [
+                        888,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1782554,
+            "classId": 3573,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:18.213Z",
+            "updatedAt": "2023-06-07T14:41:18.213Z",
+            "tags": [],
+            "classTitle": "balsamic-vinegar",
+            "points": {
+                "exterior": [
+                    [
+                        686,
+                        186
+                    ],
+                    [
+                        448,
+                        130
+                    ],
+                    [
+                        427,
+                        168
+                    ],
+                    [
+                        581,
+                        204
+                    ],
+                    [
+                        632,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

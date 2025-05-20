@@ -1,0 +1,166 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1786551,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:54.491Z",
+            "updatedAt": "2023-06-07T14:43:54.491Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        82,
+                        542
+                    ],
+                    [
+                        220,
+                        478
+                    ],
+                    [
+                        186,
+                        375
+                    ],
+                    [
+                        74,
+                        333
+                    ],
+                    [
+                        27,
+                        350
+                    ],
+                    [
+                        2,
+                        440
+                    ],
+                    [
+                        5,
+                        478
+                    ],
+                    [
+                        25,
+                        507
+                    ],
+                    [
+                        51,
+                        526
+                    ],
+                    [
+                        58,
+                        531
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786549,
+            "classId": 3873,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:54.491Z",
+            "updatedAt": "2023-06-07T14:43:54.491Z",
+            "tags": [],
+            "classTitle": "dried-meat",
+            "points": {
+                "exterior": [
+                    [
+                        436,
+                        95
+                    ],
+                    [
+                        357,
+                        212
+                    ],
+                    [
+                        409,
+                        355
+                    ],
+                    [
+                        548,
+                        380
+                    ],
+                    [
+                        603,
+                        147
+                    ],
+                    [
+                        478,
+                        127
+                    ],
+                    [
+                        439,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1786547,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:54.490Z",
+            "updatedAt": "2023-06-07T14:43:54.490Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        154
+                    ],
+                    [
+                        238,
+                        99
+                    ],
+                    [
+                        299,
+                        180
+                    ],
+                    [
+                        320,
+                        212
+                    ],
+                    [
+                        312,
+                        240
+                    ],
+                    [
+                        290,
+                        229
+                    ],
+                    [
+                        195,
+                        297
+                    ],
+                    [
+                        151,
+                        265
+                    ],
+                    [
+                        214,
+                        205
+                    ],
+                    [
+                        217,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

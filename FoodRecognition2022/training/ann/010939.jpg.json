@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 984,
+        "width": 984
+    },
+    "objects": [
+        {
+            "id": 1719900,
+            "classId": 4175,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:37.152Z",
+            "updatedAt": "2023-06-07T13:58:37.152Z",
+            "tags": [],
+            "classTitle": "lemon-pie",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        489
+                    ],
+                    [
+                        366,
+                        590
+                    ],
+                    [
+                        396,
+                        725
+                    ],
+                    [
+                        533,
+                        777
+                    ],
+                    [
+                        646,
+                        750
+                    ],
+                    [
+                        678,
+                        592
+                    ],
+                    [
+                        632,
+                        511
+                    ],
+                    [
+                        504,
+                        469
+                    ],
+                    [
+                        462,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719898,
+            "classId": 4311,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:37.148Z",
+            "updatedAt": "2023-06-07T13:58:37.148Z",
+            "tags": [],
+            "classTitle": "tiramisu",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        236
+                    ],
+                    [
+                        135,
+                        277
+                    ],
+                    [
+                        91,
+                        519
+                    ],
+                    [
+                        150,
+                        701
+                    ],
+                    [
+                        300,
+                        678
+                    ],
+                    [
+                        405,
+                        526
+                    ],
+                    [
+                        425,
+                        452
+                    ],
+                    [
+                        369,
+                        305
+                    ],
+                    [
+                        334,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

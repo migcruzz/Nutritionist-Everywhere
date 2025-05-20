@@ -1,0 +1,234 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1782733,
+            "classId": 3691,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:23.544Z",
+            "updatedAt": "2023-06-07T14:41:23.544Z",
+            "tags": [],
+            "classTitle": "veggie-burger",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        131
+                    ],
+                    [
+                        276,
+                        73
+                    ],
+                    [
+                        225,
+                        11
+                    ],
+                    [
+                        151,
+                        33
+                    ],
+                    [
+                        115,
+                        57
+                    ],
+                    [
+                        71,
+                        92
+                    ],
+                    [
+                        69,
+                        132
+                    ],
+                    [
+                        9,
+                        161
+                    ],
+                    [
+                        3,
+                        225
+                    ],
+                    [
+                        66,
+                        267
+                    ],
+                    [
+                        121,
+                        228
+                    ],
+                    [
+                        149,
+                        173
+                    ],
+                    [
+                        214,
+                        139
+                    ],
+                    [
+                        252,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1782732,
+            "classId": 3691,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:23.544Z",
+            "updatedAt": "2023-06-07T14:41:23.544Z",
+            "tags": [],
+            "classTitle": "veggie-burger",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        295
+                    ],
+                    [
+                        203,
+                        290
+                    ],
+                    [
+                        172,
+                        351
+                    ],
+                    [
+                        208,
+                        380
+                    ],
+                    [
+                        257,
+                        383
+                    ],
+                    [
+                        299,
+                        366
+                    ],
+                    [
+                        302,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1782730,
+            "classId": 4341,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:23.544Z",
+            "updatedAt": "2023-06-07T14:41:23.544Z",
+            "tags": [],
+            "classTitle": "sauce-sweet-sour",
+            "points": {
+                "exterior": [
+                    [
+                        202,
+                        280
+                    ],
+                    [
+                        164,
+                        227
+                    ],
+                    [
+                        123,
+                        216
+                    ],
+                    [
+                        113,
+                        238
+                    ],
+                    [
+                        73,
+                        257
+                    ],
+                    [
+                        62,
+                        277
+                    ],
+                    [
+                        97,
+                        319
+                    ],
+                    [
+                        158,
+                        345
+                    ],
+                    [
+                        193,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1782728,
+            "classId": 4119,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:41:23.543Z",
+            "updatedAt": "2023-06-07T14:41:23.543Z",
+            "tags": [],
+            "classTitle": "coleslaw-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        281,
+                        101
+                    ],
+                    [
+                        247,
+                        123
+                    ],
+                    [
+                        163,
+                        151
+                    ],
+                    [
+                        161,
+                        191
+                    ],
+                    [
+                        178,
+                        238
+                    ],
+                    [
+                        213,
+                        278
+                    ],
+                    [
+                        271,
+                        287
+                    ],
+                    [
+                        303,
+                        282
+                    ],
+                    [
+                        325,
+                        247
+                    ],
+                    [
+                        338,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

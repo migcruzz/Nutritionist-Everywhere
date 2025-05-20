@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 820,
+        "width": 820
+    },
+    "objects": [
+        {
+            "id": 1803413,
+            "classId": 4227,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:35.415Z",
+            "updatedAt": "2023-06-07T14:55:35.415Z",
+            "tags": [],
+            "classTitle": "chocolate-cookies",
+            "points": {
+                "exterior": [
+                    [
+                        584,
+                        235
+                    ],
+                    [
+                        479,
+                        188
+                    ],
+                    [
+                        385,
+                        239
+                    ],
+                    [
+                        395,
+                        341
+                    ],
+                    [
+                        494,
+                        397
+                    ],
+                    [
+                        586,
+                        360
+                    ],
+                    [
+                        598,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1803412,
+            "classId": 4227,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:35.414Z",
+            "updatedAt": "2023-06-07T14:55:35.414Z",
+            "tags": [],
+            "classTitle": "chocolate-cookies",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        321
+                    ],
+                    [
+                        266,
+                        294
+                    ],
+                    [
+                        159,
+                        364
+                    ],
+                    [
+                        133,
+                        466
+                    ],
+                    [
+                        178,
+                        532
+                    ],
+                    [
+                        323,
+                        526
+                    ],
+                    [
+                        397,
+                        460
+                    ],
+                    [
+                        383,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 977,
+        "width": 977
+    },
+    "objects": [
+        {
+            "id": 1669028,
+            "classId": 4265,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:32.107Z",
+            "updatedAt": "2023-06-07T13:22:32.107Z",
+            "tags": [],
+            "classTitle": "lemon-cake",
+            "points": {
+                "exterior": [
+                    [
+                        631,
+                        473
+                    ],
+                    [
+                        406,
+                        610
+                    ],
+                    [
+                        360,
+                        757
+                    ],
+                    [
+                        360,
+                        801
+                    ],
+                    [
+                        482,
+                        935
+                    ],
+                    [
+                        851,
+                        879
+                    ],
+                    [
+                        841,
+                        698
+                    ],
+                    [
+                        760,
+                        503
+                    ],
+                    [
+                        690,
+                        451
+                    ],
+                    [
+                        643,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669027,
+            "classId": 4265,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:32.106Z",
+            "updatedAt": "2023-06-07T13:22:32.106Z",
+            "tags": [],
+            "classTitle": "lemon-cake",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        29
+                    ],
+                    [
+                        218,
+                        180
+                    ],
+                    [
+                        206,
+                        332
+                    ],
+                    [
+                        282,
+                        512
+                    ],
+                    [
+                        472,
+                        544
+                    ],
+                    [
+                        592,
+                        395
+                    ],
+                    [
+                        606,
+                        236
+                    ],
+                    [
+                        626,
+                        107
+                    ],
+                    [
+                        543,
+                        87
+                    ],
+                    [
+                        377,
+                        36
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

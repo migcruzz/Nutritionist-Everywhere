@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1808722,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:59:17.962Z",
+            "updatedAt": "2023-06-07T14:59:17.962Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        143
+                    ],
+                    [
+                        103,
+                        143
+                    ],
+                    [
+                        19,
+                        184
+                    ],
+                    [
+                        6,
+                        208
+                    ],
+                    [
+                        64,
+                        353
+                    ],
+                    [
+                        211,
+                        289
+                    ],
+                    [
+                        222,
+                        271
+                    ],
+                    [
+                        162,
+                        197
+                    ],
+                    [
+                        151,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1808721,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:59:17.961Z",
+            "updatedAt": "2023-06-07T14:59:17.961Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        33
+                    ],
+                    [
+                        169,
+                        135
+                    ],
+                    [
+                        278,
+                        255
+                    ],
+                    [
+                        394,
+                        147
+                    ],
+                    [
+                        389,
+                        119
+                    ],
+                    [
+                        308,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1808719,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:59:17.961Z",
+            "updatedAt": "2023-06-07T14:59:17.961Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        216
+                    ],
+                    [
+                        122,
+                        167
+                    ],
+                    [
+                        38,
+                        212
+                    ],
+                    [
+                        29,
+                        270
+                    ],
+                    [
+                        62,
+                        314
+                    ],
+                    [
+                        125,
+                        306
+                    ],
+                    [
+                        169,
+                        284
+                    ],
+                    [
+                        192,
+                        272
+                    ],
+                    [
+                        192,
+                        245
+                    ],
+                    [
+                        183,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1808718,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:59:17.960Z",
+            "updatedAt": "2023-06-07T14:59:17.960Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        53
+                    ],
+                    [
+                        214,
+                        121
+                    ],
+                    [
+                        239,
+                        185
+                    ],
+                    [
+                        282,
+                        203
+                    ],
+                    [
+                        336,
+                        180
+                    ],
+                    [
+                        369,
+                        160
+                    ],
+                    [
+                        370,
+                        130
+                    ],
+                    [
+                        333,
+                        91
+                    ],
+                    [
+                        309,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

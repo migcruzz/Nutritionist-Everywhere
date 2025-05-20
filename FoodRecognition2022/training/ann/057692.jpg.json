@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1698725,
+            "classId": 4169,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:48.358Z",
+            "updatedAt": "2023-06-07T13:42:48.358Z",
+            "tags": [],
+            "classTitle": "savoury-puff-pastry",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        614
+                    ],
+                    [
+                        474,
+                        652
+                    ],
+                    [
+                        593,
+                        601
+                    ],
+                    [
+                        623,
+                        503
+                    ],
+                    [
+                        576,
+                        422
+                    ],
+                    [
+                        455,
+                        388
+                    ],
+                    [
+                        367,
+                        411
+                    ],
+                    [
+                        323,
+                        494
+                    ],
+                    [
+                        340,
+                        580
+                    ],
+                    [
+                        344,
+                        584
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1698723,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:42:48.357Z",
+            "updatedAt": "2023-06-07T13:42:48.357Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        452
+                    ],
+                    [
+                        156,
+                        449
+                    ],
+                    [
+                        180,
+                        407
+                    ],
+                    [
+                        139,
+                        362
+                    ],
+                    [
+                        71,
+                        392
+                    ],
+                    [
+                        67,
+                        420
+                    ],
+                    [
+                        71,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

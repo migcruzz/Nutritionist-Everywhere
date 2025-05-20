@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1702795,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:43.609Z",
+            "updatedAt": "2023-06-07T13:45:43.609Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        96
+                    ],
+                    [
+                        276,
+                        297
+                    ],
+                    [
+                        375,
+                        348
+                    ],
+                    [
+                        477,
+                        253
+                    ],
+                    [
+                        427,
+                        45
+                    ],
+                    [
+                        335,
+                        25
+                    ],
+                    [
+                        281,
+                        96
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702793,
+            "classId": 3837,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:43.608Z",
+            "updatedAt": "2023-06-07T13:45:43.608Z",
+            "tags": [],
+            "classTitle": "red-cabbage",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        292
+                    ],
+                    [
+                        322,
+                        127
+                    ],
+                    [
+                        311,
+                        12
+                    ],
+                    [
+                        143,
+                        36
+                    ],
+                    [
+                        30,
+                        182
+                    ],
+                    [
+                        131,
+                        283
+                    ],
+                    [
+                        257,
+                        313
+                    ],
+                    [
+                        269,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702791,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:43.607Z",
+            "updatedAt": "2023-06-07T13:45:43.607Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        302
+                    ],
+                    [
+                        135,
+                        367
+                    ],
+                    [
+                        205,
+                        442
+                    ],
+                    [
+                        304,
+                        435
+                    ],
+                    [
+                        353,
+                        439
+                    ],
+                    [
+                        439,
+                        378
+                    ],
+                    [
+                        427,
+                        313
+                    ],
+                    [
+                        381,
+                        350
+                    ],
+                    [
+                        324,
+                        304
+                    ],
+                    [
+                        271,
+                        337
+                    ],
+                    [
+                        168,
+                        294
+                    ],
+                    [
+                        143,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702789,
+            "classId": 3753,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:43.606Z",
+            "updatedAt": "2023-06-07T13:45:43.606Z",
+            "tags": [],
+            "classTitle": "cauliflower",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        192
+                    ],
+                    [
+                        143,
+                        300
+                    ],
+                    [
+                        139,
+                        378
+                    ],
+                    [
+                        95,
+                        379
+                    ],
+                    [
+                        24,
+                        283
+                    ],
+                    [
+                        28,
+                        235
+                    ],
+                    [
+                        59,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

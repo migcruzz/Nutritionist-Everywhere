@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1653116,
+            "classId": 4165,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:21.743Z",
+            "updatedAt": "2023-06-07T13:11:21.743Z",
+            "tags": [],
+            "classTitle": "apple-pie",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        103
+                    ],
+                    [
+                        238,
+                        199
+                    ],
+                    [
+                        252,
+                        260
+                    ],
+                    [
+                        321,
+                        326
+                    ],
+                    [
+                        391,
+                        386
+                    ],
+                    [
+                        428,
+                        237
+                    ],
+                    [
+                        416,
+                        97
+                    ],
+                    [
+                        394,
+                        67
+                    ],
+                    [
+                        271,
+                        79
+                    ],
+                    [
+                        241,
+                        91
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653114,
+            "classId": 4211,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:21.743Z",
+            "updatedAt": "2023-06-07T13:11:21.743Z",
+            "tags": [],
+            "classTitle": "thickened-cream-35",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        135
+                    ],
+                    [
+                        154,
+                        105
+                    ],
+                    [
+                        91,
+                        115
+                    ],
+                    [
+                        38,
+                        186
+                    ],
+                    [
+                        40,
+                        315
+                    ],
+                    [
+                        104,
+                        357
+                    ],
+                    [
+                        168,
+                        351
+                    ],
+                    [
+                        216,
+                        308
+                    ],
+                    [
+                        235,
+                        249
+                    ],
+                    [
+                        242,
+                        172
+                    ],
+                    [
+                        217,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 837,
+        "width": 837
+    },
+    "objects": [
+        {
+            "id": 1784242,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:22.235Z",
+            "updatedAt": "2023-06-07T14:42:22.235Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        478,
+                        246
+                    ],
+                    [
+                        465,
+                        188
+                    ],
+                    [
+                        406,
+                        182
+                    ],
+                    [
+                        308,
+                        125
+                    ],
+                    [
+                        270,
+                        192
+                    ],
+                    [
+                        178,
+                        276
+                    ],
+                    [
+                        216,
+                        307
+                    ],
+                    [
+                        264,
+                        251
+                    ],
+                    [
+                        306,
+                        244
+                    ],
+                    [
+                        306,
+                        269
+                    ],
+                    [
+                        262,
+                        309
+                    ],
+                    [
+                        164,
+                        322
+                    ],
+                    [
+                        137,
+                        466
+                    ],
+                    [
+                        231,
+                        638
+                    ],
+                    [
+                        348,
+                        652
+                    ],
+                    [
+                        459,
+                        619
+                    ],
+                    [
+                        526,
+                        567
+                    ],
+                    [
+                        561,
+                        481
+                    ],
+                    [
+                        536,
+                        282
+                    ],
+                    [
+                        488,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784240,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:22.234Z",
+            "updatedAt": "2023-06-07T14:42:22.234Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        457,
+                        171
+                    ],
+                    [
+                        227,
+                        343
+                    ],
+                    [
+                        208,
+                        301
+                    ],
+                    [
+                        371,
+                        177
+                    ],
+                    [
+                        392,
+                        129
+                    ],
+                    [
+                        432,
+                        140
+                    ],
+                    [
+                        432,
+                        140
+                    ],
+                    [
+                        438,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784238,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:22.233Z",
+            "updatedAt": "2023-06-07T14:42:22.233Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        301
+                    ],
+                    [
+                        432,
+                        290
+                    ],
+                    [
+                        333,
+                        439
+                    ],
+                    [
+                        258,
+                        500
+                    ],
+                    [
+                        340,
+                        573
+                    ],
+                    [
+                        417,
+                        514
+                    ],
+                    [
+                        467,
+                        424
+                    ],
+                    [
+                        496,
+                        366
+                    ],
+                    [
+                        496,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784236,
+            "classId": 4309,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:22.232Z",
+            "updatedAt": "2023-06-07T14:42:22.232Z",
+            "tags": [],
+            "classTitle": "peas",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        552
+                    ],
+                    [
+                        289,
+                        435
+                    ],
+                    [
+                        277,
+                        439
+                    ],
+                    [
+                        275,
+                        535
+                    ],
+                    [
+                        243,
+                        587
+                    ],
+                    [
+                        317,
+                        596
+                    ],
+                    [
+                        314,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

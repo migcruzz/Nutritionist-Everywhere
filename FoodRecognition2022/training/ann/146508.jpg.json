@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1100,
+        "width": 1102
+    },
+    "objects": [
+        {
+            "id": 1784714,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:38.419Z",
+            "updatedAt": "2023-06-07T14:42:38.419Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        381
+                    ],
+                    [
+                        187,
+                        455
+                    ],
+                    [
+                        137,
+                        684
+                    ],
+                    [
+                        451,
+                        910
+                    ],
+                    [
+                        506,
+                        811
+                    ],
+                    [
+                        691,
+                        846
+                    ],
+                    [
+                        790,
+                        838
+                    ],
+                    [
+                        743,
+                        621
+                    ],
+                    [
+                        787,
+                        596
+                    ],
+                    [
+                        870,
+                        480
+                    ],
+                    [
+                        892,
+                        430
+                    ],
+                    [
+                        815,
+                        378
+                    ],
+                    [
+                        779,
+                        439
+                    ],
+                    [
+                        699,
+                        541
+                    ],
+                    [
+                        652,
+                        604
+                    ],
+                    [
+                        498,
+                        643
+                    ],
+                    [
+                        476,
+                        571
+                    ],
+                    [
+                        515,
+                        466
+                    ],
+                    [
+                        465,
+                        430
+                    ],
+                    [
+                        366,
+                        444
+                    ],
+                    [
+                        322,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784712,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:38.418Z",
+            "updatedAt": "2023-06-07T14:42:38.418Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        771,
+                        340
+                    ],
+                    [
+                        669,
+                        199
+                    ],
+                    [
+                        528,
+                        191
+                    ],
+                    [
+                        294,
+                        320
+                    ],
+                    [
+                        325,
+                        408
+                    ],
+                    [
+                        702,
+                        450
+                    ],
+                    [
+                        504,
+                        505
+                    ],
+                    [
+                        473,
+                        623
+                    ],
+                    [
+                        732,
+                        596
+                    ],
+                    [
+                        721,
+                        461
+                    ],
+                    [
+                        787,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1784711,
+            "classId": 3875,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:38.418Z",
+            "updatedAt": "2023-06-07T14:42:38.418Z",
+            "tags": [],
+            "classTitle": "chicken-breast",
+            "points": {
+                "exterior": [
+                    [
+                        859,
+                        593
+                    ],
+                    [
+                        760,
+                        643
+                    ],
+                    [
+                        721,
+                        706
+                    ],
+                    [
+                        774,
+                        756
+                    ],
+                    [
+                        881,
+                        750
+                    ],
+                    [
+                        895,
+                        695
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 482,
+        "width": 482
+    },
+    "objects": [
+        {
+            "id": 1687422,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:58.891Z",
+            "updatedAt": "2023-06-07T13:34:58.891Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        277,
+                        62
+                    ],
+                    [
+                        148,
+                        86
+                    ],
+                    [
+                        59,
+                        155
+                    ],
+                    [
+                        65,
+                        224
+                    ],
+                    [
+                        97,
+                        278
+                    ],
+                    [
+                        143,
+                        324
+                    ],
+                    [
+                        184,
+                        294
+                    ],
+                    [
+                        218,
+                        247
+                    ],
+                    [
+                        255,
+                        192
+                    ],
+                    [
+                        275,
+                        98
+                    ],
+                    [
+                        268,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1687421,
+            "classId": 3587,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:58.889Z",
+            "updatedAt": "2023-06-07T13:34:58.889Z",
+            "tags": [],
+            "classTitle": "cake-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        296
+                    ],
+                    [
+                        126,
+                        348
+                    ],
+                    [
+                        159,
+                        475
+                    ],
+                    [
+                        319,
+                        478
+                    ],
+                    [
+                        353,
+                        453
+                    ],
+                    [
+                        321,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

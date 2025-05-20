@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 821,
+        "width": 822
+    },
+    "objects": [
+        {
+            "id": 1749048,
+            "classId": 3553,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:54.870Z",
+            "updatedAt": "2023-06-07T14:18:54.870Z",
+            "tags": [],
+            "classTitle": "bell-pepper-red-raw",
+            "points": {
+                "exterior": [
+                    [
+                        638,
+                        285
+                    ],
+                    [
+                        535,
+                        439
+                    ],
+                    [
+                        440,
+                        262
+                    ],
+                    [
+                        327,
+                        311
+                    ],
+                    [
+                        251,
+                        472
+                    ],
+                    [
+                        105,
+                        533
+                    ],
+                    [
+                        93,
+                        418
+                    ],
+                    [
+                        185,
+                        274
+                    ],
+                    [
+                        370,
+                        190
+                    ],
+                    [
+                        518,
+                        213
+                    ],
+                    [
+                        541,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1749046,
+            "classId": 3733,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:54.870Z",
+            "updatedAt": "2023-06-07T14:18:54.870Z",
+            "tags": [],
+            "classTitle": "onion",
+            "points": {
+                "exterior": [
+                    [
+                        677,
+                        486
+                    ],
+                    [
+                        656,
+                        387
+                    ],
+                    [
+                        557,
+                        371
+                    ],
+                    [
+                        469,
+                        478
+                    ],
+                    [
+                        331,
+                        523
+                    ],
+                    [
+                        101,
+                        529
+                    ],
+                    [
+                        159,
+                        601
+                    ],
+                    [
+                        299,
+                        624
+                    ],
+                    [
+                        453,
+                        648
+                    ],
+                    [
+                        553,
+                        644
+                    ],
+                    [
+                        627,
+                        564
+                    ],
+                    [
+                        679,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

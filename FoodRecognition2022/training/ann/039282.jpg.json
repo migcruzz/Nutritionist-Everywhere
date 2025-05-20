@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1768253,
+            "classId": 3771,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:32.683Z",
+            "updatedAt": "2023-06-07T14:31:32.683Z",
+            "tags": [],
+            "classTitle": "couscous",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        190
+                    ],
+                    [
+                        211,
+                        270
+                    ],
+                    [
+                        218,
+                        326
+                    ],
+                    [
+                        262,
+                        387
+                    ],
+                    [
+                        280,
+                        414
+                    ],
+                    [
+                        331,
+                        361
+                    ],
+                    [
+                        416,
+                        352
+                    ],
+                    [
+                        434,
+                        329
+                    ],
+                    [
+                        444,
+                        250
+                    ],
+                    [
+                        444,
+                        213
+                    ],
+                    [
+                        353,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768251,
+            "classId": 3531,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:32.682Z",
+            "updatedAt": "2023-06-07T14:31:32.682Z",
+            "tags": [],
+            "classTitle": "pizza-margherita-baked",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        317
+                    ],
+                    [
+                        320,
+                        114
+                    ],
+                    [
+                        182,
+                        113
+                    ],
+                    [
+                        102,
+                        258
+                    ],
+                    [
+                        48,
+                        217
+                    ],
+                    [
+                        5,
+                        252
+                    ],
+                    [
+                        73,
+                        342
+                    ],
+                    [
+                        131,
+                        348
+                    ],
+                    [
+                        149,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768249,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:32.682Z",
+            "updatedAt": "2023-06-07T14:31:32.682Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        408,
+                        221
+                    ],
+                    [
+                        310,
+                        250
+                    ],
+                    [
+                        248,
+                        286
+                    ],
+                    [
+                        204,
+                        316
+                    ],
+                    [
+                        273,
+                        314
+                    ],
+                    [
+                        290,
+                        294
+                    ],
+                    [
+                        346,
+                        276
+                    ],
+                    [
+                        388,
+                        239
+                    ],
+                    [
+                        412,
+                        234
+                    ],
+                    [
+                        412,
+                        232
+                    ],
+                    [
+                        412,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

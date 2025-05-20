@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1170,
+        "width": 1170
+    },
+    "objects": [
+        {
+            "id": 1657410,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:14:25.020Z",
+            "updatedAt": "2023-06-07T13:14:25.020Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        175
+                    ],
+                    [
+                        79,
+                        453
+                    ],
+                    [
+                        222,
+                        886
+                    ],
+                    [
+                        652,
+                        763
+                    ],
+                    [
+                        476,
+                        187
+                    ],
+                    [
+                        441,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1657409,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:14:25.019Z",
+            "updatedAt": "2023-06-07T13:14:25.019Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        544,
+                        243
+                    ],
+                    [
+                        658,
+                        503
+                    ],
+                    [
+                        754,
+                        872
+                    ],
+                    [
+                        1167,
+                        740
+                    ],
+                    [
+                        1158,
+                        626
+                    ],
+                    [
+                        1026,
+                        257
+                    ],
+                    [
+                        576,
+                        199
+                    ],
+                    [
+                        561,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1662073,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:33.254Z",
+            "updatedAt": "2023-06-07T13:17:33.254Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        672,
+                        587
+                    ],
+                    [
+                        580,
+                        561
+                    ],
+                    [
+                        571,
+                        645
+                    ],
+                    [
+                        734,
+                        869
+                    ],
+                    [
+                        844,
+                        869
+                    ],
+                    [
+                        852,
+                        709
+                    ],
+                    [
+                        738,
+                        624
+                    ],
+                    [
+                        649,
+                        572
+                    ],
+                    [
+                        649,
+                        572
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1662071,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:33.254Z",
+            "updatedAt": "2023-06-07T13:17:33.254Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        587,
+                        653
+                    ],
+                    [
+                        604,
+                        535
+                    ],
+                    [
+                        543,
+                        417
+                    ],
+                    [
+                        472,
+                        466
+                    ],
+                    [
+                        455,
+                        525
+                    ],
+                    [
+                        484,
+                        589
+                    ],
+                    [
+                        531,
+                        631
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1662070,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:17:33.254Z",
+            "updatedAt": "2023-06-07T13:17:33.254Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        513
+                    ],
+                    [
+                        239,
+                        370
+                    ],
+                    [
+                        88,
+                        384
+                    ],
+                    [
+                        149,
+                        542
+                    ],
+                    [
+                        264,
+                        589
+                    ],
+                    [
+                        333,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

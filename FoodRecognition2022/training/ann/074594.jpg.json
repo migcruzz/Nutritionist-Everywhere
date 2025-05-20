@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1806143,
+            "classId": 3613,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:25.283Z",
+            "updatedAt": "2023-06-07T14:57:25.283Z",
+            "tags": [],
+            "classTitle": "cheese-for-raclette",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        229
+                    ],
+                    [
+                        159,
+                        228
+                    ],
+                    [
+                        129,
+                        220
+                    ],
+                    [
+                        82,
+                        218
+                    ],
+                    [
+                        64,
+                        212
+                    ],
+                    [
+                        26,
+                        184
+                    ],
+                    [
+                        19,
+                        171
+                    ],
+                    [
+                        19,
+                        155
+                    ],
+                    [
+                        34,
+                        137
+                    ],
+                    [
+                        72,
+                        118
+                    ],
+                    [
+                        84,
+                        115
+                    ],
+                    [
+                        160,
+                        113
+                    ],
+                    [
+                        191,
+                        118
+                    ],
+                    [
+                        200,
+                        126
+                    ],
+                    [
+                        208,
+                        142
+                    ],
+                    [
+                        218,
+                        151
+                    ],
+                    [
+                        231,
+                        156
+                    ],
+                    [
+                        241,
+                        165
+                    ],
+                    [
+                        246,
+                        186
+                    ],
+                    [
+                        240,
+                        202
+                    ],
+                    [
+                        222,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1806141,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:25.282Z",
+            "updatedAt": "2023-06-07T14:57:25.282Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        214
+                    ],
+                    [
+                        256,
+                        241
+                    ],
+                    [
+                        269,
+                        269
+                    ],
+                    [
+                        233,
+                        281
+                    ],
+                    [
+                        230,
+                        318
+                    ],
+                    [
+                        275,
+                        348
+                    ],
+                    [
+                        319,
+                        348
+                    ],
+                    [
+                        342,
+                        340
+                    ],
+                    [
+                        343,
+                        326
+                    ],
+                    [
+                        353,
+                        309
+                    ],
+                    [
+                        374,
+                        285
+                    ],
+                    [
+                        353,
+                        249
+                    ],
+                    [
+                        323,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1806139,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:25.281Z",
+            "updatedAt": "2023-06-07T14:57:25.281Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        304
+                    ],
+                    [
+                        343,
+                        347
+                    ],
+                    [
+                        370,
+                        315
+                    ],
+                    [
+                        244,
+                        271
+                    ],
+                    [
+                        237,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

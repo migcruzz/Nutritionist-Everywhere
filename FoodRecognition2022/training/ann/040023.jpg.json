@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1807445,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:20.048Z",
+            "updatedAt": "2023-06-07T14:58:20.048Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        181
+                    ],
+                    [
+                        124,
+                        379
+                    ],
+                    [
+                        267,
+                        402
+                    ],
+                    [
+                        348,
+                        263
+                    ],
+                    [
+                        348,
+                        189
+                    ],
+                    [
+                        349,
+                        175
+                    ],
+                    [
+                        304,
+                        105
+                    ],
+                    [
+                        130,
+                        100
+                    ],
+                    [
+                        36,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807443,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:20.048Z",
+            "updatedAt": "2023-06-07T14:58:20.048Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        261
+                    ],
+                    [
+                        215,
+                        347
+                    ],
+                    [
+                        294,
+                        305
+                    ],
+                    [
+                        354,
+                        166
+                    ],
+                    [
+                        331,
+                        93
+                    ],
+                    [
+                        174,
+                        59
+                    ],
+                    [
+                        89,
+                        118
+                    ],
+                    [
+                        111,
+                        189
+                    ],
+                    [
+                        113,
+                        225
+                    ],
+                    [
+                        96,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

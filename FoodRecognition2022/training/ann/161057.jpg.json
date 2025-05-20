@@ -1,0 +1,354 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1694935,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:06.357Z",
+            "updatedAt": "2023-06-07T13:40:06.357Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        39
+                    ],
+                    [
+                        104,
+                        75
+                    ],
+                    [
+                        115,
+                        116
+                    ],
+                    [
+                        314,
+                        81
+                    ],
+                    [
+                        334,
+                        56
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1694934,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:06.356Z",
+            "updatedAt": "2023-06-07T13:40:06.356Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        123
+                    ],
+                    [
+                        353,
+                        143
+                    ],
+                    [
+                        307,
+                        303
+                    ],
+                    [
+                        292,
+                        380
+                    ],
+                    [
+                        361,
+                        310
+                    ],
+                    [
+                        401,
+                        213
+                    ],
+                    [
+                        394,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1694932,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:06.355Z",
+            "updatedAt": "2023-06-07T13:40:06.355Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        171,
+                        302
+                    ],
+                    [
+                        113,
+                        299
+                    ],
+                    [
+                        72,
+                        349
+                    ],
+                    [
+                        138,
+                        379
+                    ],
+                    [
+                        186,
+                        382
+                    ],
+                    [
+                        182,
+                        338
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1694931,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:06.354Z",
+            "updatedAt": "2023-06-07T13:40:06.354Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        449,
+                        165
+                    ],
+                    [
+                        411,
+                        172
+                    ],
+                    [
+                        414,
+                        215
+                    ],
+                    [
+                        452,
+                        248
+                    ],
+                    [
+                        461,
+                        237
+                    ],
+                    [
+                        455,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1694929,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:06.354Z",
+            "updatedAt": "2023-06-07T13:40:06.354Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        58
+                    ],
+                    [
+                        93,
+                        45
+                    ],
+                    [
+                        15,
+                        78
+                    ],
+                    [
+                        14,
+                        134
+                    ],
+                    [
+                        3,
+                        268
+                    ],
+                    [
+                        46,
+                        337
+                    ],
+                    [
+                        84,
+                        339
+                    ],
+                    [
+                        156,
+                        258
+                    ],
+                    [
+                        199,
+                        197
+                    ],
+                    [
+                        188,
+                        382
+                    ],
+                    [
+                        314,
+                        381
+                    ],
+                    [
+                        399,
+                        344
+                    ],
+                    [
+                        368,
+                        284
+                    ],
+                    [
+                        311,
+                        379
+                    ],
+                    [
+                        280,
+                        367
+                    ],
+                    [
+                        334,
+                        205
+                    ],
+                    [
+                        276,
+                        175
+                    ],
+                    [
+                        234,
+                        167
+                    ],
+                    [
+                        189,
+                        192
+                    ],
+                    [
+                        118,
+                        226
+                    ],
+                    [
+                        77,
+                        150
+                    ],
+                    [
+                        111,
+                        110
+                    ],
+                    [
+                        113,
+                        70
+                    ],
+                    [
+                        121,
+                        49
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1694927,
+            "classId": 4113,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:06.353Z",
+            "updatedAt": "2023-06-07T13:40:06.353Z",
+            "tags": [],
+            "classTitle": "seeds",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        126
+                    ],
+                    [
+                        105,
+                        123
+                    ],
+                    [
+                        92,
+                        175
+                    ],
+                    [
+                        116,
+                        215
+                    ],
+                    [
+                        166,
+                        194
+                    ],
+                    [
+                        227,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1694926,
+            "classId": 4113,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:40:06.353Z",
+            "updatedAt": "2023-06-07T13:40:06.353Z",
+            "tags": [],
+            "classTitle": "seeds",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        103
+                    ],
+                    [
+                        334,
+                        102
+                    ],
+                    [
+                        366,
+                        120
+                    ],
+                    [
+                        390,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

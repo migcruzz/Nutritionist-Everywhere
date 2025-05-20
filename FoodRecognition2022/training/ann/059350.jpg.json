@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 853,
+        "width": 853
+    },
+    "objects": [
+        {
+            "id": 1647519,
+            "classId": 3823,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:07:52.171Z",
+            "updatedAt": "2023-06-07T13:07:52.171Z",
+            "tags": [],
+            "classTitle": "beef-filet",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        488
+                    ],
+                    [
+                        596,
+                        524
+                    ],
+                    [
+                        702,
+                        494
+                    ],
+                    [
+                        736,
+                        426
+                    ],
+                    [
+                        706,
+                        351
+                    ],
+                    [
+                        623,
+                        328
+                    ],
+                    [
+                        610,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1647517,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:07:52.171Z",
+            "updatedAt": "2023-06-07T13:07:52.171Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        844
+                    ],
+                    [
+                        259,
+                        757
+                    ],
+                    [
+                        239,
+                        720
+                    ],
+                    [
+                        167,
+                        735
+                    ],
+                    [
+                        120,
+                        789
+                    ],
+                    [
+                        146,
+                        818
+                    ],
+                    [
+                        165,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

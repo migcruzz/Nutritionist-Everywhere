@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1027,
+        "width": 1028
+    },
+    "objects": [
+        {
+            "id": 1713281,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:53.076Z",
+            "updatedAt": "2023-06-07T13:53:53.076Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        255
+                    ],
+                    [
+                        109,
+                        402
+                    ],
+                    [
+                        21,
+                        405
+                    ],
+                    [
+                        16,
+                        494
+                    ],
+                    [
+                        57,
+                        551
+                    ],
+                    [
+                        106,
+                        626
+                    ],
+                    [
+                        281,
+                        646
+                    ],
+                    [
+                        376,
+                        587
+                    ],
+                    [
+                        412,
+                        523
+                    ],
+                    [
+                        443,
+                        446
+                    ],
+                    [
+                        597,
+                        248
+                    ],
+                    [
+                        451,
+                        248
+                    ],
+                    [
+                        397,
+                        361
+                    ],
+                    [
+                        343,
+                        433
+                    ],
+                    [
+                        152,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713279,
+            "classId": 3803,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:53.076Z",
+            "updatedAt": "2023-06-07T13:53:53.076Z",
+            "tags": [],
+            "classTitle": "hazelnut-chocolate-spread-nutella-ovomaltine-caotina",
+            "points": {
+                "exterior": [
+                    [
+                        592,
+                        289
+                    ],
+                    [
+                        440,
+                        461
+                    ],
+                    [
+                        510,
+                        541
+                    ],
+                    [
+                        620,
+                        533
+                    ],
+                    [
+                        718,
+                        448
+                    ],
+                    [
+                        751,
+                        317
+                    ],
+                    [
+                        692,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

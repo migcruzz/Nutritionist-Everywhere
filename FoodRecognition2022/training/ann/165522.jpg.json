@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 463
+    },
+    "objects": [
+        {
+            "id": 1648175,
+            "classId": 3525,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:21.262Z",
+            "updatedAt": "2023-06-07T13:08:21.262Z",
+            "tags": [],
+            "classTitle": "wine-white",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        197
+                    ],
+                    [
+                        143,
+                        200
+                    ],
+                    [
+                        127,
+                        228
+                    ],
+                    [
+                        130,
+                        266
+                    ],
+                    [
+                        167,
+                        294
+                    ],
+                    [
+                        215,
+                        296
+                    ],
+                    [
+                        264,
+                        274
+                    ],
+                    [
+                        273,
+                        249
+                    ],
+                    [
+                        265,
+                        214
+                    ],
+                    [
+                        242,
+                        198
+                    ],
+                    [
+                        230,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1648173,
+            "classId": 3525,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:21.261Z",
+            "updatedAt": "2023-06-07T13:08:21.261Z",
+            "tags": [],
+            "classTitle": "wine-white",
+            "points": {
+                "exterior": [
+                    [
+                        201,
+                        193
+                    ],
+                    [
+                        149,
+                        208
+                    ],
+                    [
+                        131,
+                        240
+                    ],
+                    [
+                        138,
+                        277
+                    ],
+                    [
+                        163,
+                        303
+                    ],
+                    [
+                        217,
+                        308
+                    ],
+                    [
+                        256,
+                        278
+                    ],
+                    [
+                        261,
+                        247
+                    ],
+                    [
+                        261,
+                        213
+                    ],
+                    [
+                        239,
+                        199
+                    ],
+                    [
+                        223,
+                        193
+                    ],
+                    [
+                        218,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

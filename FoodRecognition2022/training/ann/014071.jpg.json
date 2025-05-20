@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1781433,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:31.598Z",
+            "updatedAt": "2023-06-07T14:40:31.598Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        193
+                    ],
+                    [
+                        102,
+                        378
+                    ],
+                    [
+                        66,
+                        481
+                    ],
+                    [
+                        126,
+                        492
+                    ],
+                    [
+                        349,
+                        484
+                    ],
+                    [
+                        506,
+                        424
+                    ],
+                    [
+                        505,
+                        349
+                    ],
+                    [
+                        492,
+                        283
+                    ],
+                    [
+                        373,
+                        213
+                    ],
+                    [
+                        393,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1781431,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:40:31.597Z",
+            "updatedAt": "2023-06-07T14:40:31.597Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        196
+                    ],
+                    [
+                        212,
+                        205
+                    ],
+                    [
+                        145,
+                        355
+                    ],
+                    [
+                        110,
+                        424
+                    ],
+                    [
+                        330,
+                        440
+                    ],
+                    [
+                        480,
+                        419
+                    ],
+                    [
+                        539,
+                        342
+                    ],
+                    [
+                        473,
+                        273
+                    ],
+                    [
+                        398,
+                        239
+                    ],
+                    [
+                        335,
+                        223
+                    ],
+                    [
+                        266,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

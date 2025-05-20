@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1040,
+        "width": 1040
+    },
+    "objects": [
+        {
+            "id": 1768457,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:42.810Z",
+            "updatedAt": "2023-06-07T14:31:42.810Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        604,
+                        230
+                    ],
+                    [
+                        544,
+                        223
+                    ],
+                    [
+                        448,
+                        259
+                    ],
+                    [
+                        365,
+                        280
+                    ],
+                    [
+                        300,
+                        324
+                    ],
+                    [
+                        331,
+                        454
+                    ],
+                    [
+                        388,
+                        457
+                    ],
+                    [
+                        443,
+                        371
+                    ],
+                    [
+                        617,
+                        269
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1768456,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:42.810Z",
+            "updatedAt": "2023-06-07T14:31:42.810Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        781,
+                        371
+                    ],
+                    [
+                        739,
+                        475
+                    ],
+                    [
+                        799,
+                        563
+                    ],
+                    [
+                        851,
+                        584
+                    ],
+                    [
+                        843,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

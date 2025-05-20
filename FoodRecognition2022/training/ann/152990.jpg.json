@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 390,
+        "width": 391
+    },
+    "objects": [
+        {
+            "id": 1643904,
+            "classId": 4131,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:26.700Z",
+            "updatedAt": "2023-06-07T13:05:26.700Z",
+            "tags": [],
+            "classTitle": "croissant",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        197
+                    ],
+                    [
+                        224,
+                        197
+                    ],
+                    [
+                        195,
+                        182
+                    ],
+                    [
+                        153,
+                        193
+                    ],
+                    [
+                        91,
+                        169
+                    ],
+                    [
+                        68,
+                        157
+                    ],
+                    [
+                        54,
+                        146
+                    ],
+                    [
+                        44,
+                        131
+                    ],
+                    [
+                        44,
+                        110
+                    ],
+                    [
+                        65,
+                        94
+                    ],
+                    [
+                        142,
+                        61
+                    ],
+                    [
+                        165,
+                        62
+                    ],
+                    [
+                        176,
+                        68
+                    ],
+                    [
+                        182,
+                        93
+                    ],
+                    [
+                        193,
+                        103
+                    ],
+                    [
+                        224,
+                        93
+                    ],
+                    [
+                        312,
+                        103
+                    ],
+                    [
+                        315,
+                        110
+                    ],
+                    [
+                        313,
+                        150
+                    ],
+                    [
+                        274,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1643902,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:26.699Z",
+            "updatedAt": "2023-06-07T13:05:26.699Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        297
+                    ],
+                    [
+                        170,
+                        280
+                    ],
+                    [
+                        177,
+                        260
+                    ],
+                    [
+                        143,
+                        241
+                    ],
+                    [
+                        108,
+                        249
+                    ],
+                    [
+                        91,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

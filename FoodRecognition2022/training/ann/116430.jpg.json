@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1689986,
+            "classId": 3797,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:40.042Z",
+            "updatedAt": "2023-06-07T13:36:40.042Z",
+            "tags": [],
+            "classTitle": "braided-white-loaf",
+            "points": {
+                "exterior": [
+                    [
+                        194,
+                        63
+                    ],
+                    [
+                        181,
+                        138
+                    ],
+                    [
+                        89,
+                        151
+                    ],
+                    [
+                        8,
+                        212
+                    ],
+                    [
+                        8,
+                        318
+                    ],
+                    [
+                        81,
+                        315
+                    ],
+                    [
+                        220,
+                        207
+                    ],
+                    [
+                        291,
+                        221
+                    ],
+                    [
+                        348,
+                        190
+                    ],
+                    [
+                        363,
+                        146
+                    ],
+                    [
+                        353,
+                        128
+                    ],
+                    [
+                        198,
+                        55
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1689984,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:40.040Z",
+            "updatedAt": "2023-06-07T13:36:40.040Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        340,
+                        150
+                    ],
+                    [
+                        305,
+                        111
+                    ],
+                    [
+                        204,
+                        68
+                    ],
+                    [
+                        194,
+                        95
+                    ],
+                    [
+                        248,
+                        183
+                    ],
+                    [
+                        281,
+                        190
+                    ],
+                    [
+                        339,
+                        170
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1689983,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:40.040Z",
+            "updatedAt": "2023-06-07T13:36:40.040Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        160
+                    ],
+                    [
+                        128,
+                        139
+                    ],
+                    [
+                        45,
+                        200
+                    ],
+                    [
+                        67,
+                        289
+                    ],
+                    [
+                        142,
+                        274
+                    ],
+                    [
+                        206,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

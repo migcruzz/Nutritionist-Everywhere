@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1805559,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:57:01.596Z",
+            "updatedAt": "2023-06-07T14:57:01.596Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        320
+                    ],
+                    [
+                        314,
+                        363
+                    ],
+                    [
+                        392,
+                        436
+                    ],
+                    [
+                        425,
+                        429
+                    ],
+                    [
+                        422,
+                        381
+                    ],
+                    [
+                        382,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

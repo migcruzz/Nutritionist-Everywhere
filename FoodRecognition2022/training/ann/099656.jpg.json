@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1752527,
+            "classId": 3699,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:15.889Z",
+            "updatedAt": "2023-06-07T14:21:15.889Z",
+            "tags": [],
+            "classTitle": "hamburger-bread-meat-ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        204
+                    ],
+                    [
+                        181,
+                        279
+                    ],
+                    [
+                        203,
+                        301
+                    ],
+                    [
+                        194,
+                        334
+                    ],
+                    [
+                        215,
+                        374
+                    ],
+                    [
+                        243,
+                        371
+                    ],
+                    [
+                        296,
+                        342
+                    ],
+                    [
+                        344,
+                        317
+                    ],
+                    [
+                        385,
+                        207
+                    ],
+                    [
+                        342,
+                        127
+                    ],
+                    [
+                        288,
+                        98
+                    ],
+                    [
+                        224,
+                        75
+                    ],
+                    [
+                        180,
+                        40
+                    ],
+                    [
+                        126,
+                        42
+                    ],
+                    [
+                        84,
+                        60
+                    ],
+                    [
+                        48,
+                        90
+                    ],
+                    [
+                        47,
+                        143
+                    ],
+                    [
+                        63,
+                        174
+                    ],
+                    [
+                        86,
+                        191
+                    ],
+                    [
+                        130,
+                        203
+                    ],
+                    [
+                        146,
+                        203
+                    ],
+                    [
+                        148,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1752525,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:21:15.889Z",
+            "updatedAt": "2023-06-07T14:21:15.889Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        134
+                    ],
+                    [
+                        54,
+                        139
+                    ],
+                    [
+                        56,
+                        167
+                    ],
+                    [
+                        87,
+                        170
+                    ],
+                    [
+                        99,
+                        162
+                    ],
+                    [
+                        85,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

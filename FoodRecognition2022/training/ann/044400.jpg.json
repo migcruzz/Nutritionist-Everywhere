@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 784,
+        "width": 785
+    },
+    "objects": [
+        {
+            "id": 1715406,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:24.943Z",
+            "updatedAt": "2023-06-07T13:55:24.943Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        650,
+                        148
+                    ],
+                    [
+                        636,
+                        250
+                    ],
+                    [
+                        418,
+                        280
+                    ],
+                    [
+                        269,
+                        197
+                    ],
+                    [
+                        203,
+                        183
+                    ],
+                    [
+                        130,
+                        148
+                    ],
+                    [
+                        163,
+                        66
+                    ],
+                    [
+                        224,
+                        13
+                    ],
+                    [
+                        413,
+                        58
+                    ],
+                    [
+                        436,
+                        66
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1715404,
+            "classId": 3825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:55:24.943Z",
+            "updatedAt": "2023-06-07T13:55:24.943Z",
+            "tags": [],
+            "classTitle": "mustard-dijon",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        209
+                    ],
+                    [
+                        183,
+                        158
+                    ],
+                    [
+                        110,
+                        158
+                    ],
+                    [
+                        53,
+                        248
+                    ],
+                    [
+                        106,
+                        278
+                    ],
+                    [
+                        124,
+                        244
+                    ],
+                    [
+                        134,
+                        225
+                    ],
+                    [
+                        191,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

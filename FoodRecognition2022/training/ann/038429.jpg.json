@@ -1,0 +1,134 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1788602,
+            "classId": 3845,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:21.394Z",
+            "updatedAt": "2023-06-07T14:45:21.394Z",
+            "tags": [],
+            "classTitle": "crunch-muesli",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        183
+                    ],
+                    [
+                        65,
+                        316
+                    ],
+                    [
+                        136,
+                        424
+                    ],
+                    [
+                        381,
+                        416
+                    ],
+                    [
+                        489,
+                        375
+                    ],
+                    [
+                        541,
+                        294
+                    ],
+                    [
+                        540,
+                        273
+                    ],
+                    [
+                        403,
+                        294
+                    ],
+                    [
+                        480,
+                        237
+                    ],
+                    [
+                        466,
+                        198
+                    ],
+                    [
+                        376,
+                        124
+                    ],
+                    [
+                        145,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1788600,
+            "classId": 4117,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:45:21.393Z",
+            "updatedAt": "2023-06-07T14:45:21.393Z",
+            "tags": [],
+            "classTitle": "milk",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        128
+                    ],
+                    [
+                        95,
+                        204
+                    ],
+                    [
+                        68,
+                        416
+                    ],
+                    [
+                        283,
+                        481
+                    ],
+                    [
+                        459,
+                        397
+                    ],
+                    [
+                        521,
+                        289
+                    ],
+                    [
+                        437,
+                        286
+                    ],
+                    [
+                        510,
+                        257
+                    ],
+                    [
+                        527,
+                        231
+                    ],
+                    [
+                        425,
+                        160
+                    ],
+                    [
+                        299,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

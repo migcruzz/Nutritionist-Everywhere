@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 883,
+        "width": 884
+    },
+    "objects": [
+        {
+            "id": 1769762,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:32.893Z",
+            "updatedAt": "2023-06-07T14:32:32.893Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        838,
+                        377
+                    ],
+                    [
+                        750,
+                        247
+                    ],
+                    [
+                        677,
+                        222
+                    ],
+                    [
+                        655,
+                        271
+                    ],
+                    [
+                        668,
+                        361
+                    ],
+                    [
+                        725,
+                        432
+                    ],
+                    [
+                        763,
+                        505
+                    ],
+                    [
+                        637,
+                        545
+                    ],
+                    [
+                        573,
+                        589
+                    ],
+                    [
+                        575,
+                        591
+                    ],
+                    [
+                        818,
+                        512
+                    ],
+                    [
+                        849,
+                        481
+                    ],
+                    [
+                        845,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769760,
+            "classId": 4337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:32.892Z",
+            "updatedAt": "2023-06-07T14:32:32.892Z",
+            "tags": [],
+            "classTitle": "processed-meat-charcuterie",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        713
+                    ],
+                    [
+                        421,
+                        704
+                    ],
+                    [
+                        681,
+                        545
+                    ],
+                    [
+                        763,
+                        432
+                    ],
+                    [
+                        721,
+                        313
+                    ],
+                    [
+                        675,
+                        216
+                    ],
+                    [
+                        602,
+                        163
+                    ],
+                    [
+                        423,
+                        196
+                    ],
+                    [
+                        250,
+                        271
+                    ],
+                    [
+                        118,
+                        313
+                    ],
+                    [
+                        71,
+                        377
+                    ],
+                    [
+                        60,
+                        461
+                    ],
+                    [
+                        98,
+                        578
+                    ],
+                    [
+                        151,
+                        697
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769758,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:32.892Z",
+            "updatedAt": "2023-06-07T14:32:32.892Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        580
+                    ],
+                    [
+                        659,
+                        487
+                    ],
+                    [
+                        677,
+                        304
+                    ],
+                    [
+                        602,
+                        196
+                    ],
+                    [
+                        409,
+                        273
+                    ],
+                    [
+                        235,
+                        368
+                    ],
+                    [
+                        239,
+                        483
+                    ],
+                    [
+                        250,
+                        507
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

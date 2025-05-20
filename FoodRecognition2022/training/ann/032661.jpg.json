@@ -1,0 +1,194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 972,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1799352,
+            "classId": 3891,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:47.353Z",
+            "updatedAt": "2023-06-07T14:52:47.353Z",
+            "tags": [],
+            "classTitle": "kolhrabi",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        150
+                    ],
+                    [
+                        207,
+                        147
+                    ],
+                    [
+                        127,
+                        267
+                    ],
+                    [
+                        203,
+                        451
+                    ],
+                    [
+                        297,
+                        447
+                    ],
+                    [
+                        293,
+                        284
+                    ],
+                    [
+                        293,
+                        169
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799350,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:47.353Z",
+            "updatedAt": "2023-06-07T14:52:47.353Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        130
+                    ],
+                    [
+                        285,
+                        133
+                    ],
+                    [
+                        305,
+                        293
+                    ],
+                    [
+                        336,
+                        451
+                    ],
+                    [
+                        439,
+                        427
+                    ],
+                    [
+                        439,
+                        381
+                    ],
+                    [
+                        380,
+                        325
+                    ],
+                    [
+                        395,
+                        218
+                    ],
+                    [
+                        407,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799348,
+            "classId": 3997,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:47.352Z",
+            "updatedAt": "2023-06-07T14:52:47.352Z",
+            "tags": [],
+            "classTitle": "red-radish",
+            "points": {
+                "exterior": [
+                    [
+                        543,
+                        186
+                    ],
+                    [
+                        426,
+                        128
+                    ],
+                    [
+                        409,
+                        220
+                    ],
+                    [
+                        390,
+                        318
+                    ],
+                    [
+                        422,
+                        393
+                    ],
+                    [
+                        516,
+                        393
+                    ],
+                    [
+                        526,
+                        303
+                    ],
+                    [
+                        524,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1799346,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:47.352Z",
+            "updatedAt": "2023-06-07T14:52:47.352Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        628,
+                        235
+                    ],
+                    [
+                        563,
+                        203
+                    ],
+                    [
+                        543,
+                        242
+                    ],
+                    [
+                        548,
+                        354
+                    ],
+                    [
+                        611,
+                        330
+                    ],
+                    [
+                        621,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

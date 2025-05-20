@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1658852,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:15.846Z",
+            "updatedAt": "2023-06-07T13:15:15.846Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        736,
+                        150
+                    ],
+                    [
+                        489,
+                        162
+                    ],
+                    [
+                        392,
+                        363
+                    ],
+                    [
+                        272,
+                        568
+                    ],
+                    [
+                        100,
+                        700
+                    ],
+                    [
+                        206,
+                        860
+                    ],
+                    [
+                        451,
+                        876
+                    ],
+                    [
+                        569,
+                        761
+                    ],
+                    [
+                        715,
+                        756
+                    ],
+                    [
+                        790,
+                        714
+                    ],
+                    [
+                        908,
+                        509
+                    ],
+                    [
+                        915,
+                        339
+                    ],
+                    [
+                        842,
+                        223
+                    ],
+                    [
+                        762,
+                        165
+                    ],
+                    [
+                        755,
+                        165
+                    ],
+                    [
+                        736,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1658850,
+            "classId": 3929,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:15:15.845Z",
+            "updatedAt": "2023-06-07T13:15:15.845Z",
+            "tags": [],
+            "classTitle": "fish",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        150
+                    ],
+                    [
+                        307,
+                        572
+                    ],
+                    [
+                        86,
+                        638
+                    ],
+                    [
+                        15,
+                        622
+                    ],
+                    [
+                        67,
+                        148
+                    ],
+                    [
+                        156,
+                        28
+                    ],
+                    [
+                        416,
+                        58
+                    ],
+                    [
+                        432,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

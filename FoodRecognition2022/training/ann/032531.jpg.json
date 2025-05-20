@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1657610,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:14:30.384Z",
+            "updatedAt": "2023-06-07T13:14:30.384Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        130
+                    ],
+                    [
+                        82,
+                        354
+                    ],
+                    [
+                        213,
+                        420
+                    ],
+                    [
+                        368,
+                        359
+                    ],
+                    [
+                        449,
+                        250
+                    ],
+                    [
+                        437,
+                        159
+                    ],
+                    [
+                        344,
+                        138
+                    ],
+                    [
+                        212,
+                        153
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1657608,
+            "classId": 3427,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:14:30.383Z",
+            "updatedAt": "2023-06-07T13:14:30.383Z",
+            "tags": [],
+            "classTitle": "ham-raw",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        144
+                    ],
+                    [
+                        56,
+                        366
+                    ],
+                    [
+                        181,
+                        429
+                    ],
+                    [
+                        368,
+                        385
+                    ],
+                    [
+                        460,
+                        235
+                    ],
+                    [
+                        449,
+                        182
+                    ],
+                    [
+                        434,
+                        150
+                    ],
+                    [
+                        234,
+                        123
+                    ],
+                    [
+                        232,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

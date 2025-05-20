@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 607,
+        "width": 607
+    },
+    "objects": [
+        {
+            "id": 1719612,
+            "classId": 3691,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:23.072Z",
+            "updatedAt": "2023-06-07T13:58:23.072Z",
+            "tags": [],
+            "classTitle": "veggie-burger",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        382
+                    ],
+                    [
+                        290,
+                        359
+                    ],
+                    [
+                        304,
+                        230
+                    ],
+                    [
+                        129,
+                        192
+                    ],
+                    [
+                        82,
+                        223
+                    ],
+                    [
+                        84,
+                        321
+                    ],
+                    [
+                        126,
+                        382
+                    ],
+                    [
+                        143,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1719610,
+            "classId": 3753,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:58:23.071Z",
+            "updatedAt": "2023-06-07T13:58:23.071Z",
+            "tags": [],
+            "classTitle": "cauliflower",
+            "points": {
+                "exterior": [
+                    [
+                        346,
+                        69
+                    ],
+                    [
+                        249,
+                        68
+                    ],
+                    [
+                        239,
+                        169
+                    ],
+                    [
+                        298,
+                        245
+                    ],
+                    [
+                        330,
+                        336
+                    ],
+                    [
+                        422,
+                        453
+                    ],
+                    [
+                        533,
+                        437
+                    ],
+                    [
+                        572,
+                        215
+                    ],
+                    [
+                        557,
+                        138
+                    ],
+                    [
+                        449,
+                        65
+                    ],
+                    [
+                        375,
+                        113
+                    ],
+                    [
+                        363,
+                        88
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

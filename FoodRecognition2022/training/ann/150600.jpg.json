@@ -1,0 +1,182 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 886,
+        "width": 886
+    },
+    "objects": [
+        {
+            "id": 1676179,
+            "classId": 4077,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:24.618Z",
+            "updatedAt": "2023-06-07T13:27:24.618Z",
+            "tags": [],
+            "classTitle": "tofu",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        256
+                    ],
+                    [
+                        85,
+                        440
+                    ],
+                    [
+                        452,
+                        415
+                    ],
+                    [
+                        574,
+                        300
+                    ],
+                    [
+                        645,
+                        327
+                    ],
+                    [
+                        674,
+                        575
+                    ],
+                    [
+                        585,
+                        619
+                    ],
+                    [
+                        111,
+                        626
+                    ],
+                    [
+                        209,
+                        730
+                    ],
+                    [
+                        599,
+                        723
+                    ],
+                    [
+                        594,
+                        655
+                    ],
+                    [
+                        725,
+                        588
+                    ],
+                    [
+                        747,
+                        655
+                    ],
+                    [
+                        847,
+                        657
+                    ],
+                    [
+                        818,
+                        227
+                    ],
+                    [
+                        687,
+                        185
+                    ],
+                    [
+                        577,
+                        201
+                    ],
+                    [
+                        306,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1676177,
+            "classId": 3589,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:24.618Z",
+            "updatedAt": "2023-06-07T13:27:24.618Z",
+            "tags": [],
+            "classTitle": "pasta-spaghetti",
+            "points": {
+                "exterior": [
+                    [
+                        590,
+                        269
+                    ],
+                    [
+                        479,
+                        334
+                    ],
+                    [
+                        477,
+                        404
+                    ],
+                    [
+                        56,
+                        449
+                    ],
+                    [
+                        160,
+                        615
+                    ],
+                    [
+                        548,
+                        617
+                    ],
+                    [
+                        641,
+                        708
+                    ],
+                    [
+                        800,
+                        695
+                    ],
+                    [
+                        665,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1676175,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:24.616Z",
+            "updatedAt": "2023-06-07T13:27:24.616Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        453
+                    ],
+                    [
+                        80,
+                        619
+                    ],
+                    [
+                        238,
+                        619
+                    ],
+                    [
+                        142,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

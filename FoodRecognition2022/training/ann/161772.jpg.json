@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1785072,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:59.453Z",
+            "updatedAt": "2023-06-07T14:42:59.453Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        21
+                    ],
+                    [
+                        396,
+                        18
+                    ],
+                    [
+                        193,
+                        9
+                    ],
+                    [
+                        36,
+                        18
+                    ],
+                    [
+                        10,
+                        114
+                    ],
+                    [
+                        5,
+                        404
+                    ],
+                    [
+                        38,
+                        459
+                    ],
+                    [
+                        368,
+                        449
+                    ],
+                    [
+                        439,
+                        445
+                    ],
+                    [
+                        452,
+                        282
+                    ],
+                    [
+                        436,
+                        163
+                    ],
+                    [
+                        446,
+                        62
+                    ],
+                    [
+                        446,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1785070,
+            "classId": 3675,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:42:59.453Z",
+            "updatedAt": "2023-06-07T14:42:59.453Z",
+            "tags": [],
+            "classTitle": "dried-raisins",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        415
+                    ],
+                    [
+                        349,
+                        430
+                    ],
+                    [
+                        388,
+                        393
+                    ],
+                    [
+                        397,
+                        377
+                    ],
+                    [
+                        362,
+                        328
+                    ],
+                    [
+                        323,
+                        328
+                    ],
+                    [
+                        304,
+                        359
+                    ],
+                    [
+                        302,
+                        366
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

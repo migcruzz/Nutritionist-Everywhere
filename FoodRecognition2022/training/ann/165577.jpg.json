@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 866,
+        "width": 866
+    },
+    "objects": [
+        {
+            "id": 1742384,
+            "classId": 3545,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:17.893Z",
+            "updatedAt": "2023-06-07T14:14:17.893Z",
+            "tags": [],
+            "classTitle": "white-coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        425,
+                        263
+                    ],
+                    [
+                        286,
+                        296
+                    ],
+                    [
+                        219,
+                        376
+                    ],
+                    [
+                        260,
+                        467
+                    ],
+                    [
+                        388,
+                        495
+                    ],
+                    [
+                        499,
+                        471
+                    ],
+                    [
+                        587,
+                        361
+                    ],
+                    [
+                        544,
+                        302
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1742382,
+            "classId": 3507,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:17.892Z",
+            "updatedAt": "2023-06-07T14:14:17.892Z",
+            "tags": [],
+            "classTitle": "cocoa-powder",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        296
+                    ],
+                    [
+                        377,
+                        350
+                    ],
+                    [
+                        304,
+                        404
+                    ],
+                    [
+                        312,
+                        454
+                    ],
+                    [
+                        353,
+                        488
+                    ],
+                    [
+                        375,
+                        473
+                    ],
+                    [
+                        375,
+                        462
+                    ],
+                    [
+                        379,
+                        421
+                    ],
+                    [
+                        416,
+                        389
+                    ],
+                    [
+                        434,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

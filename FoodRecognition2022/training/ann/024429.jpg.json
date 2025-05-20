@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1780544,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.086Z",
+            "updatedAt": "2023-06-07T14:39:54.086Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        428,
+                        207
+                    ],
+                    [
+                        342,
+                        156
+                    ],
+                    [
+                        90,
+                        126
+                    ],
+                    [
+                        0,
+                        200
+                    ],
+                    [
+                        16,
+                        377
+                    ],
+                    [
+                        130,
+                        452
+                    ],
+                    [
+                        268,
+                        452
+                    ],
+                    [
+                        400,
+                        448
+                    ],
+                    [
+                        438,
+                        392
+                    ],
+                    [
+                        466,
+                        316
+                    ],
+                    [
+                        449,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780542,
+            "classId": 4299,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.085Z",
+            "updatedAt": "2023-06-07T14:39:54.085Z",
+            "tags": [],
+            "classTitle": "cervelat",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        75
+                    ],
+                    [
+                        380,
+                        144
+                    ],
+                    [
+                        138,
+                        119
+                    ],
+                    [
+                        184,
+                        29
+                    ],
+                    [
+                        289,
+                        36
+                    ],
+                    [
+                        367,
+                        80
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1780540,
+            "classId": 4113,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:39:54.085Z",
+            "updatedAt": "2023-06-07T14:39:54.085Z",
+            "tags": [],
+            "classTitle": "seeds",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        287
+                    ],
+                    [
+                        216,
+                        369
+                    ],
+                    [
+                        295,
+                        393
+                    ],
+                    [
+                        389,
+                        329
+                    ],
+                    [
+                        347,
+                        196
+                    ],
+                    [
+                        268,
+                        152
+                    ],
+                    [
+                        157,
+                        140
+                    ],
+                    [
+                        97,
+                        190
+                    ],
+                    [
+                        79,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

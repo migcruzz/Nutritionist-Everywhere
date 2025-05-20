@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1645930,
+            "classId": 4311,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:53.267Z",
+            "updatedAt": "2023-06-07T13:06:53.267Z",
+            "tags": [],
+            "classTitle": "tiramisu",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        78
+                    ],
+                    [
+                        87,
+                        184
+                    ],
+                    [
+                        172,
+                        374
+                    ],
+                    [
+                        276,
+                        364
+                    ],
+                    [
+                        409,
+                        224
+                    ],
+                    [
+                        431,
+                        158
+                    ],
+                    [
+                        364,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1787234,
+            "classId": 3455,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:27.001Z",
+            "updatedAt": "2023-06-07T14:44:27.001Z",
+            "tags": [],
+            "classTitle": "bacon-frying",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        305
+                    ],
+                    [
+                        201,
+                        347
+                    ],
+                    [
+                        207,
+                        360
+                    ],
+                    [
+                        179,
+                        388
+                    ],
+                    [
+                        227,
+                        439
+                    ],
+                    [
+                        317,
+                        431
+                    ],
+                    [
+                        363,
+                        388
+                    ],
+                    [
+                        249,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787232,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:27.001Z",
+            "updatedAt": "2023-06-07T14:44:27.001Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        82
+                    ],
+                    [
+                        252,
+                        113
+                    ],
+                    [
+                        259,
+                        142
+                    ],
+                    [
+                        306,
+                        167
+                    ],
+                    [
+                        343,
+                        233
+                    ],
+                    [
+                        349,
+                        191
+                    ],
+                    [
+                        327,
+                        96
+                    ],
+                    [
+                        277,
+                        80
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787230,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:26.999Z",
+            "updatedAt": "2023-06-07T14:44:26.999Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        50
+                    ],
+                    [
+                        84,
+                        107
+                    ],
+                    [
+                        120,
+                        132
+                    ],
+                    [
+                        174,
+                        118
+                    ],
+                    [
+                        187,
+                        86
+                    ],
+                    [
+                        184,
+                        34
+                    ],
+                    [
+                        118,
+                        50
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1787228,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:44:26.999Z",
+            "updatedAt": "2023-06-07T14:44:26.999Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        76
+                    ],
+                    [
+                        89,
+                        0
+                    ],
+                    [
+                        255,
+                        4
+                    ],
+                    [
+                        280,
+                        14
+                    ],
+                    [
+                        233,
+                        109
+                    ],
+                    [
+                        185,
+                        109
+                    ],
+                    [
+                        183,
+                        35
+                    ],
+                    [
+                        95,
+                        74
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1731907,
+            "classId": 4259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:58.788Z",
+            "updatedAt": "2023-06-07T14:06:58.788Z",
+            "tags": [],
+            "classTitle": "raspberries",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        232
+                    ],
+                    [
+                        251,
+                        205
+                    ],
+                    [
+                        165,
+                        232
+                    ],
+                    [
+                        167,
+                        257
+                    ],
+                    [
+                        185,
+                        269
+                    ],
+                    [
+                        292,
+                        241
+                    ],
+                    [
+                        287,
+                        268
+                    ],
+                    [
+                        318,
+                        316
+                    ],
+                    [
+                        319,
+                        347
+                    ],
+                    [
+                        279,
+                        399
+                    ],
+                    [
+                        327,
+                        405
+                    ],
+                    [
+                        364,
+                        360
+                    ],
+                    [
+                        363,
+                        309
+                    ],
+                    [
+                        334,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1731905,
+            "classId": 3925,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:58.787Z",
+            "updatedAt": "2023-06-07T14:06:58.787Z",
+            "tags": [],
+            "classTitle": "muesli",
+            "points": {
+                "exterior": [
+                    [
+                        307,
+                        297
+                    ],
+                    [
+                        273,
+                        251
+                    ],
+                    [
+                        202,
+                        192
+                    ],
+                    [
+                        95,
+                        271
+                    ],
+                    [
+                        94,
+                        371
+                    ],
+                    [
+                        172,
+                        426
+                    ],
+                    [
+                        263,
+                        427
+                    ],
+                    [
+                        301,
+                        421
+                    ],
+                    [
+                        299,
+                        360
+                    ],
+                    [
+                        309,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1650746,
+            "classId": 3669,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:46.075Z",
+            "updatedAt": "2023-06-07T13:09:46.075Z",
+            "tags": [],
+            "classTitle": "tuna",
+            "points": {
+                "exterior": [
+                    [
+                        207,
+                        105
+                    ],
+                    [
+                        104,
+                        155
+                    ],
+                    [
+                        276,
+                        352
+                    ],
+                    [
+                        303,
+                        270
+                    ],
+                    [
+                        249,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1650744,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:46.075Z",
+            "updatedAt": "2023-06-07T13:09:46.075Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        148,
+                        210
+                    ],
+                    [
+                        106,
+                        220
+                    ],
+                    [
+                        74,
+                        259
+                    ],
+                    [
+                        130,
+                        266
+                    ],
+                    [
+                        158,
+                        265
+                    ],
+                    [
+                        135,
+                        287
+                    ],
+                    [
+                        154,
+                        326
+                    ],
+                    [
+                        195,
+                        340
+                    ],
+                    [
+                        204,
+                        320
+                    ],
+                    [
+                        187,
+                        287
+                    ],
+                    [
+                        172,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1679890,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:58.289Z",
+            "updatedAt": "2023-06-07T13:29:58.289Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        107
+                    ],
+                    [
+                        130,
+                        118
+                    ],
+                    [
+                        100,
+                        156
+                    ],
+                    [
+                        99,
+                        197
+                    ],
+                    [
+                        88,
+                        240
+                    ],
+                    [
+                        27,
+                        301
+                    ],
+                    [
+                        70,
+                        326
+                    ],
+                    [
+                        86,
+                        329
+                    ],
+                    [
+                        99,
+                        362
+                    ],
+                    [
+                        112,
+                        377
+                    ],
+                    [
+                        133,
+                        424
+                    ],
+                    [
+                        173,
+                        434
+                    ],
+                    [
+                        243,
+                        437
+                    ],
+                    [
+                        326,
+                        402
+                    ],
+                    [
+                        356,
+                        347
+                    ],
+                    [
+                        376,
+                        272
+                    ],
+                    [
+                        350,
+                        197
+                    ],
+                    [
+                        316,
+                        142
+                    ],
+                    [
+                        270,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679888,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:58.288Z",
+            "updatedAt": "2023-06-07T13:29:58.288Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        175
+                    ],
+                    [
+                        393,
+                        54
+                    ],
+                    [
+                        325,
+                        54
+                    ],
+                    [
+                        276,
+                        101
+                    ],
+                    [
+                        314,
+                        138
+                    ],
+                    [
+                        322,
+                        148
+                    ],
+                    [
+                        325,
+                        150
+                    ],
+                    [
+                        336,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

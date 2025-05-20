@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1100,
+        "width": 1102
+    },
+    "objects": [
+        {
+            "id": 1717141,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.934Z",
+            "updatedAt": "2023-06-07T13:56:36.934Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        648,
+                        406
+                    ],
+                    [
+                        552,
+                        315
+                    ],
+                    [
+                        497,
+                        310
+                    ],
+                    [
+                        381,
+                        525
+                    ],
+                    [
+                        323,
+                        682
+                    ],
+                    [
+                        400,
+                        773
+                    ],
+                    [
+                        477,
+                        797
+                    ],
+                    [
+                        637,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717140,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:56:36.934Z",
+            "updatedAt": "2023-06-07T13:56:36.934Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        976,
+                        464
+                    ],
+                    [
+                        836,
+                        390
+                    ],
+                    [
+                        673,
+                        836
+                    ],
+                    [
+                        822,
+                        883
+                    ],
+                    [
+                        976,
+                        483
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

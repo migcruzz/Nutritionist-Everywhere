@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1702360,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:26.464Z",
+            "updatedAt": "2023-06-07T13:45:26.464Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        645
+                    ],
+                    [
+                        366,
+                        729
+                    ],
+                    [
+                        271,
+                        896
+                    ],
+                    [
+                        122,
+                        896
+                    ],
+                    [
+                        28,
+                        434
+                    ],
+                    [
+                        158,
+                        437
+                    ],
+                    [
+                        322,
+                        526
+                    ],
+                    [
+                        306,
+                        637
+                    ],
+                    [
+                        274,
+                        639
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702358,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:26.462Z",
+            "updatedAt": "2023-06-07T13:45:26.462Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        748
+                    ],
+                    [
+                        601,
+                        834
+                    ],
+                    [
+                        431,
+                        1072
+                    ],
+                    [
+                        193,
+                        1072
+                    ],
+                    [
+                        393,
+                        783
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702356,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:26.462Z",
+            "updatedAt": "2023-06-07T13:45:26.462Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        471,
+                        161
+                    ],
+                    [
+                        174,
+                        534
+                    ],
+                    [
+                        485,
+                        834
+                    ],
+                    [
+                        768,
+                        999
+                    ],
+                    [
+                        933,
+                        1021
+                    ],
+                    [
+                        1049,
+                        480
+                    ],
+                    [
+                        698,
+                        121
+                    ],
+                    [
+                        422,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702354,
+            "classId": 3813,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:26.461Z",
+            "updatedAt": "2023-06-07T13:45:26.461Z",
+            "tags": [],
+            "classTitle": "bread-nut",
+            "points": {
+                "exterior": [
+                    [
+                        431,
+                        256
+                    ],
+                    [
+                        325,
+                        107
+                    ],
+                    [
+                        112,
+                        145
+                    ],
+                    [
+                        101,
+                        369
+                    ],
+                    [
+                        179,
+                        491
+                    ],
+                    [
+                        236,
+                        485
+                    ],
+                    [
+                        393,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1696854,
+            "classId": 3583,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:33.302Z",
+            "updatedAt": "2023-06-07T13:41:33.302Z",
+            "tags": [],
+            "classTitle": "pasta-noodles",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        451
+                    ],
+                    [
+                        400,
+                        354
+                    ],
+                    [
+                        412,
+                        205
+                    ],
+                    [
+                        360,
+                        111
+                    ],
+                    [
+                        228,
+                        76
+                    ],
+                    [
+                        126,
+                        112
+                    ],
+                    [
+                        33,
+                        198
+                    ],
+                    [
+                        17,
+                        306
+                    ],
+                    [
+                        65,
+                        417
+                    ],
+                    [
+                        153,
+                        460
+                    ],
+                    [
+                        275,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696852,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:33.301Z",
+            "updatedAt": "2023-06-07T13:41:33.301Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        406
+                    ],
+                    [
+                        291,
+                        333
+                    ],
+                    [
+                        288,
+                        265
+                    ],
+                    [
+                        240,
+                        181
+                    ],
+                    [
+                        168,
+                        147
+                    ],
+                    [
+                        57,
+                        170
+                    ],
+                    [
+                        29,
+                        242
+                    ],
+                    [
+                        31,
+                        314
+                    ],
+                    [
+                        70,
+                        370
+                    ],
+                    [
+                        99,
+                        393
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

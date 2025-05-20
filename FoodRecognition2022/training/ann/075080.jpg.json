@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1649033,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:42.682Z",
+            "updatedAt": "2023-06-07T13:08:42.682Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        107
+                    ],
+                    [
+                        205,
+                        316
+                    ],
+                    [
+                        117,
+                        272
+                    ],
+                    [
+                        78,
+                        205
+                    ],
+                    [
+                        70,
+                        133
+                    ],
+                    [
+                        140,
+                        76
+                    ],
+                    [
+                        257,
+                        75
+                    ],
+                    [
+                        304,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649031,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:42.681Z",
+            "updatedAt": "2023-06-07T13:08:42.681Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        164
+                    ],
+                    [
+                        334,
+                        129
+                    ],
+                    [
+                        298,
+                        91
+                    ],
+                    [
+                        202,
+                        78
+                    ],
+                    [
+                        132,
+                        97
+                    ],
+                    [
+                        85,
+                        174
+                    ],
+                    [
+                        105,
+                        239
+                    ],
+                    [
+                        163,
+                        245
+                    ],
+                    [
+                        214,
+                        221
+                    ],
+                    [
+                        225,
+                        186
+                    ],
+                    [
+                        250,
+                        159
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649029,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:08:42.680Z",
+            "updatedAt": "2023-06-07T13:08:42.680Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        193
+                    ],
+                    [
+                        229,
+                        153
+                    ],
+                    [
+                        237,
+                        114
+                    ],
+                    [
+                        210,
+                        96
+                    ],
+                    [
+                        141,
+                        111
+                    ],
+                    [
+                        89,
+                        136
+                    ],
+                    [
+                        102,
+                        161
+                    ],
+                    [
+                        136,
+                        169
+                    ],
+                    [
+                        148,
+                        186
+                    ],
+                    [
+                        165,
+                        191
+                    ],
+                    [
+                        167,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

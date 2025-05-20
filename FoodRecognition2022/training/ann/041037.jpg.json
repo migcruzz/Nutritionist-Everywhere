@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1707186,
+            "classId": 4219,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:58.923Z",
+            "updatedAt": "2023-06-07T13:48:58.923Z",
+            "tags": [],
+            "classTitle": "beef",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        190
+                    ],
+                    [
+                        387,
+                        174
+                    ],
+                    [
+                        311,
+                        185
+                    ],
+                    [
+                        287,
+                        264
+                    ],
+                    [
+                        335,
+                        322
+                    ],
+                    [
+                        425,
+                        328
+                    ],
+                    [
+                        465,
+                        295
+                    ],
+                    [
+                        456,
+                        233
+                    ],
+                    [
+                        451,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707184,
+            "classId": 3615,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:58.923Z",
+            "updatedAt": "2023-06-07T13:48:58.923Z",
+            "tags": [],
+            "classTitle": "mushrooms",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        187
+                    ],
+                    [
+                        366,
+                        144
+                    ],
+                    [
+                        333,
+                        70
+                    ],
+                    [
+                        256,
+                        43
+                    ],
+                    [
+                        179,
+                        60
+                    ],
+                    [
+                        172,
+                        111
+                    ],
+                    [
+                        220,
+                        168
+                    ],
+                    [
+                        232,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707182,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:58.923Z",
+            "updatedAt": "2023-06-07T13:48:58.923Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        202
+                    ],
+                    [
+                        315,
+                        323
+                    ],
+                    [
+                        395,
+                        304
+                    ],
+                    [
+                        435,
+                        280
+                    ],
+                    [
+                        459,
+                        250
+                    ],
+                    [
+                        447,
+                        172
+                    ],
+                    [
+                        383,
+                        153
+                    ],
+                    [
+                        318,
+                        190
+                    ],
+                    [
+                        297,
+                        207
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1707180,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:48:58.922Z",
+            "updatedAt": "2023-06-07T13:48:58.922Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        207
+                    ],
+                    [
+                        354,
+                        261
+                    ],
+                    [
+                        411,
+                        275
+                    ],
+                    [
+                        427,
+                        243
+                    ],
+                    [
+                        412,
+                        205
+                    ],
+                    [
+                        389,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

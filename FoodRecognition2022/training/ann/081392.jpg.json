@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 852,
+        "width": 852
+    },
+    "objects": [
+        {
+            "id": 1756509,
+            "classId": 3525,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:24:01.388Z",
+            "updatedAt": "2023-06-07T14:24:01.388Z",
+            "tags": [],
+            "classTitle": "wine-white",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        227
+                    ],
+                    [
+                        63,
+                        266
+                    ],
+                    [
+                        31,
+                        347
+                    ],
+                    [
+                        93,
+                        468
+                    ],
+                    [
+                        259,
+                        462
+                    ],
+                    [
+                        304,
+                        370
+                    ],
+                    [
+                        315,
+                        315
+                    ],
+                    [
+                        257,
+                        255
+                    ],
+                    [
+                        253,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1756507,
+            "classId": 3777,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:24:01.388Z",
+            "updatedAt": "2023-06-07T14:24:01.388Z",
+            "tags": [],
+            "classTitle": "crackers",
+            "points": {
+                "exterior": [
+                    [
+                        435,
+                        460
+                    ],
+                    [
+                        510,
+                        417
+                    ],
+                    [
+                        544,
+                        325
+                    ],
+                    [
+                        478,
+                        272
+                    ],
+                    [
+                        356,
+                        293
+                    ],
+                    [
+                        326,
+                        347
+                    ],
+                    [
+                        329,
+                        402
+                    ],
+                    [
+                        371,
+                        423
+                    ],
+                    [
+                        390,
+                        430
+                    ],
+                    [
+                        395,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1756505,
+            "classId": 4047,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:24:01.388Z",
+            "updatedAt": "2023-06-07T14:24:01.388Z",
+            "tags": [],
+            "classTitle": "pistachio",
+            "points": {
+                "exterior": [
+                    [
+                        693,
+                        502
+                    ],
+                    [
+                        441,
+                        604
+                    ],
+                    [
+                        459,
+                        728
+                    ],
+                    [
+                        542,
+                        845
+                    ],
+                    [
+                        661,
+                        826
+                    ],
+                    [
+                        727,
+                        788
+                    ],
+                    [
+                        772,
+                        749
+                    ],
+                    [
+                        791,
+                        700
+                    ],
+                    [
+                        765,
+                        553
+                    ],
+                    [
+                        729,
+                        504
+                    ],
+                    [
+                        721,
+                        504
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1771077,
+            "classId": 3591,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:33:27.904Z",
+            "updatedAt": "2023-06-07T14:33:27.904Z",
+            "tags": [],
+            "classTitle": "black-olives",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        253
+                    ],
+                    [
+                        465,
+                        158
+                    ],
+                    [
+                        385,
+                        152
+                    ],
+                    [
+                        336,
+                        187
+                    ],
+                    [
+                        347,
+                        281
+                    ],
+                    [
+                        281,
+                        413
+                    ],
+                    [
+                        264,
+                        451
+                    ],
+                    [
+                        355,
+                        460
+                    ],
+                    [
+                        426,
+                        446
+                    ],
+                    [
+                        473,
+                        427
+                    ],
+                    [
+                        459,
+                        369
+                    ],
+                    [
+                        394,
+                        311
+                    ],
+                    [
+                        413,
+                        276
+                    ],
+                    [
+                        438,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1771075,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:33:27.903Z",
+            "updatedAt": "2023-06-07T14:33:27.903Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        185
+                    ],
+                    [
+                        139,
+                        372
+                    ],
+                    [
+                        223,
+                        408
+                    ],
+                    [
+                        334,
+                        320
+                    ],
+                    [
+                        364,
+                        237
+                    ],
+                    [
+                        327,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1771074,
+            "classId": 3757,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:33:27.901Z",
+            "updatedAt": "2023-06-07T14:33:27.901Z",
+            "tags": [],
+            "classTitle": "green-olives",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        257
+                    ],
+                    [
+                        397,
+                        297
+                    ],
+                    [
+                        465,
+                        380
+                    ],
+                    [
+                        529,
+                        391
+                    ],
+                    [
+                        542,
+                        314
+                    ],
+                    [
+                        500,
+                        270
+                    ],
+                    [
+                        493,
+                        270
+                    ],
+                    [
+                        487,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1711795,
+            "classId": 3613,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.052Z",
+            "updatedAt": "2023-06-07T13:52:42.052Z",
+            "tags": [],
+            "classTitle": "cheese-for-raclette",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        104
+                    ],
+                    [
+                        325,
+                        301
+                    ],
+                    [
+                        116,
+                        204
+                    ],
+                    [
+                        183,
+                        26
+                    ],
+                    [
+                        244,
+                        9
+                    ],
+                    [
+                        322,
+                        45
+                    ],
+                    [
+                        377,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711793,
+            "classId": 3833,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.051Z",
+            "updatedAt": "2023-06-07T13:52:42.051Z",
+            "tags": [],
+            "classTitle": "pumpkin",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        445
+                    ],
+                    [
+                        356,
+                        428
+                    ],
+                    [
+                        293,
+                        341
+                    ],
+                    [
+                        248,
+                        359
+                    ],
+                    [
+                        252,
+                        409
+                    ],
+                    [
+                        283,
+                        431
+                    ],
+                    [
+                        313,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711792,
+            "classId": 3833,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:42.051Z",
+            "updatedAt": "2023-06-07T13:52:42.051Z",
+            "tags": [],
+            "classTitle": "pumpkin",
+            "points": {
+                "exterior": [
+                    [
+                        146,
+                        308
+                    ],
+                    [
+                        107,
+                        365
+                    ],
+                    [
+                        158,
+                        393
+                    ],
+                    [
+                        194,
+                        342
+                    ],
+                    [
+                        173,
+                        306
+                    ],
+                    [
+                        146,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

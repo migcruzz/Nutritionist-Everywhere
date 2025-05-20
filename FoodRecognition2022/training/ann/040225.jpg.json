@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1767004,
+            "classId": 3787,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:30:45.601Z",
+            "updatedAt": "2023-06-07T14:30:45.601Z",
+            "tags": [],
+            "classTitle": "water-with-lemon-juice",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        169
+                    ],
+                    [
+                        141,
+                        343
+                    ],
+                    [
+                        275,
+                        351
+                    ],
+                    [
+                        315,
+                        324
+                    ],
+                    [
+                        331,
+                        155
+                    ],
+                    [
+                        225,
+                        135
+                    ],
+                    [
+                        209,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

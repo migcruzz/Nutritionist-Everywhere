@@ -1,0 +1,98 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1779441,
+            "classId": 4033,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:52.655Z",
+            "updatedAt": "2023-06-07T14:38:52.655Z",
+            "tags": [],
+            "classTitle": "chocolate-filled",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        210
+                    ],
+                    [
+                        31,
+                        221
+                    ],
+                    [
+                        51,
+                        280
+                    ],
+                    [
+                        131,
+                        315
+                    ],
+                    [
+                        194,
+                        314
+                    ],
+                    [
+                        207,
+                        284
+                    ],
+                    [
+                        199,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779440,
+            "classId": 4033,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:52.655Z",
+            "updatedAt": "2023-06-07T14:38:52.655Z",
+            "tags": [],
+            "classTitle": "chocolate-filled",
+            "points": {
+                "exterior": [
+                    [
+                        429,
+                        243
+                    ],
+                    [
+                        301,
+                        190
+                    ],
+                    [
+                        233,
+                        297
+                    ],
+                    [
+                        244,
+                        341
+                    ],
+                    [
+                        377,
+                        378
+                    ],
+                    [
+                        405,
+                        315
+                    ],
+                    [
+                        427,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

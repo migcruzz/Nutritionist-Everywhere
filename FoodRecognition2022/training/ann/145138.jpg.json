@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1765020,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:18.795Z",
+            "updatedAt": "2023-06-07T14:29:18.795Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        157
+                    ],
+                    [
+                        181,
+                        178
+                    ],
+                    [
+                        149,
+                        257
+                    ],
+                    [
+                        219,
+                        291
+                    ],
+                    [
+                        278,
+                        281
+                    ],
+                    [
+                        347,
+                        266
+                    ],
+                    [
+                        370,
+                        231
+                    ],
+                    [
+                        322,
+                        163
+                    ],
+                    [
+                        251,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765019,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:18.795Z",
+            "updatedAt": "2023-06-07T14:29:18.795Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        62,
+                        74
+                    ],
+                    [
+                        30,
+                        145
+                    ],
+                    [
+                        77,
+                        168
+                    ],
+                    [
+                        138,
+                        137
+                    ],
+                    [
+                        157,
+                        89
+                    ],
+                    [
+                        157,
+                        59
+                    ],
+                    [
+                        93,
+                        59
+                    ],
+                    [
+                        64,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765017,
+            "classId": 3853,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:18.794Z",
+            "updatedAt": "2023-06-07T14:29:18.794Z",
+            "tags": [],
+            "classTitle": "fresh-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        245,
+                        171
+                    ],
+                    [
+                        186,
+                        200
+                    ],
+                    [
+                        173,
+                        220
+                    ],
+                    [
+                        166,
+                        238
+                    ],
+                    [
+                        176,
+                        275
+                    ],
+                    [
+                        255,
+                        283
+                    ],
+                    [
+                        330,
+                        270
+                    ],
+                    [
+                        361,
+                        241
+                    ],
+                    [
+                        361,
+                        204
+                    ],
+                    [
+                        304,
+                        177
+                    ],
+                    [
+                        250,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1765015,
+            "classId": 3499,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:29:18.794Z",
+            "updatedAt": "2023-06-07T14:29:18.794Z",
+            "tags": [],
+            "classTitle": "peanut-butter",
+            "points": {
+                "exterior": [
+                    [
+                        114,
+                        56
+                    ],
+                    [
+                        19,
+                        88
+                    ],
+                    [
+                        61,
+                        139
+                    ],
+                    [
+                        103,
+                        126
+                    ],
+                    [
+                        154,
+                        96
+                    ],
+                    [
+                        161,
+                        65
+                    ],
+                    [
+                        148,
+                        59
+                    ],
+                    [
+                        120,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

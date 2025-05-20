@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1802024,
+            "classId": 4045,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:39.696Z",
+            "updatedAt": "2023-06-07T14:54:39.696Z",
+            "tags": [],
+            "classTitle": "dates",
+            "points": {
+                "exterior": [
+                    [
+                        421,
+                        264
+                    ],
+                    [
+                        257,
+                        303
+                    ],
+                    [
+                        196,
+                        303
+                    ],
+                    [
+                        101,
+                        272
+                    ],
+                    [
+                        77,
+                        279
+                    ],
+                    [
+                        37,
+                        225
+                    ],
+                    [
+                        65,
+                        147
+                    ],
+                    [
+                        204,
+                        98
+                    ],
+                    [
+                        366,
+                        129
+                    ],
+                    [
+                        442,
+                        193
+                    ],
+                    [
+                        426,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1802022,
+            "classId": 3493,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:39.695Z",
+            "updatedAt": "2023-06-07T14:54:39.695Z",
+            "tags": [],
+            "classTitle": "almonds",
+            "points": {
+                "exterior": [
+                    [
+                        317,
+                        186
+                    ],
+                    [
+                        183,
+                        219
+                    ],
+                    [
+                        130,
+                        218
+                    ],
+                    [
+                        135,
+                        204
+                    ],
+                    [
+                        239,
+                        162
+                    ],
+                    [
+                        295,
+                        135
+                    ],
+                    [
+                        304,
+                        165
+                    ],
+                    [
+                        304,
+                        169
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 664,
+        "width": 664
+    },
+    "objects": [
+        {
+            "id": 1767394,
+            "classId": 4003,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:01.312Z",
+            "updatedAt": "2023-06-07T14:31:01.312Z",
+            "tags": [],
+            "classTitle": "sauerkraut",
+            "points": {
+                "exterior": [
+                    [
+                        611,
+                        169
+                    ],
+                    [
+                        505,
+                        126
+                    ],
+                    [
+                        349,
+                        210
+                    ],
+                    [
+                        247,
+                        312
+                    ],
+                    [
+                        166,
+                        398
+                    ],
+                    [
+                        202,
+                        637
+                    ],
+                    [
+                        387,
+                        650
+                    ],
+                    [
+                        586,
+                        537
+                    ],
+                    [
+                        596,
+                        408
+                    ],
+                    [
+                        524,
+                        302
+                    ],
+                    [
+                        616,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767392,
+            "classId": 3959,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:01.312Z",
+            "updatedAt": "2023-06-07T14:31:01.312Z",
+            "tags": [],
+            "classTitle": "meat",
+            "points": {
+                "exterior": [
+                    [
+                        654,
+                        200
+                    ],
+                    [
+                        551,
+                        310
+                    ],
+                    [
+                        657,
+                        418
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767390,
+            "classId": 3979,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:01.311Z",
+            "updatedAt": "2023-06-07T14:31:01.311Z",
+            "tags": [],
+            "classTitle": "sauce-mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        588,
+                        506
+                    ],
+                    [
+                        523,
+                        586
+                    ],
+                    [
+                        378,
+                        655
+                    ],
+                    [
+                        563,
+                        659
+                    ],
+                    [
+                        654,
+                        660
+                    ],
+                    [
+                        654,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

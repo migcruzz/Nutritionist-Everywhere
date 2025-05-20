@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1666712,
+            "classId": 4255,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:02.217Z",
+            "updatedAt": "2023-06-07T13:21:02.217Z",
+            "tags": [],
+            "classTitle": "wine-rose",
+            "points": {
+                "exterior": [
+                    [
+                        144,
+                        197
+                    ],
+                    [
+                        53,
+                        268
+                    ],
+                    [
+                        79,
+                        328
+                    ],
+                    [
+                        111,
+                        377
+                    ],
+                    [
+                        183,
+                        402
+                    ],
+                    [
+                        279,
+                        397
+                    ],
+                    [
+                        351,
+                        335
+                    ],
+                    [
+                        361,
+                        274
+                    ],
+                    [
+                        355,
+                        238
+                    ],
+                    [
+                        196,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666710,
+            "classId": 4255,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:21:02.217Z",
+            "updatedAt": "2023-06-07T13:21:02.217Z",
+            "tags": [],
+            "classTitle": "wine-rose",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        240
+                    ],
+                    [
+                        47,
+                        317
+                    ],
+                    [
+                        129,
+                        377
+                    ],
+                    [
+                        164,
+                        416
+                    ],
+                    [
+                        256,
+                        416
+                    ],
+                    [
+                        341,
+                        347
+                    ],
+                    [
+                        369,
+                        274
+                    ],
+                    [
+                        279,
+                        201
+                    ],
+                    [
+                        188,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

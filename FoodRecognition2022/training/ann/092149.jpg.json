@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1767883,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.579Z",
+            "updatedAt": "2023-06-07T14:31:17.579Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        48
+                    ],
+                    [
+                        42,
+                        115
+                    ],
+                    [
+                        91,
+                        283
+                    ],
+                    [
+                        131,
+                        255
+                    ],
+                    [
+                        192,
+                        186
+                    ],
+                    [
+                        240,
+                        148
+                    ],
+                    [
+                        280,
+                        38
+                    ],
+                    [
+                        239,
+                        18
+                    ],
+                    [
+                        196,
+                        21
+                    ],
+                    [
+                        119,
+                        39
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1767882,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:31:17.579Z",
+            "updatedAt": "2023-06-07T14:31:17.579Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        150
+                    ],
+                    [
+                        163,
+                        231
+                    ],
+                    [
+                        162,
+                        324
+                    ],
+                    [
+                        185,
+                        402
+                    ],
+                    [
+                        249,
+                        366
+                    ],
+                    [
+                        347,
+                        289
+                    ],
+                    [
+                        388,
+                        174
+                    ],
+                    [
+                        393,
+                        129
+                    ],
+                    [
+                        285,
+                        134
+                    ],
+                    [
+                        246,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

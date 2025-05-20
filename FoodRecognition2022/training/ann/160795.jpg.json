@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1759903,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:09.829Z",
+            "updatedAt": "2023-06-07T14:26:09.829Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        410
+                    ],
+                    [
+                        246,
+                        374
+                    ],
+                    [
+                        213,
+                        365
+                    ],
+                    [
+                        178,
+                        374
+                    ],
+                    [
+                        178,
+                        394
+                    ],
+                    [
+                        179,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1759901,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:09.829Z",
+            "updatedAt": "2023-06-07T14:26:09.829Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        263
+                    ],
+                    [
+                        293,
+                        323
+                    ],
+                    [
+                        310,
+                        291
+                    ],
+                    [
+                        297,
+                        265
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

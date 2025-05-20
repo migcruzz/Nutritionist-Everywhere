@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1804299,
+            "classId": 3517,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:03.934Z",
+            "updatedAt": "2023-06-07T14:56:03.934Z",
+            "tags": [],
+            "classTitle": "herbal-tea",
+            "points": {
+                "exterior": [
+                    [
+                        289,
+                        216
+                    ],
+                    [
+                        292,
+                        145
+                    ],
+                    [
+                        246,
+                        111
+                    ],
+                    [
+                        173,
+                        118
+                    ],
+                    [
+                        117,
+                        158
+                    ],
+                    [
+                        104,
+                        210
+                    ],
+                    [
+                        132,
+                        252
+                    ],
+                    [
+                        154,
+                        268
+                    ],
+                    [
+                        206,
+                        276
+                    ],
+                    [
+                        236,
+                        265
+                    ],
+                    [
+                        290,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1804297,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:03.933Z",
+            "updatedAt": "2023-06-07T14:56:03.933Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        225
+                    ],
+                    [
+                        293,
+                        181
+                    ],
+                    [
+                        238,
+                        151
+                    ],
+                    [
+                        167,
+                        175
+                    ],
+                    [
+                        152,
+                        241
+                    ],
+                    [
+                        173,
+                        276
+                    ],
+                    [
+                        216,
+                        280
+                    ],
+                    [
+                        295,
+                        248
+                    ],
+                    [
+                        292,
+                        244
+                    ],
+                    [
+                        282,
+                        236
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1673370,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:27.019Z",
+            "updatedAt": "2023-06-07T13:25:27.019Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        225
+                    ],
+                    [
+                        107,
+                        141
+                    ],
+                    [
+                        48,
+                        156
+                    ],
+                    [
+                        33,
+                        235
+                    ],
+                    [
+                        11,
+                        301
+                    ],
+                    [
+                        97,
+                        427
+                    ],
+                    [
+                        214,
+                        463
+                    ],
+                    [
+                        384,
+                        452
+                    ],
+                    [
+                        447,
+                        382
+                    ],
+                    [
+                        449,
+                        319
+                    ],
+                    [
+                        361,
+                        284
+                    ],
+                    [
+                        282,
+                        273
+                    ],
+                    [
+                        235,
+                        274
+                    ],
+                    [
+                        203,
+                        284
+                    ],
+                    [
+                        173,
+                        280
+                    ],
+                    [
+                        171,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673368,
+            "classId": 3889,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:27.019Z",
+            "updatedAt": "2023-06-07T13:25:27.019Z",
+            "tags": [],
+            "classTitle": "kebab-in-pita-bread",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        34
+                    ],
+                    [
+                        206,
+                        108
+                    ],
+                    [
+                        208,
+                        201
+                    ],
+                    [
+                        322,
+                        288
+                    ],
+                    [
+                        433,
+                        238
+                    ],
+                    [
+                        476,
+                        132
+                    ],
+                    [
+                        451,
+                        52
+                    ],
+                    [
+                        334,
+                        26
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673366,
+            "classId": 4009,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:27.018Z",
+            "updatedAt": "2023-06-07T13:25:27.018Z",
+            "tags": [],
+            "classTitle": "ketchup",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        186
+                    ],
+                    [
+                        204,
+                        129
+                    ],
+                    [
+                        132,
+                        120
+                    ],
+                    [
+                        99,
+                        129
+                    ],
+                    [
+                        112,
+                        171
+                    ],
+                    [
+                        158,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1673364,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:25:27.017Z",
+            "updatedAt": "2023-06-07T13:25:27.017Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        176,
+                        64
+                    ],
+                    [
+                        136,
+                        72
+                    ],
+                    [
+                        122,
+                        114
+                    ],
+                    [
+                        183,
+                        129
+                    ],
+                    [
+                        187,
+                        92
+                    ],
+                    [
+                        175,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

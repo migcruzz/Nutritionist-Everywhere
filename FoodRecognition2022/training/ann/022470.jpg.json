@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1797600,
+            "classId": 3651,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:35.342Z",
+            "updatedAt": "2023-06-07T14:51:35.342Z",
+            "tags": [],
+            "classTitle": "french-beans",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        370
+                    ],
+                    [
+                        170,
+                        231
+                    ],
+                    [
+                        336,
+                        178
+                    ],
+                    [
+                        458,
+                        179
+                    ],
+                    [
+                        437,
+                        323
+                    ],
+                    [
+                        277,
+                        388
+                    ],
+                    [
+                        133,
+                        370
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1797598,
+            "classId": 3563,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:35.341Z",
+            "updatedAt": "2023-06-07T14:51:35.341Z",
+            "tags": [],
+            "classTitle": "cucumber-pickled",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        201
+                    ],
+                    [
+                        152,
+                        217
+                    ],
+                    [
+                        92,
+                        362
+                    ],
+                    [
+                        57,
+                        362
+                    ],
+                    [
+                        57,
+                        336
+                    ],
+                    [
+                        126,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1797596,
+            "classId": 4005,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:35.340Z",
+            "updatedAt": "2023-06-07T14:51:35.340Z",
+            "tags": [],
+            "classTitle": "mustard",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        78
+                    ],
+                    [
+                        384,
+                        118
+                    ],
+                    [
+                        463,
+                        119
+                    ],
+                    [
+                        456,
+                        77
+                    ],
+                    [
+                        431,
+                        70
+                    ],
+                    [
+                        388,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1797594,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:51:35.340Z",
+            "updatedAt": "2023-06-07T14:51:35.340Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        137
+                    ],
+                    [
+                        372,
+                        33
+                    ],
+                    [
+                        380,
+                        47
+                    ],
+                    [
+                        350,
+                        103
+                    ],
+                    [
+                        302,
+                        132
+                    ],
+                    [
+                        241,
+                        166
+                    ],
+                    [
+                        199,
+                        139
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

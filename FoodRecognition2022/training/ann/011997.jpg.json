@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1692334,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:19.432Z",
+            "updatedAt": "2023-06-07T13:38:19.432Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        93
+                    ],
+                    [
+                        163,
+                        261
+                    ],
+                    [
+                        283,
+                        435
+                    ],
+                    [
+                        366,
+                        376
+                    ],
+                    [
+                        364,
+                        230
+                    ],
+                    [
+                        349,
+                        105
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1692332,
+            "classId": 4363,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:19.431Z",
+            "updatedAt": "2023-06-07T13:38:19.431Z",
+            "tags": [],
+            "classTitle": "pasta-in-butterfly-form-farfalle",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        68
+                    ],
+                    [
+                        216,
+                        96
+                    ],
+                    [
+                        189,
+                        426
+                    ],
+                    [
+                        153,
+                        454
+                    ],
+                    [
+                        12,
+                        440
+                    ],
+                    [
+                        24,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1692330,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:38:19.431Z",
+            "updatedAt": "2023-06-07T13:38:19.431Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        139,
+                        70
+                    ],
+                    [
+                        48,
+                        342
+                    ],
+                    [
+                        113,
+                        408
+                    ],
+                    [
+                        154,
+                        411
+                    ],
+                    [
+                        193,
+                        154
+                    ],
+                    [
+                        186,
+                        78
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

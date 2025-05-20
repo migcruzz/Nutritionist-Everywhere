@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 840,
+        "width": 840
+    },
+    "objects": [
+        {
+            "id": 1646009,
+            "classId": 3423,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:58.218Z",
+            "updatedAt": "2023-06-07T13:06:58.218Z",
+            "tags": [],
+            "classTitle": "banana",
+            "points": {
+                "exterior": [
+                    [
+                        664,
+                        104
+                    ],
+                    [
+                        213,
+                        150
+                    ],
+                    [
+                        166,
+                        226
+                    ],
+                    [
+                        192,
+                        316
+                    ],
+                    [
+                        431,
+                        318
+                    ],
+                    [
+                        706,
+                        289
+                    ],
+                    [
+                        759,
+                        175
+                    ],
+                    [
+                        744,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1646007,
+            "classId": 4407,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:58.218Z",
+            "updatedAt": "2023-06-07T13:06:58.218Z",
+            "tags": [],
+            "classTitle": "cherries",
+            "points": {
+                "exterior": [
+                    [
+                        551,
+                        301
+                    ],
+                    [
+                        234,
+                        316
+                    ],
+                    [
+                        66,
+                        459
+                    ],
+                    [
+                        82,
+                        595
+                    ],
+                    [
+                        166,
+                        692
+                    ],
+                    [
+                        387,
+                        713
+                    ],
+                    [
+                        660,
+                        654
+                    ],
+                    [
+                        771,
+                        587
+                    ],
+                    [
+                        801,
+                        493
+                    ],
+                    [
+                        799,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

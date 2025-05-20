@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1686786,
+            "classId": 3999,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:31.932Z",
+            "updatedAt": "2023-06-07T13:34:31.932Z",
+            "tags": [],
+            "classTitle": "fruit-tart",
+            "points": {
+                "exterior": [
+                    [
+                        241,
+                        12
+                    ],
+                    [
+                        41,
+                        98
+                    ],
+                    [
+                        55,
+                        152
+                    ],
+                    [
+                        148,
+                        277
+                    ],
+                    [
+                        252,
+                        424
+                    ],
+                    [
+                        322,
+                        466
+                    ],
+                    [
+                        345,
+                        458
+                    ],
+                    [
+                        328,
+                        331
+                    ],
+                    [
+                        298,
+                        172
+                    ],
+                    [
+                        247,
+                        28
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1686784,
+            "classId": 4071,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:34:31.930Z",
+            "updatedAt": "2023-06-07T13:34:31.930Z",
+            "tags": [],
+            "classTitle": "biscuit-with-butter",
+            "points": {
+                "exterior": [
+                    [
+                        247,
+                        21
+                    ],
+                    [
+                        55,
+                        104
+                    ],
+                    [
+                        157,
+                        268
+                    ],
+                    [
+                        280,
+                        432
+                    ],
+                    [
+                        321,
+                        439
+                    ],
+                    [
+                        293,
+                        253
+                    ],
+                    [
+                        275,
+                        214
+                    ],
+                    [
+                        265,
+                        130
+                    ],
+                    [
+                        249,
+                        27
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 847,
+        "width": 847
+    },
+    "objects": [
+        {
+            "id": 1738289,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:26.048Z",
+            "updatedAt": "2023-06-07T14:11:26.048Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        93
+                    ],
+                    [
+                        457,
+                        103
+                    ],
+                    [
+                        311,
+                        154
+                    ],
+                    [
+                        116,
+                        220
+                    ],
+                    [
+                        110,
+                        368
+                    ],
+                    [
+                        165,
+                        389
+                    ],
+                    [
+                        267,
+                        287
+                    ],
+                    [
+                        332,
+                        283
+                    ],
+                    [
+                        402,
+                        281
+                    ],
+                    [
+                        565,
+                        203
+                    ],
+                    [
+                        567,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738287,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:26.047Z",
+            "updatedAt": "2023-06-07T14:11:26.047Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        559,
+                        222
+                    ],
+                    [
+                        360,
+                        294
+                    ],
+                    [
+                        176,
+                        374
+                    ],
+                    [
+                        125,
+                        414
+                    ],
+                    [
+                        127,
+                        537
+                    ],
+                    [
+                        292,
+                        673
+                    ],
+                    [
+                        404,
+                        656
+                    ],
+                    [
+                        453,
+                        478
+                    ],
+                    [
+                        540,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738285,
+            "classId": 3929,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:26.045Z",
+            "updatedAt": "2023-06-07T14:11:26.045Z",
+            "tags": [],
+            "classTitle": "fish",
+            "points": {
+                "exterior": [
+                    [
+                        792,
+                        203
+                    ],
+                    [
+                        548,
+                        207
+                    ],
+                    [
+                        423,
+                        664
+                    ],
+                    [
+                        449,
+                        713
+                    ],
+                    [
+                        514,
+                        711
+                    ],
+                    [
+                        722,
+                        436
+                    ],
+                    [
+                        798,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738283,
+            "classId": 3559,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:26.043Z",
+            "updatedAt": "2023-06-07T14:11:26.043Z",
+            "tags": [],
+            "classTitle": "tartar-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        819,
+                        537
+                    ],
+                    [
+                        741,
+                        508
+                    ],
+                    [
+                        608,
+                        573
+                    ],
+                    [
+                        644,
+                        624
+                    ],
+                    [
+                        785,
+                        630
+                    ],
+                    [
+                        828,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

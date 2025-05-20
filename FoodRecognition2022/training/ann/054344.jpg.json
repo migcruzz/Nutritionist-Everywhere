@@ -1,0 +1,110 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1738433,
+            "classId": 3799,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:29.787Z",
+            "updatedAt": "2023-06-07T14:11:29.787Z",
+            "tags": [],
+            "classTitle": "emmental-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        167,
+                        122
+                    ],
+                    [
+                        37,
+                        244
+                    ],
+                    [
+                        131,
+                        286
+                    ],
+                    [
+                        213,
+                        175
+                    ],
+                    [
+                        199,
+                        140
+                    ],
+                    [
+                        161,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1738431,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:11:29.787Z",
+            "updatedAt": "2023-06-07T14:11:29.787Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        260
+                    ],
+                    [
+                        78,
+                        324
+                    ],
+                    [
+                        333,
+                        328
+                    ],
+                    [
+                        366,
+                        265
+                    ],
+                    [
+                        257,
+                        289
+                    ],
+                    [
+                        241,
+                        216
+                    ],
+                    [
+                        213,
+                        175
+                    ],
+                    [
+                        171,
+                        223
+                    ],
+                    [
+                        153,
+                        264
+                    ],
+                    [
+                        101,
+                        271
+                    ],
+                    [
+                        71,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

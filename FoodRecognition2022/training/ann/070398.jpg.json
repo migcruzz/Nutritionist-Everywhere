@@ -1,0 +1,254 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 953,
+        "width": 952
+    },
+    "objects": [
+        {
+            "id": 1682536,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:31.700Z",
+            "updatedAt": "2023-06-07T13:31:31.700Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        107,
+                        345
+                    ],
+                    [
+                        224,
+                        490
+                    ],
+                    [
+                        393,
+                        447
+                    ],
+                    [
+                        458,
+                        300
+                    ],
+                    [
+                        417,
+                        212
+                    ],
+                    [
+                        372,
+                        181
+                    ],
+                    [
+                        277,
+                        176
+                    ],
+                    [
+                        126,
+                        235
+                    ],
+                    [
+                        115,
+                        304
+                    ],
+                    [
+                        115,
+                        335
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682534,
+            "classId": 3529,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:31.698Z",
+            "updatedAt": "2023-06-07T13:31:31.698Z",
+            "tags": [],
+            "classTitle": "sausage",
+            "points": {
+                "exterior": [
+                    [
+                        655,
+                        168
+                    ],
+                    [
+                        591,
+                        173
+                    ],
+                    [
+                        557,
+                        244
+                    ],
+                    [
+                        574,
+                        320
+                    ],
+                    [
+                        667,
+                        366
+                    ],
+                    [
+                        746,
+                        373
+                    ],
+                    [
+                        722,
+                        244
+                    ],
+                    [
+                        691,
+                        192
+                    ],
+                    [
+                        667,
+                        177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682532,
+            "classId": 3811,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:31.697Z",
+            "updatedAt": "2023-06-07T13:31:31.697Z",
+            "tags": [],
+            "classTitle": "bacon-raw",
+            "points": {
+                "exterior": [
+                    [
+                        600,
+                        405
+                    ],
+                    [
+                        495,
+                        539
+                    ],
+                    [
+                        438,
+                        584
+                    ],
+                    [
+                        364,
+                        570
+                    ],
+                    [
+                        326,
+                        512
+                    ],
+                    [
+                        419,
+                        377
+                    ],
+                    [
+                        438,
+                        338
+                    ],
+                    [
+                        526,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682530,
+            "classId": 3825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:31.696Z",
+            "updatedAt": "2023-06-07T13:31:31.696Z",
+            "tags": [],
+            "classTitle": "mustard-dijon",
+            "points": {
+                "exterior": [
+                    [
+                        414,
+                        640
+                    ],
+                    [
+                        304,
+                        637
+                    ],
+                    [
+                        281,
+                        723
+                    ],
+                    [
+                        311,
+                        773
+                    ],
+                    [
+                        400,
+                        761
+                    ],
+                    [
+                        414,
+                        733
+                    ],
+                    [
+                        412,
+                        683
+                    ],
+                    [
+                        407,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682528,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:31.695Z",
+            "updatedAt": "2023-06-07T13:31:31.695Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        582,
+                        445
+                    ],
+                    [
+                        615,
+                        559
+                    ],
+                    [
+                        498,
+                        628
+                    ],
+                    [
+                        420,
+                        621
+                    ],
+                    [
+                        455,
+                        547
+                    ],
+                    [
+                        546,
+                        471
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

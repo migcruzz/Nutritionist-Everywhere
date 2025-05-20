@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1713098,
+            "classId": 4035,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:38.922Z",
+            "updatedAt": "2023-06-07T13:53:38.922Z",
+            "tags": [],
+            "classTitle": "milk-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        410,
+                        205
+                    ],
+                    [
+                        165,
+                        113
+                    ],
+                    [
+                        48,
+                        374
+                    ],
+                    [
+                        366,
+                        536
+                    ],
+                    [
+                        504,
+                        562
+                    ],
+                    [
+                        597,
+                        272
+                    ],
+                    [
+                        396,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713096,
+            "classId": 3971,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:38.921Z",
+            "updatedAt": "2023-06-07T13:53:38.921Z",
+            "tags": [],
+            "classTitle": "white-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        337,
+                        211
+                    ],
+                    [
+                        184,
+                        136
+                    ],
+                    [
+                        82,
+                        344
+                    ],
+                    [
+                        242,
+                        432
+                    ],
+                    [
+                        286,
+                        389
+                    ],
+                    [
+                        352,
+                        230
+                    ],
+                    [
+                        362,
+                        208
+                    ],
+                    [
+                        345,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1713095,
+            "classId": 3971,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:38.921Z",
+            "updatedAt": "2023-06-07T13:53:38.921Z",
+            "tags": [],
+            "classTitle": "white-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        467,
+                        249
+                    ],
+                    [
+                        374,
+                        221
+                    ],
+                    [
+                        304,
+                        428
+                    ],
+                    [
+                        497,
+                        493
+                    ],
+                    [
+                        576,
+                        293
+                    ],
+                    [
+                        527,
+                        246
+                    ],
+                    [
+                        492,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 798,
+        "width": 798
+    },
+    "objects": [
+        {
+            "id": 1729644,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:29.692Z",
+            "updatedAt": "2023-06-07T14:05:29.692Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        553,
+                        416
+                    ],
+                    [
+                        284,
+                        476
+                    ],
+                    [
+                        128,
+                        420
+                    ],
+                    [
+                        170,
+                        584
+                    ],
+                    [
+                        334,
+                        640
+                    ],
+                    [
+                        473,
+                        632
+                    ],
+                    [
+                        537,
+                        564
+                    ],
+                    [
+                        555,
+                        472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1729642,
+            "classId": 4117,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:29.691Z",
+            "updatedAt": "2023-06-07T14:05:29.691Z",
+            "tags": [],
+            "classTitle": "milk",
+            "points": {
+                "exterior": [
+                    [
+                        92,
+                        181
+                    ],
+                    [
+                        122,
+                        422
+                    ],
+                    [
+                        453,
+                        470
+                    ],
+                    [
+                        559,
+                        416
+                    ],
+                    [
+                        591,
+                        155
+                    ],
+                    [
+                        360,
+                        115
+                    ],
+                    [
+                        176,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1729641,
+            "classId": 4117,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:05:29.691Z",
+            "updatedAt": "2023-06-07T14:05:29.691Z",
+            "tags": [],
+            "classTitle": "milk",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        600
+                    ],
+                    [
+                        220,
+                        686
+                    ],
+                    [
+                        322,
+                        720
+                    ],
+                    [
+                        463,
+                        712
+                    ],
+                    [
+                        533,
+                        624
+                    ],
+                    [
+                        533,
+                        546
+                    ],
+                    [
+                        481,
+                        600
+                    ],
+                    [
+                        256,
+                        598
+                    ],
+                    [
+                        202,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1676819,
+            "classId": 3777,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:57.167Z",
+            "updatedAt": "2023-06-07T13:27:57.167Z",
+            "tags": [],
+            "classTitle": "crackers",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        68
+                    ],
+                    [
+                        161,
+                        52
+                    ],
+                    [
+                        149,
+                        140
+                    ],
+                    [
+                        243,
+                        171
+                    ],
+                    [
+                        264,
+                        135
+                    ],
+                    [
+                        264,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1676818,
+            "classId": 3777,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:27:57.167Z",
+            "updatedAt": "2023-06-07T13:27:57.167Z",
+            "tags": [],
+            "classTitle": "crackers",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        213
+                    ],
+                    [
+                        100,
+                        214
+                    ],
+                    [
+                        100,
+                        330
+                    ],
+                    [
+                        217,
+                        333
+                    ],
+                    [
+                        221,
+                        308
+                    ],
+                    [
+                        220,
+                        252
+                    ],
+                    [
+                        220,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

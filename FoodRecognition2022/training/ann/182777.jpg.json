@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1772206,
+            "classId": 3801,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:18.626Z",
+            "updatedAt": "2023-06-07T14:34:18.626Z",
+            "tags": [],
+            "classTitle": "croissant-wholegrain",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        536
+                    ],
+                    [
+                        285,
+                        441
+                    ],
+                    [
+                        466,
+                        380
+                    ],
+                    [
+                        551,
+                        418
+                    ],
+                    [
+                        646,
+                        482
+                    ],
+                    [
+                        725,
+                        518
+                    ],
+                    [
+                        868,
+                        462
+                    ],
+                    [
+                        894,
+                        362
+                    ],
+                    [
+                        820,
+                        201
+                    ],
+                    [
+                        618,
+                        116
+                    ],
+                    [
+                        461,
+                        116
+                    ],
+                    [
+                        195,
+                        244
+                    ],
+                    [
+                        108,
+                        349
+                    ],
+                    [
+                        100,
+                        354
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1772204,
+            "classId": 3663,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:34:18.625Z",
+            "updatedAt": "2023-06-07T14:34:18.625Z",
+            "tags": [],
+            "classTitle": "roll-of-half-white-or-white-flour-with-large-void",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        966
+                    ],
+                    [
+                        507,
+                        851
+                    ],
+                    [
+                        620,
+                        646
+                    ],
+                    [
+                        684,
+                        510
+                    ],
+                    [
+                        559,
+                        436
+                    ],
+                    [
+                        408,
+                        390
+                    ],
+                    [
+                        249,
+                        585
+                    ],
+                    [
+                        157,
+                        784
+                    ],
+                    [
+                        134,
+                        963
+                    ],
+                    [
+                        141,
+                        979
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

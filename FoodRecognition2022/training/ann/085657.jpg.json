@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1734398,
+            "classId": 3517,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:45.359Z",
+            "updatedAt": "2023-06-07T14:08:45.359Z",
+            "tags": [],
+            "classTitle": "herbal-tea",
+            "points": {
+                "exterior": [
+                    [
+                        137,
+                        144
+                    ],
+                    [
+                        72,
+                        141
+                    ],
+                    [
+                        43,
+                        131
+                    ],
+                    [
+                        36,
+                        122
+                    ],
+                    [
+                        61,
+                        102
+                    ],
+                    [
+                        81,
+                        95
+                    ],
+                    [
+                        107,
+                        91
+                    ],
+                    [
+                        149,
+                        92
+                    ],
+                    [
+                        179,
+                        97
+                    ],
+                    [
+                        197,
+                        105
+                    ],
+                    [
+                        210,
+                        117
+                    ],
+                    [
+                        203,
+                        126
+                    ],
+                    [
+                        185,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734396,
+            "classId": 3671,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:45.358Z",
+            "updatedAt": "2023-06-07T14:08:45.358Z",
+            "tags": [],
+            "classTitle": "dark-chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        306,
+                        248
+                    ],
+                    [
+                        269,
+                        268
+                    ],
+                    [
+                        305,
+                        349
+                    ],
+                    [
+                        389,
+                        366
+                    ],
+                    [
+                        391,
+                        316
+                    ],
+                    [
+                        308,
+                        248
+                    ],
+                    [
+                        308,
+                        248
+                    ],
+                    [
+                        308,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

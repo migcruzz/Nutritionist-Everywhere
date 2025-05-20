@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 852,
+        "width": 852
+    },
+    "objects": [
+        {
+            "id": 1691661,
+            "classId": 3909,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:57.755Z",
+            "updatedAt": "2023-06-07T13:37:57.755Z",
+            "tags": [],
+            "classTitle": "cappuccino",
+            "points": {
+                "exterior": [
+                    [
+                        655,
+                        243
+                    ],
+                    [
+                        637,
+                        243
+                    ],
+                    [
+                        602,
+                        233
+                    ],
+                    [
+                        581,
+                        220
+                    ],
+                    [
+                        567,
+                        202
+                    ],
+                    [
+                        566,
+                        173
+                    ],
+                    [
+                        579,
+                        144
+                    ],
+                    [
+                        597,
+                        126
+                    ],
+                    [
+                        610,
+                        120
+                    ],
+                    [
+                        640,
+                        117
+                    ],
+                    [
+                        667,
+                        123
+                    ],
+                    [
+                        683,
+                        133
+                    ],
+                    [
+                        704,
+                        160
+                    ],
+                    [
+                        708,
+                        179
+                    ],
+                    [
+                        708,
+                        200
+                    ],
+                    [
+                        702,
+                        214
+                    ],
+                    [
+                        683,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1691659,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:57.754Z",
+            "updatedAt": "2023-06-07T13:37:57.754Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        155
+                    ],
+                    [
+                        107,
+                        206
+                    ],
+                    [
+                        192,
+                        336
+                    ],
+                    [
+                        250,
+                        357
+                    ],
+                    [
+                        307,
+                        334
+                    ],
+                    [
+                        309,
+                        187
+                    ],
+                    [
+                        284,
+                        112
+                    ],
+                    [
+                        201,
+                        106
+                    ],
+                    [
+                        190,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

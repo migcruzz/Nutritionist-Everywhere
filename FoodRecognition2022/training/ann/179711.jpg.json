@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1769859,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:36.886Z",
+            "updatedAt": "2023-06-07T14:32:36.886Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        682,
+                        450
+                    ],
+                    [
+                        277,
+                        460
+                    ],
+                    [
+                        83,
+                        647
+                    ],
+                    [
+                        270,
+                        793
+                    ],
+                    [
+                        518,
+                        826
+                    ],
+                    [
+                        736,
+                        852
+                    ],
+                    [
+                        815,
+                        506
+                    ],
+                    [
+                        748,
+                        483
+                    ],
+                    [
+                        684,
+                        471
+                    ],
+                    [
+                        677,
+                        458
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769857,
+            "classId": 3899,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:36.885Z",
+            "updatedAt": "2023-06-07T14:32:36.885Z",
+            "tags": [],
+            "classTitle": "gruyere",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        312
+                    ],
+                    [
+                        44,
+                        514
+                    ],
+                    [
+                        897,
+                        888
+                    ],
+                    [
+                        907,
+                        663
+                    ],
+                    [
+                        167,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

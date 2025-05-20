@@ -1,0 +1,170 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 401,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1717903,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:09.334Z",
+            "updatedAt": "2023-06-07T13:57:09.334Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        251
+                    ],
+                    [
+                        201,
+                        209
+                    ],
+                    [
+                        256,
+                        213
+                    ],
+                    [
+                        290,
+                        213
+                    ],
+                    [
+                        312,
+                        145
+                    ],
+                    [
+                        294,
+                        80
+                    ],
+                    [
+                        265,
+                        33
+                    ],
+                    [
+                        186,
+                        4
+                    ],
+                    [
+                        119,
+                        16
+                    ],
+                    [
+                        35,
+                        82
+                    ],
+                    [
+                        22,
+                        133
+                    ],
+                    [
+                        62,
+                        220
+                    ],
+                    [
+                        156,
+                        236
+                    ],
+                    [
+                        158,
+                        251
+                    ],
+                    [
+                        158,
+                        252
+                    ],
+                    [
+                        169,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717901,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:09.332Z",
+            "updatedAt": "2023-06-07T13:57:09.332Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        326
+                    ],
+                    [
+                        249,
+                        241
+                    ],
+                    [
+                        179,
+                        227
+                    ],
+                    [
+                        170,
+                        289
+                    ],
+                    [
+                        203,
+                        331
+                    ],
+                    [
+                        217,
+                        318
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1717900,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:09.332Z",
+            "updatedAt": "2023-06-07T13:57:09.332Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        289
+                    ],
+                    [
+                        269,
+                        255
+                    ],
+                    [
+                        266,
+                        341
+                    ],
+                    [
+                        313,
+                        363
+                    ],
+                    [
+                        343,
+                        326
+                    ],
+                    [
+                        349,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1742341,
+            "classId": 3789,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:17.886Z",
+            "updatedAt": "2023-06-07T14:14:17.886Z",
+            "tags": [],
+            "classTitle": "espresso-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        92
+                    ],
+                    [
+                        296,
+                        75
+                    ],
+                    [
+                        255,
+                        78
+                    ],
+                    [
+                        244,
+                        106
+                    ],
+                    [
+                        256,
+                        124
+                    ],
+                    [
+                        288,
+                        129
+                    ],
+                    [
+                        310,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1742339,
+            "classId": 4085,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:17.885Z",
+            "updatedAt": "2023-06-07T14:14:17.885Z",
+            "tags": [],
+            "classTitle": "kefir-drink",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        115
+                    ],
+                    [
+                        206,
+                        81
+                    ],
+                    [
+                        164,
+                        69
+                    ],
+                    [
+                        121,
+                        92
+                    ],
+                    [
+                        121,
+                        162
+                    ],
+                    [
+                        149,
+                        200
+                    ],
+                    [
+                        197,
+                        202
+                    ],
+                    [
+                        221,
+                        187
+                    ],
+                    [
+                        237,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1742337,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:17.884Z",
+            "updatedAt": "2023-06-07T14:14:17.884Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        248
+                    ],
+                    [
+                        204,
+                        245
+                    ],
+                    [
+                        194,
+                        301
+                    ],
+                    [
+                        284,
+                        314
+                    ],
+                    [
+                        300,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1742335,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:14:17.884Z",
+            "updatedAt": "2023-06-07T14:14:17.884Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        209
+                    ],
+                    [
+                        191,
+                        250
+                    ],
+                    [
+                        143,
+                        302
+                    ],
+                    [
+                        245,
+                        401
+                    ],
+                    [
+                        262,
+                        363
+                    ],
+                    [
+                        302,
+                        361
+                    ],
+                    [
+                        305,
+                        310
+                    ],
+                    [
+                        243,
+                        309
+                    ],
+                    [
+                        192,
+                        293
+                    ],
+                    [
+                        208,
+                        243
+                    ],
+                    [
+                        299,
+                        247
+                    ],
+                    [
+                        300,
+                        247
+                    ],
+                    [
+                        300,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

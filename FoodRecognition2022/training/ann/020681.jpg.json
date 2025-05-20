@@ -1,0 +1,198 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1669442,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:54.624Z",
+            "updatedAt": "2023-06-07T13:22:54.624Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        724,
+                        591
+                    ],
+                    [
+                        897,
+                        556
+                    ],
+                    [
+                        868,
+                        330
+                    ],
+                    [
+                        765,
+                        190
+                    ],
+                    [
+                        463,
+                        169
+                    ],
+                    [
+                        394,
+                        228
+                    ],
+                    [
+                        531,
+                        294
+                    ],
+                    [
+                        637,
+                        367
+                    ],
+                    [
+                        651,
+                        436
+                    ],
+                    [
+                        684,
+                        523
+                    ],
+                    [
+                        703,
+                        587
+                    ],
+                    [
+                        724,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669440,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:54.623Z",
+            "updatedAt": "2023-06-07T13:22:54.623Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        282
+                    ],
+                    [
+                        182,
+                        400
+                    ],
+                    [
+                        218,
+                        495
+                    ],
+                    [
+                        246,
+                        605
+                    ],
+                    [
+                        182,
+                        617
+                    ],
+                    [
+                        123,
+                        450
+                    ],
+                    [
+                        76,
+                        346
+                    ],
+                    [
+                        95,
+                        169
+                    ],
+                    [
+                        281,
+                        188
+                    ],
+                    [
+                        338,
+                        308
+                    ],
+                    [
+                        354,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1669438,
+            "classId": 3479,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:22:54.623Z",
+            "updatedAt": "2023-06-07T13:22:54.623Z",
+            "tags": [],
+            "classTitle": "sauce-cream",
+            "points": {
+                "exterior": [
+                    [
+                        732,
+                        480
+                    ],
+                    [
+                        783,
+                        634
+                    ],
+                    [
+                        505,
+                        645
+                    ],
+                    [
+                        387,
+                        617
+                    ],
+                    [
+                        321,
+                        495
+                    ],
+                    [
+                        314,
+                        377
+                    ],
+                    [
+                        409,
+                        287
+                    ],
+                    [
+                        536,
+                        282
+                    ],
+                    [
+                        545,
+                        358
+                    ],
+                    [
+                        566,
+                        452
+                    ],
+                    [
+                        654,
+                        454
+                    ],
+                    [
+                        736,
+                        469
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

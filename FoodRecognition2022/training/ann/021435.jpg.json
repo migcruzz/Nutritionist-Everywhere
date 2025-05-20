@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 629,
+        "width": 629
+    },
+    "objects": [
+        {
+            "id": 1796260,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:28.522Z",
+            "updatedAt": "2023-06-07T14:50:28.522Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        139
+                    ],
+                    [
+                        97,
+                        138
+                    ],
+                    [
+                        152,
+                        245
+                    ],
+                    [
+                        194,
+                        169
+                    ],
+                    [
+                        169,
+                        102
+                    ],
+                    [
+                        182,
+                        44
+                    ],
+                    [
+                        261,
+                        69
+                    ],
+                    [
+                        298,
+                        124
+                    ],
+                    [
+                        270,
+                        202
+                    ],
+                    [
+                        312,
+                        272
+                    ],
+                    [
+                        235,
+                        305
+                    ],
+                    [
+                        207,
+                        305
+                    ],
+                    [
+                        172,
+                        374
+                    ],
+                    [
+                        154,
+                        457
+                    ],
+                    [
+                        75,
+                        467
+                    ],
+                    [
+                        48,
+                        375
+                    ],
+                    [
+                        91,
+                        339
+                    ],
+                    [
+                        86,
+                        300
+                    ],
+                    [
+                        4,
+                        232
+                    ],
+                    [
+                        15,
+                        146
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1796258,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:50:28.522Z",
+            "updatedAt": "2023-06-07T14:50:28.522Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        352,
+                        383
+                    ],
+                    [
+                        234,
+                        430
+                    ],
+                    [
+                        298,
+                        605
+                    ],
+                    [
+                        512,
+                        624
+                    ],
+                    [
+                        608,
+                        548
+                    ],
+                    [
+                        567,
+                        445
+                    ],
+                    [
+                        437,
+                        309
+                    ],
+                    [
+                        353,
+                        385
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

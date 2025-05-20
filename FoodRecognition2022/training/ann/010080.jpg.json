@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1696673,
+            "classId": 3883,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:23.910Z",
+            "updatedAt": "2023-06-07T13:41:23.910Z",
+            "tags": [],
+            "classTitle": "tea-peppermint",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        304
+                    ],
+                    [
+                        233,
+                        433
+                    ],
+                    [
+                        315,
+                        579
+                    ],
+                    [
+                        313,
+                        662
+                    ],
+                    [
+                        438,
+                        686
+                    ],
+                    [
+                        523,
+                        667
+                    ],
+                    [
+                        539,
+                        641
+                    ],
+                    [
+                        624,
+                        388
+                    ],
+                    [
+                        669,
+                        254
+                    ],
+                    [
+                        561,
+                        176
+                    ],
+                    [
+                        374,
+                        150
+                    ],
+                    [
+                        212,
+                        198
+                    ],
+                    [
+                        176,
+                        240
+                    ],
+                    [
+                        172,
+                        275
+                    ],
+                    [
+                        165,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1696671,
+            "classId": 3847,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:23.910Z",
+            "updatedAt": "2023-06-07T13:41:23.910Z",
+            "tags": [],
+            "classTitle": "biscuits",
+            "points": {
+                "exterior": [
+                    [
+                        591,
+                        556
+                    ],
+                    [
+                        577,
+                        810
+                    ],
+                    [
+                        782,
+                        810
+                    ],
+                    [
+                        759,
+                        535
+                    ],
+                    [
+                        601,
+                        537
+                    ],
+                    [
+                        596,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

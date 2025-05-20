@@ -1,0 +1,242 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1785586,
+            "classId": 4351,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:17.554Z",
+            "updatedAt": "2023-06-07T14:43:17.554Z",
+            "tags": [],
+            "classTitle": "beef-roast",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        280
+                    ],
+                    [
+                        162,
+                        193
+                    ],
+                    [
+                        99,
+                        100
+                    ],
+                    [
+                        27,
+                        70
+                    ],
+                    [
+                        47,
+                        152
+                    ],
+                    [
+                        55,
+                        253
+                    ],
+                    [
+                        90,
+                        315
+                    ],
+                    [
+                        151,
+                        317
+                    ],
+                    [
+                        167,
+                        300
+                    ],
+                    [
+                        171,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1785584,
+            "classId": 3773,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:17.553Z",
+            "updatedAt": "2023-06-07T14:43:17.553Z",
+            "tags": [],
+            "classTitle": "sauce-roast",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        275
+                    ],
+                    [
+                        158,
+                        279
+                    ],
+                    [
+                        211,
+                        254
+                    ],
+                    [
+                        204,
+                        216
+                    ],
+                    [
+                        143,
+                        180
+                    ],
+                    [
+                        100,
+                        162
+                    ],
+                    [
+                        57,
+                        201
+                    ],
+                    [
+                        54,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1785582,
+            "classId": 3661,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:17.553Z",
+            "updatedAt": "2023-06-07T14:43:17.553Z",
+            "tags": [],
+            "classTitle": "leaf-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        219
+                    ],
+                    [
+                        313,
+                        177
+                    ],
+                    [
+                        313,
+                        109
+                    ],
+                    [
+                        276,
+                        64
+                    ],
+                    [
+                        218,
+                        43
+                    ],
+                    [
+                        152,
+                        73
+                    ],
+                    [
+                        127,
+                        122
+                    ],
+                    [
+                        155,
+                        163
+                    ],
+                    [
+                        180,
+                        202
+                    ],
+                    [
+                        216,
+                        210
+                    ],
+                    [
+                        224,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1785580,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:17.552Z",
+            "updatedAt": "2023-06-07T14:43:17.552Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        180,
+                        404
+                    ],
+                    [
+                        257,
+                        395
+                    ],
+                    [
+                        300,
+                        384
+                    ],
+                    [
+                        317,
+                        370
+                    ],
+                    [
+                        321,
+                        311
+                    ],
+                    [
+                        306,
+                        259
+                    ],
+                    [
+                        284,
+                        238
+                    ],
+                    [
+                        223,
+                        250
+                    ],
+                    [
+                        171,
+                        278
+                    ],
+                    [
+                        134,
+                        316
+                    ],
+                    [
+                        143,
+                        356
+                    ],
+                    [
+                        146,
+                        364
+                    ],
+                    [
+                        146,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

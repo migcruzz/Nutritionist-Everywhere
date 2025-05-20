@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1023,
+        "width": 1023
+    },
+    "objects": [
+        {
+            "id": 1804018,
+            "classId": 4401,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:54.164Z",
+            "updatedAt": "2023-06-07T14:55:54.164Z",
+            "tags": [],
+            "classTitle": "white-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        748,
+                        303
+                    ],
+                    [
+                        702,
+                        472
+                    ],
+                    [
+                        320,
+                        741
+                    ],
+                    [
+                        126,
+                        723
+                    ],
+                    [
+                        167,
+                        904
+                    ],
+                    [
+                        78,
+                        979
+                    ],
+                    [
+                        257,
+                        996
+                    ],
+                    [
+                        630,
+                        794
+                    ],
+                    [
+                        906,
+                        580
+                    ],
+                    [
+                        1006,
+                        464
+                    ],
+                    [
+                        955,
+                        324
+                    ],
+                    [
+                        837,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1804016,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:54.163Z",
+            "updatedAt": "2023-06-07T14:55:54.163Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        577
+                    ],
+                    [
+                        471,
+                        475
+                    ],
+                    [
+                        246,
+                        262
+                    ],
+                    [
+                        159,
+                        329
+                    ],
+                    [
+                        193,
+                        482
+                    ],
+                    [
+                        47,
+                        585
+                    ],
+                    [
+                        139,
+                        700
+                    ],
+                    [
+                        410,
+                        725
+                    ],
+                    [
+                        517,
+                        638
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1804014,
+            "classId": 3451,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:55:54.162Z",
+            "updatedAt": "2023-06-07T14:55:54.162Z",
+            "tags": [],
+            "classTitle": "ham",
+            "points": {
+                "exterior": [
+                    [
+                        768,
+                        283
+                    ],
+                    [
+                        684,
+                        127
+                    ],
+                    [
+                        569,
+                        94
+                    ],
+                    [
+                        410,
+                        60
+                    ],
+                    [
+                        267,
+                        178
+                    ],
+                    [
+                        234,
+                        234
+                    ],
+                    [
+                        292,
+                        303
+                    ],
+                    [
+                        492,
+                        498
+                    ],
+                    [
+                        604,
+                        500
+                    ],
+                    [
+                        707,
+                        372
+                    ],
+                    [
+                        763,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

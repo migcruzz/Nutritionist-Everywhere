@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1748890,
+            "classId": 3613,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:18:50.892Z",
+            "updatedAt": "2023-06-07T14:18:50.892Z",
+            "tags": [],
+            "classTitle": "cheese-for-raclette",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        35
+                    ],
+                    [
+                        43,
+                        156
+                    ],
+                    [
+                        40,
+                        201
+                    ],
+                    [
+                        93,
+                        280
+                    ],
+                    [
+                        159,
+                        282
+                    ],
+                    [
+                        319,
+                        210
+                    ],
+                    [
+                        354,
+                        48
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

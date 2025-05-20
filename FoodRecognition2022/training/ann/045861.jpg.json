@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 973,
+        "width": 973
+    },
+    "objects": [
+        {
+            "id": 1690681,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:13.823Z",
+            "updatedAt": "2023-06-07T13:37:13.823Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        507,
+                        639
+                    ],
+                    [
+                        602,
+                        705
+                    ],
+                    [
+                        728,
+                        639
+                    ],
+                    [
+                        755,
+                        554
+                    ],
+                    [
+                        721,
+                        450
+                    ],
+                    [
+                        587,
+                        420
+                    ],
+                    [
+                        482,
+                        462
+                    ],
+                    [
+                        446,
+                        557
+                    ],
+                    [
+                        470,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1690679,
+            "classId": 4289,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:13.823Z",
+            "updatedAt": "2023-06-07T13:37:13.823Z",
+            "tags": [],
+            "classTitle": "corn-crisps",
+            "points": {
+                "exterior": [
+                    [
+                        803,
+                        189
+                    ],
+                    [
+                        687,
+                        316
+                    ],
+                    [
+                        667,
+                        428
+                    ],
+                    [
+                        726,
+                        488
+                    ],
+                    [
+                        699,
+                        668
+                    ],
+                    [
+                        755,
+                        729
+                    ],
+                    [
+                        915,
+                        717
+                    ],
+                    [
+                        957,
+                        693
+                    ],
+                    [
+                        947,
+                        257
+                    ],
+                    [
+                        811,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1664278,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:19.768Z",
+            "updatedAt": "2023-06-07T13:19:19.768Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        85,
+                        324
+                    ],
+                    [
+                        153,
+                        309
+                    ],
+                    [
+                        199,
+                        269
+                    ],
+                    [
+                        154,
+                        226
+                    ],
+                    [
+                        84,
+                        196
+                    ],
+                    [
+                        64,
+                        199
+                    ],
+                    [
+                        51,
+                        244
+                    ],
+                    [
+                        52,
+                        313
+                    ],
+                    [
+                        69,
+                        325
+                    ],
+                    [
+                        83,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1664276,
+            "classId": 4219,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:19:19.768Z",
+            "updatedAt": "2023-06-07T13:19:19.768Z",
+            "tags": [],
+            "classTitle": "beef",
+            "points": {
+                "exterior": [
+                    [
+                        53,
+                        204
+                    ],
+                    [
+                        195,
+                        115
+                    ],
+                    [
+                        337,
+                        127
+                    ],
+                    [
+                        423,
+                        197
+                    ],
+                    [
+                        378,
+                        336
+                    ],
+                    [
+                        285,
+                        371
+                    ],
+                    [
+                        161,
+                        388
+                    ],
+                    [
+                        132,
+                        339
+                    ],
+                    [
+                        199,
+                        276
+                    ],
+                    [
+                        190,
+                        245
+                    ],
+                    [
+                        121,
+                        221
+                    ],
+                    [
+                        47,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

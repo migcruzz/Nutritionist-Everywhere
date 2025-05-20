@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1769975,
+            "classId": 3765,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:43.671Z",
+            "updatedAt": "2023-06-07T14:32:43.671Z",
+            "tags": [],
+            "classTitle": "pasta-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        132
+                    ],
+                    [
+                        339,
+                        393
+                    ],
+                    [
+                        74,
+                        427
+                    ],
+                    [
+                        6,
+                        347
+                    ],
+                    [
+                        16,
+                        185
+                    ],
+                    [
+                        50,
+                        91
+                    ],
+                    [
+                        231,
+                        65
+                    ],
+                    [
+                        314,
+                        126
+                    ],
+                    [
+                        338,
+                        154
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1769973,
+            "classId": 3767,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:43.671Z",
+            "updatedAt": "2023-06-07T14:32:43.671Z",
+            "tags": [],
+            "classTitle": "sauce-pesto",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        263
+                    ],
+                    [
+                        268,
+                        249
+                    ],
+                    [
+                        260,
+                        156
+                    ],
+                    [
+                        177,
+                        134
+                    ],
+                    [
+                        96,
+                        174
+                    ],
+                    [
+                        138,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

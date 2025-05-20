@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 1689779,
+            "classId": 3505,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:33.939Z",
+            "updatedAt": "2023-06-07T13:36:33.939Z",
+            "tags": [],
+            "classTitle": "cucumber",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        37
+                    ],
+                    [
+                        257,
+                        40
+                    ],
+                    [
+                        140,
+                        61
+                    ],
+                    [
+                        82,
+                        158
+                    ],
+                    [
+                        42,
+                        239
+                    ],
+                    [
+                        83,
+                        279
+                    ],
+                    [
+                        323,
+                        149
+                    ],
+                    [
+                        356,
+                        89
+                    ],
+                    [
+                        346,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1689777,
+            "classId": 4107,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:36:33.938Z",
+            "updatedAt": "2023-06-07T13:36:33.938Z",
+            "tags": [],
+            "classTitle": "cheddar",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        276
+                    ],
+                    [
+                        128,
+                        308
+                    ],
+                    [
+                        336,
+                        221
+                    ],
+                    [
+                        330,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1643693,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:11.092Z",
+            "updatedAt": "2023-06-07T13:05:11.092Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        132
+                    ],
+                    [
+                        270,
+                        195
+                    ],
+                    [
+                        214,
+                        217
+                    ],
+                    [
+                        136,
+                        322
+                    ],
+                    [
+                        185,
+                        366
+                    ],
+                    [
+                        277,
+                        395
+                    ],
+                    [
+                        335,
+                        394
+                    ],
+                    [
+                        325,
+                        356
+                    ],
+                    [
+                        373,
+                        337
+                    ],
+                    [
+                        367,
+                        295
+                    ],
+                    [
+                        430,
+                        232
+                    ],
+                    [
+                        424,
+                        202
+                    ],
+                    [
+                        390,
+                        173
+                    ],
+                    [
+                        392,
+                        153
+                    ],
+                    [
+                        352,
+                        126
+                    ],
+                    [
+                        352,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1643691,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:05:11.089Z",
+            "updatedAt": "2023-06-07T13:05:11.089Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        110
+                    ],
+                    [
+                        75,
+                        142
+                    ],
+                    [
+                        26,
+                        215
+                    ],
+                    [
+                        75,
+                        282
+                    ],
+                    [
+                        131,
+                        290
+                    ],
+                    [
+                        189,
+                        261
+                    ],
+                    [
+                        213,
+                        176
+                    ],
+                    [
+                        186,
+                        131
+                    ],
+                    [
+                        151,
+                        105
+                    ],
+                    [
+                        128,
+                        109
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

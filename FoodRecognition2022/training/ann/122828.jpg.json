@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 750,
+        "width": 751
+    },
+    "objects": [
+        {
+            "id": 1721822,
+            "classId": 4021,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:02.202Z",
+            "updatedAt": "2023-06-07T14:00:02.202Z",
+            "tags": [],
+            "classTitle": "semi-hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        14,
+                        441
+                    ],
+                    [
+                        27,
+                        152
+                    ],
+                    [
+                        79,
+                        105
+                    ],
+                    [
+                        312,
+                        75
+                    ],
+                    [
+                        534,
+                        43
+                    ],
+                    [
+                        678,
+                        58
+                    ],
+                    [
+                        701,
+                        116
+                    ],
+                    [
+                        744,
+                        129
+                    ],
+                    [
+                        748,
+                        432
+                    ],
+                    [
+                        680,
+                        482
+                    ],
+                    [
+                        459,
+                        484
+                    ],
+                    [
+                        239,
+                        477
+                    ],
+                    [
+                        106,
+                        466
+                    ],
+                    [
+                        19,
+                        454
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1721820,
+            "classId": 3635,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:00:02.201Z",
+            "updatedAt": "2023-06-07T14:00:02.201Z",
+            "tags": [],
+            "classTitle": "bread",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        473
+                    ],
+                    [
+                        673,
+                        469
+                    ],
+                    [
+                        648,
+                        516
+                    ],
+                    [
+                        154,
+                        522
+                    ],
+                    [
+                        139,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

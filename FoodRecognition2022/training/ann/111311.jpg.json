@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 922,
+        "width": 922
+    },
+    "objects": [
+        {
+            "id": 1679258,
+            "classId": 4313,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:31.708Z",
+            "updatedAt": "2023-06-07T13:29:31.708Z",
+            "tags": [],
+            "classTitle": "apricots",
+            "points": {
+                "exterior": [
+                    [
+                        372,
+                        391
+                    ],
+                    [
+                        199,
+                        509
+                    ],
+                    [
+                        194,
+                        661
+                    ],
+                    [
+                        330,
+                        815
+                    ],
+                    [
+                        582,
+                        742
+                    ],
+                    [
+                        676,
+                        594
+                    ],
+                    [
+                        568,
+                        417
+                    ],
+                    [
+                        469,
+                        361
+                    ],
+                    [
+                        409,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679256,
+            "classId": 3983,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:31.707Z",
+            "updatedAt": "2023-06-07T13:29:31.707Z",
+            "tags": [],
+            "classTitle": "strawberries",
+            "points": {
+                "exterior": [
+                    [
+                        528,
+                        407
+                    ],
+                    [
+                        694,
+                        209
+                    ],
+                    [
+                        568,
+                        87
+                    ],
+                    [
+                        436,
+                        27
+                    ],
+                    [
+                        363,
+                        117
+                    ],
+                    [
+                        280,
+                        318
+                    ],
+                    [
+                        296,
+                        407
+                    ],
+                    [
+                        413,
+                        373
+                    ],
+                    [
+                        455,
+                        375
+                    ],
+                    [
+                        471,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

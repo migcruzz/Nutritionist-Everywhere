@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 883,
+        "width": 884
+    },
+    "objects": [
+        {
+            "id": 1807146,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:11.555Z",
+            "updatedAt": "2023-06-07T14:58:11.555Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        547
+                    ],
+                    [
+                        502,
+                        556
+                    ],
+                    [
+                        633,
+                        441
+                    ],
+                    [
+                        642,
+                        339
+                    ],
+                    [
+                        562,
+                        249
+                    ],
+                    [
+                        498,
+                        202
+                    ],
+                    [
+                        323,
+                        227
+                    ],
+                    [
+                        219,
+                        317
+                    ],
+                    [
+                        250,
+                        412
+                    ],
+                    [
+                        295,
+                        505
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807145,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:11.555Z",
+            "updatedAt": "2023-06-07T14:58:11.555Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        188,
+                        521
+                    ],
+                    [
+                        217,
+                        388
+                    ],
+                    [
+                        162,
+                        322
+                    ],
+                    [
+                        78,
+                        421
+                    ],
+                    [
+                        47,
+                        503
+                    ],
+                    [
+                        78,
+                        569
+                    ],
+                    [
+                        149,
+                        582
+                    ],
+                    [
+                        208,
+                        560
+                    ],
+                    [
+                        213,
+                        552
+                    ],
+                    [
+                        177,
+                        529
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

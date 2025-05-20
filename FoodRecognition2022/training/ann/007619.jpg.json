@@ -1,0 +1,142 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1798589,
+            "classId": 3555,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:24.882Z",
+            "updatedAt": "2023-06-07T14:52:24.882Z",
+            "tags": [],
+            "classTitle": "zucchini",
+            "points": {
+                "exterior": [
+                    [
+                        88,
+                        110
+                    ],
+                    [
+                        36,
+                        111
+                    ],
+                    [
+                        35,
+                        249
+                    ],
+                    [
+                        228,
+                        287
+                    ],
+                    [
+                        235,
+                        158
+                    ],
+                    [
+                        386,
+                        135
+                    ],
+                    [
+                        380,
+                        99
+                    ],
+                    [
+                        240,
+                        90
+                    ],
+                    [
+                        159,
+                        69
+                    ],
+                    [
+                        114,
+                        100
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798587,
+            "classId": 4083,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:24.882Z",
+            "updatedAt": "2023-06-07T14:52:24.882Z",
+            "tags": [],
+            "classTitle": "quinoa",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        277
+                    ],
+                    [
+                        125,
+                        313
+                    ],
+                    [
+                        173,
+                        406
+                    ],
+                    [
+                        49,
+                        422
+                    ],
+                    [
+                        10,
+                        421
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1798585,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:52:24.880Z",
+            "updatedAt": "2023-06-07T14:52:24.880Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        284
+                    ],
+                    [
+                        411,
+                        339
+                    ],
+                    [
+                        371,
+                        417
+                    ],
+                    [
+                        251,
+                        418
+                    ],
+                    [
+                        272,
+                        349
+                    ],
+                    [
+                        344,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

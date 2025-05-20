@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1702871,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:47.851Z",
+            "updatedAt": "2023-06-07T13:45:47.851Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        199
+                    ],
+                    [
+                        172,
+                        205
+                    ],
+                    [
+                        105,
+                        195
+                    ],
+                    [
+                        132,
+                        112
+                    ],
+                    [
+                        333,
+                        140
+                    ],
+                    [
+                        330,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702869,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:47.851Z",
+            "updatedAt": "2023-06-07T13:45:47.851Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        356
+                    ],
+                    [
+                        329,
+                        248
+                    ],
+                    [
+                        387,
+                        195
+                    ],
+                    [
+                        371,
+                        139
+                    ],
+                    [
+                        168,
+                        106
+                    ],
+                    [
+                        55,
+                        118
+                    ],
+                    [
+                        91,
+                        211
+                    ],
+                    [
+                        151,
+                        235
+                    ],
+                    [
+                        96,
+                        259
+                    ],
+                    [
+                        95,
+                        313
+                    ],
+                    [
+                        217,
+                        339
+                    ],
+                    [
+                        287,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702867,
+            "classId": 3417,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:47.850Z",
+            "updatedAt": "2023-06-07T13:45:47.850Z",
+            "tags": [],
+            "classTitle": "jam",
+            "points": {
+                "exterior": [
+                    [
+                        265,
+                        254
+                    ],
+                    [
+                        101,
+                        264
+                    ],
+                    [
+                        118,
+                        304
+                    ],
+                    [
+                        280,
+                        349
+                    ],
+                    [
+                        289,
+                        309
+                    ],
+                    [
+                        276,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

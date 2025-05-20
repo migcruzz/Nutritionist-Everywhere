@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1670196,
+            "classId": 4085,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:22.009Z",
+            "updatedAt": "2023-06-07T13:23:22.009Z",
+            "tags": [],
+            "classTitle": "kefir-drink",
+            "points": {
+                "exterior": [
+                    [
+                        204,
+                        242
+                    ],
+                    [
+                        200,
+                        423
+                    ],
+                    [
+                        348,
+                        424
+                    ],
+                    [
+                        339,
+                        259
+                    ],
+                    [
+                        293,
+                        246
+                    ],
+                    [
+                        319,
+                        286
+                    ],
+                    [
+                        320,
+                        317
+                    ],
+                    [
+                        237,
+                        319
+                    ],
+                    [
+                        215,
+                        307
+                    ],
+                    [
+                        200,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1670194,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:23:22.008Z",
+            "updatedAt": "2023-06-07T13:23:22.008Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        289
+                    ],
+                    [
+                        288,
+                        218
+                    ],
+                    [
+                        206,
+                        230
+                    ],
+                    [
+                        195,
+                        307
+                    ],
+                    [
+                        236,
+                        346
+                    ],
+                    [
+                        236,
+                        311
+                    ],
+                    [
+                        230,
+                        290
+                    ],
+                    [
+                        295,
+                        278
+                    ],
+                    [
+                        300,
+                        279
+                    ],
+                    [
+                        310,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 838,
+        "width": 838
+    },
+    "objects": [
+        {
+            "id": 1651169,
+            "classId": 3685,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:06.017Z",
+            "updatedAt": "2023-06-07T13:10:06.017Z",
+            "tags": [],
+            "classTitle": "crepe-plain",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        243
+                    ],
+                    [
+                        134,
+                        372
+                    ],
+                    [
+                        169,
+                        567
+                    ],
+                    [
+                        310,
+                        685
+                    ],
+                    [
+                        486,
+                        680
+                    ],
+                    [
+                        582,
+                        613
+                    ],
+                    [
+                        664,
+                        471
+                    ],
+                    [
+                        643,
+                        337
+                    ],
+                    [
+                        521,
+                        173
+                    ],
+                    [
+                        358,
+                        152
+                    ],
+                    [
+                        230,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1651167,
+            "classId": 3693,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:10:06.016Z",
+            "updatedAt": "2023-06-07T13:10:06.016Z",
+            "tags": [],
+            "classTitle": "cream-spinach",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        601
+                    ],
+                    [
+                        530,
+                        527
+                    ],
+                    [
+                        467,
+                        293
+                    ],
+                    [
+                        385,
+                        261
+                    ],
+                    [
+                        284,
+                        295
+                    ],
+                    [
+                        316,
+                        486
+                    ],
+                    [
+                        387,
+                        609
+                    ],
+                    [
+                        475,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

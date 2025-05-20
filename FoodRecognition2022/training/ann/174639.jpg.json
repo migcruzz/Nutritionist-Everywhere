@@ -1,0 +1,162 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 977,
+        "width": 977
+    },
+    "objects": [
+        {
+            "id": 1649980,
+            "classId": 3569,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.272Z",
+            "updatedAt": "2023-06-07T13:09:15.272Z",
+            "tags": [],
+            "classTitle": "soup-of-lentils-dahl-dhal",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        336
+                    ],
+                    [
+                        168,
+                        376
+                    ],
+                    [
+                        127,
+                        698
+                    ],
+                    [
+                        161,
+                        779
+                    ],
+                    [
+                        325,
+                        793
+                    ],
+                    [
+                        264,
+                        612
+                    ],
+                    [
+                        415,
+                        559
+                    ],
+                    [
+                        459,
+                        520
+                    ],
+                    [
+                        554,
+                        500
+                    ],
+                    [
+                        530,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649978,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.271Z",
+            "updatedAt": "2023-06-07T13:09:15.271Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        716,
+                        349
+                    ],
+                    [
+                        584,
+                        322
+                    ],
+                    [
+                        471,
+                        358
+                    ],
+                    [
+                        559,
+                        405
+                    ],
+                    [
+                        569,
+                        522
+                    ],
+                    [
+                        418,
+                        549
+                    ],
+                    [
+                        273,
+                        620
+                    ],
+                    [
+                        366,
+                        776
+                    ],
+                    [
+                        706,
+                        827
+                    ],
+                    [
+                        806,
+                        669
+                    ],
+                    [
+                        838,
+                        493
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1649976,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:09:15.271Z",
+            "updatedAt": "2023-06-07T13:09:15.271Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        794,
+                        693
+                    ],
+                    [
+                        755,
+                        705
+                    ],
+                    [
+                        752,
+                        786
+                    ],
+                    [
+                        784,
+                        810
+                    ],
+                    [
+                        843,
+                        739
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

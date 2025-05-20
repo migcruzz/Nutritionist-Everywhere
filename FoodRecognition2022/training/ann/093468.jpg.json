@@ -1,0 +1,186 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 782,
+        "width": 782
+    },
+    "objects": [
+        {
+            "id": 1801337,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:10.486Z",
+            "updatedAt": "2023-06-07T14:54:10.486Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        356,
+                        78
+                    ],
+                    [
+                        192,
+                        215
+                    ],
+                    [
+                        243,
+                        328
+                    ],
+                    [
+                        608,
+                        318
+                    ],
+                    [
+                        638,
+                        195
+                    ],
+                    [
+                        505,
+                        117
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801335,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:10.485Z",
+            "updatedAt": "2023-06-07T14:54:10.485Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        70
+                    ],
+                    [
+                        133,
+                        74
+                    ],
+                    [
+                        96,
+                        619
+                    ],
+                    [
+                        427,
+                        727
+                    ],
+                    [
+                        675,
+                        656
+                    ],
+                    [
+                        702,
+                        326
+                    ],
+                    [
+                        691,
+                        84
+                    ],
+                    [
+                        470,
+                        84
+                    ],
+                    [
+                        354,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801333,
+            "classId": 3839,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:10.484Z",
+            "updatedAt": "2023-06-07T14:54:10.484Z",
+            "tags": [],
+            "classTitle": "spinach-raw",
+            "points": {
+                "exterior": [
+                    [
+                        657,
+                        379
+                    ],
+                    [
+                        503,
+                        344
+                    ],
+                    [
+                        503,
+                        459
+                    ],
+                    [
+                        651,
+                        649
+                    ],
+                    [
+                        741,
+                        518
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1801331,
+            "classId": 4181,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:54:10.483Z",
+            "updatedAt": "2023-06-07T14:54:10.483Z",
+            "tags": [],
+            "classTitle": "falafel-balls",
+            "points": {
+                "exterior": [
+                    [
+                        325,
+                        355
+                    ],
+                    [
+                        237,
+                        570
+                    ],
+                    [
+                        237,
+                        627
+                    ],
+                    [
+                        358,
+                        627
+                    ],
+                    [
+                        521,
+                        518
+                    ],
+                    [
+                        507,
+                        430
+                    ],
+                    [
+                        434,
+                        430
+                    ],
+                    [
+                        391,
+                        416
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

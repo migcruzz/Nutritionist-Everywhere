@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1759734,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:04.146Z",
+            "updatedAt": "2023-06-07T14:26:04.146Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        232,
+                        379
+                    ],
+                    [
+                        209,
+                        378
+                    ],
+                    [
+                        189,
+                        371
+                    ],
+                    [
+                        154,
+                        341
+                    ],
+                    [
+                        133,
+                        336
+                    ],
+                    [
+                        116,
+                        327
+                    ],
+                    [
+                        108,
+                        321
+                    ],
+                    [
+                        87,
+                        285
+                    ],
+                    [
+                        84,
+                        275
+                    ],
+                    [
+                        84,
+                        248
+                    ],
+                    [
+                        86,
+                        234
+                    ],
+                    [
+                        96,
+                        207
+                    ],
+                    [
+                        127,
+                        169
+                    ],
+                    [
+                        154,
+                        154
+                    ],
+                    [
+                        188,
+                        145
+                    ],
+                    [
+                        206,
+                        144
+                    ],
+                    [
+                        239,
+                        146
+                    ],
+                    [
+                        259,
+                        153
+                    ],
+                    [
+                        281,
+                        166
+                    ],
+                    [
+                        299,
+                        171
+                    ],
+                    [
+                        328,
+                        186
+                    ],
+                    [
+                        338,
+                        197
+                    ],
+                    [
+                        360,
+                        234
+                    ],
+                    [
+                        365,
+                        255
+                    ],
+                    [
+                        365,
+                        271
+                    ],
+                    [
+                        360,
+                        302
+                    ],
+                    [
+                        349,
+                        319
+                    ],
+                    [
+                        325,
+                        343
+                    ],
+                    [
+                        308,
+                        353
+                    ],
+                    [
+                        266,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1759732,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:04.144Z",
+            "updatedAt": "2023-06-07T14:26:04.144Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        264
+                    ],
+                    [
+                        169,
+                        306
+                    ],
+                    [
+                        166,
+                        282
+                    ],
+                    [
+                        210,
+                        283
+                    ],
+                    [
+                        273,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1759731,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:26:04.144Z",
+            "updatedAt": "2023-06-07T14:26:04.144Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        313
+                    ],
+                    [
+                        300,
+                        352
+                    ],
+                    [
+                        357,
+                        314
+                    ],
+                    [
+                        327,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

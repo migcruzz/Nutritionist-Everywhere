@@ -1,0 +1,242 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 1702461,
+            "classId": 3451,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:32.281Z",
+            "updatedAt": "2023-06-07T13:45:32.281Z",
+            "tags": [],
+            "classTitle": "ham",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        427
+                    ],
+                    [
+                        119,
+                        696
+                    ],
+                    [
+                        326,
+                        857
+                    ],
+                    [
+                        549,
+                        898
+                    ],
+                    [
+                        674,
+                        852
+                    ],
+                    [
+                        733,
+                        750
+                    ],
+                    [
+                        528,
+                        652
+                    ],
+                    [
+                        377,
+                        473
+                    ],
+                    [
+                        311,
+                        432
+                    ],
+                    [
+                        285,
+                        417
+                    ],
+                    [
+                        277,
+                        414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702459,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:32.280Z",
+            "updatedAt": "2023-06-07T13:45:32.280Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        540
+                    ],
+                    [
+                        136,
+                        642
+                    ],
+                    [
+                        451,
+                        816
+                    ],
+                    [
+                        679,
+                        808
+                    ],
+                    [
+                        513,
+                        652
+                    ],
+                    [
+                        367,
+                        581
+                    ],
+                    [
+                        303,
+                        537
+                    ],
+                    [
+                        293,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702457,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:32.280Z",
+            "updatedAt": "2023-06-07T13:45:32.280Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        743,
+                        209
+                    ],
+                    [
+                        549,
+                        143
+                    ],
+                    [
+                        303,
+                        266
+                    ],
+                    [
+                        277,
+                        417
+                    ],
+                    [
+                        418,
+                        599
+                    ],
+                    [
+                        605,
+                        693
+                    ],
+                    [
+                        787,
+                        686
+                    ],
+                    [
+                        917,
+                        657
+                    ],
+                    [
+                        910,
+                        448
+                    ],
+                    [
+                        782,
+                        243
+                    ],
+                    [
+                        741,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1702455,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:45:32.278Z",
+            "updatedAt": "2023-06-07T13:45:32.278Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        707,
+                        189
+                    ],
+                    [
+                        490,
+                        158
+                    ],
+                    [
+                        354,
+                        284
+                    ],
+                    [
+                        349,
+                        442
+                    ],
+                    [
+                        518,
+                        268
+                    ],
+                    [
+                        536,
+                        376
+                    ],
+                    [
+                        628,
+                        519
+                    ],
+                    [
+                        787,
+                        514
+                    ],
+                    [
+                        753,
+                        404
+                    ],
+                    [
+                        748,
+                        317
+                    ],
+                    [
+                        741,
+                        202
+                    ],
+                    [
+                        730,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

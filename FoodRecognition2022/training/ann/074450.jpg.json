@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1010,
+        "width": 1010
+    },
+    "objects": [
+        {
+            "id": 1726214,
+            "classId": 4251,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.635Z",
+            "updatedAt": "2023-06-07T14:02:59.635Z",
+            "tags": [],
+            "classTitle": "grits-polenta-maize-flour",
+            "points": {
+                "exterior": [
+                    [
+                        431,
+                        951
+                    ],
+                    [
+                        524,
+                        946
+                    ],
+                    [
+                        577,
+                        979
+                    ],
+                    [
+                        660,
+                        954
+                    ],
+                    [
+                        670,
+                        828
+                    ],
+                    [
+                        612,
+                        661
+                    ],
+                    [
+                        474,
+                        520
+                    ],
+                    [
+                        360,
+                        489
+                    ],
+                    [
+                        292,
+                        570
+                    ],
+                    [
+                        196,
+                        631
+                    ],
+                    [
+                        173,
+                        727
+                    ],
+                    [
+                        269,
+                        795
+                    ],
+                    [
+                        383,
+                        891
+                    ],
+                    [
+                        390,
+                        901
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726212,
+            "classId": 3581,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:02:59.635Z",
+            "updatedAt": "2023-06-07T14:02:59.635Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        726,
+                        343
+                    ],
+                    [
+                        587,
+                        444
+                    ],
+                    [
+                        557,
+                        557
+                    ],
+                    [
+                        640,
+                        588
+                    ],
+                    [
+                        676,
+                        603
+                    ],
+                    [
+                        698,
+                        691
+                    ],
+                    [
+                        764,
+                        744
+                    ],
+                    [
+                        946,
+                        752
+                    ],
+                    [
+                        971,
+                        714
+                    ],
+                    [
+                        943,
+                        658
+                    ],
+                    [
+                        835,
+                        621
+                    ],
+                    [
+                        847,
+                        411
+                    ],
+                    [
+                        764,
+                        348
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

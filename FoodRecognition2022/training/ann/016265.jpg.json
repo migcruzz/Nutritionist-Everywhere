@@ -1,0 +1,250 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1807453,
+            "classId": 3849,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:20.048Z",
+            "updatedAt": "2023-06-07T14:58:20.048Z",
+            "tags": [],
+            "classTitle": "bread-french-white-flour",
+            "points": {
+                "exterior": [
+                    [
+                        742,
+                        301
+                    ],
+                    [
+                        457,
+                        122
+                    ],
+                    [
+                        231,
+                        68
+                    ],
+                    [
+                        108,
+                        186
+                    ],
+                    [
+                        30,
+                        471
+                    ],
+                    [
+                        23,
+                        641
+                    ],
+                    [
+                        186,
+                        730
+                    ],
+                    [
+                        374,
+                        728
+                    ],
+                    [
+                        450,
+                        615
+                    ],
+                    [
+                        464,
+                        297
+                    ],
+                    [
+                        624,
+                        716
+                    ],
+                    [
+                        782,
+                        785
+                    ],
+                    [
+                        867,
+                        775
+                    ],
+                    [
+                        917,
+                        596
+                    ],
+                    [
+                        759,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807451,
+            "classId": 3533,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:20.048Z",
+            "updatedAt": "2023-06-07T14:58:20.048Z",
+            "tags": [],
+            "classTitle": "salami",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        96
+                    ],
+                    [
+                        115,
+                        228
+                    ],
+                    [
+                        40,
+                        511
+                    ],
+                    [
+                        21,
+                        650
+                    ],
+                    [
+                        221,
+                        723
+                    ],
+                    [
+                        478,
+                        660
+                    ],
+                    [
+                        521,
+                        391
+                    ],
+                    [
+                        412,
+                        174
+                    ],
+                    [
+                        377,
+                        431
+                    ],
+                    [
+                        259,
+                        634
+                    ],
+                    [
+                        115,
+                        518
+                    ],
+                    [
+                        80,
+                        445
+                    ],
+                    [
+                        193,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807449,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:20.048Z",
+            "updatedAt": "2023-06-07T14:58:20.048Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        165
+                    ],
+                    [
+                        207,
+                        200
+                    ],
+                    [
+                        66,
+                        370
+                    ],
+                    [
+                        169,
+                        612
+                    ],
+                    [
+                        299,
+                        565
+                    ],
+                    [
+                        351,
+                        381
+                    ],
+                    [
+                        355,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1807447,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:58:20.048Z",
+            "updatedAt": "2023-06-07T14:58:20.048Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        674,
+                        332
+                    ],
+                    [
+                        624,
+                        546
+                    ],
+                    [
+                        719,
+                        777
+                    ],
+                    [
+                        876,
+                        785
+                    ],
+                    [
+                        917,
+                        575
+                    ],
+                    [
+                        884,
+                        471
+                    ],
+                    [
+                        723,
+                        299
+                    ],
+                    [
+                        719,
+                        304
+                    ],
+                    [
+                        704,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

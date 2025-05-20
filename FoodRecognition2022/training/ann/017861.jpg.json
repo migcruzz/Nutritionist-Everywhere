@@ -1,0 +1,118 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 478,
+        "width": 478
+    },
+    "objects": [
+        {
+            "id": 1726254,
+            "classId": 3601,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:03.718Z",
+            "updatedAt": "2023-06-07T14:03:03.718Z",
+            "tags": [],
+            "classTitle": "potatoes-steamed",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        81
+                    ],
+                    [
+                        59,
+                        282
+                    ],
+                    [
+                        62,
+                        408
+                    ],
+                    [
+                        188,
+                        460
+                    ],
+                    [
+                        345,
+                        434
+                    ],
+                    [
+                        427,
+                        310
+                    ],
+                    [
+                        404,
+                        274
+                    ],
+                    [
+                        273,
+                        259
+                    ],
+                    [
+                        267,
+                        185
+                    ],
+                    [
+                        298,
+                        152
+                    ],
+                    [
+                        256,
+                        106
+                    ],
+                    [
+                        185,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1726252,
+            "classId": 3519,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:03.717Z",
+            "updatedAt": "2023-06-07T14:03:03.717Z",
+            "tags": [],
+            "classTitle": "mayonnaise",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        133
+                    ],
+                    [
+                        294,
+                        188
+                    ],
+                    [
+                        305,
+                        249
+                    ],
+                    [
+                        382,
+                        290
+                    ],
+                    [
+                        410,
+                        255
+                    ],
+                    [
+                        400,
+                        179
+                    ],
+                    [
+                        379,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

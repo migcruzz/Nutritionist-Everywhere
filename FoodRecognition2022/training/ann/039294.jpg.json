@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1785458,
+            "classId": 3525,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:43:13.218Z",
+            "updatedAt": "2023-06-07T14:43:13.218Z",
+            "tags": [],
+            "classTitle": "wine-white",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        86
+                    ],
+                    [
+                        168,
+                        261
+                    ],
+                    [
+                        274,
+                        262
+                    ],
+                    [
+                        382,
+                        156
+                    ],
+                    [
+                        378,
+                        74
+                    ],
+                    [
+                        357,
+                        46
+                    ],
+                    [
+                        215,
+                        25
+                    ],
+                    [
+                        105,
+                        58
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

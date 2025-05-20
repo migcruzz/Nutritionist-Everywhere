@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1746929,
+            "classId": 4073,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:29.178Z",
+            "updatedAt": "2023-06-07T14:17:29.178Z",
+            "tags": [],
+            "classTitle": "guacamole",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        173
+                    ],
+                    [
+                        193,
+                        216
+                    ],
+                    [
+                        71,
+                        254
+                    ],
+                    [
+                        35,
+                        269
+                    ],
+                    [
+                        15,
+                        235
+                    ],
+                    [
+                        2,
+                        210
+                    ],
+                    [
+                        7,
+                        163
+                    ],
+                    [
+                        42,
+                        120
+                    ],
+                    [
+                        54,
+                        93
+                    ],
+                    [
+                        88,
+                        98
+                    ],
+                    [
+                        108,
+                        115
+                    ],
+                    [
+                        126,
+                        131
+                    ],
+                    [
+                        126,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1746927,
+            "classId": 3763,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:29.177Z",
+            "updatedAt": "2023-06-07T14:17:29.177Z",
+            "tags": [],
+            "classTitle": "bread-pita",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        163
+                    ],
+                    [
+                        111,
+                        344
+                    ],
+                    [
+                        317,
+                        391
+                    ],
+                    [
+                        344,
+                        393
+                    ],
+                    [
+                        356,
+                        348
+                    ],
+                    [
+                        336,
+                        240
+                    ],
+                    [
+                        308,
+                        190
+                    ],
+                    [
+                        262,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

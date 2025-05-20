@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 852,
+        "width": 852
+    },
+    "objects": [
+        {
+            "id": 1682737,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:44.056Z",
+            "updatedAt": "2023-06-07T13:31:44.056Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        183
+                    ],
+                    [
+                        243,
+                        274
+                    ],
+                    [
+                        156,
+                        449
+                    ],
+                    [
+                        201,
+                        590
+                    ],
+                    [
+                        254,
+                        656
+                    ],
+                    [
+                        382,
+                        700
+                    ],
+                    [
+                        435,
+                        707
+                    ],
+                    [
+                        574,
+                        687
+                    ],
+                    [
+                        686,
+                        590
+                    ],
+                    [
+                        769,
+                        455
+                    ],
+                    [
+                        738,
+                        334
+                    ],
+                    [
+                        629,
+                        274
+                    ],
+                    [
+                        484,
+                        168
+                    ],
+                    [
+                        450,
+                        168
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1682735,
+            "classId": 3711,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:31:44.055Z",
+            "updatedAt": "2023-06-07T13:31:44.055Z",
+            "tags": [],
+            "classTitle": "balsamic-salad-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        561,
+                        558
+                    ],
+                    [
+                        603,
+                        411
+                    ],
+                    [
+                        525,
+                        249
+                    ],
+                    [
+                        388,
+                        247
+                    ],
+                    [
+                        252,
+                        319
+                    ],
+                    [
+                        220,
+                        419
+                    ],
+                    [
+                        214,
+                        502
+                    ],
+                    [
+                        284,
+                        547
+                    ],
+                    [
+                        380,
+                        564
+                    ],
+                    [
+                        399,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

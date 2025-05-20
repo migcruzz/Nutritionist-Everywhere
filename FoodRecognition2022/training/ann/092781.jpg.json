@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1679105,
+            "classId": 3535,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:27.651Z",
+            "updatedAt": "2023-06-07T13:29:27.651Z",
+            "tags": [],
+            "classTitle": "mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        152,
+                        198
+                    ],
+                    [
+                        103,
+                        209
+                    ],
+                    [
+                        103,
+                        247
+                    ],
+                    [
+                        88,
+                        306
+                    ],
+                    [
+                        105,
+                        329
+                    ],
+                    [
+                        150,
+                        329
+                    ],
+                    [
+                        166,
+                        306
+                    ],
+                    [
+                        158,
+                        272
+                    ],
+                    [
+                        175,
+                        229
+                    ],
+                    [
+                        152,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679104,
+            "classId": 3535,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:27.651Z",
+            "updatedAt": "2023-06-07T13:29:27.651Z",
+            "tags": [],
+            "classTitle": "mushroom",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        383
+                    ],
+                    [
+                        100,
+                        407
+                    ],
+                    [
+                        93,
+                        438
+                    ],
+                    [
+                        106,
+                        459
+                    ],
+                    [
+                        134,
+                        473
+                    ],
+                    [
+                        152,
+                        467
+                    ],
+                    [
+                        158,
+                        440
+                    ],
+                    [
+                        163,
+                        419
+                    ],
+                    [
+                        151,
+                        387
+                    ],
+                    [
+                        144,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1679102,
+            "classId": 3557,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:29:27.651Z",
+            "updatedAt": "2023-06-07T13:29:27.651Z",
+            "tags": [],
+            "classTitle": "green-asparagus",
+            "points": {
+                "exterior": [
+                    [
+                        259,
+                        26
+                    ],
+                    [
+                        249,
+                        332
+                    ],
+                    [
+                        264,
+                        475
+                    ],
+                    [
+                        334,
+                        464
+                    ],
+                    [
+                        330,
+                        355
+                    ],
+                    [
+                        334,
+                        222
+                    ],
+                    [
+                        312,
+                        43
+                    ],
+                    [
+                        292,
+                        15
+                    ],
+                    [
+                        258,
+                        25
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

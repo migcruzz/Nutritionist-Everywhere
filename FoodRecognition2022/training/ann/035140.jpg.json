@@ -1,0 +1,174 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1724775,
+            "classId": 3827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:58.959Z",
+            "updatedAt": "2023-06-07T14:01:58.959Z",
+            "tags": [],
+            "classTitle": "rice-basmati",
+            "points": {
+                "exterior": [
+                    [
+                        225,
+                        245
+                    ],
+                    [
+                        246,
+                        264
+                    ],
+                    [
+                        291,
+                        351
+                    ],
+                    [
+                        352,
+                        269
+                    ],
+                    [
+                        281,
+                        249
+                    ],
+                    [
+                        225,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1724773,
+            "classId": 3565,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:58.958Z",
+            "updatedAt": "2023-06-07T14:01:58.958Z",
+            "tags": [],
+            "classTitle": "curry-vegetarian",
+            "points": {
+                "exterior": [
+                    [
+                        237,
+                        253
+                    ],
+                    [
+                        316,
+                        367
+                    ],
+                    [
+                        417,
+                        379
+                    ],
+                    [
+                        358,
+                        426
+                    ],
+                    [
+                        235,
+                        453
+                    ],
+                    [
+                        122,
+                        423
+                    ],
+                    [
+                        35,
+                        347
+                    ],
+                    [
+                        36,
+                        229
+                    ],
+                    [
+                        136,
+                        227
+                    ],
+                    [
+                        240,
+                        257
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1724771,
+            "classId": 3567,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:01:58.957Z",
+            "updatedAt": "2023-06-07T14:01:58.957Z",
+            "tags": [],
+            "classTitle": "yaourt-yahourt-yogourt-ou-yoghourt-natural",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        316
+                    ],
+                    [
+                        303,
+                        346
+                    ],
+                    [
+                        334,
+                        399
+                    ],
+                    [
+                        415,
+                        389
+                    ],
+                    [
+                        447,
+                        309
+                    ],
+                    [
+                        443,
+                        221
+                    ],
+                    [
+                        371,
+                        159
+                    ],
+                    [
+                        234,
+                        145
+                    ],
+                    [
+                        279,
+                        193
+                    ],
+                    [
+                        417,
+                        245
+                    ],
+                    [
+                        387,
+                        323
+                    ],
+                    [
+                        357,
+                        329
+                    ],
+                    [
+                        330,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

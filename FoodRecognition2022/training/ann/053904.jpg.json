@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1653174,
+            "classId": 3617,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:21.747Z",
+            "updatedAt": "2023-06-07T13:11:21.747Z",
+            "tags": [],
+            "classTitle": "bread-white",
+            "points": {
+                "exterior": [
+                    [
+                        779,
+                        610
+                    ],
+                    [
+                        187,
+                        672
+                    ],
+                    [
+                        206,
+                        842
+                    ],
+                    [
+                        228,
+                        948
+                    ],
+                    [
+                        504,
+                        942
+                    ],
+                    [
+                        825,
+                        872
+                    ],
+                    [
+                        860,
+                        858
+                    ],
+                    [
+                        809,
+                        675
+                    ],
+                    [
+                        793,
+                        631
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653172,
+            "classId": 3515,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:21.747Z",
+            "updatedAt": "2023-06-07T13:11:21.747Z",
+            "tags": [],
+            "classTitle": "butter",
+            "points": {
+                "exterior": [
+                    [
+                        833,
+                        712
+                    ],
+                    [
+                        752,
+                        615
+                    ],
+                    [
+                        552,
+                        626
+                    ],
+                    [
+                        495,
+                        769
+                    ],
+                    [
+                        447,
+                        791
+                    ],
+                    [
+                        214,
+                        739
+                    ],
+                    [
+                        128,
+                        796
+                    ],
+                    [
+                        193,
+                        867
+                    ],
+                    [
+                        371,
+                        853
+                    ],
+                    [
+                        485,
+                        856
+                    ],
+                    [
+                        549,
+                        853
+                    ],
+                    [
+                        652,
+                        734
+                    ],
+                    [
+                        706,
+                        742
+                    ],
+                    [
+                        785,
+                        758
+                    ],
+                    [
+                        817,
+                        718
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1653170,
+            "classId": 3855,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:11:21.747Z",
+            "updatedAt": "2023-06-07T13:11:21.747Z",
+            "tags": [],
+            "classTitle": "honey",
+            "points": {
+                "exterior": [
+                    [
+                        466,
+                        310
+                    ],
+                    [
+                        409,
+                        388
+                    ],
+                    [
+                        487,
+                        475
+                    ],
+                    [
+                        636,
+                        434
+                    ],
+                    [
+                        690,
+                        431
+                    ],
+                    [
+                        701,
+                        372
+                    ],
+                    [
+                        644,
+                        326
+                    ],
+                    [
+                        576,
+                        321
+                    ],
+                    [
+                        490,
+                        329
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 943,
+        "width": 943
+    },
+    "objects": [
+        {
+            "id": 1697283,
+            "classId": 4083,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:49.497Z",
+            "updatedAt": "2023-06-07T13:41:49.497Z",
+            "tags": [],
+            "classTitle": "quinoa",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        615
+                    ],
+                    [
+                        266,
+                        855
+                    ],
+                    [
+                        330,
+                        735
+                    ],
+                    [
+                        443,
+                        681
+                    ],
+                    [
+                        488,
+                        631
+                    ],
+                    [
+                        556,
+                        575
+                    ],
+                    [
+                        636,
+                        591
+                    ],
+                    [
+                        612,
+                        636
+                    ],
+                    [
+                        660,
+                        626
+                    ],
+                    [
+                        709,
+                        605
+                    ],
+                    [
+                        754,
+                        657
+                    ],
+                    [
+                        806,
+                        683
+                    ],
+                    [
+                        876,
+                        697
+                    ],
+                    [
+                        914,
+                        763
+                    ],
+                    [
+                        919,
+                        6
+                    ],
+                    [
+                        7,
+                        23
+                    ],
+                    [
+                        9,
+                        615
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1697281,
+            "classId": 4183,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:41:49.496Z",
+            "updatedAt": "2023-06-07T13:41:49.496Z",
+            "tags": [],
+            "classTitle": "berries",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        907
+                    ],
+                    [
+                        355,
+                        692
+                    ],
+                    [
+                        546,
+                        601
+                    ],
+                    [
+                        759,
+                        589
+                    ],
+                    [
+                        879,
+                        678
+                    ],
+                    [
+                        909,
+                        777
+                    ],
+                    [
+                        919,
+                        912
+                    ],
+                    [
+                        917,
+                        938
+                    ],
+                    [
+                        256,
+                        928
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

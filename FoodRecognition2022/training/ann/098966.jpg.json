@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1040,
+        "width": 1040
+    },
+    "objects": [
+        {
+            "id": 1718101,
+            "classId": 3877,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:14.214Z",
+            "updatedAt": "2023-06-07T13:57:14.214Z",
+            "tags": [],
+            "classTitle": "mixed-salad-chopped-without-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        867,
+                        842
+                    ],
+                    [
+                        926,
+                        650
+                    ],
+                    [
+                        874,
+                        572
+                    ],
+                    [
+                        791,
+                        431
+                    ],
+                    [
+                        744,
+                        286
+                    ],
+                    [
+                        679,
+                        145
+                    ],
+                    [
+                        562,
+                        70
+                    ],
+                    [
+                        448,
+                        75
+                    ],
+                    [
+                        305,
+                        171
+                    ],
+                    [
+                        266,
+                        257
+                    ],
+                    [
+                        211,
+                        358
+                    ],
+                    [
+                        115,
+                        512
+                    ],
+                    [
+                        58,
+                        647
+                    ],
+                    [
+                        84,
+                        834
+                    ],
+                    [
+                        198,
+                        894
+                    ],
+                    [
+                        297,
+                        980
+                    ],
+                    [
+                        419,
+                        1014
+                    ],
+                    [
+                        560,
+                        1011
+                    ],
+                    [
+                        729,
+                        951
+                    ],
+                    [
+                        846,
+                        904
+                    ],
+                    [
+                        867,
+                        891
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1718099,
+            "classId": 3641,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:57:14.213Z",
+            "updatedAt": "2023-06-07T13:57:14.213Z",
+            "tags": [],
+            "classTitle": "mozzarella",
+            "points": {
+                "exterior": [
+                    [
+                        778,
+                        377
+                    ],
+                    [
+                        880,
+                        364
+                    ],
+                    [
+                        874,
+                        257
+                    ],
+                    [
+                        755,
+                        215
+                    ],
+                    [
+                        679,
+                        273
+                    ],
+                    [
+                        713,
+                        361
+                    ],
+                    [
+                        757,
+                        369
+                    ],
+                    [
+                        760,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

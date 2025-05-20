@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1204,
+        "width": 1204
+    },
+    "objects": [
+        {
+            "id": 1774069,
+            "classId": 3621,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:19.513Z",
+            "updatedAt": "2023-06-07T14:35:19.513Z",
+            "tags": [],
+            "classTitle": "bagel-without-filling",
+            "points": {
+                "exterior": [
+                    [
+                        601,
+                        917
+                    ],
+                    [
+                        291,
+                        902
+                    ],
+                    [
+                        101,
+                        737
+                    ],
+                    [
+                        125,
+                        481
+                    ],
+                    [
+                        248,
+                        339
+                    ],
+                    [
+                        483,
+                        309
+                    ],
+                    [
+                        703,
+                        406
+                    ],
+                    [
+                        781,
+                        577
+                    ],
+                    [
+                        769,
+                        773
+                    ],
+                    [
+                        604,
+                        926
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1774067,
+            "classId": 4055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:35:19.512Z",
+            "updatedAt": "2023-06-07T14:35:19.512Z",
+            "tags": [],
+            "classTitle": "cream-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        1001,
+                        403
+                    ],
+                    [
+                        1082,
+                        460
+                    ],
+                    [
+                        1094,
+                        601
+                    ],
+                    [
+                        1073,
+                        661
+                    ],
+                    [
+                        950,
+                        671
+                    ],
+                    [
+                        875,
+                        619
+                    ],
+                    [
+                        881,
+                        541
+                    ],
+                    [
+                        896,
+                        460
+                    ],
+                    [
+                        914,
+                        433
+                    ],
+                    [
+                        974,
+                        454
+                    ],
+                    [
+                        1004,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

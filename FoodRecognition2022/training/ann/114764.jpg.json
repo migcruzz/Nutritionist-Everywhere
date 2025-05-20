@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1750944,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:17.426Z",
+            "updatedAt": "2023-06-07T14:20:17.426Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        231
+                    ],
+                    [
+                        186,
+                        167
+                    ],
+                    [
+                        141,
+                        114
+                    ],
+                    [
+                        96,
+                        87
+                    ],
+                    [
+                        50,
+                        119
+                    ],
+                    [
+                        46,
+                        191
+                    ],
+                    [
+                        81,
+                        234
+                    ],
+                    [
+                        140,
+                        248
+                    ],
+                    [
+                        164,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1750943,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:20:17.425Z",
+            "updatedAt": "2023-06-07T14:20:17.425Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        276,
+                        49
+                    ],
+                    [
+                        227,
+                        88
+                    ],
+                    [
+                        220,
+                        144
+                    ],
+                    [
+                        233,
+                        189
+                    ],
+                    [
+                        287,
+                        211
+                    ],
+                    [
+                        330,
+                        207
+                    ],
+                    [
+                        344,
+                        177
+                    ],
+                    [
+                        351,
+                        142
+                    ],
+                    [
+                        352,
+                        106
+                    ],
+                    [
+                        330,
+                        77
+                    ],
+                    [
+                        297,
+                        49
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

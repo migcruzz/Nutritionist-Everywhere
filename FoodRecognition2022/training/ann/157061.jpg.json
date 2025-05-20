@@ -1,0 +1,362 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 391,
+        "width": 392
+    },
+    "objects": [
+        {
+            "id": 1734204,
+            "classId": 4041,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:34.640Z",
+            "updatedAt": "2023-06-07T14:08:34.640Z",
+            "tags": [],
+            "classTitle": "corn",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        192
+                    ],
+                    [
+                        71,
+                        185
+                    ],
+                    [
+                        53,
+                        171
+                    ],
+                    [
+                        23,
+                        167
+                    ],
+                    [
+                        10,
+                        162
+                    ],
+                    [
+                        5,
+                        147
+                    ],
+                    [
+                        5,
+                        134
+                    ],
+                    [
+                        8,
+                        121
+                    ],
+                    [
+                        8,
+                        91
+                    ],
+                    [
+                        13,
+                        83
+                    ],
+                    [
+                        38,
+                        75
+                    ],
+                    [
+                        57,
+                        58
+                    ],
+                    [
+                        71,
+                        54
+                    ],
+                    [
+                        93,
+                        66
+                    ],
+                    [
+                        125,
+                        78
+                    ],
+                    [
+                        163,
+                        102
+                    ],
+                    [
+                        170,
+                        112
+                    ],
+                    [
+                        170,
+                        125
+                    ],
+                    [
+                        154,
+                        145
+                    ],
+                    [
+                        148,
+                        167
+                    ],
+                    [
+                        135,
+                        174
+                    ],
+                    [
+                        122,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734202,
+            "classId": 3887,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:34.639Z",
+            "updatedAt": "2023-06-07T14:08:34.639Z",
+            "tags": [],
+            "classTitle": "potato-salad-with-mayonnaise-yogurt-dressing",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        121
+                    ],
+                    [
+                        303,
+                        93
+                    ],
+                    [
+                        251,
+                        131
+                    ],
+                    [
+                        250,
+                        177
+                    ],
+                    [
+                        265,
+                        208
+                    ],
+                    [
+                        348,
+                        252
+                    ],
+                    [
+                        379,
+                        277
+                    ],
+                    [
+                        385,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734200,
+            "classId": 3897,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:34.638Z",
+            "updatedAt": "2023-06-07T14:08:34.638Z",
+            "tags": [],
+            "classTitle": "bacon-cooking",
+            "points": {
+                "exterior": [
+                    [
+                        36,
+                        172
+                    ],
+                    [
+                        12,
+                        182
+                    ],
+                    [
+                        6,
+                        224
+                    ],
+                    [
+                        7,
+                        242
+                    ],
+                    [
+                        44,
+                        257
+                    ],
+                    [
+                        65,
+                        225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734198,
+            "classId": 4013,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:34.638Z",
+            "updatedAt": "2023-06-07T14:08:34.638Z",
+            "tags": [],
+            "classTitle": "chicken-cut-into-stripes-only-meat",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        223
+                    ],
+                    [
+                        71,
+                        189
+                    ],
+                    [
+                        51,
+                        269
+                    ],
+                    [
+                        155,
+                        288
+                    ],
+                    [
+                        180,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734196,
+            "classId": 3959,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:34.637Z",
+            "updatedAt": "2023-06-07T14:08:34.637Z",
+            "tags": [],
+            "classTitle": "meat",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        284
+                    ],
+                    [
+                        78,
+                        278
+                    ],
+                    [
+                        36,
+                        279
+                    ],
+                    [
+                        85,
+                        353
+                    ],
+                    [
+                        171,
+                        340
+                    ],
+                    [
+                        176,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734195,
+            "classId": 3959,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:34.637Z",
+            "updatedAt": "2023-06-07T14:08:34.637Z",
+            "tags": [],
+            "classTitle": "meat",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        209
+                    ],
+                    [
+                        194,
+                        196
+                    ],
+                    [
+                        192,
+                        235
+                    ],
+                    [
+                        201,
+                        277
+                    ],
+                    [
+                        232,
+                        276
+                    ],
+                    [
+                        252,
+                        239
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1734193,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:08:34.636Z",
+            "updatedAt": "2023-06-07T14:08:34.636Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        71
+                    ],
+                    [
+                        235,
+                        48
+                    ],
+                    [
+                        182,
+                        57
+                    ],
+                    [
+                        189,
+                        105
+                    ],
+                    [
+                        174,
+                        156
+                    ],
+                    [
+                        192,
+                        213
+                    ],
+                    [
+                        248,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

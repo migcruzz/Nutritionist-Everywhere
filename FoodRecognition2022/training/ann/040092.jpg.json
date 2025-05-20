@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1731978,
+            "classId": 4037,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:58.798Z",
+            "updatedAt": "2023-06-07T14:06:58.798Z",
+            "tags": [],
+            "classTitle": "bread-fruit",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        275
+                    ],
+                    [
+                        289,
+                        329
+                    ],
+                    [
+                        228,
+                        295
+                    ],
+                    [
+                        179,
+                        313
+                    ],
+                    [
+                        90,
+                        373
+                    ],
+                    [
+                        41,
+                        345
+                    ],
+                    [
+                        35,
+                        300
+                    ],
+                    [
+                        127,
+                        234
+                    ],
+                    [
+                        185,
+                        232
+                    ],
+                    [
+                        216,
+                        268
+                    ],
+                    [
+                        204,
+                        217
+                    ],
+                    [
+                        238,
+                        189
+                    ],
+                    [
+                        286,
+                        189
+                    ],
+                    [
+                        322,
+                        234
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1731976,
+            "classId": 4313,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:06:58.797Z",
+            "updatedAt": "2023-06-07T14:06:58.797Z",
+            "tags": [],
+            "classTitle": "apricots",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        438
+                    ],
+                    [
+                        343,
+                        399
+                    ],
+                    [
+                        341,
+                        366
+                    ],
+                    [
+                        286,
+                        348
+                    ],
+                    [
+                        191,
+                        346
+                    ],
+                    [
+                        148,
+                        372
+                    ],
+                    [
+                        145,
+                        420
+                    ],
+                    [
+                        183,
+                        455
+                    ],
+                    [
+                        237,
+                        450
+                    ],
+                    [
+                        306,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

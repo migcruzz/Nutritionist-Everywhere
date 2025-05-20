@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 704,
+        "width": 705
+    },
+    "objects": [
+        {
+            "id": 1791665,
+            "classId": 3703,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:22.400Z",
+            "updatedAt": "2023-06-07T14:47:22.400Z",
+            "tags": [],
+            "classTitle": "sushi",
+            "points": {
+                "exterior": [
+                    [
+                        257,
+                        11
+                    ],
+                    [
+                        195,
+                        59
+                    ],
+                    [
+                        192,
+                        496
+                    ],
+                    [
+                        190,
+                        661
+                    ],
+                    [
+                        482,
+                        663
+                    ],
+                    [
+                        558,
+                        665
+                    ],
+                    [
+                        560,
+                        418
+                    ],
+                    [
+                        461,
+                        392
+                    ],
+                    [
+                        504,
+                        351
+                    ],
+                    [
+                        495,
+                        215
+                    ],
+                    [
+                        502,
+                        18
+                    ],
+                    [
+                        482,
+                        4
+                    ],
+                    [
+                        356,
+                        39
+                    ],
+                    [
+                        334,
+                        22
+                    ],
+                    [
+                        313,
+                        18
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1791663,
+            "classId": 3709,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:47:22.399Z",
+            "updatedAt": "2023-06-07T14:47:22.399Z",
+            "tags": [],
+            "classTitle": "sauce-soya",
+            "points": {
+                "exterior": [
+                    [
+                        504,
+                        110
+                    ],
+                    [
+                        507,
+                        371
+                    ],
+                    [
+                        521,
+                        402
+                    ],
+                    [
+                        555,
+                        362
+                    ],
+                    [
+                        564,
+                        282
+                    ],
+                    [
+                        560,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

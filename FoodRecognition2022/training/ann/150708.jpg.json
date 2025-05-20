@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1755005,
+            "classId": 3707,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:23:01.032Z",
+            "updatedAt": "2023-06-07T14:23:01.032Z",
+            "tags": [],
+            "classTitle": "coffee-decaffeinated",
+            "points": {
+                "exterior": [
+                    [
+                        299,
+                        164
+                    ],
+                    [
+                        219,
+                        144
+                    ],
+                    [
+                        179,
+                        180
+                    ],
+                    [
+                        204,
+                        209
+                    ],
+                    [
+                        232,
+                        215
+                    ],
+                    [
+                        313,
+                        209
+                    ],
+                    [
+                        327,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

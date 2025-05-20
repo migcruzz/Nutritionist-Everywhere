@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 912,
+        "width": 912
+    },
+    "objects": [
+        {
+            "id": 1770353,
+            "classId": 4115,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:58.521Z",
+            "updatedAt": "2023-06-07T14:32:58.521Z",
+            "tags": [],
+            "classTitle": "focaccia",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        465
+                    ],
+                    [
+                        87,
+                        572
+                    ],
+                    [
+                        165,
+                        816
+                    ],
+                    [
+                        803,
+                        620
+                    ],
+                    [
+                        678,
+                        394
+                    ],
+                    [
+                        489,
+                        424
+                    ],
+                    [
+                        370,
+                        456
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1770351,
+            "classId": 3429,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:32:58.521Z",
+            "updatedAt": "2023-06-07T14:32:58.521Z",
+            "tags": [],
+            "classTitle": "hard-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        614,
+                        371
+                    ],
+                    [
+                        539,
+                        200
+                    ],
+                    [
+                        436,
+                        228
+                    ],
+                    [
+                        461,
+                        314
+                    ],
+                    [
+                        340,
+                        357
+                    ],
+                    [
+                        349,
+                        446
+                    ],
+                    [
+                        468,
+                        430
+                    ],
+                    [
+                        546,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

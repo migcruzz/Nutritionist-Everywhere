@@ -1,0 +1,190 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1805257,
+            "classId": 3439,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:45.561Z",
+            "updatedAt": "2023-06-07T14:56:45.561Z",
+            "tags": [],
+            "classTitle": "pancakes",
+            "points": {
+                "exterior": [
+                    [
+                        203,
+                        113
+                    ],
+                    [
+                        133,
+                        137
+                    ],
+                    [
+                        68,
+                        161
+                    ],
+                    [
+                        25,
+                        255
+                    ],
+                    [
+                        35,
+                        326
+                    ],
+                    [
+                        72,
+                        351
+                    ],
+                    [
+                        162,
+                        325
+                    ],
+                    [
+                        225,
+                        255
+                    ],
+                    [
+                        251,
+                        189
+                    ],
+                    [
+                        264,
+                        153
+                    ],
+                    [
+                        250,
+                        128
+                    ],
+                    [
+                        208,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805255,
+            "classId": 4247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:45.560Z",
+            "updatedAt": "2023-06-07T14:56:45.560Z",
+            "tags": [],
+            "classTitle": "chocolate",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        184
+                    ],
+                    [
+                        110,
+                        204
+                    ],
+                    [
+                        118,
+                        262
+                    ],
+                    [
+                        167,
+                        276
+                    ],
+                    [
+                        212,
+                        241
+                    ],
+                    [
+                        165,
+                        196
+                    ],
+                    [
+                        150,
+                        192
+                    ],
+                    [
+                        134,
+                        181
+                    ],
+                    [
+                        133,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1805253,
+            "classId": 3611,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:56:45.560Z",
+            "updatedAt": "2023-06-07T14:56:45.560Z",
+            "tags": [],
+            "classTitle": "applesauce-unsweetened-canned",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        124
+                    ],
+                    [
+                        282,
+                        172
+                    ],
+                    [
+                        266,
+                        212
+                    ],
+                    [
+                        280,
+                        260
+                    ],
+                    [
+                        331,
+                        284
+                    ],
+                    [
+                        381,
+                        309
+                    ],
+                    [
+                        397,
+                        238
+                    ],
+                    [
+                        397,
+                        198
+                    ],
+                    [
+                        376,
+                        182
+                    ],
+                    [
+                        365,
+                        146
+                    ],
+                    [
+                        345,
+                        126
+                    ],
+                    [
+                        325,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

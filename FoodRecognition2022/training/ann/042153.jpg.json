@@ -1,0 +1,258 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 830,
+        "width": 831
+    },
+    "objects": [
+        {
+            "id": 1800110,
+            "classId": 3599,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:17.634Z",
+            "updatedAt": "2023-06-07T14:53:17.634Z",
+            "tags": [],
+            "classTitle": "salad-leaf-salad-green",
+            "points": {
+                "exterior": [
+                    [
+                        493,
+                        741
+                    ],
+                    [
+                        516,
+                        572
+                    ],
+                    [
+                        433,
+                        504
+                    ],
+                    [
+                        441,
+                        402
+                    ],
+                    [
+                        426,
+                        356
+                    ],
+                    [
+                        416,
+                        294
+                    ],
+                    [
+                        366,
+                        267
+                    ],
+                    [
+                        283,
+                        275
+                    ],
+                    [
+                        171,
+                        309
+                    ],
+                    [
+                        102,
+                        306
+                    ],
+                    [
+                        13,
+                        400
+                    ],
+                    [
+                        40,
+                        658
+                    ],
+                    [
+                        210,
+                        703
+                    ],
+                    [
+                        370,
+                        724
+                    ],
+                    [
+                        435,
+                        749
+                    ],
+                    [
+                        449,
+                        751
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800108,
+            "classId": 3497,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:17.633Z",
+            "updatedAt": "2023-06-07T14:53:17.633Z",
+            "tags": [],
+            "classTitle": "mixed-vegetables",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        649
+                    ],
+                    [
+                        233,
+                        562
+                    ],
+                    [
+                        345,
+                        558
+                    ],
+                    [
+                        431,
+                        473
+                    ],
+                    [
+                        470,
+                        363
+                    ],
+                    [
+                        422,
+                        271
+                    ],
+                    [
+                        298,
+                        242
+                    ],
+                    [
+                        140,
+                        259
+                    ],
+                    [
+                        96,
+                        292
+                    ],
+                    [
+                        79,
+                        390
+                    ],
+                    [
+                        59,
+                        487
+                    ],
+                    [
+                        77,
+                        550
+                    ],
+                    [
+                        111,
+                        641
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800106,
+            "classId": 3461,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:17.632Z",
+            "updatedAt": "2023-06-07T14:53:17.632Z",
+            "tags": [],
+            "classTitle": "chicken",
+            "points": {
+                "exterior": [
+                    [
+                        734,
+                        279
+                    ],
+                    [
+                        526,
+                        354
+                    ],
+                    [
+                        433,
+                        442
+                    ],
+                    [
+                        456,
+                        558
+                    ],
+                    [
+                        682,
+                        624
+                    ],
+                    [
+                        778,
+                        585
+                    ],
+                    [
+                        786,
+                        485
+                    ],
+                    [
+                        780,
+                        354
+                    ],
+                    [
+                        740,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1800104,
+            "classId": 4285,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:53:17.631Z",
+            "updatedAt": "2023-06-07T14:53:17.631Z",
+            "tags": [],
+            "classTitle": "butter-herb",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        275
+                    ],
+                    [
+                        433,
+                        320
+                    ],
+                    [
+                        497,
+                        372
+                    ],
+                    [
+                        574,
+                        362
+                    ],
+                    [
+                        624,
+                        291
+                    ],
+                    [
+                        547,
+                        252
+                    ],
+                    [
+                        505,
+                        252
+                    ],
+                    [
+                        439,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

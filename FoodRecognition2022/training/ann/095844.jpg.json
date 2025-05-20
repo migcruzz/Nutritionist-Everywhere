@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 580,
+        "width": 579
+    },
+    "objects": [
+        {
+            "id": 1710772,
+            "classId": 4207,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:01.665Z",
+            "updatedAt": "2023-06-07T13:52:01.665Z",
+            "tags": [],
+            "classTitle": "chocolate-mousse",
+            "points": {
+                "exterior": [
+                    [
+                        355,
+                        500
+                    ],
+                    [
+                        364,
+                        555
+                    ],
+                    [
+                        497,
+                        559
+                    ],
+                    [
+                        546,
+                        568
+                    ],
+                    [
+                        565,
+                        543
+                    ],
+                    [
+                        574,
+                        472
+                    ],
+                    [
+                        572,
+                        363
+                    ],
+                    [
+                        557,
+                        384
+                    ],
+                    [
+                        546,
+                        453
+                    ],
+                    [
+                        496,
+                        477
+                    ],
+                    [
+                        407,
+                        495
+                    ],
+                    [
+                        380,
+                        497
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710770,
+            "classId": 3585,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:01.664Z",
+            "updatedAt": "2023-06-07T13:52:01.664Z",
+            "tags": [],
+            "classTitle": "cream",
+            "points": {
+                "exterior": [
+                    [
+                        548,
+                        307
+                    ],
+                    [
+                        567,
+                        449
+                    ],
+                    [
+                        497,
+                        500
+                    ],
+                    [
+                        338,
+                        501
+                    ],
+                    [
+                        325,
+                        494
+                    ],
+                    [
+                        317,
+                        411
+                    ],
+                    [
+                        343,
+                        343
+                    ],
+                    [
+                        372,
+                        305
+                    ],
+                    [
+                        420,
+                        291
+                    ],
+                    [
+                        422,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

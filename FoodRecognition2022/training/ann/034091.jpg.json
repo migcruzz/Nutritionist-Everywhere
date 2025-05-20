@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1711523,
+            "classId": 3487,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:33.015Z",
+            "updatedAt": "2023-06-07T13:52:33.015Z",
+            "tags": [],
+            "classTitle": "cheese",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        114
+                    ],
+                    [
+                        163,
+                        193
+                    ],
+                    [
+                        165,
+                        208
+                    ],
+                    [
+                        69,
+                        230
+                    ],
+                    [
+                        51,
+                        146
+                    ],
+                    [
+                        137,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1711521,
+            "classId": 3779,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:52:33.015Z",
+            "updatedAt": "2023-06-07T13:52:33.015Z",
+            "tags": [],
+            "classTitle": "bread-toast",
+            "points": {
+                "exterior": [
+                    [
+                        456,
+                        258
+                    ],
+                    [
+                        444,
+                        186
+                    ],
+                    [
+                        160,
+                        188
+                    ],
+                    [
+                        178,
+                        414
+                    ],
+                    [
+                        249,
+                        331
+                    ],
+                    [
+                        280,
+                        300
+                    ],
+                    [
+                        294,
+                        334
+                    ],
+                    [
+                        312,
+                        382
+                    ],
+                    [
+                        365,
+                        355
+                    ],
+                    [
+                        389,
+                        320
+                    ],
+                    [
+                        409,
+                        295
+                    ],
+                    [
+                        424,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

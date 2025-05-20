@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1709030,
+            "classId": 4217,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:36.212Z",
+            "updatedAt": "2023-06-07T13:50:36.212Z",
+            "tags": [],
+            "classTitle": "shrimp-prawn-large",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        136
+                    ],
+                    [
+                        328,
+                        176
+                    ],
+                    [
+                        166,
+                        172
+                    ],
+                    [
+                        29,
+                        200
+                    ],
+                    [
+                        27,
+                        362
+                    ],
+                    [
+                        395,
+                        387
+                    ],
+                    [
+                        475,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1680211,
+            "classId": 4095,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:07.293Z",
+            "updatedAt": "2023-06-07T13:30:07.293Z",
+            "tags": [],
+            "classTitle": "fruit-coulis",
+            "points": {
+                "exterior": [
+                    [
+                        321,
+                        69
+                    ],
+                    [
+                        274,
+                        21
+                    ],
+                    [
+                        178,
+                        1
+                    ],
+                    [
+                        115,
+                        9
+                    ],
+                    [
+                        40,
+                        84
+                    ],
+                    [
+                        49,
+                        149
+                    ],
+                    [
+                        88,
+                        172
+                    ],
+                    [
+                        155,
+                        189
+                    ],
+                    [
+                        259,
+                        178
+                    ],
+                    [
+                        326,
+                        111
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1680209,
+            "classId": 3783,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:30:07.292Z",
+            "updatedAt": "2023-06-07T13:30:07.292Z",
+            "tags": [],
+            "classTitle": "panna-cotta",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        159
+                    ],
+                    [
+                        226,
+                        191
+                    ],
+                    [
+                        117,
+                        187
+                    ],
+                    [
+                        60,
+                        171
+                    ],
+                    [
+                        117,
+                        305
+                    ],
+                    [
+                        192,
+                        322
+                    ],
+                    [
+                        275,
+                        288
+                    ],
+                    [
+                        304,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

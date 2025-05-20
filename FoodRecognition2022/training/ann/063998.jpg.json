@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1643294,
+            "classId": 3747,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:04:57.117Z",
+            "updatedAt": "2023-06-07T13:04:57.117Z",
+            "tags": [],
+            "classTitle": "ratatouille",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        151
+                    ],
+                    [
+                        152,
+                        339
+                    ],
+                    [
+                        174,
+                        360
+                    ],
+                    [
+                        382,
+                        300
+                    ],
+                    [
+                        324,
+                        205
+                    ],
+                    [
+                        345,
+                        177
+                    ],
+                    [
+                        238,
+                        102
+                    ],
+                    [
+                        157,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

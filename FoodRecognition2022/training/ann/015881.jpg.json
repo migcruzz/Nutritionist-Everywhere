@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 310,
+        "width": 311
+    },
+    "objects": [
+        {
+            "id": 1710399,
+            "classId": 3539,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:44.065Z",
+            "updatedAt": "2023-06-07T13:51:44.065Z",
+            "tags": [],
+            "classTitle": "tart",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        97
+                    ],
+                    [
+                        84,
+                        81
+                    ],
+                    [
+                        117,
+                        152
+                    ],
+                    [
+                        130,
+                        182
+                    ],
+                    [
+                        41,
+                        207
+                    ],
+                    [
+                        22,
+                        175
+                    ],
+                    [
+                        4,
+                        98
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1710398,
+            "classId": 3539,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:51:44.064Z",
+            "updatedAt": "2023-06-07T13:51:44.064Z",
+            "tags": [],
+            "classTitle": "tart",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        53
+                    ],
+                    [
+                        174,
+                        97
+                    ],
+                    [
+                        223,
+                        190
+                    ],
+                    [
+                        300,
+                        164
+                    ],
+                    [
+                        308,
+                        110
+                    ],
+                    [
+                        276,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

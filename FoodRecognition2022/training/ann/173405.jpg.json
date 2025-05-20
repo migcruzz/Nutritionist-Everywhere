@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 598,
+        "width": 598
+    },
+    "objects": [
+        {
+            "id": 1779029,
+            "classId": 3465,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:36.438Z",
+            "updatedAt": "2023-06-07T14:38:36.438Z",
+            "tags": [],
+            "classTitle": "broccoli",
+            "points": {
+                "exterior": [
+                    [
+                        219,
+                        369
+                    ],
+                    [
+                        174,
+                        334
+                    ],
+                    [
+                        99,
+                        358
+                    ],
+                    [
+                        50,
+                        373
+                    ],
+                    [
+                        20,
+                        414
+                    ],
+                    [
+                        0,
+                        473
+                    ],
+                    [
+                        21,
+                        527
+                    ],
+                    [
+                        60,
+                        563
+                    ],
+                    [
+                        48,
+                        592
+                    ],
+                    [
+                        133,
+                        595
+                    ],
+                    [
+                        150,
+                        592
+                    ],
+                    [
+                        204,
+                        559
+                    ],
+                    [
+                        230,
+                        535
+                    ],
+                    [
+                        245,
+                        542
+                    ],
+                    [
+                        259,
+                        493
+                    ],
+                    [
+                        274,
+                        439
+                    ],
+                    [
+                        296,
+                        384
+                    ],
+                    [
+                        329,
+                        354
+                    ],
+                    [
+                        317,
+                        330
+                    ],
+                    [
+                        233,
+                        376
+                    ],
+                    [
+                        229,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779027,
+            "classId": 3575,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:36.437Z",
+            "updatedAt": "2023-06-07T14:38:36.437Z",
+            "tags": [],
+            "classTitle": "salmon",
+            "points": {
+                "exterior": [
+                    [
+                        405,
+                        307
+                    ],
+                    [
+                        319,
+                        331
+                    ],
+                    [
+                        274,
+                        527
+                    ],
+                    [
+                        256,
+                        578
+                    ],
+                    [
+                        341,
+                        590
+                    ],
+                    [
+                        383,
+                        506
+                    ],
+                    [
+                        416,
+                        426
+                    ],
+                    [
+                        416,
+                        333
+                    ],
+                    [
+                        413,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1779025,
+            "classId": 4221,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:36.437Z",
+            "updatedAt": "2023-06-07T14:38:36.437Z",
+            "tags": [],
+            "classTitle": "lemon",
+            "points": {
+                "exterior": [
+                    [
+                        381,
+                        303
+                    ],
+                    [
+                        286,
+                        346
+                    ],
+                    [
+                        343,
+                        376
+                    ],
+                    [
+                        411,
+                        388
+                    ],
+                    [
+                        428,
+                        370
+                    ],
+                    [
+                        392,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

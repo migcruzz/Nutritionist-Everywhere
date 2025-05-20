@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1645366,
+            "classId": 3543,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:30.486Z",
+            "updatedAt": "2023-06-07T13:06:30.486Z",
+            "tags": [],
+            "classTitle": "rice",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        103
+                    ],
+                    [
+                        262,
+                        298
+                    ],
+                    [
+                        264,
+                        366
+                    ],
+                    [
+                        70,
+                        362
+                    ],
+                    [
+                        30,
+                        291
+                    ],
+                    [
+                        52,
+                        188
+                    ],
+                    [
+                        120,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645364,
+            "classId": 3471,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:30.485Z",
+            "updatedAt": "2023-06-07T13:06:30.485Z",
+            "tags": [],
+            "classTitle": "carrot-raw",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        358
+                    ],
+                    [
+                        262,
+                        352
+                    ],
+                    [
+                        282,
+                        333
+                    ],
+                    [
+                        367,
+                        340
+                    ],
+                    [
+                        418,
+                        392
+                    ],
+                    [
+                        334,
+                        445
+                    ],
+                    [
+                        238,
+                        459
+                    ],
+                    [
+                        159,
+                        446
+                    ],
+                    [
+                        82,
+                        391
+                    ],
+                    [
+                        69,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645362,
+            "classId": 3929,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:30.485Z",
+            "updatedAt": "2023-06-07T13:06:30.485Z",
+            "tags": [],
+            "classTitle": "fish",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        106
+                    ],
+                    [
+                        262,
+                        255
+                    ],
+                    [
+                        373,
+                        321
+                    ],
+                    [
+                        441,
+                        333
+                    ],
+                    [
+                        462,
+                        268
+                    ],
+                    [
+                        393,
+                        134
+                    ],
+                    [
+                        256,
+                        75
+                    ],
+                    [
+                        157,
+                        85
+                    ],
+                    [
+                        147,
+                        102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1645360,
+            "classId": 3673,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:06:30.485Z",
+            "updatedAt": "2023-06-07T13:06:30.485Z",
+            "tags": [],
+            "classTitle": "sauce-savoury",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        97
+                    ],
+                    [
+                        259,
+                        78
+                    ],
+                    [
+                        393,
+                        126
+                    ],
+                    [
+                        459,
+                        266
+                    ],
+                    [
+                        437,
+                        330
+                    ],
+                    [
+                        367,
+                        312
+                    ],
+                    [
+                        241,
+                        217
+                    ],
+                    [
+                        173,
+                        142
+                    ],
+                    [
+                        169,
+                        99
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

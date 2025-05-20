@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 479,
+        "width": 479
+    },
+    "objects": [
+        {
+            "id": 1666226,
+            "classId": 4147,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:45.220Z",
+            "updatedAt": "2023-06-07T13:20:45.220Z",
+            "tags": [],
+            "classTitle": "croissant-with-chocolate-filling",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        433
+                    ],
+                    [
+                        79,
+                        431
+                    ],
+                    [
+                        69,
+                        426
+                    ],
+                    [
+                        43,
+                        399
+                    ],
+                    [
+                        23,
+                        386
+                    ],
+                    [
+                        10,
+                        366
+                    ],
+                    [
+                        11,
+                        324
+                    ],
+                    [
+                        22,
+                        308
+                    ],
+                    [
+                        39,
+                        297
+                    ],
+                    [
+                        88,
+                        278
+                    ],
+                    [
+                        133,
+                        272
+                    ],
+                    [
+                        167,
+                        272
+                    ],
+                    [
+                        194,
+                        278
+                    ],
+                    [
+                        223,
+                        298
+                    ],
+                    [
+                        243,
+                        324
+                    ],
+                    [
+                        247,
+                        338
+                    ],
+                    [
+                        243,
+                        356
+                    ],
+                    [
+                        225,
+                        389
+                    ],
+                    [
+                        193,
+                        422
+                    ],
+                    [
+                        178,
+                        428
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1666224,
+            "classId": 3909,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:20:45.219Z",
+            "updatedAt": "2023-06-07T13:20:45.219Z",
+            "tags": [],
+            "classTitle": "cappuccino",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        94
+                    ],
+                    [
+                        321,
+                        47
+                    ],
+                    [
+                        271,
+                        28
+                    ],
+                    [
+                        171,
+                        47
+                    ],
+                    [
+                        163,
+                        82
+                    ],
+                    [
+                        201,
+                        112
+                    ],
+                    [
+                        268,
+                        114
+                    ],
+                    [
+                        315,
+                        104
+                    ],
+                    [
+                        314,
+                        100
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

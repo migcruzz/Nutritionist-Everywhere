@@ -1,0 +1,122 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 455
+    },
+    "objects": [
+        {
+            "id": 1708514,
+            "classId": 3419,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:14.427Z",
+            "updatedAt": "2023-06-07T13:50:14.427Z",
+            "tags": [],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        171
+                    ],
+                    [
+                        174,
+                        234
+                    ],
+                    [
+                        195,
+                        303
+                    ],
+                    [
+                        257,
+                        336
+                    ],
+                    [
+                        319,
+                        325
+                    ],
+                    [
+                        364,
+                        277
+                    ],
+                    [
+                        372,
+                        221
+                    ],
+                    [
+                        332,
+                        179
+                    ],
+                    [
+                        269,
+                        160
+                    ],
+                    [
+                        250,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1708512,
+            "classId": 3435,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:50:14.426Z",
+            "updatedAt": "2023-06-07T13:50:14.426Z",
+            "tags": [],
+            "classTitle": "coffee-with-caffeine",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        26
+                    ],
+                    [
+                        148,
+                        54
+                    ],
+                    [
+                        155,
+                        116
+                    ],
+                    [
+                        195,
+                        134
+                    ],
+                    [
+                        228,
+                        126
+                    ],
+                    [
+                        246,
+                        112
+                    ],
+                    [
+                        253,
+                        86
+                    ],
+                    [
+                        241,
+                        42
+                    ],
+                    [
+                        222,
+                        21
+                    ],
+                    [
+                        218,
+                        19
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 747,
+        "width": 747
+    },
+    "objects": [
+        {
+            "id": 1778350,
+            "classId": 3415,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.791Z",
+            "updatedAt": "2023-06-07T14:38:11.791Z",
+            "tags": [],
+            "classTitle": "bread-wholemeal",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        261
+                    ],
+                    [
+                        155,
+                        550
+                    ],
+                    [
+                        174,
+                        733
+                    ],
+                    [
+                        357,
+                        733
+                    ],
+                    [
+                        426,
+                        699
+                    ],
+                    [
+                        512,
+                        602
+                    ],
+                    [
+                        490,
+                        470
+                    ],
+                    [
+                        370,
+                        262
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1778348,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:38:11.789Z",
+            "updatedAt": "2023-06-07T14:38:11.789Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        266
+                    ],
+                    [
+                        301,
+                        253
+                    ],
+                    [
+                        230,
+                        279
+                    ],
+                    [
+                        202,
+                        311
+                    ],
+                    [
+                        243,
+                        374
+                    ],
+                    [
+                        275,
+                        410
+                    ],
+                    [
+                        275,
+                        466
+                    ],
+                    [
+                        281,
+                        533
+                    ],
+                    [
+                        314,
+                        578
+                    ],
+                    [
+                        408,
+                        597
+                    ],
+                    [
+                        447,
+                        572
+                    ],
+                    [
+                        465,
+                        513
+                    ],
+                    [
+                        451,
+                        453
+                    ],
+                    [
+                        415,
+                        399
+                    ],
+                    [
+                        398,
+                        337
+                    ],
+                    [
+                        385,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

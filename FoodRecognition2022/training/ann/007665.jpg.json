@@ -1,0 +1,246 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 426
+    },
+    "objects": [
+        {
+            "id": 1712250,
+            "classId": 3827,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:05.002Z",
+            "updatedAt": "2023-06-07T13:53:05.002Z",
+            "tags": [],
+            "classTitle": "rice-basmati",
+            "points": {
+                "exterior": [
+                    [
+                        97,
+                        116
+                    ],
+                    [
+                        213,
+                        144
+                    ],
+                    [
+                        212,
+                        80
+                    ],
+                    [
+                        302,
+                        80
+                    ],
+                    [
+                        362,
+                        165
+                    ],
+                    [
+                        418,
+                        274
+                    ],
+                    [
+                        388,
+                        314
+                    ],
+                    [
+                        299,
+                        293
+                    ],
+                    [
+                        196,
+                        222
+                    ],
+                    [
+                        114,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1712248,
+            "classId": 3463,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:05.001Z",
+            "updatedAt": "2023-06-07T13:53:05.001Z",
+            "tags": [],
+            "classTitle": "tomato-raw",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        66
+                    ],
+                    [
+                        115,
+                        132
+                    ],
+                    [
+                        166,
+                        154
+                    ],
+                    [
+                        215,
+                        125
+                    ],
+                    [
+                        200,
+                        72
+                    ],
+                    [
+                        169,
+                        38
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1712246,
+            "classId": 3597,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:05.001Z",
+            "updatedAt": "2023-06-07T13:53:05.001Z",
+            "tags": [],
+            "classTitle": "salad-lambs-ear",
+            "points": {
+                "exterior": [
+                    [
+                        130,
+                        216
+                    ],
+                    [
+                        100,
+                        405
+                    ],
+                    [
+                        15,
+                        403
+                    ],
+                    [
+                        330,
+                        418
+                    ],
+                    [
+                        190,
+                        330
+                    ],
+                    [
+                        379,
+                        335
+                    ],
+                    [
+                        343,
+                        289
+                    ],
+                    [
+                        256,
+                        289
+                    ],
+                    [
+                        209,
+                        221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1712244,
+            "classId": 4149,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:05.000Z",
+            "updatedAt": "2023-06-07T13:53:05.000Z",
+            "tags": [],
+            "classTitle": "pumpkin-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        94
+                    ],
+                    [
+                        72,
+                        127
+                    ],
+                    [
+                        103,
+                        126
+                    ],
+                    [
+                        109,
+                        91
+                    ],
+                    [
+                        103,
+                        80
+                    ],
+                    [
+                        83,
+                        80
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1712243,
+            "classId": 4149,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:53:05.000Z",
+            "updatedAt": "2023-06-07T13:53:05.000Z",
+            "tags": [],
+            "classTitle": "pumpkin-seeds",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        166
+                    ],
+                    [
+                        94,
+                        176
+                    ],
+                    [
+                        94,
+                        202
+                    ],
+                    [
+                        85,
+                        230
+                    ],
+                    [
+                        91,
+                        258
+                    ],
+                    [
+                        128,
+                        250
+                    ],
+                    [
+                        128,
+                        216
+                    ],
+                    [
+                        126,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

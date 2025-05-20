@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 464,
+        "width": 464
+    },
+    "objects": [
+        {
+            "id": 1727123,
+            "classId": 4163,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:40.220Z",
+            "updatedAt": "2023-06-07T14:03:40.220Z",
+            "tags": [],
+            "classTitle": "syrup-diluted-ready-to-drink",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        247
+                    ],
+                    [
+                        151,
+                        240
+                    ],
+                    [
+                        106,
+                        224
+                    ],
+                    [
+                        96,
+                        207
+                    ],
+                    [
+                        96,
+                        152
+                    ],
+                    [
+                        106,
+                        135
+                    ],
+                    [
+                        133,
+                        107
+                    ],
+                    [
+                        151,
+                        97
+                    ],
+                    [
+                        169,
+                        92
+                    ],
+                    [
+                        228,
+                        91
+                    ],
+                    [
+                        250,
+                        94
+                    ],
+                    [
+                        266,
+                        98
+                    ],
+                    [
+                        291,
+                        110
+                    ],
+                    [
+                        329,
+                        147
+                    ],
+                    [
+                        338,
+                        165
+                    ],
+                    [
+                        338,
+                        186
+                    ],
+                    [
+                        331,
+                        199
+                    ],
+                    [
+                        313,
+                        216
+                    ],
+                    [
+                        285,
+                        233
+                    ],
+                    [
+                        256,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1727121,
+            "classId": 3795,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:03:40.219Z",
+            "updatedAt": "2023-06-07T14:03:40.219Z",
+            "tags": [],
+            "classTitle": "ice-cubes",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        149
+                    ],
+                    [
+                        275,
+                        122
+                    ],
+                    [
+                        205,
+                        128
+                    ],
+                    [
+                        110,
+                        224
+                    ],
+                    [
+                        172,
+                        260
+                    ],
+                    [
+                        265,
+                        259
+                    ],
+                    [
+                        324,
+                        241
+                    ],
+                    [
+                        336,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

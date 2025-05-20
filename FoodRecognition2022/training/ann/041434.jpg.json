@@ -1,0 +1,246 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 1691756,
+            "classId": 3605,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:57.764Z",
+            "updatedAt": "2023-06-07T13:37:57.764Z",
+            "tags": [],
+            "classTitle": "halloumi",
+            "points": {
+                "exterior": [
+                    [
+                        250,
+                        376
+                    ],
+                    [
+                        369,
+                        375
+                    ],
+                    [
+                        346,
+                        256
+                    ],
+                    [
+                        250,
+                        255
+                    ],
+                    [
+                        238,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1691754,
+            "classId": 3633,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:57.763Z",
+            "updatedAt": "2023-06-07T13:37:57.763Z",
+            "tags": [],
+            "classTitle": "eggplant",
+            "points": {
+                "exterior": [
+                    [
+                        309,
+                        232
+                    ],
+                    [
+                        315,
+                        253
+                    ],
+                    [
+                        255,
+                        261
+                    ],
+                    [
+                        249,
+                        316
+                    ],
+                    [
+                        240,
+                        366
+                    ],
+                    [
+                        169,
+                        354
+                    ],
+                    [
+                        82,
+                        240
+                    ],
+                    [
+                        52,
+                        171
+                    ],
+                    [
+                        108,
+                        168
+                    ],
+                    [
+                        109,
+                        135
+                    ],
+                    [
+                        127,
+                        84
+                    ],
+                    [
+                        229,
+                        93
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1691752,
+            "classId": 3485,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:57.762Z",
+            "updatedAt": "2023-06-07T13:37:57.762Z",
+            "tags": [],
+            "classTitle": "tomato-sauce",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        366
+                    ],
+                    [
+                        244,
+                        324
+                    ],
+                    [
+                        249,
+                        249
+                    ],
+                    [
+                        295,
+                        242
+                    ],
+                    [
+                        252,
+                        154
+                    ],
+                    [
+                        203,
+                        108
+                    ],
+                    [
+                        130,
+                        114
+                    ],
+                    [
+                        97,
+                        177
+                    ],
+                    [
+                        107,
+                        244
+                    ],
+                    [
+                        154,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1691750,
+            "classId": 3593,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:57.762Z",
+            "updatedAt": "2023-06-07T13:37:57.762Z",
+            "tags": [],
+            "classTitle": "parmesan",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        360
+                    ],
+                    [
+                        273,
+                        262
+                    ],
+                    [
+                        244,
+                        188
+                    ],
+                    [
+                        189,
+                        122
+                    ],
+                    [
+                        129,
+                        177
+                    ],
+                    [
+                        103,
+                        231
+                    ],
+                    [
+                        137,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1691748,
+            "classId": 3825,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T13:37:57.761Z",
+            "updatedAt": "2023-06-07T13:37:57.761Z",
+            "tags": [],
+            "classTitle": "mustard-dijon",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        245
+                    ],
+                    [
+                        397,
+                        301
+                    ],
+                    [
+                        453,
+                        310
+                    ],
+                    [
+                        466,
+                        256
+                    ],
+                    [
+                        450,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

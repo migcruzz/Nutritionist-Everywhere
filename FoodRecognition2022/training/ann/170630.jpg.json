@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 401,
+        "width": 401
+    },
+    "objects": [
+        {
+            "id": 1746738,
+            "classId": 3453,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:16.869Z",
+            "updatedAt": "2023-06-07T14:17:16.869Z",
+            "tags": [],
+            "classTitle": "egg",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        92
+                    ],
+                    [
+                        254,
+                        92
+                    ],
+                    [
+                        212,
+                        127
+                    ],
+                    [
+                        211,
+                        166
+                    ],
+                    [
+                        267,
+                        186
+                    ],
+                    [
+                        306,
+                        171
+                    ],
+                    [
+                        335,
+                        143
+                    ],
+                    [
+                        338,
+                        124
+                    ],
+                    [
+                        322,
+                        105
+                    ],
+                    [
+                        318,
+                        97
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1746736,
+            "classId": 3635,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:16.869Z",
+            "updatedAt": "2023-06-07T14:17:16.869Z",
+            "tags": [],
+            "classTitle": "bread",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        178
+                    ],
+                    [
+                        181,
+                        120
+                    ],
+                    [
+                        158,
+                        85
+                    ],
+                    [
+                        111,
+                        76
+                    ],
+                    [
+                        54,
+                        113
+                    ],
+                    [
+                        29,
+                        177
+                    ],
+                    [
+                        22,
+                        266
+                    ],
+                    [
+                        102,
+                        351
+                    ],
+                    [
+                        170,
+                        314
+                    ],
+                    [
+                        189,
+                        240
+                    ],
+                    [
+                        204,
+                        194
+                    ],
+                    [
+                        199,
+                        183
+                    ],
+                    [
+                        197,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1746734,
+            "classId": 3425,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "az@datasetninja.com",
+            "createdAt": "2023-06-07T14:17:16.868Z",
+            "updatedAt": "2023-06-07T14:17:16.868Z",
+            "tags": [],
+            "classTitle": "soft-cheese",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        229
+                    ],
+                    [
+                        246,
+                        317
+                    ],
+                    [
+                        315,
+                        335
+                    ],
+                    [
+                        345,
+                        247
+                    ],
+                    [
+                        312,
+                        233
+                    ],
+                    [
+                        270,
+                        228
+                    ],
+                    [
+                        268,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
