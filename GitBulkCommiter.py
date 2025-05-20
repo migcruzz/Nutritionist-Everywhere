@@ -71,12 +71,29 @@ def push_to_remote(commit_index):
         if result.returncode == 0:
             print(f"✅ Commit {commit_index} pushed successfully.")
             run("git status")
+            return
+        elif "no upstream branch" in result.stderr or "set-upstream" in result.stderr:
+            print("🛠️ Setting upstream and pushing...")
+            result = run(f"git push --set-upstream origin {GIT_BRANCH}", timeout=PUSH_TIMEOUT)
+            if result.returncode == 0:
+                print(f"✅ Upstream set and pushed successfully.")
+                run("git status")
+                return
         else:
             print(f"❌ Push failed after commit {commit_index}: {result.stderr.strip()}")
-            raise RuntimeError(f"Push failed for commit {commit_index}")
+            print(f"⚠️ Trying force push for commit {commit_index}...")
+            force_result = run(f"git push --force origin {GIT_BRANCH}", timeout=PUSH_TIMEOUT)
+            if force_result.returncode == 0:
+                print(f"💥 Force push successful for commit {commit_index}.")
+                run("git status")
+                return
+            else:
+                print(f"❌ Force push also failed: {force_result.stderr.strip()}")
+                raise RuntimeError(f"Push and force push failed for commit {commit_index}")
     except subprocess.TimeoutExpired:
         print(f"⏱️ Push timeout after commit {commit_index}")
         raise
+
 
 def collect_files(directory):
     print(f"📁 Scanning files under {directory}...")
