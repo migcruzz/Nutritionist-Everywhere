@@ -1,0 +1,5 @@
+path: /Users/miguelcruz/Desktop/Nutricionist_AOOP/datasets/FoodDataset2022YOLO
+train: FoodDataset2022YOLO.train.txt
+val: FoodDataset2022YOLO.val.txt
+test: FoodDataset2022YOLO.test.txt
+names: {}
