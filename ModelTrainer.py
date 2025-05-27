@@ -1,35 +1,31 @@
-from pathlib import Path
+
+
 from ultralytics import YOLO
+import pandas as pd
+import os
 
-PLATFORM = "mac"
-BASE_PATH = Path("./datasets/food2022").resolve()
-YAML_PATH = BASE_PATH / "food2022.yaml"
-MODEL_NAME = "yolov8n.pt"
-RUN_NAME = f"food2022_yolov8_{PLATFORM}"
+DATA_PATH = "/kaggle/input/food-dataset-yolo/data.yaml"
 
-EPOCHS = 20
-BATCH = 12
-IMGSZ = 300
-WORKERS = 6
-DEVICE = "mps"
+model = YOLO("yolov8n.pt")
 
-def train():
-    assert YAML_PATH.exists(), f"YAML file not found: {YAML_PATH}"
-    print(f"Platform: {PLATFORM.upper()} | Device: {DEVICE.upper()}")
-    model = YOLO(MODEL_NAME)
-    model.train(
-        data=str(YAML_PATH),
-        epochs=EPOCHS,
-        imgsz=IMGSZ,
-        batch=BATCH,
-        workers=WORKERS,
-        device=DEVICE,
-        amp=True,
-        cache='disk',
-        rect=True,
-        name=RUN_NAME,
-        verbose=True
-    )
+results = model.train(
+    data=DATA_PATH,
+    epochs=300,
+    imgsz=640,
+    batch=50,
+    save_period=50,
+    name="food_yolo_v8_t4x2",
+    project="/kaggle/working",
+    device=[0, 1]
+)
 
-if __name__ == "__main__":
-    train()
+run_dir = "/kaggle/working/food_yolo_v8_t4x2"
+metrics_path = os.path.join(run_dir, "results.csv")
+report_path = os.path.join(run_dir, "training_report.xlsx")
+
+if os.path.exists(metrics_path):
+    pd.read_csv(metrics_path).to_excel(report_path, index=False)
+    print("Report saved to:", report_path)
+
+weights_path = os.path.join(run_dir, "weights", "best.pt")
+print("Best weights saved to:", weights_path)

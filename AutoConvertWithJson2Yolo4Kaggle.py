@@ -63,7 +63,7 @@ def process_single_json(args):
         target_img_path.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy(img_path, target_img_path)
 
-        return str(target_img_path.resolve()), classes_found
+        return str(target_img_path), classes_found  # <- sem .resolve()
 
     except Exception as e:
         print(f"Error processing {json_file.name}: {e}")
@@ -105,11 +105,13 @@ def convert_food_recognition_json(name, base_dir):
         split_files_map[split_name] = split_img_paths
         file_list.extend(split_img_paths)
 
+    # Salvar classes
     class_list = sorted(all_classes)
     with (dataset_path / f"{name}.names").open("w") as f:
         for c in class_list:
             f.write(f"{c}\n")
 
+    # Mapear nomes para índices
     class_to_id = {cls: i for i, cls in enumerate(class_list)}
     for label_file in labels_base_path.rglob("*.txt"):
         with label_file.open("r") as f:
@@ -122,26 +124,32 @@ def convert_food_recognition_json(name, base_dir):
         with label_file.open("w") as f:
             f.writelines(new_lines)
 
+    # Gerar .train.txt, .val.txt, .test.txt com caminhos relativos
     for split, paths in split_files_map.items():
         split_txt = dataset_path / f"{name}.{split}.txt"
         with split_txt.open("w") as f:
             for p in paths:
-                f.write(f"{Path(p).resolve()}\n")
+                rel_path = Path(p).relative_to(dataset_path)
+                f.write(f"{rel_path.as_posix()}\n")
 
+    # Gerar .yaml
     yaml_path = dataset_path / f"{name}.yaml"
     data_yaml = {
-        "path": str(dataset_path.resolve()),
+        "path": ".",  # <- relativo para compatibilidade no zip ou no Kaggle
         "train": f"{name}.train.txt",
         "val": f"{name}.val.txt",
         "test": f"{name}.test.txt",
-        "names": {i: c for i, c  in enumerate(class_list)}
+        "names": {i: c for i, c in enumerate(class_list)}
     }
     with yaml_path.open("w") as f:
         yaml.dump(data_yaml, f, sort_keys=False)
 
-    print(f"\nConversion complete: {len(file_list)} images")
-    print(f"YOLO dataset path: {dataset_path.resolve()}")
-    print(f"YAML config created: {yaml_path.resolve()}")
+    print(f"\n✅ Conversão completa: {len(file_list)} imagens")
+    print(f"📂 Dataset YOLO gerado em: {dataset_path.resolve()}")
+    print(f"📄 Arquivo YAML: {yaml_path.resolve()}")
 
 if __name__ == "__main__":
-    convert_food_recognition_json(name="DatasetProcessedFromCocoToYoloFoodDetection2022", base_dir="./FoodRecognition2022")
+    convert_food_recognition_json(
+        name="DatasetProcessedFromCocoToYoloFoodDetection2022",
+        base_dir="./FoodRecognition2022"
+    )

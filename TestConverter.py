@@ -7,7 +7,9 @@ from concurrent.futures import ProcessPoolExecutor
 from multiprocessing import cpu_count
 import yaml
 
-from Kaggle.JSON2YOLO.utils import exif_size
+
+def exif_size(img):
+    return img.size
 
 
 def find_image_by_stem(img_dir, stem):
@@ -17,33 +19,34 @@ def find_image_by_stem(img_dir, stem):
             return candidate
     return None
 
+
 def process_single_json(args):
     json_file, img_dir, labels_path, images_split_path = args
     try:
-        img_stem = Path(json_file.stem).stem
+        img_stem = json_file.stem
         img_path = find_image_by_stem(img_dir, img_stem)
         if not img_path:
-            print(f"Image not found for {json_file.name}")
             return None
 
         img_path = img_path.resolve()
         try:
             wh = exif_size(Image.open(img_path))
         except UnidentifiedImageError:
-            print(f"Corrupted image: {img_path}")
             return None
-
-        label_name = img_path.stem + ".txt"
-        label_path = labels_path / label_name
-        label_path.parent.mkdir(parents=True, exist_ok=True)
 
         with json_file.open('r') as f:
             data = json.load(f)
+        objects = data.get("objects", [])
+        if not objects:
+            return None
+
+        label_path = labels_path / f"{img_stem}.txt"
+        label_path.parent.mkdir(parents=True, exist_ok=True)
 
         classes_found = set()
         with label_path.open("w") as f_out:
-            for obj in data.get("objects", []):
-                cls = obj["classTitle"].lower()
+            for obj in objects:
+                cls = obj["classTitle"].strip().lower()
                 classes_found.add(cls)
                 points = obj["points"]["exterior"]
                 x_coords = [p[0] for p in points]
@@ -65,13 +68,13 @@ def process_single_json(args):
 
         return str(target_img_path.resolve()), classes_found
 
-    except Exception as e:
-        print(f"Error processing {json_file.name}: {e}")
+    except Exception:
         return None
 
-def convert_food_recognition_json(name, base_dir):
+
+def convert_supervisely_to_yolo(name, base_dir):
     base_dir = Path(base_dir).resolve()
-    dataset_path = Path("Kaggle/datasets") / name
+    dataset_path = Path("datasets") / name
     labels_base_path = dataset_path / "labels"
     images_base_path = dataset_path / "images"
     labels_base_path.mkdir(parents=True, exist_ok=True)
@@ -139,9 +142,14 @@ def convert_food_recognition_json(name, base_dir):
     with yaml_path.open("w") as f:
         yaml.dump(data_yaml, f, sort_keys=False)
 
-    print(f"\nConversion complete: {len(file_list)} images")
-    print(f"YOLO dataset path: {dataset_path.resolve()}")
-    print(f"YAML config created: {yaml_path.resolve()}")
+    print(f"\n✅ Conversion complete: {len(file_list)} images")
+    print(f"📂 YOLO dataset path: {dataset_path.resolve()}")
+    print(f"📄 YAML config: {yaml_path.resolve()}")
+
 
 if __name__ == "__main__":
-    convert_food_recognition_json(name="DatasetProcessedFromCocoToYoloFoodDetection2022", base_dir="./FoodRecognition2022")
+    result = convert_supervisely_to_yolo(
+        name="FoodDataset2022YOLO",
+        base_dir="FoodRecognition2022"
+    )
+
