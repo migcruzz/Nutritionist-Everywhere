@@ -1,156 +1,119 @@
-import os
+from __future__ import annotations
+
 import subprocess
 from pathlib import Path
 from time import sleep
 
-MAX_MB = 100
-MAX_FILES = 1000
+# ----- limites ----------------------------------------------------------
+SOLO_LIMIT_MB = 80  # ficheiros > 80 MB: commit isolado
+GITHUB_MAX_MB = 100  # >100 MB não é aceite pelo GitHub
+BATCH_MB = 70  # tamanho máximo por batch
+BATCH_FILES = 300  # nº máximo de ficheiros por batch
+# ------------------------------------------------------------------------
+
 REPO_ROOT = Path.cwd()
 GIT_BRANCH = "master"
-PUSH_TIMEOUT = 240
-
-def run(cmd, input=None, timeout=None):
-    print(f"\n▶️ Executing: {cmd}")
-    result = subprocess.run(cmd, shell=True, input=input, capture_output=True, text=True, timeout=timeout)
-    if result.stdout:
-        print(f"📤 stdout:\n{result.stdout.strip()}")
-    if result.stderr:
-        print(f"📥 stderr:\n{result.stderr.strip()}")
-    return result
-
-def get_file_size_mb(path):
-    size = path.stat().st_size / (1024 * 1024)
-    print(f"📏 File: {path} → {size:.2f} MB")
-    return size
-
-def get_ignored_files(paths):
-    if not paths:
-        return set()
-    print("🔍 Checking .gitignore exclusions...")
-    input_str = "\n".join(str(p) for p in paths)
-    result = run("git check-ignore --stdin", input=input_str)
-    return set(result.stdout.strip().splitlines()) if result.stdout else set()
-
-def switch_to_branch(branch_name):
-    print(f"\n🔀 Switching to branch: {branch_name}")
-    subprocess.run(f"git checkout -B {branch_name}", shell=True, check=True)
-    print("🔄 Ensuring upstream is set...")
-    run(f"git push --set-upstream origin {branch_name}")
-
-def already_tracked():
-    print("📋 Listing already tracked files...")
-    result = run("git ls-files")
-    return set(result.stdout.strip().splitlines())
-
-def add_and_commit(batch, commit_index):
-    batch = [p for p in batch if p.exists()]
-    if not batch:
-        print(f"⚠️ Batch {commit_index} is empty, skipping...")
-        return False
-
-    print(f"➕ Adding {len(batch)} files to staging...")
-    joined = " ".join(f'"{p}"' for p in batch)
-    result = run(f"git add {joined}")
-    if result.returncode != 0:
-        print(f"❌ git add failed: {result.stderr.strip()}")
-        return False
-
-    print(f"✅ Committing batch {commit_index}...")
-    result = run(f'git commit --no-verify -m "bulk commit {commit_index}"')
-    if result.returncode == 0:
-        print(f"🎯 Commit {commit_index} succeeded.")
-        return True
-    else:
-        print(f"❌ Commit {commit_index} failed: {result.stderr.strip()}")
-        return False
-
-def push_to_remote(commit_index):
-    print(f"🚚 Pushing commit {commit_index} to remote...")
-    try:
-        result = run(f"git push origin {GIT_BRANCH}", timeout=PUSH_TIMEOUT)
-        if result.returncode == 0:
-            print(f"✅ Commit {commit_index} pushed successfully.")
-            run("git status")
-            return
-        elif "no upstream branch" in result.stderr or "set-upstream" in result.stderr:
-            print("🛠️ Setting upstream and pushing...")
-            result = run(f"git push --set-upstream origin {GIT_BRANCH}", timeout=PUSH_TIMEOUT)
-            if result.returncode == 0:
-                print(f"✅ Upstream set and pushed successfully.")
-                run("git status")
-                return
-        else:
-            print(f"❌ Push failed after commit {commit_index}: {result.stderr.strip()}")
-            print(f"⚠️ Trying force push for commit {commit_index}...")
-            force_result = run(f"git push --force origin {GIT_BRANCH}", timeout=PUSH_TIMEOUT)
-            if force_result.returncode == 0:
-                print(f"💥 Force push successful for commit {commit_index}.")
-                run("git status")
-                return
-            else:
-                print(f"❌ Force push also failed: {force_result.stderr.strip()}")
-                raise RuntimeError(f"Push and force push failed for commit {commit_index}")
-    except subprocess.TimeoutExpired:
-        print(f"⏱️ Push timeout after commit {commit_index}")
-        raise
+PUSH_TMO = 240
 
 
-def collect_files(directory):
-    print(f"📁 Scanning files under {directory}...")
-    files = [p for p in directory.rglob("*") if p.is_file() and ".git" not in p.parts]
-    print(f"🔎 Total files found: {len(files)}")
+def run(cmd: str, *, input: str | None = None, timeout: int | None = None):
+    res = subprocess.run(cmd, shell=True, input=input,
+                         capture_output=True, text=True, timeout=timeout)
+    if res.stdout:
+        print(res.stdout.strip())
+    if res.stderr:
+        print(res.stderr.strip())
+    return res
+
+
+def mb(path: Path) -> float:
+    return path.stat().st_size / 1_048_576
+
+
+def changed_files() -> list[Path]:
+    out = run("git status --porcelain -z").stdout
+    if not out:
+        return []
+    entries = out.split("\0")[:-1]
+    files: list[Path] = []
+    for e in entries:
+        status, p = e[:2].strip(), e[3:]
+        if status == "D":
+            continue
+        path = REPO_ROOT / p
+        if path.is_dir():
+            files.extend([f for f in path.rglob("*") if f.is_file() and ".git" not in f.parts])
+        elif path.is_file():
+            files.append(path)
     return files
 
-def check_origin():
-    print("🔗 Checking if remote 'origin' exists...")
-    result = run("git remote")
-    return "origin" in result.stdout
 
-def bulk_commit_by_size():
-    if not check_origin():
-        print("❌ No remote 'origin' found. Set up your Git remote before proceeding.")
+def switch_branch(name: str):
+    run(f"git checkout -B {name}")
+    run(f"git push -u origin {name}")
+
+
+def add_commit(paths: list[Path], msg: str) -> bool:
+    rel = [str(p.relative_to(REPO_ROOT)) for p in paths]
+    run("git add " + " ".join(f'"{p}"' for p in rel))
+    return run(f'git commit -m "{msg}" --no-verify').returncode == 0
+
+
+def push():
+    if run(f"git push origin {GIT_BRANCH}", timeout=PUSH_TMO).returncode != 0:
+        run(f"git push --force origin {GIT_BRANCH}", timeout=PUSH_TMO)
+
+
+def bulk_commit():
+    if "origin" not in run("git remote").stdout:
+        print("remote 'origin' not set")
         return
 
-    all_files = collect_files(REPO_ROOT)
-    ignored_files = get_ignored_files(all_files)
-    tracked_files = already_tracked()
+    files = changed_files()
+    if not files:
+        print("nothing to commit")
+        return
 
-    batch = []
-    total_size = 0.0
-    commit_index = 1
-
-    print(f"\n📦 {len(all_files)} total files found.")
-    print(f"⛔ {len(ignored_files)} files ignored via .gitignore.")
-    print(f"✅ {len(tracked_files)} files already tracked.\n")
-
-    for file_path in all_files:
-        if str(file_path) in ignored_files or str(file_path) in tracked_files:
+    # 1. commits isolados p/ ficheiros > SOLO_LIMIT_MB
+    idx = 1
+    for f in files[:]:
+        size = mb(f)
+        if size <= SOLO_LIMIT_MB:
+            continue
+        if size > GITHUB_MAX_MB:
+            print(f"skip {f}: {size:.2f} MB exceeds GitHub limit ({GITHUB_MAX_MB} MB)")
+            files.remove(f)
             continue
 
-        size = get_file_size_mb(file_path)
-        if (total_size + size > MAX_MB) or (len(batch) >= MAX_FILES):
-            if batch:
-                print(f"\n🧾 Committing batch {commit_index} ({len(batch)} files, {total_size:.2f} MB)...")
-                committed = add_and_commit(batch, commit_index)
-                if committed:
-                    push_to_remote(commit_index)
-                    sleep(1)
-                commit_index += 1
-                batch = []
-                total_size = 0.0
+        print(f"solo commit {f} ({size:.2f} MB)")
+        if add_commit([f], f"large file commit {idx}"):
+            push()
+            sleep(1)
+        idx += 1
+        files.remove(f)
 
-        batch.append(file_path)
-        total_size += size
+    # 2. batches normais
+    batch, total = [], 0.0
+    for f in files:
+        size = mb(f)
+        if size > BATCH_MB:
+            print(f"skip {f}: {size:.2f} MB > batch limit {BATCH_MB} MB")
+            continue
 
-    if batch:
-        print(f"\n🧾 Final batch {commit_index} ({len(batch)} files, {total_size:.2f} MB)...")
-        committed = add_and_commit(batch, commit_index)
-        if committed:
-            push_to_remote(commit_index)
+        if total + size > BATCH_MB or len(batch) >= BATCH_FILES:
+            if add_commit(batch, f"bulk commit {idx}"):
+                push()
+                sleep(1)
+            idx += 1
+            batch, total = [], 0.0
 
-    print("\n✅ All batch commits and pushes are complete.")
+        batch.append(f)
+        total += size
+
+    if batch and add_commit(batch, f"bulk commit {idx}"):
+        push()
+
 
 if __name__ == "__main__":
-    print("🚀 Starting Git bulk commit process...")
-    switch_to_branch(GIT_BRANCH)
-    bulk_commit_by_size()
+    switch_branch(GIT_BRANCH)
+    bulk_commit()
