@@ -4,12 +4,10 @@ import subprocess
 from pathlib import Path
 from time import sleep
 
-# ----- limites ----------------------------------------------------------
-SOLO_LIMIT_MB = 80  # ficheiros > 80 MB: commit isolado
-GITHUB_MAX_MB = 100  # >100 MB não é aceite pelo GitHub
-BATCH_MB = 70  # tamanho máximo por batch
-BATCH_FILES = 300  # nº máximo de ficheiros por batch
-# ------------------------------------------------------------------------
+SOLO_LIMIT_MB = 80
+GITHUB_MAX_MB = 100
+BATCH_MB = 70
+BATCH_FILES = 300
 
 REPO_ROOT = Path.cwd()
 GIT_BRANCH = "master"
@@ -74,7 +72,6 @@ def bulk_commit():
         print("nothing to commit")
         return
 
-    # 1. commits isolados p/ ficheiros > SOLO_LIMIT_MB
     idx = 1
     for f in files[:]:
         size = mb(f)
@@ -92,7 +89,6 @@ def bulk_commit():
         idx += 1
         files.remove(f)
 
-    # 2. batches normais
     batch, total = [], 0.0
     for f in files:
         size = mb(f)
