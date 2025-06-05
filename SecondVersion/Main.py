@@ -46,10 +46,7 @@ def get_nutrition_lines(label):
     return lines[:6]
 
 
-ip_camera_url = "http://192.168.1.66:4747/video"
-cap = cv2.VideoCapture(ip_camera_url)
-if not cap.isOpened():
-    cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(0)
 
 latest_frame = None
 lock = threading.Lock()
