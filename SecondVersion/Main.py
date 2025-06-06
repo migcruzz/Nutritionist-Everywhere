@@ -6,7 +6,7 @@ import pandas as pd
 import torch
 from ultralytics import YOLO
 
-model_path = ("TrainedModel/best.pt")
+model_path = "TrainedModel/best.pt"
 device = "cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu")
 model = YOLO(model_path).to(device)
 
